@@ -1,0 +1,243 @@
+Structure13
+                    3D
+ Schrodinger Suite 2021-3.
+ 33 35  0  0  1  0            999 V2000
+   -1.0948    2.1844   -2.2340 C   0  0  0  0  0  0
+   -0.2341    3.2050   -1.9918 C   0  0  0  0  0  0
+    0.7630    2.9189   -0.5284 S   0  0  0  0  0  0
+   -2.1317    1.9589   -3.3755 C   0  0  0  0  0  0
+   -0.0285    4.4667   -2.8205 C   0  0  1  0  0  0
+   -0.5024    5.7450   -2.1214 C   0  0  0  0  0  0
+    0.4222    6.7860   -2.7050 C   0  0  0  0  0  0
+    1.7403    6.0234   -2.7597 C   0  0  0  0  0  0
+    1.3585    4.6897   -3.0979 O   0  0  0  0  0  0
+   -1.6754    2.0864   -4.5338 O   0  0  0  0  0  0
+   -3.2974    1.6913   -3.0007 O   0  5  0  0  0  0
+   -0.9998    1.1933   -1.3071 N   0  0  0  0  0  0
+   -0.2598    1.4972   -0.0682 C   0  0  1  0  0  0
+    0.1977    0.0136   -0.0474 C   0  0  1  0  0  0
+   -0.4016   -0.0644   -1.4771 C   0  0  0  0  0  0
+    1.7142   -0.3225    0.0694 C   0  0  2  0  0  0
+   -0.3456   -0.5877    0.6836 H   0  0  0  0  0  0
+   -0.2720   -0.8235   -2.4368 O   0  0  0  0  0  0
+    2.5155    0.2651   -0.9422 O   0  0  0  0  0  0
+    1.9914   -1.8360    0.0702 C   0  0  0  0  0  0
+    1.4477   -2.3344    0.8732 H   0  0  0  0  0  0
+    3.0516   -2.0471    0.2158 H   0  0  0  0  0  0
+    1.6871   -2.3000   -0.8690 H   0  0  0  0  0  0
+    2.0705    0.0886    1.0147 H   0  0  0  0  0  0
+    2.3067    1.2020   -0.9893 H   0  0  0  0  0  0
+   -0.5292    4.3903   -3.7856 H   0  0  0  0  0  0
+   -1.5544    5.9597   -2.3131 H   0  0  0  0  0  0
+   -0.3650    5.6885   -1.0398 H   0  0  0  0  0  0
+    0.0999    7.0744   -3.7072 H   0  0  0  0  0  0
+    0.4829    7.6871   -2.0938 H   0  0  0  0  0  0
+    2.4258    6.4418   -3.4969 H   0  0  0  0  0  0
+    2.2278    6.0241   -1.7833 H   0  0  0  0  0  0
+   -0.9208    1.8074    0.7427 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  4  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  3 13  1  0  0  0
+  4 10  2  0  0  0
+  4 11  1  0  0  0
+  5  6  1  0  0  0
+  5  9  1  0  0  0
+  5 26  1  0  0  0
+  6  7  1  0  0  0
+  6 27  1  0  0  0
+  6 28  1  0  0  0
+  7  8  1  0  0  0
+  7 29  1  0  0  0
+  7 30  1  0  0  0
+  8  9  1  0  0  0
+  8 31  1  0  0  0
+  8 32  1  0  0  0
+ 12 13  1  0  0  0
+ 12 15  1  0  0  0
+ 13 14  1  0  0  0
+ 13 33  1  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 14 17  1  0  0  0
+ 15 18  2  0  0  0
+ 16 19  1  0  0  0
+ 16 20  1  0  0  0
+ 16 24  1  0  0  0
+ 19 25  1  0  0  0
+ 20 21  1  0  0  0
+ 20 22  1  0  0  0
+ 20 23  1  0  0  0
+M  CHG  1  11  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+14
+
+> <s_m_entry_name>
+Structure13
+
+> <s_pdb_PDB_TITLE>
+CLASS A BETA-LACTAMASE SED-G238C COMPLEXED WITH FAROPENEM
+
+> <s_pdb_PDB_ID>
+3BFF
+
+> <r_pdb_PDB_CRYST1_a>
+187.116
+
+> <r_pdb_PDB_CRYST1_b>
+73.244
+
+> <r_pdb_PDB_CRYST1_c>
+103.504
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+121.69
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+16
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+21-NOV-07
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.18
+
+> <r_pdb_PDB_Rfree>
+0.205
+
+> <r_pdb_PDB_RESOLUTION>
+1.9
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains>
+D
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\ser\BLA\3bff
+
+> <s_m_Source_File>
+3bff.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+3bff_ligprep_8.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Tz1DMVtDQEBIXShbQ0hdKFtPSF0pW0NIM10pW0NASF0oTjEyKVNDKD1DMkMoPU8pW09IXSlbQ0BIXTNbQ0gyXVtDSDJdW0NIMl1PMw==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+2.9907508135952e-05
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+25.300424
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure13-1
+
+> <s_m_job_name>
+3bff_ligprep_8
+
+> <s_m_subgroup_title>
+3bff_ligprep_8-out1
+
+> <s_m_subgroupid>
+3bff_ligprep_8-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

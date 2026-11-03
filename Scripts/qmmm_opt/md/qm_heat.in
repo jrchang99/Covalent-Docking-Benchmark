@@ -1,0 +1,16 @@
+QM/MM Benchmark Run
+&cntrl
+  imin=0, ntx=1, irest=0,
+  nstlim=10000, dt=0.001,      
+  ntc=2, ntf=2,
+  tempi=0, temp0=300.0, ntt=3, gamma_ln=2.0,
+  cut=10.0,
+  ntpr=100, ntwx=0, ntwr=1000,
+  ifqnt=1,
+/
+&qmmm
+  qmmask=':25', qmcharge=0, qm_theory='XTB', qmmm_int=2
+/
+&xtb
+  qm_level='GFN2-xTB', accuracy=1.0d-5, maxiter=2500, tfermi=300.0
+/

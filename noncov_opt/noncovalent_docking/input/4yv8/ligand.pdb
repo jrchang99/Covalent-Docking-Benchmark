@@ -1,0 +1,151 @@
+HEADER    HYDROLASE/INHIBITOR                     19-MAR-15   4YV8
+TITLE     CRYSTAL STRUCTURE OF CATHEPSIN K BOUND TO THE COVALENT
+TITLE    2 INHIBITOR LICHOSTATINAL
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    2.00 ANGSTROMS
+REMARK   3  R VALUE : 0.173000
+REMARK   3  FREE R VALUE : 0.205000
+REMARK   4 4YV8 COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 6.50
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   56.717   56.717  130.365  90.00  90.00  90.00 P 43 21 2     8
+ATOM      1  N   SER B   3     -20.121  17.142  -4.808  1.00 54.84           N  
+ATOM      2  CA  SER B   3     -19.124  16.224  -4.271  1.00 57.05           C  
+ATOM      3  C   SER B   3     -19.493  14.774  -4.567  1.00 48.39           C  
+ATOM      4  O   SER B   3     -20.204  14.133  -3.792  1.00 47.69           O  
+ATOM      5  CB  SER B   3     -18.964  16.429  -2.763  1.00 57.08           C  
+ATOM      6  OG  SER B   3     -20.224  16.443  -2.114  1.00 61.83           O  
+ATOM      7  H   SER B   3     -20.810  17.309  -4.089  1.00  0.00           H  
+ATOM      8  HA  SER B   3     -18.168  16.439  -4.749  1.00  0.00           H  
+ATOM      9  HB3 SER B   3     -18.450  17.372  -2.578  1.00  0.00           H  
+ATOM     10  HB2 SER B   3     -18.352  15.627  -2.351  1.00  0.00           H  
+ATOM     11  HG  SER B   3     -20.097  16.573  -1.171  1.00  0.00           H  
+ATOM     12  N   VAL B   4     -19.005  14.262  -5.692  1.00 40.98           N  
+ATOM     13  CA  VAL B   4     -19.282  12.887  -6.092  1.00 38.35           C  
+ATOM     14  C   VAL B   4     -18.193  11.940  -5.602  1.00 37.94           C  
+ATOM     15  O   VAL B   4     -17.069  11.958  -6.102  1.00 29.06           O  
+ATOM     16  CB  VAL B   4     -19.410  12.760  -7.622  1.00 36.66           C  
+ATOM     17  CG1 VAL B   4     -19.885  11.365  -8.000  1.00 31.32           C  
+ATOM     18  CG2 VAL B   4     -20.357  13.818  -8.164  1.00 37.29           C  
+ATOM     19  H   VAL B   4     -18.426  14.828  -6.295  1.00  0.00           H  
+ATOM     20  HA  VAL B   4     -20.228  12.583  -5.643  1.00  0.00           H  
+ATOM     21  HB  VAL B   4     -18.426  12.920  -8.064  1.00  0.00           H  
+ATOM     22 HG11 VAL B   4     -19.970  11.291  -9.084  1.00  0.00           H  
+ATOM     23 HG12 VAL B   4     -19.168  10.627  -7.641  1.00  0.00           H  
+ATOM     24 HG13 VAL B   4     -20.858  11.176  -7.546  1.00  0.00           H  
+ATOM     25 HG21 VAL B   4     -20.437  13.715  -9.246  1.00  0.00           H  
+ATOM     26 HG22 VAL B   4     -21.341  13.690  -7.714  1.00  0.00           H  
+ATOM     27 HG23 VAL B   4     -19.973  14.809  -7.921  1.00  0.00           H  
+TER      28      VAL B   4
+HETATM   29  CA  AG2 B   1     -21.675  18.470  -8.136  1.00 47.22           C  
+HETATM   30  CB  AG2 B   1     -22.632  18.575  -9.281  1.00 46.91           C  
+HETATM   31  CG  AG2 B   1     -22.044  19.328 -10.458  1.00 46.91           C  
+HETATM   32  CD  AG2 B   1     -22.734  20.693 -10.567  1.00 50.03           C  
+HETATM   33  NE  AG2 B   1     -23.842  20.439 -11.442  1.00 51.84           N  
+HETATM   34  CZ  AG2 B   1     -23.571  20.478 -12.845  1.00 46.73           C  
+HETATM   35  NH1 AG2 B   1     -24.638  20.184 -13.725  1.00 48.74           N  
+HETATM   36  NH2 AG2 B   1     -22.360  20.740 -13.268  1.00 38.63           N  
+HETATM   37  HA1 AG2 B   1     -21.251  19.471  -8.053  1.00  0.00           H  
+HETATM   38  HA2 AG2 B   1     -20.697  18.412  -8.613  1.00  0.00           H  
+HETATM   39  HB1 AG2 B   1     -23.541  19.075  -8.948  1.00  0.00           H  
+HETATM   40  HB2 AG2 B   1     -22.926  17.575  -9.601  1.00  0.00           H  
+HETATM   41  HG1 AG2 B   1     -22.214  18.761 -11.373  1.00  0.00           H  
+HETATM   42  HG2 AG2 B   1     -20.975  19.473 -10.299  1.00  0.00           H  
+HETATM   43  HD1 AG2 B   1     -22.056  21.402 -11.041  1.00  0.00           H  
+HETATM   44  HD2 AG2 B   1     -23.109  20.986  -9.587  1.00  0.00           H  
+HETATM   45  HNE AG2 B   1     -24.776  20.240 -11.113  1.00  0.00           H  
+HETATM   46 HH11 AG2 B   1     -24.488  20.201 -14.724  1.00  0.00           H  
+HETATM   47 HH21 AG2 B   1     -22.166  20.768 -14.259  1.00  0.00           H  
+HETATM   48 HH22 AG2 B   1     -21.620  20.914 -12.603  1.00  0.00           H  
+HETATM   49  C   URE B   2     -20.253  17.793  -6.115  1.00 57.51           C  
+HETATM   50  O   URE B   2     -19.183  17.936  -6.636  1.00 51.91           O  
+HETATM   51  N1  URE B   2     -21.464  17.891  -6.833  1.00 51.15           N  
+HETATM   52  HN1 URE B   2     -22.318  17.528  -6.434  1.00  0.00           H  
+HETATM   53  N   RGL B   5     -18.516  11.075  -4.488  1.00 48.62           N  
+HETATM   54  CA  RGL B   5     -17.592  10.142  -3.941  1.00 40.28           C  
+HETATM   55  C   RGL B   5     -18.081   8.748  -4.167  1.00 39.56           C  
+HETATM   56  O   RGL B   5     -17.773   7.776  -3.504  1.00 51.76           O  
+HETATM   57  CB  RGL B   5     -17.386  10.439  -2.455  1.00 43.04           C  
+HETATM   58  CG  RGL B   5     -16.502  11.658  -2.299  1.00 50.80           C  
+HETATM   59  CD  RGL B   5     -16.370  12.002  -0.834  1.00 50.81           C  
+HETATM   60  NE  RGL B   5     -15.474  11.033  -0.181  1.00 58.98           N  
+HETATM   61  CZ  RGL B   5     -14.756  11.365   0.816  1.00 68.02           C  
+HETATM   62  NH1 RGL B   5     -13.958  10.462   1.378  1.00 63.68           N  
+HETATM   63  NH2 RGL B   5     -14.790  12.604   1.304  1.00 67.59           N  
+HETATM   64  HN  RGL B   5     -19.432  11.118  -4.064  1.00  0.00           H  
+HETATM   65  HA  RGL B   5     -16.637  10.261  -4.453  1.00  0.00           H  
+HETATM   66  HB1 RGL B   5     -16.911   9.583  -1.976  1.00  0.00           H  
+HETATM   67  HB2 RGL B   5     -18.351  10.628  -1.985  1.00  0.00           H  
+HETATM   68  HG1 RGL B   5     -16.946  12.499  -2.831  1.00  0.00           H  
+HETATM   69  HG2 RGL B   5     -15.516  11.447  -2.713  1.00  0.00           H  
+HETATM   70  HD1 RGL B   5     -17.352  11.964  -0.362  1.00  0.00           H  
+HETATM   71  HD2 RGL B   5     -15.956  13.005  -0.732  1.00  0.00           H  
+HETATM   72  HNE RGL B   5     -15.436  10.089  -0.539  1.00  0.00           H  
+HETATM   73 HH11 RGL B   5     -13.385  10.717   2.170  1.00  0.00           H  
+HETATM   74 HH12 RGL B   5     -13.925   9.521   1.013  1.00  0.00           H  
+HETATM   75 HH21 RGL B   5     -14.214  12.851   2.096  1.00  0.00           H  
+HETATM   76  HXT RGL B   5     -18.762   8.641  -4.998  1.00  0.00           H  
+CONECT   29   30   37   38   51
+CONECT   30   29   31   39   40
+CONECT   31   30   32   41   42
+CONECT   32   31   33   43   44
+CONECT   33   32   34   45
+CONECT   34   33   35   36
+CONECT   34   35
+CONECT   35   34   46
+CONECT   35   34
+CONECT   36   34   47   48
+CONECT   37   29
+CONECT   38   29
+CONECT   39   30
+CONECT   40   30
+CONECT   41   31
+CONECT   42   31
+CONECT   43   32
+CONECT   44   32
+CONECT   45   33
+CONECT   46   35
+CONECT   47   36
+CONECT   48   36
+CONECT   49    1   50   51
+CONECT   49   50
+CONECT   50   49
+CONECT   50   49
+CONECT   51   29   49   52
+CONECT   52   51
+CONECT   53   14   54   64
+CONECT   54   53   55   57   65
+CONECT   55   54   56   76
+CONECT   55   56
+CONECT   56   55
+CONECT   56   55
+CONECT   57   54   58   66   67
+CONECT   58   57   59   68   69
+CONECT   59   58   60   70   71
+CONECT   60   59   61   72
+CONECT   61   60   62   63
+CONECT   61   63
+CONECT   62   61   73   74
+CONECT   63   61   75
+CONECT   63   61
+CONECT   64   53
+CONECT   65   54
+CONECT   66   57
+CONECT   67   57
+CONECT   68   58
+CONECT   69   58
+CONECT   70   59
+CONECT   71   59
+CONECT   72   60
+CONECT   73   62
+CONECT   74   62
+CONECT   75   63
+CONECT   76   55
+END   

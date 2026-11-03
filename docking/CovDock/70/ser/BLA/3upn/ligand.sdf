@@ -1,0 +1,236 @@
+Structure61
+                    3D
+ Schrodinger Suite 2021-3.
+ 36 37  0  0  1  0            999 V2000
+    0.7819   -0.7838    0.4469 C   0  0  0  0  0  0
+    0.4145    0.3499    1.0844 C   0  0  0  0  0  0
+    1.2498    1.2561    2.0506 C   0  0  0  0  0  0
+    1.9702    0.6450    2.8714 O   0  0  0  0  0  0
+    1.1185    2.4909    1.8791 O   0  5  0  0  0  0
+    2.3177   -1.6839    0.5350 S   0  0  0  0  0  0
+    2.9382   -1.6106   -1.1755 C   0  0  0  0  0  0
+    3.4552   -0.2463   -1.6749 C   0  0  0  0  0  0
+    2.4021    0.7061   -2.0334 N   0  0  0  0  0  0
+    2.1634    1.8139   -1.3407 C   0  0  0  0  0  0
+    1.2232    2.7016   -1.6382 N   0  3  0  0  0  0
+   -0.3947   -1.3127   -0.3621 C   0  0  0  0  0  0
+   -1.4951   -0.2497   -0.1756 C   0  0  2  0  0  0
+   -0.8571    0.6922    0.7660 N   0  0  0  0  0  0
+   -1.9686    0.7426    1.6140 C   0  0  0  0  0  0
+   -2.6161   -0.4635    0.8736 C   0  0  1  0  0  0
+   -2.2733    1.4503    2.5723 O   0  0  0  0  0  0
+   -2.5551   -1.3930    1.4425 H   0  0  0  0  0  0
+   -4.0843   -0.2118    0.4324 C   0  0  1  0  0  0
+   -4.7178   -0.1944    1.3207 H   0  0  0  0  0  0
+   -4.2666    1.0193   -0.2495 O   0  0  0  0  0  0
+   -4.5959   -1.3280   -0.4926 C   0  0  0  0  0  0
+   -3.7499    1.0001   -1.0581 H   0  0  0  0  0  0
+   -4.5396   -2.2994   -0.0004 H   0  0  0  0  0  0
+   -4.0087   -1.3918   -1.4099 H   0  0  0  0  0  0
+   -5.6375   -1.1670   -0.7743 H   0  0  0  0  0  0
+    3.7692   -2.3153   -1.2150 H   0  0  0  0  0  0
+    2.1842   -2.0191   -1.8500 H   0  0  0  0  0  0
+    4.1023    0.2279   -0.9365 H   0  0  0  0  0  0
+    4.0418   -0.3771   -2.5847 H   0  0  0  0  0  0
+    1.8091    0.4956   -2.8234 H   0  0  0  0  0  0
+    2.7753    2.0168   -0.4735 H   0  0  0  0  0  0
+    0.6209    2.5561   -2.4353 H   0  0  0  0  0  0
+   -0.1388   -1.4038   -1.4178 H   0  0  0  0  0  0
+   -0.7176   -2.2973   -0.0216 H   0  0  0  0  0  0
+   -1.7713    0.2242   -1.1192 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  6  1  0  0  0
+  1 12  1  0  0  0
+  2  3  1  0  0  0
+  2 14  1  0  0  0
+  3  4  2  0  0  0
+  3  5  1  0  0  0
+  6  7  1  0  0  0
+  7  8  1  0  0  0
+  7 27  1  0  0  0
+  7 28  1  0  0  0
+  8  9  1  0  0  0
+  8 29  1  0  0  0
+  8 30  1  0  0  0
+  9 10  1  0  0  0
+  9 31  1  0  0  0
+ 10 11  2  0  0  0
+ 10 32  1  0  0  0
+ 11 33  1  0  0  0
+ 12 13  1  0  0  0
+ 12 34  1  0  0  0
+ 12 35  1  0  0  0
+ 13 14  1  0  0  0
+ 13 16  1  0  0  0
+ 13 36  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 15 17  2  0  0  0
+ 16 18  1  0  0  0
+ 16 19  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  1  0  0  0
+ 19 22  1  0  0  0
+ 21 23  1  0  0  0
+ 22 24  1  0  0  0
+ 22 25  1  0  0  0
+ 22 26  1  0  0  0
+M  CHG  2   5  -1  11   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+62
+
+> <s_m_entry_name>
+Structure61
+
+> <s_pdb_PDB_TITLE>
+STRUCTURE OF PENICILLIN-BINDING PROTEIN A FROM M. TUBERCULOSIS: IMIPENEM ACYL-ENZYME COMPLEX
+
+> <s_pdb_PDB_ID>
+3UPN
+
+> <r_pdb_PDB_CRYST1_a>
+122.8
+
+> <r_pdb_PDB_CRYST1_b>
+122.8
+
+> <r_pdb_PDB_CRYST1_c>
+101.1
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+120
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 61
+
+> <i_pdb_PDB_CRYST1_z>
+12
+
+> <s_pdb_PDB_CLASSIFICATION>
+PENICILLIN-BINDING PROTEIN/ANTIBIOTIC
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+18-NOV-11
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.214
+
+> <r_pdb_PDB_Rfree>
+0.258
+
+> <r_pdb_PDB_RESOLUTION>
+2.2
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SER\BLA\3upn
+
+> <s_m_Source_File>
+3upn.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+3upn_ligprep_10.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W09IXVtDQEBIXShbQ0gzXSlbQ0BASF0xQyg9TylOKFtDQEhdMTIpQyhDKD1PKVtPSF0pPUMoW0NIMl0yKVNbQ0gyXVtDSDJdW05IXS9bQ0hdPU4vW0hd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+9.58029930225199e-05
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+18.029876
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure61-1
+
+> <s_m_job_name>
+3upn_ligprep_10
+
+> <s_m_subgroup_title>
+3upn_ligprep_10-out1
+
+> <s_m_subgroupid>
+3upn_ligprep_10-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

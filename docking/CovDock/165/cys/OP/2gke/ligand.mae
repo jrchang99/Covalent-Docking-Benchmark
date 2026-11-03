@@ -1,0 +1,316 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ r_sd_PUBCHEM\_CONFORMER\_RMSD
+ s_sd_PUBCHEM\_CONFORMER\_DIVERSEORDER
+ s_sd_PUBCHEM\_MMFF94\_PARTIAL\_CHARGES
+ r_sd_PUBCHEM\_EFFECTIVE\_ROTOR\_COUNT
+ s_sd_PUBCHEM\_PHARMACOPHORE\_FEATURES
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_CONFORMER\_ID
+ r_sd_PUBCHEM\_MMFF94\_ENERGY
+ r_sd_PUBCHEM\_FEATURE\_SELFOVERLAP
+ s_sd_PUBCHEM\_SHAPE\_FINGERPRINT
+ s_sd_PUBCHEM\_SHAPE\_MULTIPOLES
+ r_sd_PUBCHEM\_SHAPE\_SELFOVERLAP
+ r_sd_PUBCHEM\_SHAPE\_VOLUME
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 11513957 
+  1
+  2
+  7_S_5_11_8_9 
+  13_S_6_14_12_24 
+  297 
+  ligand.1 
+  D:\work\244Set\Autodock\cys\OP\2gke 
+  ligand.sdf 
+  1
+  11513957
+  0.8
+  "1
+25
+11
+29
+30
+17
+12
+7
+15
+16
+23
+13
+8
+27
+9
+19
+26
+10
+21
+3
+2
+18
+6
+14
+28
+20
+22
+31
+24
+5
+4" 
+  "19
+1 -0.65
+11 0.72
+13 0.33
+14 0.66
+15 0.1
+16 0.1
+19 0.36
+2 -0.57
+25 0.5
+26 0.36
+27 0.36
+28 0.5
+3 -0.65
+4 -0.57
+5 -0.68
+6 -0.99
+7 0.06
+8 -0.04
+9 0.09" 
+  6.6
+  "10
+1 1 acceptor
+1 2 acceptor
+1 3 acceptor
+1 4 acceptor
+1 5 cation
+1 5 donor
+1 6 cation
+1 6 donor
+3 1 2 11 anion
+3 3 4 14 anion" 
+  14
+  2
+  0
+  0
+  0
+  0
+  1
+  1
+  00AFB06500000001 
+  17.9176
+  50.86
+  "12500047 106 18343013389751069957
+12932764 1 18130786806250544361
+13296908 3 18334861606099740547
+14144814 61 18273216387187582777
+14325111 11 18409166606105078721
+15375462 189 18341897454009754451
+15775835 57 18412829092163865893
+18186145 218 17894911793473732183
+18522853 266 18411420574993293285
+19050596 39 18334855017604357216
+19107657 46 18342455967135358317
+19422 9 18333452032261477609
+20279233 1 17917987274192048445
+20442098 301 18202561795619246959
+20523700 14 18412262848049786461
+20645477 70 18340200795899147807
+21501502 16 18409443678618712335
+23402539 116 17603294969291544708
+23532345 88 17967811613856230732
+23557571 272 15864343679632026421
+3248919 1 18201151049175907501
+3312278 4 18343867735865725745
+58051976 378 18189056558698645692" 
+  "254.67
+7.19
+1.83
+0.96
+2.48
+0.47
+-0.05
+-0.05
+0.24
+-0.06
+-0.01
+-0.28
+0.23
+-0.38" 
+  504.442
+  151.5
+  "2
+5
+10" 
+  1
+  0
+  2gke_ligprep_74.maegz 
+  1
+  55137
+  W09IXUMoPU8pW0NAXTEoW05IXVtDSDJdMSlbQ0gyXVtDSDJdW0NIMl1bQ0BIXShbTkgyXSlDKD1PKVtPSF0= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0075 
+    0.0075 
+    0.0000 
+    0.0044 
+  0.0118707313648917
+  0
+  4
+  0
+  S-OPLS 
+  12.204161
+  1
+  11513957-1 
+  2gke_ligprep_74 
+  2gke_ligprep_74-out1 
+  2gke_ligprep_74-out1 
+  0
+  2
+ m_depend[7] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  :::
+ } 
+ m_atom[28] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  i_m_formal_charge
+  s_m_color_rgb
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  b_st_SpecifiedChirality
+  :::
+  1 18 -2.637364 0.142905 -2.144390 900 70 -0.69577 -0.69577 8 -1 FF2F2F    1.643    1.081  <> <>
+  2 15 -4.237405 1.518078 -1.509126 900 70 -0.69577 -0.69577 8 0 FF2F2F  <> <> <> <>
+  3 18 2.580846 -2.968151 -1.665800 900 70 -0.71142 -0.71142 8 -1 FF2F2F    2.347    0.460  <> <>
+  4 15 0.644695 -3.182877 -0.624699 900 70 -0.71142 -0.71142 8 0 FF2F2F  <> <> <> <>
+  5 32 -2.594466 2.823076 0.450838 900 43 -0.37517 -0.37517 7 1 5757FF  <> <> 1 <>
+  6 32 3.596809 -1.281492 0.252071 900 43 0.35430 0.35430 7 1 5757FF  <> <> <> <>
+  7 3 -2.141536 1.584803 -0.277558 900 2 0.06257 0.06257 6 0 A0A0A0  <> <> 1 1
+  8 3 -2.648687 1.506124 1.143103 900 2 -0.02839 -0.02839 6 0 A0A0A0  <> <> <> <>
+  9 3 -0.603398 1.425638 -0.448040 900 2 -0.17534 -0.17534 6 0 A0A0A0  <> <> <> <>
+  10 3 -0.062776 0.023369 -0.094946 900 2 -0.11180 -0.11180 6 0 A0A0A0  <> <> <> <>
+  11 2 -3.081278 1.044250 -1.398993 900 2 0.74719 0.74719 6 0 A0A0A0  <> <> <> <>
+  12 3 1.458813 -0.104137 -0.313223 900 2 -0.19357 -0.19357 6 0 A0A0A0  <> <> <> <>
+  13 3 2.068869 -1.445615 0.171123 900 2 -0.02844 -0.02844 6 0 A0A0A0  <> <> 1 1
+  14 2 1.754424 -2.628821 -0.785392 900 2 0.72758 0.72758 6 0 A0A0A0  <> <> <> <>
+  15 41 -1.958634 1.440325 1.984829 900 21 0.13795 0.13795 1 0 FFFFFF  <> <> <> <>
+  16 41 -3.666601 1.182165 1.364850 900 21 0.13795 0.13795 1 0 FFFFFF  <> <> <> <>
+  17 41 -0.327293 1.675845 -1.473836 900 21 0.07118 0.07118 1 0 FFFFFF  <> <> <> <>
+  18 41 -0.079469 2.156626 0.170981 900 21 0.07118 0.07118 1 0 FFFFFF  <> <> <> <>
+  19 44 -1.895287 3.493541 0.735696 900 21 0.34447 0.34447 1 0 FFFFFF    8.993    2.220  <> <>
+  20 41 -0.298223 -0.204561 0.945387 900 21 0.10908 0.10908 1 0 FFFFFF  <> <> <> <>
+  21 41 -0.576926 -0.730115 -0.690936 900 21 0.10908 0.10908 1 0 FFFFFF  <> <> <> <>
+  22 41 1.694959 0.060549 -1.366619 900 21 0.06020 0.06020 1 0 FFFFFF  <> <> <> <>
+  23 41 1.947452 0.715449 0.216789 900 21 0.06020 0.06020 1 0 FFFFFF  <> <> <> <>
+  24 41 1.787377 -1.678264 1.199674 900 21 0.00881 0.00881 1 0 FFFFFF  <> <> <> <>
+  25 44 4.020402 -2.132515 0.593290 900 21 0.12697 0.12697 1 0 FFFFFF    9.608    0.483  <> <>
+  26 44 3.828453 -0.529090 0.884480 900 21 0.12697 0.12697 1 0 FFFFFF    9.608    0.483  <> <>
+  27 44 3.970507 -1.064038 -0.660668 900 21 0.12697 0.12697 1 0 FFFFFF    9.608    0.483  <> <>
+  28 44 -3.462916 3.253143 0.164089 900 21 0.34447 0.34447 1 0 FFFFFF    8.993    2.220  <> <>
+  :::
+ } 
+ m_bond[28] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 11 1
+  2 2 11 2
+  3 3 14 1
+  4 4 14 2
+  5 5 7 1
+  6 5 8 1
+  7 5 19 1
+  8 5 28 1
+  9 6 13 1
+  10 6 25 1
+  11 6 26 1
+  12 6 27 1
+  13 7 8 1
+  14 7 9 1
+  15 7 11 1
+  16 8 15 1
+  17 8 16 1
+  18 9 10 1
+  19 9 17 1
+  20 9 18 1
+  21 10 12 1
+  22 10 20 1
+  23 10 21 1
+  24 12 13 1
+  25 12 22 1
+  26 12 23 1
+  27 13 14 1
+  28 13 24 1
+  :::
+ } 
+} 
+

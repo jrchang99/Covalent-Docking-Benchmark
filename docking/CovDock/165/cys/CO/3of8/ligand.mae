@@ -1,0 +1,350 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ i_sd_PUBCHEM\_COMPOUND\_CANONICALIZED
+ i_sd_PUBCHEM\_CACTVS\_COMPLEXITY
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_ACCEPTOR
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_DONOR
+ i_sd_PUBCHEM\_CACTVS\_ROTATABLE\_BOND
+ s_sd_PUBCHEM\_CACTVS\_SUBSKEYS
+ s_sd_PUBCHEM\_IUPAC\_OPENEYE\_NAME
+ s_sd_PUBCHEM\_IUPAC\_CAS\_NAME
+ s_sd_PUBCHEM\_IUPAC\_NAME\_MARKUP
+ s_sd_PUBCHEM\_IUPAC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_SYSTEMATIC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_TRADITIONAL\_NAME
+ s_sd_PUBCHEM\_IUPAC\_INCHI
+ s_sd_PUBCHEM\_IUPAC\_INCHIKEY
+ r_sd_PUBCHEM\_XLOGP3\_AA
+ r_sd_PUBCHEM\_EXACT\_MASS
+ s_sd_PUBCHEM\_MOLECULAR\_FORMULA
+ r_sd_PUBCHEM\_MOLECULAR\_WEIGHT
+ s_sd_PUBCHEM\_SMILES
+ s_sd_PUBCHEM\_CONNECTIVITY\_SMILES
+ r_sd_PUBCHEM\_MONOISOTOPIC\_WEIGHT
+ i_sd_PUBCHEM\_TOTAL\_CHARGE
+ s_sd_PUBCHEM\_BONDANNOTATIONS
+ s_epik_Chemistry_Notes
+ i_sd_PUBCHEM\_CACTVS\_TPSA
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 11663725 
+  0
+  9_S_7_17_11_40 
+  10_S_8_14_12_41 
+  164 
+  ligand.1 
+  D:\work\244Set\Autodock\cys\CO\3of8 
+  ligand.sdf 
+  1
+  11663725
+  39
+  2
+  0
+  0
+  0
+  0
+  1
+  -1
+  "1
+5
+255" 
+  1
+  0
+  55137
+  W0NIM11DKFtDSDNdKShbQ0gzXSlPYyhbY0hdW2NIXTEpW2NIXVtjSF1jMVtDSDJdW0NAQEhdKEMoPU8pW0NIXT1PKVtOSF1DKD1PKVtDQEhdKFtDSDJdYzJbY0hdW2NIXVtjSF1bY0hdW2NIXTIpW05IXUMoPU8pT1tDSDJdYzNbY0hdW2NIXVtjSF1bY0hdW2NIXTM= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  S-OPLS 
+  46.631605
+  1
+  11663725-1 
+  3of8_ligprep_13 
+  1
+  0
+  1
+  789
+  6
+  2
+  14
+  AAADcfB7OAAAAAAAAAAAAAAAAAAAAAAAAAAwYMAAAAAAAAABUAAAHgAQAAAADGzhmAYyDoLABACIAqlSmAACCAAgIAAIiIGOCIkMZjqEsTueOCCk1hGIqAeYyKCOIAAAAAAAAABAAAAAAAAAAAAAAAAAAA== 
+  "benzyl N-[(1S)-1-benzyl-2-[[(1S)-1-[(4-tert-butoxyphenyl)methyl]-2,3-dioxo-propyl]amino]-2-oxo-ethyl]carbamate" 
+  "N-[(2S)-1-[[(2S)-1-[4-[(2-methylpropan-2-yl)oxy]phenyl]-3,4-dioxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]carbamic acid (phenylmethyl) ester" 
+  "benzyl <I>N</I>-[(2<I>S</I>)-1-[[(2<I>S</I>)-1-[4-[(2-methylpropan-2-yl)oxy]phenyl]-3,4-dioxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]carbamate" 
+  "benzyl N-[(2S)-1-[[(2S)-1-[4-[(2-methylpropan-2-yl)oxy]phenyl]-3,4-dioxobutan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]carbamate" 
+  "(phenylmethyl) N-[(2S)-1-[[(2S)-1-[4-[(2-methylpropan-2-yl)oxy]phenyl]-3,4-bis(oxidanylidene)butan-2-yl]amino]-1-oxidanylidene-3-phenyl-propan-2-yl]carbamate" 
+  "N-[(1S)-1-benzyl-2-[[(1S)-1-(4-tert-butoxybenzyl)-2,3-diketo-propyl]amino]-2-keto-ethyl]carbamic acid benzyl ester" 
+  InChI=1S/C31H34N2O6/c1-31(2,3)39-25-16-14-23(15-17-25)18-26(28(35)20-34)32-29(36)27(19-22-10-6-4-7-11-22)33-30(37)38-21-24-12-8-5-9-13-24/h4-17,20,26-27H,18-19,21H2,1-3H3,(H,32,36)(H,33,37)/t26-,27-/m0/s1 
+  NMWHKVGBYIVZQV-SVBPBHIXSA-N 
+  5.1
+  530.24168681
+  C31H34N2O6 
+  530.6
+  CC(C)(C)OC1=CC=C(C=C1)C[C@@H](C(=O)C=O)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)OCC3=CC=CC=C3 
+  CC(C)(C)OC1=CC=C(C=C1)CC(C(=O)C=O)NC(=O)C(CC2=CC=CC=C2)NC(=O)OCC3=CC=CC=C3 
+  530.24168681
+  0
+  "13  19  8
+13  20  8
+16  26  8
+16  27  8
+18  24  8
+18  25  8
+19  24  8
+20  25  8
+26  30  8
+27  31  8
+30  32  8
+31  32  8
+34  35  8
+34  36  8
+35  37  8
+36  38  8
+37  39  8
+38  39  8
+9  7  6
+10  8  5" 
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  111
+  3of8_ligprep_13-out1 
+  3of8_ligprep_13-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[73] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 16 -0.493800 -0.233300 5.949700 900 70 8 FF2F2F  <>
+  2 15 -0.250100 0.668100 -2.164300 900 70 8 FF2F2F  <>
+  3 15 2.906400 -0.981600 -2.105600 900 70 8 FF2F2F  <>
+  4 16 -3.232900 -0.710400 2.486300 900 70 8 FF2F2F  <>
+  5 15 -3.120200 -1.822000 0.490400 900 70 8 FF2F2F  <>
+  6 15 0.138600 -3.110400 -1.682800 900 70 8 FF2F2F  <>
+  7 25 0.015100 -0.436900 -0.190000 900 43 7 5757FF  <>
+  8 25 -2.509800 0.428600 0.722000 900 43 7 5757FF  <>
+  9 3 1.437600 -0.841900 -0.198300 900 2 6 A0A0A0  1
+  10 3 -2.151000 0.660200 -0.693000 900 2 6 A0A0A0  1
+  11 3 1.781500 -1.827000 0.955500 900 2 6 A0A0A0  <>
+  12 3 -2.576700 2.091500 -1.115800 900 2 6 A0A0A0  <>
+  13 2 1.213300 -1.383100 2.303500 900 2 6 A0A0A0  <>
+  14 2 -0.692200 0.295000 -1.077300 900 2 6 A0A0A0  <>
+  15 3 -0.233000 0.935300 6.745700 900 2 6 A0A0A0  <>
+  16 2 -4.058400 2.399600 -0.963900 900 2 6 A0A0A0  <>
+  17 2 1.897800 -1.409000 -1.545100 900 2 6 A0A0A0  <>
+  18 2 0.127300 -0.540300 4.749600 900 2 6 A0A0A0  <>
+  19 2 1.655000 -0.198900 2.894800 900 2 6 A0A0A0  <>
+  20 2 0.237200 -2.151100 2.940100 900 2 6 A0A0A0  <>
+  21 3 -0.631200 2.238000 6.009400 900 2 6 A0A0A0  <>
+  22 3 1.217600 0.964800 7.287000 900 2 6 A0A0A0  <>
+  23 3 -1.186700 0.750000 7.944100 900 2 6 A0A0A0  <>
+  24 2 1.113100 0.223900 4.105600 900 2 6 A0A0A0  <>
+  25 2 -0.294200 -1.730200 4.154900 900 2 6 A0A0A0  <>
+  26 2 -4.973800 1.974300 -1.949900 900 2 6 A0A0A0  <>
+  27 2 -4.553500 2.957500 0.234800 900 2 6 A0A0A0  <>
+  28 2 -2.972700 -0.802900 1.169400 900 2 6 A0A0A0  <>
+  29 2 1.103500 -2.567700 -2.220400 900 2 6 A0A0A0  <>
+  30 2 -6.336200 2.167100 -1.762600 900 2 6 A0A0A0  <>
+  31 2 -5.919500 3.141900 0.403000 900 2 6 A0A0A0  <>
+  32 2 -6.805900 2.753400 -0.593900 900 2 6 A0A0A0  <>
+  33 3 -3.758300 -1.820800 3.207300 900 2 6 A0A0A0  <>
+  34 2 -4.037700 -1.445300 4.656600 900 2 6 A0A0A0  <>
+  35 2 -3.788400 -2.382000 5.663100 900 2 6 A0A0A0  <>
+  36 2 -4.563100 -0.190600 4.985700 900 2 6 A0A0A0  <>
+  37 2 -4.055800 -2.065600 6.992400 900 2 6 A0A0A0  <>
+  38 2 -4.833300 0.124200 6.314800 900 2 6 A0A0A0  <>
+  39 2 -4.580100 -0.815200 7.311900 900 2 6 A0A0A0  <>
+  40 41 1.988200 0.080700 -0.003500 900 21 1 FFFFFF  <>
+  41 41 -2.765000 -0.000900 -1.309800 900 21 1 FFFFFF  <>
+  42 41 1.378500 -2.817800 0.736400 900 21 1 FFFFFF  <>
+  43 41 2.860800 -1.955100 1.055300 900 21 1 FFFFFF  <>
+  44 41 -2.016100 2.828400 -0.537700 900 21 1 FFFFFF  <>
+  45 41 -2.313000 2.272700 -2.159300 900 21 1 FFFFFF  <>
+  46 43 -0.431900 -0.585900 0.703400 900 21 1 FFFFFF  <>
+  47 43 -2.392200 1.184200 1.381100 900 21 1 FFFFFF  <>
+  48 41 2.410700 0.403200 2.411800 900 21 1 FFFFFF  <>
+  49 41 -0.119100 -3.069100 2.495400 900 21 1 FFFFFF  <>
+  50 41 -0.612200 3.092600 6.686700 900 21 1 FFFFFF  <>
+  51 41 -1.643800 2.164200 5.610100 900 21 1 FFFFFF  <>
+  52 41 0.018000 2.488200 5.174700 900 21 1 FFFFFF  <>
+  53 41 1.969300 1.166300 6.528900 900 21 1 FFFFFF  <>
+  54 41 1.479700 0.010700 7.745800 900 21 1 FFFFFF  <>
+  55 41 1.335600 1.733800 8.051400 900 21 1 FFFFFF  <>
+  56 41 -1.084600 1.555500 8.672900 900 21 1 FFFFFF  <>
+  57 41 -0.997300 -0.190200 8.464600 900 21 1 FFFFFF  <>
+  58 41 -2.228000 0.731700 7.623400 900 21 1 FFFFFF  <>
+  59 41 1.483400 1.149400 4.506700 900 21 1 FFFFFF  <>
+  60 41 -1.048600 -2.333300 4.637800 900 21 1 FFFFFF  <>
+  61 41 -4.618100 1.498600 -2.852300 900 21 1 FFFFFF  <>
+  62 41 -3.873400 3.243300 1.023800 900 21 1 FFFFFF  <>
+  63 41 1.491900 -2.842400 -3.201400 900 21 1 FFFFFF  <>
+  64 41 -7.033700 1.851500 -2.524500 900 21 1 FFFFFF  <>
+  65 41 -6.294500 3.580600 1.315900 900 21 1 FFFFFF  <>
+  66 41 -7.867300 2.896400 -0.454300 900 21 1 FFFFFF  <>
+  67 41 -4.685600 -2.168600 2.749000 900 21 1 FFFFFF  <>
+  68 41 -3.040900 -2.642700 3.171400 900 21 1 FFFFFF  <>
+  69 41 -3.387100 -3.354900 5.418500 900 21 1 FFFFFF  <>
+  70 41 -4.767500 0.538900 4.215500 900 21 1 FFFFFF  <>
+  71 41 -3.860300 -2.787200 7.771900 900 21 1 FFFFFF  <>
+  72 41 -5.238900 1.091800 6.571300 900 21 1 FFFFFF  <>
+  73 41 -4.788300 -0.570000 8.343000 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[75] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 15 1
+  2 1 18 1
+  3 2 14 2
+  4 3 17 2
+  5 4 28 1
+  6 4 33 1
+  7 5 28 2
+  8 6 29 2
+  9 7 9 1
+  10 7 14 1
+  11 7 46 1
+  12 8 10 1
+  13 8 28 1
+  14 8 47 1
+  15 9 11 1
+  16 9 17 1
+  17 9 40 1
+  18 10 12 1
+  19 10 14 1
+  20 10 41 1
+  21 11 13 1
+  22 11 42 1
+  23 11 43 1
+  24 12 16 1
+  25 12 44 1
+  26 12 45 1
+  27 13 19 2
+  28 13 20 1
+  29 15 21 1
+  30 15 22 1
+  31 15 23 1
+  32 16 26 2
+  33 16 27 1
+  34 17 29 1
+  35 18 24 2
+  36 18 25 1
+  37 19 24 1
+  38 19 48 1
+  39 20 25 2
+  40 20 49 1
+  41 21 50 1
+  42 21 51 1
+  43 21 52 1
+  44 22 53 1
+  45 22 54 1
+  46 22 55 1
+  47 23 56 1
+  48 23 57 1
+  49 23 58 1
+  50 24 59 1
+  51 25 60 1
+  52 26 30 1
+  53 26 61 1
+  54 27 31 2
+  55 27 62 1
+  56 29 63 1
+  57 30 32 2
+  58 30 64 1
+  59 31 32 1
+  60 31 65 1
+  61 32 66 1
+  62 33 34 1
+  63 33 67 1
+  64 33 68 1
+  65 34 35 2
+  66 34 36 1
+  67 35 37 1
+  68 35 69 1
+  69 36 38 2
+  70 36 70 1
+  71 37 39 2
+  72 37 71 1
+  73 38 39 1
+  74 38 72 1
+  75 39 73 1
+  :::
+ } 
+} 
+

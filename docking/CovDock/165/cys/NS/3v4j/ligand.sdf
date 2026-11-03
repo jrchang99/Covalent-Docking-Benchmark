@@ -1,0 +1,211 @@
+Structure87
+                    3D
+ Schrodinger Suite 2021-3.
+ 21 21  0  0  1  0            999 V2000
+   -4.1963   -0.0580   -0.2966 O   0  0  0  0  0  0
+   -2.8295   -0.0397   -0.1722 C   0  0  0  0  0  0
+   -2.1714    1.0599    0.4010 C   0  0  0  0  0  0
+   -2.8749    2.1485    0.8519 O   0  0  0  0  0  0
+   -0.7795    1.0564    0.5185 C   0  0  0  0  0  0
+   -0.0579   -0.0512    0.0572 C   0  0  0  0  0  0
+    1.4243   -0.1052    0.1701 N   0  3  0  0  0  0
+    1.9751    0.8168   -0.8253 N   0  5  0  0  0  0
+    3.3578    0.4091   -1.0032 O   0  0  0  0  0  0
+    1.9980    0.2116    1.5695 C   0  0  0  0  0  0
+   -2.0916   -1.1373   -0.6270 C   0  0  0  0  0  0
+   -0.7011   -1.1492   -0.5142 C   0  0  0  0  0  0
+    3.6810    1.0270   -1.6640 H   0  0  0  0  0  0
+   -4.5275   -0.8578   -0.7110 H   0  0  0  0  0  0
+   -2.3123    2.8395    1.2088 H   0  0  0  0  0  0
+   -0.2711    1.9047    0.9538 H   0  0  0  0  0  0
+    1.4916   -0.4558    2.2673 H   0  0  0  0  0  0
+    1.7977    1.2583    1.8029 H   0  0  0  0  0  0
+    3.0678    0.0020    1.5504 H   0  0  0  0  0  0
+   -2.5954   -1.9846   -1.0692 H   0  0  0  0  0  0
+   -0.1374   -2.0008   -0.8675 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 14  1  0  0  0
+  2  3  2  0  0  0
+  2 11  1  0  0  0
+  3  4  1  0  0  0
+  3  5  1  0  0  0
+  4 15  1  0  0  0
+  5  6  2  0  0  0
+  5 16  1  0  0  0
+  6  7  1  0  0  0
+  6 12  1  0  0  0
+  7  8  2  0  0  0
+  7 10  1  0  0  0
+  8  9  1  0  0  0
+  9 13  1  0  0  0
+ 10 17  1  0  0  0
+ 10 18  1  0  0  0
+ 10 19  1  0  0  0
+ 11 12  2  0  0  0
+ 11 20  1  0  0  0
+ 12 21  1  0  0  0
+M  CHG  2   7   1   8  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+88
+
+> <s_m_entry_name>
+Structure87
+
+> <s_pdb_PDB_TITLE>
+FIRST-IN-CLASS SMALL MOLECULE INHIBITORS OF THE SINGLE-STRAND DNA CYTOSINE DEAMINASE APOBEC3G
+
+> <s_pdb_PDB_ID>
+3V4J
+
+> <r_pdb_PDB_CRYST1_a>
+53.08
+
+> <r_pdb_PDB_CRYST1_b>
+67.764
+
+> <r_pdb_PDB_CRYST1_c>
+64.472
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+107.38
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+15-DEC-11
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.228
+
+> <r_pdb_PDB_Rfree>
+0.276
+
+> <r_pdb_PDB_RESOLUTION>
+2.04
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NS\3v4j
+
+> <s_m_Source_File>
+3v4j.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+3v4j_ligprep_17.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W09IXWMxYyhbT0hdKVtjSF1jKFtjSF1bY0hdMSkvW04rXShbQ0gzXSk9Ti9bT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0872
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0520
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0353
+
+> <r_epik_State_Penalty>
+  0.0703
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.122257229224693
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+17.590092
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure87-1
+
+> <s_m_job_name>
+3v4j_ligprep_17
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_2_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_2_Matrix_2>
+1.000000 0.000000 0.000000   33.821720;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   61.528510
+
+> <s_m_subgroup_title>
+3v4j_ligprep_17-out1
+
+> <s_m_subgroupid>
+3v4j_ligprep_17-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

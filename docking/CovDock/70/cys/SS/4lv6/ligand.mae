@@ -1,0 +1,288 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ b_sd_chiral_flag
+ i_sd_version
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure377 
+  0
+  0
+  13 
+  ligand.1 
+  "CRYSTAL STRUCTURE OF SMALL MOLECULE DISULFIDE 4 COVALENTLY BOUND TO K- RAS G12C" 
+  4LV6 
+  33.14
+  39.32
+  62.79
+  77.33
+  81.21
+  77.35
+  "P 1" 
+  2
+  "SIGNALING PROTEIN/INHIBITOR" 
+  26-JUL-13 
+  3.30 
+  0.157
+  0.187
+  1.5
+  "X-RAY DIFFRACTION" 
+  7.5
+  "A, B" 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\CYS\\SS\\4lv6" 
+  ligand.sdf 
+  1
+  100
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  55137
+  Q2xjMVtjSF1bY0hdYyhjKENsKVtjSF0xKU9bQ0gyXUMoPU8pTjJbQ0gyXVtDSDJdW0NIXShbQ0gyXVtDSDJdMilDKD1PKVtOSF1bQ0gyXVtDSDJdU1NbQ0gyXVtDSDJdW04rXShbQ0gzXSkoW0NIM10pW0NIM10= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  1
+  1
+  S-OPLS 
+  27.915232
+  1
+  Structure377-1 
+  4lv6_ligprep_45 
+  1
+  0
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  1
+  0
+  4lv6_ligprep_45-out1 
+  4lv6_ligprep_45-out1 
+  0
+  2
+ m_depend[7] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  :::
+ } 
+ m_atom[63] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  :::
+  1 57 2.211200 14.047200 2.376200 900 9 17 0 3 006400 
+  2 57 5.506700 9.907900 3.408400 900 9 17 0 3 006400 
+  3 2 2.432300 12.372100 2.728200 900 2 6 0 3 A0A0A0 
+  4 2 1.328000 11.528800 2.834000 900 2 6 0 3 A0A0A0 
+  5 2 1.506900 10.175300 3.118400 900 2 6 0 3 A0A0A0 
+  6 2 2.796700 9.644900 3.300700 900 2 6 0 3 A0A0A0 
+  7 16 3.050400 8.315400 3.584600 900 70 8 0 3 FF2F2F 
+  8 3 1.960300 7.403400 3.724300 900 2 6 0 3 A0A0A0 
+  9 2 2.496600 5.992500 4.041100 900 2 6 0 3 A0A0A0 
+  10 25 1.602200 5.007900 4.329300 900 43 7 0 3 5757FF 
+  11 3 0.191000 5.073400 3.906300 900 2 6 0 3 A0A0A0 
+  12 3 0.081700 4.343900 2.544900 900 2 6 0 3 A0A0A0 
+  13 3 0.618900 2.890900 2.667900 900 2 6 0 3 A0A0A0 
+  14 2 0.646400 2.210400 1.285400 900 2 6 0 3 A0A0A0 
+  15 25 0.001500 1.034400 1.177100 900 43 7 0 3 5757FF 
+  16 3 -0.082500 0.211700 -0.031300 900 2 6 0 3 A0A0A0 
+  17 3 0.951300 -0.930300 -0.082300 900 2 6 0 3 A0A0A0 
+  18 49 2.700200 -0.519300 0.204300 900 13 16 0 3 E1E11E 
+  19 15 1.246900 2.739200 0.348500 900 70 8 0 3 FF2F2F 
+  20 3 2.037200 2.842500 3.297800 900 2 6 0 3 A0A0A0 
+  21 3 2.064700 3.639100 4.626100 900 2 6 0 3 A0A0A0 
+  22 15 3.714700 5.825400 4.148700 900 70 8 0 3 FF2F2F 
+  23 2 3.898500 10.505400 3.191900 900 2 6 0 3 A0A0A0 
+  24 2 3.716100 11.859900 2.907400 900 2 6 0 3 A0A0A0 
+  25 41 -0.388200 4.542000 4.663000 900 21 1 0 3 FFFFFF 
+  26 41 3.017600 3.619700 5.157600 900 21 1 0 3 FFFFFF 
+  27 41 -0.228300 6.079400 3.929500 900 21 1 0 3 FFFFFF 
+  28 41 1.358700 3.210700 5.339100 900 21 1 0 3 FFFFFF 
+  29 41 -0.975100 4.350000 2.273600 900 21 1 0 3 FFFFFF 
+  30 41 0.662600 4.939300 1.836800 900 21 1 0 3 FFFFFF 
+  31 41 -0.064400 2.321800 3.302400 900 21 1 0 3 FFFFFF 
+  32 41 0.330700 11.920400 2.696700 900 21 1 0 3 FFFFFF 
+  33 41 0.629000 9.552000 3.192800 900 21 1 0 3 FFFFFF 
+  34 43 -0.485900 0.680900 1.987500 900 21 1 0 3 FFFFFF 
+  35 41 4.572600 12.513300 2.825600 900 21 1 0 3 FFFFFF 
+  36 41 -1.085500 -0.214700 -0.069600 900 21 1 0 3 FFFFFF 
+  37 41 -0.001700 0.826500 -0.926800 900 21 1 0 3 FFFFFF 
+  38 41 0.688000 -1.664300 0.680100 900 21 1 0 3 FFFFFF 
+  39 41 0.870000 -1.455600 -1.034400 900 21 1 0 3 FFFFFF 
+  40 41 1.302300 7.722500 4.534800 900 21 1 0 3 FFFFFF 
+  41 41 1.386500 7.360700 2.796800 900 21 1 0 3 FFFFFF 
+  42 41 2.323200 1.818900 3.544200 900 21 1 0 3 FFFFFF 
+  43 41 2.788000 3.304500 2.652600 900 21 1 0 3 FFFFFF 
+  44 49 3.539000 -0.291300 -1.645900 900 13 16 0 3 E1E11E 
+  45 3 3.493400 1.485600 -2.004200 900 2 6 0 3 A0A0A0 
+  46 41 3.558000 2.029000 -1.060800 900 21 1 0 3 FFFFFF 
+  47 41 4.416300 1.696600 -2.540600 900 21 1 0 3 FFFFFF 
+  48 3 2.259900 1.943000 -2.813900 900 2 6 0 3 A0A0A0 
+  49 32 2.403700 3.353900 -3.459100 900 43 7 1 3 5757FF 
+  50 41 2.051400 1.265400 -3.643800 900 21 1 0 3 FFFFFF 
+  51 41 1.374700 1.997100 -2.183900 900 21 1 0 3 FFFFFF 
+  52 3 1.047100 3.722300 -4.108600 900 2 6 0 3 A0A0A0 
+  53 3 2.741700 4.431900 -2.401300 900 2 6 0 3 A0A0A0 
+  54 41 1.144000 4.707700 -4.567400 900 21 1 0 3 FFFFFF 
+  55 41 0.288600 3.735400 -3.323800 900 21 1 0 3 FFFFFF 
+  56 41 0.817000 2.965300 -4.860500 900 21 1 0 3 FFFFFF 
+  57 41 2.753300 5.401800 -2.901300 900 21 1 0 3 FFFFFF 
+  58 41 3.723000 4.207800 -1.982000 900 21 1 0 3 FFFFFF 
+  59 41 1.968800 4.400300 -1.632500 900 21 1 0 3 FFFFFF 
+  60 3 3.484100 3.365400 -4.568500 900 2 6 0 3 A0A0A0 
+  61 41 3.452700 4.340500 -5.057400 900 21 1 0 3 FFFFFF 
+  62 41 3.248100 2.569100 -5.275800 900 21 1 0 3 FFFFFF 
+  63 41 4.460600 3.208900 -4.111700 900 21 1 0 3 FFFFFF 
+  :::
+ } 
+ m_bond[64] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 3 1 3 3
+  2 2 23 1 3 3
+  3 3 4 2 3 3
+  4 3 24 1 3 3
+  5 4 5 1 3 3
+  6 4 32 1 3 3
+  7 5 6 2 3 3
+  8 5 33 1 3 3
+  9 6 7 1 3 3
+  10 6 23 1 3 3
+  11 7 8 1 3 3
+  12 8 9 1 3 3
+  13 8 40 1 3 3
+  14 8 41 1 3 3
+  15 9 10 1 3 3
+  16 9 22 2 3 3
+  17 10 11 1 3 3
+  18 10 21 1 3 3
+  19 11 12 1 3 3
+  20 11 25 1 3 3
+  21 11 27 1 3 3
+  22 12 13 1 3 3
+  23 12 29 1 3 3
+  24 12 30 1 3 3
+  25 13 14 1 3 3
+  26 13 20 1 3 3
+  27 13 31 1 3 3
+  28 14 15 1 3 3
+  29 14 19 2 3 3
+  30 15 16 1 3 3
+  31 15 34 1 3 3
+  32 16 17 1 3 3
+  33 16 36 1 3 3
+  34 16 37 1 3 3
+  35 17 18 1 3 3
+  36 17 38 1 3 3
+  37 17 39 1 3 3
+  38 18 44 1 3 3
+  39 20 21 1 3 3
+  40 20 42 1 3 3
+  41 20 43 1 3 3
+  42 21 26 1 3 3
+  43 21 28 1 3 3
+  44 23 24 2 3 3
+  45 24 35 1 3 3
+  46 44 45 1 3 3
+  47 45 46 1 3 3
+  48 45 47 1 3 3
+  49 45 48 1 3 3
+  50 48 49 1 3 3
+  51 48 50 1 3 3
+  52 48 51 1 3 3
+  53 49 52 1 3 3
+  54 49 53 1 3 3
+  55 49 60 1 3 3
+  56 52 54 1 3 3
+  57 52 55 1 3 3
+  58 52 56 1 3 3
+  59 53 57 1 3 3
+  60 53 58 1 3 3
+  61 53 59 1 3 3
+  62 60 61 1 3 3
+  63 60 62 1 3 3
+  64 60 63 1 3 3
+  :::
+ } 
+} 
+

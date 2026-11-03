@@ -1,0 +1,221 @@
+Structure105
+                    3D
+ Schrodinger Suite 2021-3.
+ 33 35  0  0  1  0            999 V2000
+   -8.1905    2.5158    1.0718 C   0  0  0  0  0  0
+   -6.8737    2.2414    0.7120 C   0  0  0  0  0  0
+   -6.2146    1.1271    1.2386 C   0  0  0  0  0  0
+   -2.6794   -0.0797    0.4102 C   0  0  0  0  0  0
+   -2.0470    1.1425    0.0627 C   0  0  0  0  0  0
+   -0.7029    1.1611   -0.2978 C   0  0  0  0  0  0
+    0.0641   -0.0100   -0.3287 C   0  0  0  0  0  0
+   -0.5433   -1.2283    0.0086 C   0  0  0  0  0  0
+   -1.9089   -1.2828    0.3790 C   0  0  0  0  0  0
+   -3.7630   -2.4942    1.0458 C   0  0  0  0  0  0
+    1.5104    0.0681   -0.7235 C   0  0  0  0  0  0
+    2.3296   -1.2351   -0.6817 C   0  0  0  0  0  0
+   -8.8486    1.6785    1.9689 C   0  0  0  0  0  0
+    2.0550    1.1220   -1.0605 O   0  0  0  0  0  0
+   -2.4539   -2.4910    0.6982 N   0  0  0  0  0  0
+   -4.5864   -1.4233    1.1111 N   0  0  0  0  0  0
+   -4.0487   -0.2159    0.7998 C   0  0  0  0  0  0
+   -4.8804    0.9207    0.8438 N   0  0  0  0  0  0
+   -6.8818    0.2992    2.1518 C   0  0  0  0  0  0
+   -8.1988    0.5733    2.5123 C   0  0  0  0  0  0
+    4.0384   -1.0000   -1.1548 Cl  0  0  0  0  0  0
+    2.3233   -1.6498    0.3264 H   0  0  0  0  0  0
+    1.9007   -1.9703   -1.3625 H   0  0  0  0  0  0
+   -8.6982    3.3749    0.6586 H   0  0  0  0  0  0
+   -6.3708    2.8984    0.0165 H   0  0  0  0  0  0
+   -2.6077    2.0657    0.0786 H   0  0  0  0  0  0
+   -0.2614    2.1143   -0.5537 H   0  0  0  0  0  0
+    0.0108   -2.1561   -0.0039 H   0  0  0  0  0  0
+   -4.1950   -3.4518    1.2972 H   0  0  0  0  0  0
+   -9.8693    1.8914    2.2507 H   0  0  0  0  0  0
+   -4.4531    1.7406    0.4391 H   0  0  0  0  0  0
+   -6.3944   -0.5484    2.6073 H   0  0  0  0  0  0
+   -8.7117   -0.0659    3.2158 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 13  1  0  0  0
+  1 24  1  0  0  0
+  2  3  1  0  0  0
+  2 25  1  0  0  0
+  3 18  1  0  0  0
+  3 19  2  0  0  0
+  4  5  2  0  0  0
+  4  9  1  0  0  0
+  4 17  1  0  0  0
+  5  6  1  0  0  0
+  5 26  1  0  0  0
+  6  7  2  0  0  0
+  6 27  1  0  0  0
+  7  8  1  0  0  0
+  7 11  1  0  0  0
+  8  9  2  0  0  0
+  8 28  1  0  0  0
+  9 15  1  0  0  0
+ 10 15  2  0  0  0
+ 10 16  1  0  0  0
+ 10 29  1  0  0  0
+ 11 12  1  0  0  0
+ 11 14  2  0  0  0
+ 12 21  1  0  0  0
+ 12 22  1  0  0  0
+ 12 23  1  0  0  0
+ 13 20  2  0  0  0
+ 13 30  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 18 31  1  0  0  0
+ 19 20  1  0  0  0
+ 19 32  1  0  0  0
+ 20 33  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+106
+
+> <s_m_entry_name>
+Structure105
+
+> <s_pdb_PDB_TITLE>
+EPHB3 KINASE DOMAIN COVALENTLY BOUND TO AN IRREVERSIBLE INHIBITOR (COMPOUND 3)
+
+> <s_pdb_PDB_ID>
+5L6O
+
+> <r_pdb_PDB_CRYST1_a>
+46.817
+
+> <r_pdb_PDB_CRYST1_b>
+57.214
+
+> <r_pdb_PDB_CRYST1_c>
+113.184
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+30-MAY-16
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.189
+
+> <r_pdb_PDB_Rfree>
+0.206
+
+> <r_pdb_PDB_RESOLUTION>
+1.88
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+8.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NS\5l6o
+
+> <s_m_Source_File>
+5l6o.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5l6o_ligprep_20.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbTkhdYzJuW2NIXW5jKGMyMylbY0hdYyhbY0hdW2NIXTMpQyg9TylbQ0gyXUNs
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+31.236526
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure105-1
+
+> <s_m_job_name>
+5l6o_ligprep_20
+
+> <s_m_subgroup_title>
+5l6o_ligprep_20-out1
+
+> <s_m_subgroupid>
+5l6o_ligprep_20-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

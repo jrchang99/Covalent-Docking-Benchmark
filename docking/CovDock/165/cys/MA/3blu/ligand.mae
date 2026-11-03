@@ -1,0 +1,254 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ i_m_ct_enhanced_stereo_status
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ r_sd_PUBCHEM\_CONFORMER\_RMSD
+ s_sd_PUBCHEM\_CONFORMER\_DIVERSEORDER
+ s_sd_PUBCHEM\_MMFF94\_PARTIAL\_CHARGES
+ s_sd_PUBCHEM\_PHARMACOPHORE\_FEATURES
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_CONFORMER\_ID
+ r_sd_PUBCHEM\_MMFF94\_ENERGY
+ r_sd_PUBCHEM\_FEATURE\_SELFOVERLAP
+ s_sd_PUBCHEM\_SHAPE\_FINGERPRINT
+ s_sd_PUBCHEM\_SHAPE\_MULTIPOLES
+ r_sd_PUBCHEM\_SHAPE\_SELFOVERLAP
+ r_sd_PUBCHEM\_SHAPE\_VOLUME
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_PUBCHEM\_EFFECTIVE\_ROTOR\_COUNT
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 79664 
+  1
+  2
+  193 
+  ligand.1 
+  D:\work\244Set\Autodock\cys\MA\3blu 
+  ligand.sdf 
+  1
+  79664
+  0.4
+  "1
+4
+2
+3" 
+  "19
+1 1.33
+10 -0.15
+11 -0.3
+12 0.15
+13 0.15
+14 0.15
+15 0.15
+16 0.15
+17 0.15
+18 0.15
+19 0.15
+2 -0.65
+3 -0.65
+4 -0.01
+5 -0.15
+6 -0.15
+7 -0.15
+8 -0.15
+9 -0.17" 
+  "3
+1 2 acceptor
+1 3 acceptor
+6 4 5 6 7 8 10 rings" 
+  11
+  0
+  0
+  0
+  0
+  0
+  1
+  1
+  0001373000000001 
+  15.3332
+  15.241
+  "10857977 72 18343303703743705819
+12251169 10 18336817667498102888
+12932764 1 17203620280412056583
+13839132 238 18058725780423048728
+15219456 202 17917991642310893058
+16945 1 18188216403308793271
+20201158 50 17918269848616901699
+20645464 45 17775282768108622691
+20653091 64 17749391515800947328
+20715346 28 18130791126866233927
+20871998 184 18129377266772331591
+21040471 1 18339932493713571869
+22445834 79 17749379339215216418
+23402539 116 18269815606724074741
+23552423 10 18334306352764883895
+2748010 2 18049732823691038639
+3248919 1 18411422812729010269
+369184 2 17132114619836662235
+5084963 1 18198921226836255663" 
+  "218.49
+4.88
+1.37
+1.08
+0.83
+0
+-0.01
+-0.01
+1.52
+-0.55
+-0.21
+0.93
+0
+0" 
+  437.744
+  128.2
+  "2
+5
+10" 
+  0
+  0
+  3blu_ligprep_38.maegz 
+  1
+  55137
+  W0NIMl09W0NIXVMoPU8pKD1PKWMxW2NIXVtjSF1bY0hdW2NIXVtjSF0x 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  0
+  S-OPLS 
+  9.822752
+  1
+  79664-1 
+  3blu_ligprep_38 
+  1
+  2
+  3blu_ligprep_38-out1 
+  3blu_ligprep_38-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[19] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  s_m_color_rgb
+  :::
+  1 113 -0.006651 0.016708 -0.000027 900 13 0.88048 0.88048 16 E1E11E 
+  2 15 -0.452673 -0.558017 -1.274656 900 70 -0.54135 -0.54135 8 FF2F2F 
+  3 15 -0.452684 -0.558029 1.274679 900 70 -0.54135 -0.54135 8 FF2F2F 
+  4 2 1.786243 0.004850 -0.000008 900 2 -0.16861 -0.16861 6 A0A0A0 
+  5 2 2.481737 0.000853 -1.212207 900 2 -0.03085 -0.03085 6 A0A0A0 
+  6 2 2.481739 0.000854 1.212230 900 2 -0.03085 -0.03085 6 A0A0A0 
+  7 2 3.874165 -0.007272 -1.210955 900 2 -0.14677 -0.14677 6 A0A0A0 
+  8 2 3.874167 -0.007271 1.210935 900 2 -0.14677 -0.14677 6 A0A0A0 
+  9 2 -0.413904 1.765639 0.000002 900 2 -0.22769 -0.22769 6 A0A0A0 
+  10 2 4.563736 -0.011115 0.000013 900 2 -0.07676 -0.07676 6 A0A0A0 
+  11 2 -1.701811 2.142246 -0.000001 900 2 -0.15087 -0.15087 6 A0A0A0 
+  12 41 1.949713 0.005877 -2.152385 900 21 0.15038 0.15038 1 FFFFFF 
+  13 41 1.949716 0.005879 2.152381 900 21 0.15038 0.15038 1 FFFFFF 
+  14 41 4.417337 -0.010619 -2.144582 900 21 0.13899 0.13899 1 FFFFFF 
+  15 41 4.417340 -0.010617 2.144587 900 21 0.13899 0.13899 1 FFFFFF 
+  16 41 0.407801 2.466113 0.000001 900 21 0.19086 0.19086 1 FFFFFF 
+  17 41 5.643821 -0.017323 -0.000000 900 21 0.13534 0.13534 1 FFFFFF 
+  18 41 -2.500776 1.414669 -0.000002 900 21 0.13823 0.13823 1 FFFFFF 
+  19 41 -1.973806 3.187487 -0.000000 900 21 0.13823 0.13823 1 FFFFFF 
+  :::
+ } 
+ m_bond[19] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 2
+  2 1 3 2
+  3 1 4 1
+  4 1 9 1
+  5 4 5 2
+  6 4 6 1
+  7 5 7 1
+  8 5 12 1
+  9 6 8 2
+  10 6 13 1
+  11 7 10 2
+  12 7 14 1
+  13 8 10 1
+  14 8 15 1
+  15 9 11 2
+  16 9 16 1
+  17 10 17 1
+  18 11 18 1
+  19 11 19 1
+  :::
+ } 
+} 
+

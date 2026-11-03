@@ -1,0 +1,117 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           14-SEP-05   2C1E
+TITLE     CRYSTAL STRUCTURES OF CASPASE-3 IN COMPLEX WITH AZA-PEPTIDE
+TITLE    2 MICHAEL ACCEPTOR INHIBITORS.
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.77 ANGSTROMS
+REMARK   3  R VALUE : 0.163000
+REMARK   3  FREE R VALUE : 0.188000
+REMARK   4 2C1E COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 4.75
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, C
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 350   BIOMT1  2   -1.000000 0.000000 0.000000   66.800000
+REMARK 350   BIOMT2  2   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  2   0.000000 0.000000 -1.000000   96.360000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   66.800   83.820   96.360  90.00  90.00  90.00 I 2 2 2       8
+ATOM      1  N   ASP C   2      41.487  29.022  22.845  1.00 17.94           N  
+ATOM      2  CA  ASP C   2      40.832  29.125  24.142  1.00 17.29           C  
+ATOM      3  C   ASP C   2      40.284  30.515  24.436  1.00 18.01           C  
+ATOM      4  O   ASP C   2      40.835  31.526  23.998  1.00 17.21           O  
+ATOM      5  CB  ASP C   2      41.796  28.723  25.264  1.00 18.18           C  
+ATOM      6  CG  ASP C   2      42.175  27.259  25.209  1.00 17.69           C  
+ATOM      7  OD1 ASP C   2      41.266  26.423  25.032  1.00 17.65           O  
+ATOM      8  OD2 ASP C   2      43.375  26.939  25.355  1.00 16.85           O1-
+ATOM      9  N   GLU C   3      39.179  30.545  25.173  1.00 15.91           N  
+ATOM     10  CA  GLU C   3      38.539  31.785  25.585  1.00 16.41           C  
+ATOM     11  C   GLU C   3      38.253  31.600  27.073  1.00 14.74           C  
+ATOM     12  O   GLU C   3      38.200  30.467  27.553  1.00 12.06           O  
+ATOM     13  CB  GLU C   3      37.230  32.009  24.815  1.00 16.76           C  
+ATOM     14  CG  GLU C   3      37.383  31.984  23.296  1.00 18.65           C  
+ATOM     15  CD  GLU C   3      36.124  32.423  22.560  1.00 21.39           C  
+ATOM     16  OE1 GLU C   3      35.018  31.971  22.924  1.00 21.47           O  
+ATOM     17  OE2 GLU C   3      36.242  33.218  21.605  1.00 22.56           O1-
+ATOM     18  N   VAL C   4      38.084  32.698  27.805  1.00 15.83           N  
+ATOM     19  CA  VAL C   4      37.809  32.611  29.238  1.00 15.34           C  
+ATOM     20  C   VAL C   4      36.350  32.888  29.568  1.00 15.81           C  
+ATOM     21  O   VAL C   4      35.619  33.472  28.767  1.00 16.87           O  
+ATOM     22  CB  VAL C   4      38.682  33.595  30.047  1.00 15.66           C  
+ATOM     23  CG1 VAL C   4      40.145  33.201  29.941  1.00 18.01           C  
+ATOM     24  CG2 VAL C   4      38.466  35.013  29.544  1.00 17.55           C  
+TER      25      VAL C   4
+HETATM   26  C1  PHQ C   1      41.131  28.125  21.936  1.00 19.92           C  
+HETATM   27  O1  PHQ C   1      40.031  27.607  21.783  1.00 17.58           O  
+HETATM   28  O2  PHQ C   1      42.014  28.473  20.949  1.00 20.76           O  
+HETATM   29  C2  PHQ C   1      41.618  28.210  19.574  1.00 21.39           C  
+HETATM   30  C3  PHQ C   1      42.677  28.640  18.540  1.00 21.46           C  
+HETATM   31  C4  PHQ C   1      42.373  28.428  17.139  1.00 22.35           C  
+HETATM   32  C5  PHQ C   1      43.321  28.813  16.113  1.00 21.66           C  
+HETATM   33  C6  PHQ C   1      44.584  29.414  16.485  1.00 21.87           C  
+HETATM   34  C7  PHQ C   1      44.901  29.631  17.881  1.00 21.93           C  
+HETATM   35  C8  PHQ C   1      43.954  29.247  18.907  1.00 23.28           C  
+HETATM   36  N   AA1 C   5      35.760  32.298  30.570  1.00 15.26           N  
+HETATM   37  C   AA1 C   5      34.208  33.472  32.117  1.00 17.25           C  
+HETATM   38  O   AA1 C   5      33.151  33.539  32.741  1.00 15.14           O  
+HETATM   39  N6  AA1 C   5      34.510  32.387  31.321  1.00 17.07           N  
+HETATM   40  C7  AA1 C   5      33.544  31.270  31.233  1.00 14.50           C  
+HETATM   41  C8  AA1 C   5      33.107  30.895  29.836  1.00 13.24           C  
+HETATM   42  O9  AA1 C   5      32.903  31.812  29.003  1.00 13.91           O  
+HETATM   43  O10 AA1 C   5      32.921  29.667  29.585  1.00 10.89           O  
+HETATM   44  C11 AA1 C   5      35.180  34.646  32.273  1.00 17.87           C  
+HETATM   45  C12 AA1 C   5      34.556  36.015  32.679  1.00 22.56           C  
+HETATM   46  C15 AA1 C   5      34.047  36.825  31.511  1.00 24.99           C  
+HETATM   47  O16 AA1 C   5      34.361  36.565  30.348  1.00 27.56           O  
+HETATM   48  O17 AA1 C   5      33.232  37.838  31.880  1.00 26.16           O  
+HETATM   49  C18 AA1 C   5      32.708  38.656  30.807  1.00 27.05           C  
+HETATM   50  C19 AA1 C   5      31.811  39.743  31.435  1.00 27.81           C  
+HETATM   51 HC11 AA1 C   5      36.246  34.563  32.117  1.00  0.00           H  
+HETATM   52 HC12 AA1 C   5      34.519  36.304  33.719  1.00  0.00           H  
+CONECT   26   27   28    1
+CONECT   26   27
+CONECT   27   26
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28   30
+CONECT   30   29   31   35
+CONECT   30   31
+CONECT   31   30   32
+CONECT   31   30
+CONECT   32   31   33
+CONECT   32   33
+CONECT   33   32   34
+CONECT   33   32
+CONECT   34   33   35
+CONECT   34   35
+CONECT   35   30   34
+CONECT   35   34
+CONECT   36   20   39
+CONECT   37   38   39   44
+CONECT   37   38
+CONECT   38   37
+CONECT   38   37
+CONECT   39   36   37   40
+CONECT   40   39   41
+CONECT   41   40   42   43
+CONECT   41   42
+CONECT   42   41
+CONECT   42   41
+CONECT   43   41
+CONECT   44   37   45   51
+CONECT   44   45
+CONECT   45   44   46   52
+CONECT   45   44
+CONECT   46   45   47   48
+CONECT   46   47
+CONECT   47   46
+CONECT   47   46
+CONECT   48   46   49
+CONECT   49   48   50
+CONECT   50   49
+CONECT   51   44
+CONECT   52   45
+END   

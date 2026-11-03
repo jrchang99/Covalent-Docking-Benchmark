@@ -1,0 +1,252 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure61 
+  1
+  13_S_14_16_12_36 
+  16_R_15_19_13_18 
+  19_S_21_16_22_20 
+  0
+  62 
+  Structure61 
+  "STRUCTURE OF PENICILLIN-BINDING PROTEIN A FROM M. TUBERCULOSIS: IMIPENEM ACYL-ENZYME COMPLEX" 
+  3UPN 
+  122.8
+  122.8
+  101.1
+  90
+  90
+  120
+  "P 61" 
+  12
+  "PENICILLIN-BINDING PROTEIN/ANTIBIOTIC" 
+  18-NOV-11 
+  3.30 
+  0.214
+  0.258
+  2.2
+  "X-RAY DIFFRACTION" 
+  100
+  5
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\SER\\BLA\\3upn" 
+  3upn.pdb 
+  1
+  3upn_ligprep_10.maegz 
+  1
+  55137
+  W09IXVtDQEBIXShbQ0gzXSlbQ0BASF0xQyg9TylOKFtDQEhdMTIpQyhDKD1PKVtPSF0pPUMoW0NIMl0yKVNbQ0gyXVtDSDJdW05IXS9bQ0hdPU4vW0hd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0001 
+    0.0001 
+    0.0000 
+    0.0000 
+  9.58029930225199e-05
+  0
+  2
+  "This compound has an imine and may undergo hydrolysis." 
+  0
+  S-OPLS 
+  18.029876
+  1
+  Structure61-1 
+  3upn_ligprep_10 
+  3upn_ligprep_10-out1 
+  3upn_ligprep_10-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[36] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  s_m_chain_name
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_residue_name
+  s_m_pdb_atom_name
+  s_m_grow_name
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_m_pdb_occupancy
+  r_m_pdb_tfactor
+  i_pdb_PDB_serial
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  :::
+  1 2 0.781948 -0.783789 0.446872 800 A 10 -0.24672 -0.24672 "IM2 " " C2 " "    " 6 0 3 1EE11E  "C6430"  1 67.49 6432 <> <> <>
+  2 2 0.414457 0.349920 1.084415 800 A 10 0.05486 0.05486 "IM2 " " C3 " "    " 6 0 3 1EE11E  "C6433"  1 67.16 6435 <> <> <>
+  3 2 1.249786 1.256139 2.050558 800 A 10 0.85801 0.85801 "IM2 " " C31" "    " 6 0 3 1EE11E  "C6439"  1 68.38 6441 <> <> <>
+  4 15 1.970238 0.645022 2.871390 800 A 70 -0.77380 -0.77380 "IM2 " " O31" "    " 8 0 3 FF2E2E  "O6440"  1 68.95 6442 <> <> <>
+  5 18 1.118458 2.490858 1.879110 800 A 70 -0.77380 -0.77380 "IM2 " " O32" "    " 8 -1 3 FF2E2E  "O6441"  1 69.46 6443   2.966    2.220  <>
+  6 49 2.317723 -1.683918 0.535002 800 A 143 -0.08996 -0.08996 "IM2 " " S21" "    " 16 0 3 FFFF6B  "S6442"  1 69.76 6444 <> <> <>
+  7 3 2.938217 -1.610623 -1.175450 800 A 10 -0.09244 -0.09244 "IM2 " " C22" "    " 6 0 3 1EE11E  "C6443"  1 68.88 6445 <> <> <>
+  8 3 3.455233 -0.246326 -1.674912 800 A 10 -0.10444 -0.10444 "IM2 " " C23" "    " 6 0 3 1EE11E  "C6444"  1 68.93 6446 <> <> <>
+  9 25 2.402120 0.706124 -2.033389 800 A 38 -0.02307 -0.02307 "IM2 " " N24" "    " 7 0 3 2E2EFF  "N6445"  1 68.89 6447 <> <> <>
+  10 2 2.163423 1.813870 -1.340699 800 A 10 0.12530 0.12530 "IM2 " " C25" "    " 6 0 3 1EE11E  "C6446"  1 67.77 6448 <> <> <>
+  11 36 1.223211 2.701556 -1.638165 800 A 38 -0.55848 -0.55848 "IM2 " " N26" "    " 7 1 3 2E2EFF  "N6447"  1 66.49 6449 <> <> <>
+  12 3 -0.394675 -1.312681 -0.362069 800 A 10 -0.11040 -0.11040 "IM2 " " C1 " "    " 6 0 3 1EE11E  "C6448"  1 65.49 6450 <> <> <>
+  13 3 -1.495124 -0.249697 -0.175607 800 A 2 -0.06360 -0.06360 "IM2 " "    " "  c1" 6 0 3 A0A0A0  "C23"  <> <> <> <> <> 1
+  14 25 -0.857079 0.692205 0.765997 800 A 43 -0.00227 -0.00227 "IM2 " "    " "  n1" 7 0 3 5757FF  "N20"  <> <> <>  -2.369    2.000  <>
+  15 2 -1.968574 0.742593 1.613968 800 A 2 0.41285 0.41285 "IM2 " "    " "  f1" 6 0 3 A0A0A0  "C25"  <> <> <> <> <> <>
+  16 3 -2.616074 -0.463504 0.873625 800 A 2 -0.14456 -0.14456 "IM2 " "    " "    " 6 0 3 A0A0A0  "C26"  <> <> <> <> <> 1
+  17 15 -2.273262 1.450273 2.572308 800 A 70 -0.43507 -0.43507 "IM2 " "    " "    " 8 0 3 FF2F2F  "O23"  <> <> <>  -1.860    0.900  <>
+  18 41 -2.555134 -1.393048 1.442500 800 A 21 0.13161 0.13161 "IM2 " "    " "    " 1 0 3 FFFFFF  "H33"  <> <> <> <> <> <>
+  19 3 -4.084321 -0.211787 0.432400 800 A 2 0.17189 0.17189 "IM2 " "    " "    " 6 0 3 A0A0A0  "C25"  <> <> <> <> <> 1
+  20 41 -4.717837 -0.194400 1.320685 800 A 21 0.06624 0.06624 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  21 16 -4.266586 1.019281 -0.249475 800 A 70 -0.66271 -0.66271 "IM2 " "    " "    " 8 0 3 FF2F2F  "O27"  <> <> <>   0.251    0.950  <>
+  22 3 -4.595937 -1.328041 -0.492632 800 A 2 -0.18894 -0.18894 "IM2 " "    " "    " 6 0 3 A0A0A0  "C28"  <> <> <> <> <> <>
+  23 42 -3.749928 1.000133 -1.058121 800 A 21 0.41640 0.41640 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <>  15.348    0.730  <>
+  24 41 -4.539647 -2.299396 -0.000409 800 A 21 0.07390 0.07390 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  25 41 -4.008728 -1.391761 -1.409898 800 A 21 0.07390 0.07390 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  26 41 -5.637516 -1.167039 -0.774311 800 A 21 0.07390 0.07390 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  27 41 3.769229 -2.315278 -1.214976 800 A 21 0.07129 0.07129 "IM2 " "H221" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  28 41 2.184188 -2.019114 -1.850022 800 A 21 0.07129 0.07129 "IM2 " "H222" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  29 41 4.102295 0.227897 -0.936522 800 A 21 0.10947 0.10947 "IM2 " "H231" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  30 41 4.041809 -0.377070 -2.584669 800 A 21 0.10947 0.10947 "IM2 " "H232" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  31 43 1.809133 0.495560 -2.823438 800 A 21 0.24792 0.24792 "IM2 " "HN24" "    " 1 0 3 FFFFFF  ""  <> <> <>  11.517    2.220  <>
+  32 41 2.775325 2.016808 -0.473489 800 A 21 0.23589 0.23589 "IM2 " "HC25" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  33 44 0.620913 2.556081 -2.435338 800 A 21 0.36832 0.36832 "IM2 " "HN26" "    " 1 0 3 FFFFFF  ""  <> <> <>  11.412    2.220  <>
+  34 41 -0.138765 -1.403782 -1.417828 800 A 21 0.06310 0.06310 "IM2 " "H1_1" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  35 41 -0.717555 -2.297287 -0.021600 800 A 21 0.06310 0.06310 "IM2 " "H1_2" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  36 41 -1.771327 0.224207 -1.119155 800 A 21 0.10320 0.10320 "IM2 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  :::
+ } 
+ m_bond[37] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 2 3 3
+  2 1 6 1 3 3
+  3 1 12 1 3 3
+  4 2 3 1 3 3
+  5 2 14 1 3 3
+  6 3 4 2 3 3
+  7 3 5 1 3 3
+  8 6 7 1 3 3
+  9 7 8 1 3 3
+  10 7 27 1 3 3
+  11 7 28 1 3 3
+  12 8 9 1 3 3
+  13 8 29 1 3 3
+  14 8 30 1 3 3
+  15 9 10 1 3 3
+  16 9 31 1 3 3
+  17 10 11 2 3 3
+  18 10 32 1 3 3
+  19 11 33 1 3 3
+  20 12 13 1 3 3
+  21 12 34 1 3 3
+  22 12 35 1 3 3
+  23 13 14 1 3 3
+  24 13 16 1 3 3
+  25 13 36 1 3 3
+  26 14 15 1 3 3
+  27 15 16 1 3 3
+  28 15 17 2 3 3
+  29 16 18 1 3 3
+  30 16 19 1 3 3
+  31 19 20 1 3 3
+  32 19 21 1 3 3
+  33 19 22 1 3 3
+  34 21 23 1 3 3
+  35 22 24 1 3 3
+  36 22 25 1 3 3
+  37 22 26 1 3 3
+  :::
+ } 
+} 
+

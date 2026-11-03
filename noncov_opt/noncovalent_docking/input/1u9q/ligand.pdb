@@ -1,0 +1,148 @@
+HEADER    HYDROLASE                               10-AUG-04   1U9Q
+TITLE     CRYSTAL STRUCTURE OF CRUZAIN BOUND TO AN ALPHA-KETOESTER
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    2.30 ANGSTROMS
+REMARK   3  R VALUE : 0.132000
+REMARK   3  FREE R VALUE : 0.218000
+REMARK   4 1U9Q COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 298.00
+REMARK 200  PH                             : 6.00
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: X
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   45.720   50.675   45.576  90.00 116.74  90.00 P 1 21 1      2
+HETATM    1  O34 186 X 300       0.475  13.359   5.695  1.00 28.64           O  
+HETATM    2  C18 186 X 300       0.995  12.321   5.357  1.00 21.96           C  
+HETATM    3  O26 186 X 300       0.973  12.023   3.944  1.00 19.78           O  
+HETATM    4  C27 186 X 300       0.560  13.148   3.100  1.00 18.35           C  
+HETATM    5  C28 186 X 300       0.686  12.931   1.607  1.00 17.07           C  
+HETATM    6  C33 186 X 300      -0.350  12.309   0.884  1.00 16.93           C  
+HETATM    7  C32 186 X 300      -0.176  12.066  -0.476  1.00 14.60           C  
+HETATM    8  C31 186 X 300       1.022  12.460  -1.097  1.00 16.68           C  
+HETATM    9  C30 186 X 300       2.062  13.082  -0.413  1.00 11.43           C  
+HETATM   10  C29 186 X 300       1.862  13.313   0.952  1.00 16.71           C  
+HETATM   11  N17 186 X 300       1.445  11.629   6.375  1.00 23.60           N  
+HETATM   12  C13 186 X 300       2.190  10.451   6.424  1.00 22.36           C  
+HETATM   13  C16 186 X 300       1.655   9.538   7.526  1.00 20.98           C  
+HETATM   14  C20 186 X 300       0.482   8.733   6.974  1.00 19.41           C  
+HETATM   15  C25 186 X 300       0.706   7.615   6.192  1.00 15.30           C  
+HETATM   16  C24 186 X 300      -0.385   6.902   5.702  1.00 16.96           C  
+HETATM   17  C23 186 X 300      -1.693   7.301   5.975  1.00 18.51           C  
+HETATM   18  C22 186 X 300      -1.932   8.427   6.755  1.00 19.47           C  
+HETATM   19  C21 186 X 300      -0.833   9.134   7.252  1.00 18.12           C  
+HETATM   20  C12 186 X 300       3.490  11.081   6.795  1.00 20.66           C  
+HETATM   21  O19 186 X 300       4.330  11.203   5.930  1.00 23.27           O  
+HETATM   22  N11 186 X 300       3.700  11.552   8.002  1.00 20.52           N  
+HETATM   23  C8  186 X 300       5.047  12.139   8.260  1.00 24.07           C  
+HETATM   24  C14 186 X 300       4.976  13.675   8.446  1.00 18.28           C  
+HETATM   25  C7  186 X 300       5.755  11.491   9.463  1.00 25.99           C  
+HETATM   26  C6  186 X 300       5.811  12.333  10.485  1.00 33.26           C  
+HETATM   27  C5  186 X 300       6.354  12.242  11.832  1.00 34.22           C  
+HETATM   28  O10 186 X 300       7.473  11.835  12.067  1.00 35.21           O  
+HETATM   29  C4  186 X 300       5.482  12.769  12.893  1.00 35.26           C  
+HETATM   30  O9  186 X 300       5.543  12.272  13.996  1.00 35.58           O  
+HETATM   31 H271 186 X 300       1.124  14.037   3.383  1.00  0.00           H  
+HETATM   32 H272 186 X 300      -0.469  13.418   3.339  1.00  0.00           H  
+HETATM   33 HC33 186 X 300      -1.264  12.027   1.385  1.00  0.00           H  
+HETATM   34 HC32 186 X 300      -0.957  11.580  -1.042  1.00  0.00           H  
+HETATM   35 HC31 186 X 300       1.167  12.283  -2.153  1.00  0.00           H  
+HETATM   36 HC30 186 X 300       2.964  13.359  -0.938  1.00  0.00           H  
+HETATM   37 HC29 186 X 300       2.652  13.803   1.502  1.00  0.00           H  
+HETATM   38 HN17 186 X 300       1.260  11.940   7.318  1.00  0.00           H  
+HETATM   39 HC13 186 X 300       2.235   9.950   5.457  1.00  0.00           H  
+HETATM   40 H161 186 X 300       1.316  10.144   8.367  1.00  0.00           H  
+HETATM   41 H162 186 X 300       2.443   8.857   7.848  1.00  0.00           H  
+HETATM   42 HC25 186 X 300       1.716   7.306   5.969  1.00  0.00           H  
+HETATM   43 HC24 186 X 300      -0.227   6.021   5.098  1.00  0.00           H  
+HETATM   44 HC23 186 X 300      -2.524   6.735   5.580  1.00  0.00           H  
+HETATM   45 HC22 186 X 300      -2.946   8.735   6.963  1.00  0.00           H  
+HETATM   46 HC21 186 X 300      -1.014  10.007   7.862  1.00  0.00           H  
+HETATM   47 HN11 186 X 300       2.969  11.505   8.697  1.00  0.00           H  
+HETATM   48  HC8 186 X 300       5.660  11.946   7.379  1.00  0.00           H  
+HETATM   49 H141 186 X 300       5.976  14.066   8.632  1.00  0.00           H  
+HETATM   50 H142 186 X 300       4.570  14.132   7.544  1.00  0.00           H  
+HETATM   51 H143 186 X 300       4.332  13.910   9.293  1.00  0.00           H  
+HETATM   52  HC7 186 X 300       6.177  10.501   9.555  1.00  0.00           H  
+HETATM   53  HC6 186 X 300       5.389  13.323  10.393  1.00  0.00           H  
+HETATM   54  HC4 186 X 300       4.805  13.583  12.681  1.00  0.00           H  
+CONECT    1    2
+CONECT    1    2
+CONECT    2    1    3   11
+CONECT    2    1
+CONECT    3    2    4
+CONECT    4    3    5   31   32
+CONECT    5    4    6   10
+CONECT    5    6
+CONECT    6    5    7   33
+CONECT    6    5
+CONECT    7    6    8   34
+CONECT    7    8
+CONECT    8    7    9   35
+CONECT    8    7
+CONECT    9    8   10   36
+CONECT    9   10
+CONECT   10    5    9   37
+CONECT   10    9
+CONECT   11    2   12   38
+CONECT   12   11   13   20   39
+CONECT   13   12   14   40   41
+CONECT   14   13   15   19
+CONECT   14   15
+CONECT   15   14   16   42
+CONECT   15   14
+CONECT   16   15   17   43
+CONECT   16   17
+CONECT   17   16   18   44
+CONECT   17   16
+CONECT   18   17   19   45
+CONECT   18   19
+CONECT   19   14   18   46
+CONECT   19   18
+CONECT   20   12   21   22
+CONECT   20   21
+CONECT   21   20
+CONECT   21   20
+CONECT   22   20   23   47
+CONECT   23   22   24   25   48
+CONECT   24   23   49   50   51
+CONECT   25   23   26   52
+CONECT   25   26
+CONECT   26   25   27   53
+CONECT   26   25
+CONECT   27   26   28   29
+CONECT   27   28
+CONECT   28   27
+CONECT   28   27
+CONECT   29   27   30   54
+CONECT   29   30
+CONECT   30   29
+CONECT   30   29
+CONECT   31    4
+CONECT   32    4
+CONECT   33    6
+CONECT   34    7
+CONECT   35    8
+CONECT   36    9
+CONECT   37   10
+CONECT   38   11
+CONECT   39   12
+CONECT   40   13
+CONECT   41   13
+CONECT   42   15
+CONECT   43   16
+CONECT   44   17
+CONECT   45   18
+CONECT   46   19
+CONECT   47   22
+CONECT   48   23
+CONECT   49   24
+CONECT   50   24
+CONECT   51   24
+CONECT   52   25
+CONECT   53   26
+CONECT   54   29
+END   

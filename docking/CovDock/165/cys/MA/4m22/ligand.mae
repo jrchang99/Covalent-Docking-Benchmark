@@ -1,0 +1,266 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 4M22 
+  1
+  71 
+  4M22.1 
+  "CRYSTAL STRUCTURE OF SMALL MOLECULE ACRYLAMIDE 16 COVALENTLY BOUND TO K-RAS G12C" 
+  4M22 
+  70.906
+  83.457
+  86.924
+  90
+  109.29
+  90
+  "C 1 2 1" 
+  12
+  "SIGNALING PROTEIN/INHIBITOR" 
+  05-AUG-13 
+  3.30 
+  0.179
+  0.216
+  2.09
+  "X-RAY DIFFRACTION" 
+  100
+  7
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\207set\MA\4m22 
+  4M22.pdb 
+  1
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  4m22_ligprep_24.maegz 
+  1
+  55137
+  W0NIMl09W0NIXUMoPU8pTihbQ0gyXVtDSDJdMSlbQ0gyXVtDSDJdTjFDKD1PKVtDSDJdT2MyW2NIXVtjSF1jKENsKVtjSF1jMkNs 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  0
+  S-OPLS 
+  26.292436
+  1
+  4M22-1 
+  4m22_ligprep_24 
+  C 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  4m22_ligprep_24-out1 
+  4m22_ligprep_24-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[38] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  s_m_chain_name
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_residue_name
+  s_m_pdb_atom_name
+  i_m_atomic_number
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_m_pdb_occupancy
+  r_m_pdb_tfactor
+  i_pdb_PDB_serial
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  :::
+  1 3 -0.092628 -0.288421 -0.102212 202 B 10 0.11998 0.11998 "22C " " C10" 6 3 1EE11E  "C7407"  1 27.96 7410 <> <>
+  2 25 -2.007610 1.324650 -0.149737 202 B 38 -0.37069 -0.37069 "22C " " N12" 7 3 2E2EFF  "N7408"  1 23.51 7411 <> <>
+  3 3 -2.941655 0.175908 -0.141316 202 B 10 -0.00045 -0.00045 "22C " " C13" 6 3 1EE11E  "C7409"  1 22.91 7412 <> <>
+  4 2 -6.711807 2.892906 1.040535 202 B 10 -0.22658 -0.22658 "22C " " C17" 6 3 1EE11E  "C7410"  1 18.81 7413 <> <>
+  5 3 -3.870718 2.655199 0.722236 202 B 10 -0.00089 -0.00089 "22C " " C20" 6 3 1EE11E  "C7411"  1 20.71 7414 <> <>
+  6 3 -2.571600 2.693070 -0.118010 202 B 10 -0.00045 -0.00045 "22C " " C21" 6 3 1EE11E  "C7412"  1 21.47 7415 <> <>
+  7 57 4.219298 0.206758 0.234139 202 B 9 -0.11354 -0.11354 "22C " "CL1 " 17 3 008C00  "Cl7413"  1 44.22 7416 <> <>
+  8 2 3.444248 -1.336050 0.133942 202 B 10 0.07204 0.07204 "22C " " C02" 6 3 1EE11E  "C7414"  1 31.23 7417 <> <>
+  9 2 4.231942 -2.488375 0.157859 202 B 10 -0.10599 -0.10599 "22C " " C03" 6 3 1EE11E  "C7415"  1 31.84 7418 <> <>
+  10 2 3.636817 -3.746340 0.080601 202 B 10 0.07008 0.07008 "22C " " C04" 6 3 1EE11E  "C7416"  1 32.17 7419 <> <>
+  11 57 4.613888 -5.168634 0.113042 202 B 9 -0.13946 -0.13946 "22C " "CL2 " 17 3 008C00  "Cl7417"  1 32.06 7420 <> <>
+  12 2 2.251216 -3.853266 -0.021978 202 B 10 -0.10963 -0.10963 "22C " " C06" 6 3 1EE11E  "C7418"  1 32.04 7421 <> <>
+  13 2 1.461712 -2.704051 -0.047371 202 B 10 -0.14412 -0.14412 "22C " " C07" 6 3 1EE11E  "C7419"  1 31.54 7422 <> <>
+  14 2 2.048873 -1.428272 0.030890 202 B 10 0.12723 0.12723 "22C " " C08" 6 3 1EE11E  "C7420"  1 30.8 7423 <> <>
+  15 16 1.330341 -0.246599 0.012262 202 B 70 -0.33250 -0.33250 "22C " " O09" 8 3 FF2E2E  "O7421"  1 29.35 7424 <> <>
+  16 2 -0.658509 1.147700 -0.124897 202 B 10 0.47648 0.47648 "22C " " C11" 6 3 1EE11E  "C7422"  1 26.31 7425 <> <>
+  17 3 -4.289173 0.630176 -0.756452 202 B 10 -0.00089 -0.00089 "22C " " C14" 6 3 1EE11E  "C7423"  1 21.81 7426 <> <>
+  18 25 -4.834213 1.727186 0.077967 202 B 38 -0.37311 -0.37311 "22C " " N15" 7 3 2E2EFF  "N7424"  1 20.29 7427 <> <>
+  19 2 -6.184252 1.929982 0.088072 202 B 10 0.50263 0.50263 "22C " " C16" 6 3 1EE11E  "C7425"  1 19.19 7428 <> <>
+  20 2 -7.959277 3.392773 0.955183 202 B 10 -0.13750 -0.13750 "22C " " C18" 6 3 1EE11E  "C7426"  1 18.5 7429 <> <>
+  21 15 -6.946220 1.295014 -0.648850 202 B 70 -0.52723 -0.52723 "22C " " O19" 8 3 FF2E2E  "O7427"  1 18.24 7430   0.543    0.900 
+  22 15 0.130813 2.096768 -0.120723 202 B 70 -0.49435 -0.49435 "22C " " O22" 8 3 FF2E2E  "O7428"  1 27.6 7431 <> <>
+  23 41 -6.074055 3.208159 1.852737 202 B 21 0.13505 0.13505 "22C " "HC17" 1 3 FFFFFF  ""  <> <> <> <> <>
+  24 41 -8.644453 3.111859 0.167148 202 B 21 0.13079 0.13079 "22C " "H181" 1 3 FFFFFF  ""  <> <> <> <> <>
+  25 41 -8.314682 4.102963 1.687221 202 B 21 0.13079 0.13079 "22C " "H182" 1 3 FFFFFF  ""  <> <> <> <> <>
+  26 41 -0.376521 -0.791415 -1.028325 202 B 21 0.05145 0.05145 "22C " "H101" 1 3 FFFFFF  ""  <> <> <> <> <>
+  27 41 -0.521898 -0.828913 0.743413 202 B 21 0.05145 0.05145 "22C " "H102" 1 3 FFFFFF  ""  <> <> <> <> <>
+  28 41 -2.582740 -0.644318 -0.763334 202 B 21 0.09340 0.09340 "22C " "H131" 1 3 FFFFFF  ""  <> <> <> <> <>
+  29 41 -3.113353 -0.157287 0.883444 202 B 21 0.09340 0.09340 "22C " "H132" 1 3 FFFFFF  ""  <> <> <> <> <>
+  30 41 -3.658326 2.320279 1.738536 202 B 21 0.09401 0.09401 "22C " "H201" 1 3 FFFFFF  ""  <> <> <> <> <>
+  31 41 -4.254137 3.676095 0.746109 202 B 21 0.09401 0.09401 "22C " "H202" 1 3 FFFFFF  ""  <> <> <> <> <>
+  32 41 -1.898645 3.405621 0.361837 202 B 21 0.09340 0.09340 "22C " "H211" 1 3 FFFFFF  ""  <> <> <> <> <>
+  33 41 -2.796598 3.021998 -1.133519 202 B 21 0.09340 0.09340 "22C " "H212" 1 3 FFFFFF  ""  <> <> <> <> <>
+  34 41 5.306236 -2.405353 0.237040 202 B 21 0.16198 0.16198 "22C " "HC03" 1 3 FFFFFF  ""  <> <> <> <> <>
+  35 41 1.785068 -4.825892 -0.081787 202 B 21 0.15047 0.15047 "22C " "HC06" 1 3 FFFFFF  ""  <> <> <> <> <>
+  36 41 0.392323 -2.825535 -0.127577 202 B 21 0.14732 0.14732 "22C " "HC07" 1 3 FFFFFF  ""  <> <> <> <> <>
+  37 41 -4.106913 0.985032 -1.772030 202 B 21 0.09401 0.09401 "22C " "H141" 1 3 FFFFFF  ""  <> <> <> <> <>
+  38 41 -4.943866 -0.243087 -0.752697 202 B 21 0.09401 0.09401 "22C " "H142" 1 3 FFFFFF  ""  <> <> <> <> <>
+  :::
+ } 
+ m_bond[39] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 15 1 3 3
+  2 1 16 1 3 3
+  3 1 26 1 3 3
+  4 1 27 1 3 3
+  5 2 3 1 3 3
+  6 2 6 1 3 3
+  7 2 16 1 3 3
+  8 3 17 1 3 3
+  9 3 28 1 3 3
+  10 3 29 1 3 3
+  11 4 19 1 3 3
+  12 4 20 2 3 3
+  13 4 23 1 3 3
+  14 5 6 1 3 3
+  15 5 18 1 3 3
+  16 5 30 1 3 3
+  17 5 31 1 3 3
+  18 6 32 1 3 3
+  19 6 33 1 3 3
+  20 7 8 1 3 3
+  21 8 9 1 3 3
+  22 8 14 2 3 3
+  23 9 10 2 3 3
+  24 9 34 1 3 3
+  25 10 11 1 3 3
+  26 10 12 1 3 3
+  27 12 13 2 3 3
+  28 12 35 1 3 3
+  29 13 14 1 3 3
+  30 13 36 1 3 3
+  31 14 15 1 3 3
+  32 16 22 2 3 3
+  33 17 18 1 3 3
+  34 17 37 1 3 3
+  35 17 38 1 3 3
+  36 18 19 1 3 3
+  37 19 21 2 3 3
+  38 20 24 1 3 3
+  39 20 25 1 3 3
+  :::
+ } 
+ m_PDB_SEQRES[3] { 
+  s_pdb_chain_id
+  s_pdb_SEQRES
+  :::
+  1 A  "GLY MET THR GLU TYR LYS LEU VAL VAL VAL GLY ALA CYS GLY VAL GLY LYS SER ALA LEU THR ILE GLN LEU ILE GLN ASN HIS PHE VAL ASP GLU TYR ASP PRO THR ILE GLU ASP SER TYR ARG LYS GLN VAL VAL ILE ASP GLY GLU THR SER LEU LEU ASP ILE LEU ASP THR ALA GLY GLN GLU GLU TYR SER ALA MET ARG ASP GLN TYR MET ARG THR GLY GLU GLY PHE LEU LEU VAL PHE ALA ILE ASN ASN THR LYS SER PHE GLU ASP ILE HIS HIS TYR ARG GLU GLN ILE LYS ARG VAL LYS ASP SER GLU ASP VAL PRO MET VAL LEU VAL GLY ASN LYS SER ASP LEU PRO SER ARG THR VAL ASP THR LYS GLN ALA GLN ASP LEU ALA ARG SER TYR GLY ILE PRO PHE ILE GLU THR SER ALA LYS THR ARG GLN GLY VAL ASP ASP ALA PHE TYR THR LEU VAL ARG GLU ILE ARG LYS HIS LYS GLU LYS " 
+  2 B  "GLY MET THR GLU TYR LYS LEU VAL VAL VAL GLY ALA CYS GLY VAL GLY LYS SER ALA LEU THR ILE GLN LEU ILE GLN ASN HIS PHE VAL ASP GLU TYR ASP PRO THR ILE GLU ASP SER TYR ARG LYS GLN VAL VAL ILE ASP GLY GLU THR SER LEU LEU ASP ILE LEU ASP THR ALA GLY GLN GLU GLU TYR SER ALA MET ARG ASP GLN TYR MET ARG THR GLY GLU GLY PHE LEU LEU VAL PHE ALA ILE ASN ASN THR LYS SER PHE GLU ASP ILE HIS HIS TYR ARG GLU GLN ILE LYS ARG VAL LYS ASP SER GLU ASP VAL PRO MET VAL LEU VAL GLY ASN LYS SER ASP LEU PRO SER ARG THR VAL ASP THR LYS GLN ALA GLN ASP LEU ALA ARG SER TYR GLY ILE PRO PHE ILE GLU THR SER ALA LYS THR ARG GLN GLY VAL ASP ASP ALA PHE TYR THR LEU VAL ARG GLU ILE ARG LYS HIS LYS GLU LYS " 
+  3 C  "GLY MET THR GLU TYR LYS LEU VAL VAL VAL GLY ALA CYS GLY VAL GLY LYS SER ALA LEU THR ILE GLN LEU ILE GLN ASN HIS PHE VAL ASP GLU TYR ASP PRO THR ILE GLU ASP SER TYR ARG LYS GLN VAL VAL ILE ASP GLY GLU THR SER LEU LEU ASP ILE LEU ASP THR ALA GLY GLN GLU GLU TYR SER ALA MET ARG ASP GLN TYR MET ARG THR GLY GLU GLY PHE LEU LEU VAL PHE ALA ILE ASN ASN THR LYS SER PHE GLU ASP ILE HIS HIS TYR ARG GLU GLN ILE LYS ARG VAL LYS ASP SER GLU ASP VAL PRO MET VAL LEU VAL GLY ASN LYS SER ASP LEU PRO SER ARG THR VAL ASP THR LYS GLN ALA GLN ASP LEU ALA ARG SER TYR GLY ILE PRO PHE ILE GLU THR SER ALA LYS THR ARG GLN GLY VAL ASP ASP ALA PHE TYR THR LEU VAL ARG GLU ILE ARG LYS HIS LYS GLU LYS " 
+  :::
+ } 
+ m_PDB_het_residues[3] { 
+  s_pdb_het_id
+  s_pdb_het_name
+  s_pdb_het_formula
+  :::
+  1 " MG"  "MAGNESIUM ION"  "MG 2+" 
+  2 "GDP"  "GUANOSINE-5'-DIPHOSPHATE"  "C10 H15 N5 O11 P2" 
+  3 "22C"  "1-{4-[(2,4-DICHLOROPHENOXY)ACETYL]PIPERAZIN-1- YL}PROPAN-1-ONE"  "C15 H18 CL2 N2 O3" 
+  :::
+ } 
+} 
+

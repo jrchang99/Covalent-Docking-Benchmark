@@ -1,0 +1,170 @@
+HEADER    HYDROLASE                               13-OCT-09   3K84
+TITLE     CRYSTAL STRUCTURE ANALYSIS OF A OLEYL/OXADIAZOLE/PYRIDINE
+TITLE    2 INHIBITOR BOUND TO A HUMANIZED VARIANT OF FATTY ACID AMIDE
+TITLE    3 HYDROLASE
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    2.25 ANGSTROMS
+REMARK   3  R VALUE : 0.166000
+REMARK   3  FREE R VALUE : 0.211000
+REMARK   4 3K84 COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 7.50
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1  104.050  104.050  255.320  90.00  90.00 120.00 P 32 2 1     12
+HETATM    1  C21 K84 A   1     -44.878  -4.946  -2.375  1.00 33.96           C  
+HETATM    2  C22 K84 A   1     -45.185  -5.062  -3.680  1.00 34.79           C  
+HETATM    3  C23 K84 A   1     -46.541  -5.401  -4.273  1.00 32.34           C  
+HETATM    4  C24 K84 A   1     -46.457  -5.670  -5.790  1.00 30.27           C  
+HETATM    5  C25 K84 A   1     -47.545  -6.599  -6.354  1.00 29.54           C  
+HETATM    6  C26 K84 A   1     -47.512  -8.023  -5.799  1.00 21.84           C  
+HETATM    7  C27 K84 A   1     -48.570  -8.888  -6.485  1.00 29.10           C  
+HETATM    8  C28 K84 A   1     -48.729 -10.276  -5.854  1.00 30.49           C  
+HETATM    9  C29 K84 A   1     -47.441 -11.109  -5.837  1.00 35.49           C  
+HETATM   10  C30 K84 A   1     -46.794 -11.279  -7.216  1.00 34.53           C  
+HETATM   11  OAA K84 A   1     -51.254   2.153  -1.445  1.00 19.59           O  
+HETATM   12  CAD K84 A   1     -45.846   7.211  -4.336  1.00 62.46           C  
+HETATM   13  CAG K84 A   1     -45.463   5.940  -3.883  1.00 67.00           C  
+HETATM   14  CAH K84 A   1     -47.030   7.786  -3.856  1.00 54.25           C  
+HETATM   15  CAK K84 A   1     -46.302   5.287  -2.972  1.00 59.19           C  
+HETATM   16  NAL K84 A   1     -49.379   5.740  -0.876  1.00 31.11           N  
+HETATM   17  CAM K84 A   1     -48.001  -1.913  -0.930  1.00 29.42           C  
+HETATM   18  CAN K84 A   1     -49.183  -1.455  -1.783  1.00 33.19           C  
+HETATM   19  CAO K84 A   1     -47.338  -3.147  -1.534  1.00 26.38           C  
+HETATM   20  CAP K84 A   1     -49.987  -0.329  -1.135  1.00 37.89           C  
+HETATM   21  CAQ K84 A   1     -46.293  -3.793  -0.618  1.00 33.83           C  
+HETATM   22  CAR K84 A   1     -49.196   0.993  -0.988  1.00 35.56           C  
+HETATM   23  NAS K84 A   1     -47.817   7.180  -2.952  1.00 44.47           N  
+HETATM   24  NAT K84 A   1     -50.071   4.660  -0.392  1.00 34.71           N  
+HETATM   25  OAU K84 A   1     -48.415   3.885  -1.711  1.00 33.92           O  
+HETATM   26  CAV K84 A   1     -45.819  -5.128  -1.199  1.00 36.25           C  
+HETATM   27  CAW K84 A   1     -47.481   5.937  -2.549  1.00 41.49           C  
+HETATM   28  CAX K84 A   1     -48.441   5.240  -1.700  1.00 30.18           C  
+HETATM   29  CAY K84 A   1     -49.504   3.595  -0.968  1.00 40.46           C  
+HETATM   30  CAZ K84 A   1     -50.073   2.248  -1.110  1.00 31.36           C  
+HETATM   31 HC21 K84 A   1     -43.865  -4.683  -2.110  1.00  0.00           H  
+HETATM   32 HC22 K84 A   1     -44.399  -4.889  -4.394  1.00  0.00           H  
+HETATM   33 H231 K84 A   1     -47.234  -4.580  -4.093  1.00  0.00           H  
+HETATM   34 H232 K84 A   1     -46.945  -6.255  -3.738  1.00  0.00           H  
+HETATM   35 H241 K84 A   1     -45.496  -6.096  -6.059  1.00  0.00           H  
+HETATM   36 H242 K84 A   1     -46.497  -4.716  -6.318  1.00  0.00           H  
+HETATM   37 H251 K84 A   1     -47.441  -6.631  -7.440  1.00  0.00           H  
+HETATM   38 H252 K84 A   1     -48.536  -6.210  -6.173  1.00  0.00           H  
+HETATM   39 H261 K84 A   1     -47.712  -8.019  -4.729  1.00  0.00           H  
+HETATM   40 H262 K84 A   1     -46.517  -8.445  -5.938  1.00  0.00           H  
+HETATM   41 H271 K84 A   1     -48.320  -8.970  -7.543  1.00  0.00           H  
+HETATM   42 H272 K84 A   1     -49.535  -8.382  -6.443  1.00  0.00           H  
+HETATM   43 H281 K84 A   1     -49.507 -10.825  -6.385  1.00  0.00           H  
+HETATM   44 H282 K84 A   1     -49.099 -10.163  -4.833  1.00  0.00           H  
+HETATM   45 H291 K84 A   1     -47.696 -12.090  -5.445  1.00  0.00           H  
+HETATM   46 H292 K84 A   1     -46.720 -10.681  -5.140  1.00  0.00           H  
+HETATM   47 H301 K84 A   1     -45.985 -12.009  -7.181  1.00  0.00           H  
+HETATM   48 H302 K84 A   1     -47.533 -11.621  -7.940  1.00  0.00           H  
+HETATM   49 H303 K84 A   1     -46.378 -10.340  -7.582  1.00  0.00           H  
+HETATM   50 HCAD K84 A   1     -45.264   7.727  -5.078  1.00  0.00           H  
+HETATM   51 HCAG K84 A   1     -44.560   5.469  -4.247  1.00  0.00           H  
+HETATM   52 HCAH K84 A   1     -47.348   8.759  -4.198  1.00  0.00           H  
+HETATM   53 HCAK K84 A   1     -46.064   4.289  -2.633  1.00  0.00           H  
+HETATM   54 HAM1 K84 A   1     -48.344  -2.138   0.081  1.00  0.00           H  
+HETATM   55 HAM2 K84 A   1     -47.265  -1.116  -0.857  1.00  0.00           H  
+HETATM   56 HAN1 K84 A   1     -49.854  -2.301  -1.940  1.00  0.00           H  
+HETATM   57 HAN2 K84 A   1     -48.841  -1.153  -2.774  1.00  0.00           H  
+HETATM   58 HAO1 K84 A   1     -46.882  -2.877  -2.487  1.00  0.00           H  
+HETATM   59 HAO2 K84 A   1     -48.110  -3.883  -1.763  1.00  0.00           H  
+HETATM   60 HAP1 K84 A   1     -50.346  -0.654  -0.157  1.00  0.00           H  
+HETATM   61 HAP2 K84 A   1     -50.881  -0.206  -1.740  1.00  0.00           H  
+HETATM   62 HAQ1 K84 A   1     -46.738  -3.977   0.360  1.00  0.00           H  
+HETATM   63 HAQ2 K84 A   1     -45.451  -3.119  -0.454  1.00  0.00           H  
+HETATM   64 HAR1 K84 A   1     -48.421   1.054  -1.753  1.00  0.00           H  
+HETATM   65 HAR2 K84 A   1     -48.692   0.969  -0.029  1.00  0.00           H  
+HETATM   66 HAV1 K84 A   1     -45.301  -5.711  -0.437  1.00  0.00           H  
+HETATM   67 HAV2 K84 A   1     -46.696  -5.705  -1.484  1.00  0.00           H  
+HETATM   68 HOAA K84 A   1     -51.693   1.563  -0.802  1.00  0.00           H  
+CONECT    1    2   26   31
+CONECT    1    2
+CONECT    2    1    3   32
+CONECT    2    1
+CONECT    3    2    4   33   34
+CONECT    4    3    5   35   36
+CONECT    5    4    6   37   38
+CONECT    6    5    7   39   40
+CONECT    7    6    8   41   42
+CONECT    8    7    9   43   44
+CONECT    9    8   10   45   46
+CONECT   10    9   47   48   49
+CONECT   11   30   68
+CONECT   11   30
+CONECT   12   13   14   50
+CONECT   12   13
+CONECT   13   12   15   51
+CONECT   13   12
+CONECT   14   12   23   52
+CONECT   14   23
+CONECT   15   13   27   53
+CONECT   15   27
+CONECT   16   24   28
+CONECT   16   28
+CONECT   17   18   19   54   55
+CONECT   18   17   20   56   57
+CONECT   19   17   21   58   59
+CONECT   20   18   22   60   61
+CONECT   21   19   26   62   63
+CONECT   22   20   30   64   65
+CONECT   23   14   27
+CONECT   23   14
+CONECT   24   16   29
+CONECT   24   29
+CONECT   25   28   29
+CONECT   26    1   21   66   67
+CONECT   27   15   23   28
+CONECT   27   15
+CONECT   28   16   25   27
+CONECT   28   16
+CONECT   29   24   25   30
+CONECT   29   24
+CONECT   30   11   22   29
+CONECT   30   11
+CONECT   31    1
+CONECT   32    2
+CONECT   33    3
+CONECT   34    3
+CONECT   35    4
+CONECT   36    4
+CONECT   37    5
+CONECT   38    5
+CONECT   39    6
+CONECT   40    6
+CONECT   41    7
+CONECT   42    7
+CONECT   43    8
+CONECT   44    8
+CONECT   45    9
+CONECT   46    9
+CONECT   47   10
+CONECT   48   10
+CONECT   49   10
+CONECT   50   12
+CONECT   51   13
+CONECT   52   14
+CONECT   53   15
+CONECT   54   17
+CONECT   55   17
+CONECT   56   18
+CONECT   57   18
+CONECT   58   19
+CONECT   59   19
+CONECT   60   20
+CONECT   61   20
+CONECT   62   21
+CONECT   63   21
+CONECT   64   22
+CONECT   65   22
+CONECT   66   26
+CONECT   67   26
+CONECT   68   11
+END   

@@ -1,0 +1,153 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_m_entry_id
+ s_m_entry_name
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_source_file
+ i_m_source_file_index
+ r_lp_tautomer_probability
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure19 
+  1
+  21 
+  Structure19 
+  55137
+  Tz1TKD1PKShbT0hdKVtDSDJdW0NIMl1TU1tDSDJdW0NIMl1TKD1PKSg9TylbT0hd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  3.56441205952372e-08
+  -2
+  2
+  0
+  S-OPLS 
+  1.102461
+  1
+  Structure19-1 
+  4pok_ligprep_49 
+  4pok_ligprep_49.maegz 
+  1
+  1
+  4pok_ligprep_49-out1 
+  4pok_ligprep_49-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[22] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  i_m_Hcount
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  :::
+  1 113 -2.203299 3.553995 -1.100932 1 13 1.28817 1.28817 16 0 3 E1E11E  "S1"  0 <> <>
+  2 15 -1.325264 4.624103 -0.614747 1 70 -0.73444 -0.73444 8 0 3 FF2F2F  "O2"  0 <> <>
+  3 15 -1.978343 3.165774 -2.497610 1 70 -0.73444 -0.73444 8 0 3 FF2F2F  "O4"  0 <> <>
+  4 18 -3.614589 3.710810 -0.733260 1 70 -0.73444 -0.73444 8 -1 3 FF2F2F  "O5"  0  -0.221    2.000 
+  5 3 -1.657481 2.034359 -0.111779 1 2 -0.26180 -0.26180 6 0 3 A0A0A0  "C6"  2 <> <>
+  6 41 -1.829774 2.252909 0.942175 1 21 0.11687 0.11687 1 0 3 FFFFFF  ""  0 <> <>
+  7 3 -0.180461 1.708952 -0.379366 1 2 -0.04697 -0.04697 6 0 3 A0A0A0  "C8"  2 <> <>
+  8 41 -2.303989 1.204692 -0.397344 1 21 0.11687 0.11687 1 0 3 FFFFFF  ""  0 <> <>
+  9 49 0.455003 0.328907 0.607892 1 13 -0.23946 -0.23946 16 0 3 E1E11E  "S10"  0 <> <>
+  10 41 -0.036565 1.470213 -1.433589 1 21 0.11482 0.11482 1 0 3 FFFFFF  ""  0 <> <>
+  11 41 0.437453 2.582874 -0.170696 1 21 0.11482 0.11482 1 0 3 FFFFFF  ""  0 <> <>
+  12 49 2.419612 0.202897 0.076761 1 13 -0.23946 -0.23946 16 0 3 E1E11E  "S13"  0 <> <>
+  13 3 2.411809 -0.840372 -1.404614 1 2 -0.04697 -0.04697 6 0 3 A0A0A0  "C14"  2 <> <>
+  14 3 3.807415 -1.082391 -1.998675 1 2 -0.26180 -0.26180 6 0 3 A0A0A0  "C15"  2 <> <>
+  15 41 1.947852 -1.791647 -1.142473 1 21 0.11482 0.11482 1 0 3 FFFFFF  ""  0 <> <>
+  16 41 1.766161 -0.373214 -2.148975 1 21 0.11482 0.11482 1 0 3 FFFFFF  ""  0 <> <>
+  17 113 3.716710 -2.265440 -3.474325 1 13 1.28817 1.28817 16 0 3 E1E11E  "S18"  0 <> <>
+  18 41 4.254238 -0.152040 -2.349143 1 21 0.11687 0.11687 1 0 3 FFFFFF  ""  0 <> <>
+  19 41 4.479387 -1.527593 -1.264922 1 21 0.11687 0.11687 1 0 3 FFFFFF  ""  0 <> <>
+  20 18 5.110136 -2.358428 -3.923256 1 70 -0.73444 -0.73444 8 -1 3 FF2F2F  "O21"  0  -0.221    2.000 
+  21 15 3.179628 -3.504284 -2.900428 1 70 -0.73444 -0.73444 8 0 3 FF2F2F  "O22"  0 <> <>
+  22 15 2.818098 -1.587474 -4.415337 1 70 -0.73444 -0.73444 8 0 3 FF2F2F  "O23"  0 <> <>
+  :::
+ } 
+ m_bond[21] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 2 3 3
+  2 1 3 2 3 3
+  3 1 4 1 3 3
+  4 1 5 1 3 3
+  5 5 6 1 3 3
+  6 5 7 1 3 3
+  7 5 8 1 3 3
+  8 7 9 1 3 3
+  9 7 10 1 3 3
+  10 7 11 1 3 3
+  11 9 12 1 3 3
+  12 12 13 1 3 3
+  13 13 14 1 3 3
+  14 13 15 1 3 3
+  15 13 16 1 3 3
+  16 14 17 1 3 3
+  17 14 18 1 3 3
+  18 14 19 1 3 3
+  19 17 20 1 3 3
+  20 17 21 2 3 3
+  21 17 22 2 3 3
+  :::
+ } 
+} 
+

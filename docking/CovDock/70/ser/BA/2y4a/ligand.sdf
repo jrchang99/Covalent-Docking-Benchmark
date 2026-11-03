@@ -1,0 +1,245 @@
+70683815
+                    3D
+ Schrodinger Suite 2021-3.
+ 23 23  0  0  1  0            999 V2000
+   -4.1257    2.7774   -1.0715 Cl  0  0  0  0  0  0
+   -1.5053    1.3507   -1.9210 O   0  0  0  0  0  0
+    2.4542    0.1438   -1.2130 O   0  0  0  0  0  0
+    2.4706   -0.0453    1.1468 O   0  0  0  0  0  0
+   -0.2945    1.3799    0.0064 N   0  0  0  0  0  0
+   -1.4582    3.3826   -0.6664 C   0  0  0  0  0  0
+   -1.0905    1.9417   -0.9225 C   0  0  0  0  0  0
+    0.2154    0.0102   -0.0226 C   0  0  0  0  0  0
+   -2.7952    3.8323   -0.7185 C   0  0  0  0  0  0
+   -0.4494    4.3014   -0.3340 C   0  0  0  0  0  0
+   -3.0889    5.1738   -0.4615 C   0  0  0  0  0  0
+   -0.7543    5.6373   -0.0794 C   0  0  0  0  0  0
+   -2.0743    6.0743   -0.1453 C   0  0  0  0  0  0
+    1.7883    0.0242   -0.0303 B   0  0  0  0  0  0
+   -0.1338   -0.5152    0.8670 H   0  0  0  0  0  0
+   -0.1392   -0.5605   -0.8833 H   0  0  0  0  0  0
+   -0.0168    1.9396    0.7995 H   0  0  0  0  0  0
+    0.5842    3.9889   -0.2796 H   0  0  0  0  0  0
+   -4.1114    5.5201   -0.5017 H   0  0  0  0  0  0
+    0.0336    6.3333    0.1685 H   0  0  0  0  0  0
+   -2.3121    7.1090    0.0526 H   0  0  0  0  0  0
+    1.8496    0.1971   -1.9568 H   0  0  0  0  0  0
+    3.4198   -0.0139    1.0072 H   0  0  0  0  0  0
+  1  9  1  0  0  0
+  2  7  2  0  0  0
+  3 14  1  0  0  0
+  3 22  1  0  0  0
+  4 14  1  0  0  0
+  4 23  1  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  5 17  1  0  0  0
+  6  7  1  0  0  0
+  6  9  1  0  0  0
+  6 10  2  0  0  0
+  8 14  1  0  0  0
+  8 15  1  0  0  0
+  8 16  1  0  0  0
+  9 11  2  0  0  0
+ 10 12  1  0  0  0
+ 10 18  1  0  0  0
+ 11 13  1  0  0  0
+ 11 19  1  0  0  0
+ 12 13  2  0  0  0
+ 12 20  1  0  0  0
+ 13 21  1  0  0  0
+M  END
+> <s_m_entry_id>
+28
+
+> <s_m_entry_name>
+ligand.1
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SER\BA\2y4a
+
+> <s_m_Source_File>
+ligand.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <PUBCHEM_COMPOUND_CID>
+70683815
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+203
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+3
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccJyMAAEAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAoHgIQCAAADAKBmCQwAILAAACIAiFSEACCAAAkBQAIiIEIBsgIIDKBlxGEIQhgggAIjYcYiACOAAAAAAABAAAAAAAAAAIAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(2-chlorobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[[(2-chlorophenyl)-oxomethyl]amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[(2-chlorobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_NAME>
+[(2-chlorobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(2-chlorophenyl)carbonylamino]methylboronic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[(2-chlorobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H9BClNO3/c10-7-4-2-1-3-6(7)8(12)11-5-9(13)14/h1-4,13-14H,5H2,(H,11,12)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+LXIUYRUEMMFAQV-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+213.036401
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H9BClNO3
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+213.43
+
+> <PUBCHEM_SMILES>
+B(CNC(=O)C1=CC=CC=C1Cl)(O)O
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+B(CNC(=O)C1=CC=CC=C1Cl)(O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+B(CNC(=O)C1=CC=CC=C1Cl)(O)O
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+213.036401
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+14
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+10  12  8
+11  13  8
+12  13  8
+6  10  8
+6  9  8
+9  11  8
+
+> <s_m_source_file>
+2y4a_ligprep_11.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1jKENsKWMxQyg9TylbTkhdW0NIMl1CKFtPSF0pW09IXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+11.511339
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+70683815-1
+
+> <s_m_job_name>
+2y4a_ligprep_11
+
+> <PUBCHEM_CACTVS_TPSA>
+69.6
+
+> <s_m_subgroup_title>
+2y4a_ligprep_11-out1
+
+> <s_m_subgroupid>
+2y4a_ligprep_11-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

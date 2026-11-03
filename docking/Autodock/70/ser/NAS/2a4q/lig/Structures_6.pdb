@@ -1,0 +1,156 @@
+TITLE     structures_6
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  SER A 139     197.630  -2.084  54.575  1.00  0.00           C  
+ATOM      2  CB  SER A 139     198.165  -3.510  54.409  1.00  0.00           C  
+ATOM      3  OG  SER A 139     198.195  -3.922  53.046  1.00  0.00           O  
+ATOM      4  CX  SER A 139     198.225  -4.335  51.678  1.00  0.00           C  
+ATOM      5  OX  SER A 139     196.892  -3.837  51.538  1.00  0.00           O  
+ATOM      6  CX  SER A 139     199.501  -3.497  51.429  1.00  0.00           C  
+ATOM      7  OX  SER A 139     199.866  -3.236  50.252  1.00  0.00           O  
+ATOM      8  NX  SER A 139     200.286  -2.987  52.560  1.00  0.00           N  
+ATOM      9  CX  SER A 139     201.594  -2.506  52.078  1.00  0.00           C  
+ATOM     10  CX  SER A 139     202.410  -3.638  51.429  1.00  0.00           C  
+ATOM     11  NX  SER A 139     202.237  -3.847  49.978  1.00  0.00           N  
+ATOM     12  OX  SER A 139     203.189  -4.360  52.108  1.00  0.00           O  
+ATOM     13  CX  SER A 139     203.443  -4.416  49.371  1.00  0.00           C  
+ATOM     14  CX  SER A 139     203.537  -5.949  49.195  1.00  0.00           C  
+ATOM     15  CX  SER A 139     204.476  -6.646  49.885  1.00  0.00           C  
+ATOM     16  CX  SER A 139     204.595  -8.173  49.709  1.00  0.00           C  
+ATOM     17  CX  SER A 139     203.756  -8.823  48.868  1.00  0.00           C  
+ATOM     18  CX  SER A 139     202.688  -8.035  48.085  1.00  0.00           C  
+ATOM     19  CX  SER A 139     202.583  -6.690  48.240  1.00  0.00           C  
+ATOM     20  CX  SER A 139     204.592  -3.500  48.913  1.00  0.00           C  
+ATOM     21  OX  SER A 139     205.594  -3.325  49.653  1.00  0.00           O  
+ATOM     22  OX  SER A 139     204.523  -2.846  47.646  1.00  0.00           O  
+ATOM     23  CX  SER A 139     198.580  -5.778  52.096  1.00  0.00           C  
+ATOM     24  CX  SER A 139     200.063  -5.883  52.498  1.00  0.00           C  
+ATOM     25  CX  SER A 139     200.829  -6.685  51.424  1.00  0.00           C  
+ATOM     26  CX  SER A 139     201.511  -7.901  52.080  1.00  0.00           C  
+ATOM     27  NX  SER A 139     198.338  -6.670  50.961  1.00  0.00           N  
+ATOM     28  CX  SER A 139     197.835  -7.969  51.412  1.00  0.00           C  
+ATOM     29  OX  SER A 139     197.230  -8.072  52.513  1.00  0.00           O  
+ATOM     30  CX  SER A 139     198.026  -9.196  50.514  1.00  0.00           C  
+ATOM     31  CX  SER A 139     199.526  -9.458  50.299  1.00  0.00           C  
+ATOM     32  CX  SER A 139     199.646 -10.657  49.349  1.00  0.00           C  
+ATOM     33  CX  SER A 139     200.568 -10.625  48.364  1.00  0.00           C  
+ATOM     34  CX  SER A 139     198.699 -11.870  49.497  1.00  0.00           C  
+ATOM     35  CX  SER A 139     200.527 -11.688  47.254  1.00  0.00           C  
+ATOM     36  CX  SER A 139     199.603 -12.677  47.301  1.00  0.00           C  
+ATOM     37  CX  SER A 139     198.667 -12.809  48.521  1.00  0.00           C  
+ATOM     38  CX  SER A 139     197.712 -14.019  48.589  1.00  0.00           C  
+ATOM     39  CX  SER A 139     196.251 -13.547  48.422  1.00  0.00           C  
+ATOM     40  CX  SER A 139     196.067 -12.593  47.235  1.00  0.00           C  
+ATOM     41  CX  SER A 139     194.589 -12.162  47.248  1.00  0.00           C  
+ATOM     42  CX  SER A 139     194.348 -10.991  46.287  1.00  0.00           C  
+ATOM     43  CX  SER A 139     192.866 -10.576  46.399  1.00  0.00           C  
+ATOM     44  CX  SER A 139     192.644  -9.243  45.665  1.00  0.00           C  
+ATOM     45  CX  SER A 139     193.602  -8.226  46.316  1.00  0.00           C  
+ATOM     46  NX  SER A 139     194.053  -8.525  47.686  1.00  0.00           N  
+ATOM     47  OX  SER A 139     193.999  -7.200  45.703  1.00  0.00           O  
+ATOM     48  CX  SER A 139     195.443  -8.081  47.858  1.00  0.00           C  
+ATOM     49  CX  SER A 139     196.009  -8.678  49.168  1.00  0.00           C  
+ATOM     50  OX  SER A 139     195.277  -8.902  50.164  1.00  0.00           O  
+ATOM     51  NX  SER A 139     197.443  -9.000  49.170  1.00  0.00           N  
+ATOM     52  CX  SER A 139     195.509  -6.540  47.873  1.00  0.00           C  
+ATOM     53  CX  SER A 139     195.762  -6.050  49.312  1.00  0.00           C  
+ATOM     54  CX  SER A 139     195.819  -4.511  49.332  1.00  0.00           C  
+ATOM     55  CX  SER A 139     196.963  -4.031  48.418  1.00  0.00           C  
+ATOM     56  CX  SER A 139     196.713  -4.521  46.979  1.00  0.00           C  
+ATOM     57  CX  SER A 139     196.654  -6.062  46.963  1.00  0.00           C  
+ATOM     58  H   SER A 139     196.261  -4.564  51.657  1.00  0.00           H  
+ATOM     59  H   SER A 139     199.985  -2.969  53.496  1.00  0.00           H  
+ATOM     60  H   SER A 139     201.415  -3.630  49.481  1.00  0.00           H  
+ATOM     61  H   SER A 139     198.495  -6.429  50.019  1.00  0.00           H  
+ATOM     62  H   SER A 139     193.506  -8.958  48.381  1.00  0.00           H  
+ATOM     63  H   SER A 139     197.972  -9.077  48.344  1.00  0.00           H  
+ATOM     64  HX  SER A 139     203.901  -4.500  50.357  1.00  0.00           H  
+TER      65      SER A 139
+CONECT    3    4
+CONECT    4    3    6    5   23
+CONECT    5    4   58
+CONECT   58    5
+CONECT    6    4    7    8
+CONECT    6    7
+CONECT    7    6
+CONECT    7    6
+CONECT    8    6    9   59
+CONECT   59    8
+CONECT    9    8   10
+CONECT   10    9   11   12
+CONECT   10   12
+CONECT   11   10   13   60
+CONECT   60   11
+CONECT   12   10
+CONECT   12   10
+CONECT   13   11   20   14   64
+CONECT   14   13   19   15
+CONECT   14   19
+CONECT   15   14   16
+CONECT   15   16
+CONECT   16   15   17
+CONECT   16   15
+CONECT   17   16   18
+CONECT   17   18
+CONECT   18   17   19
+CONECT   18   17
+CONECT   19   14   18
+CONECT   19   14
+CONECT   20   13   22   21
+CONECT   20   22
+CONECT   21   20
+CONECT   22   20
+CONECT   22   20
+CONECT   23    4   27   24
+CONECT   24   23   25
+CONECT   25   24   26
+CONECT   26   25
+CONECT   27   23   61   28
+CONECT   28   27   30   29
+CONECT   28   29
+CONECT   29   28
+CONECT   29   28
+CONECT   61   27
+CONECT   30   28   51   31
+CONECT   31   30   32
+CONECT   32   31   33   34
+CONECT   32   33
+CONECT   33   32   35
+CONECT   33   32
+CONECT   34   32   37
+CONECT   34   37
+CONECT   35   33   36
+CONECT   35   36
+CONECT   36   35   37
+CONECT   36   35
+CONECT   37   34   36   38
+CONECT   37   34
+CONECT   38   37   39
+CONECT   39   38   40
+CONECT   40   39   41
+CONECT   41   40   42
+CONECT   42   41   43
+CONECT   43   42   44
+CONECT   44   43   45
+CONECT   45   44   47   46
+CONECT   45   47
+CONECT   46   45   48   62
+CONECT   47   45
+CONECT   47   45
+CONECT   62   46
+CONECT   48   46   52   49
+CONECT   49   48   51   50
+CONECT   49   50
+CONECT   50   49
+CONECT   50   49
+CONECT   51   30   49   63
+CONECT   63   51
+CONECT   52   48   57   53
+CONECT   53   52   54
+CONECT   54   53   55
+CONECT   55   54   56
+CONECT   56   55   57
+CONECT   57   52   56
+CONECT   64   13
+END   

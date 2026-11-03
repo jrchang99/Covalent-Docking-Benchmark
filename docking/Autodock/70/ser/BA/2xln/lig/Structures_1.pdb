@@ -1,0 +1,60 @@
+TITLE     structures_1
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  SER A  49       0.461  -5.570  35.411  1.00  0.00           C  
+ATOM      2  CB  SER A  49      -0.037  -4.852  36.661  1.00  0.00           C  
+ATOM      3  OG  SER A  49       0.463  -3.532  36.689  1.00  0.00           O  
+ATOM      4  BX  SER A  49      -0.697  -2.541  36.488  1.00  0.00           B1-
+ATOM      5  OX  SER A  49      -1.899  -3.280  35.868  1.00  0.00           O  
+ATOM      6  OX  SER A  49      -1.107  -1.942  37.846  1.00  0.00           O  
+ATOM      7  CX  SER A  49      -0.216  -1.330  35.474  1.00  0.00           C  
+ATOM      8  CX  SER A  49       0.843  -1.871  34.494  1.00  0.00           C  
+ATOM      9  NX  SER A  49      -1.374  -0.834  34.715  1.00  0.00           N  
+ATOM     10  CX  SER A  49      -1.097   0.534  34.255  1.00  0.00           C  
+ATOM     11  OX  SER A  49       0.087   0.889  34.019  1.00  0.00           O  
+ATOM     12  CX  SER A  49      -2.252   1.534  34.062  1.00  0.00           C  
+ATOM     13  CX  SER A  49      -3.110   1.966  35.267  1.00  0.00           C  
+ATOM     14  CX  SER A  49      -4.127   2.846  35.094  1.00  0.00           C  
+ATOM     15  CX  SER A  49      -4.424   3.412  33.693  1.00  0.00           C  
+ATOM     16  CX  SER A  49      -3.670   3.032  32.633  1.00  0.00           C  
+ATOM     17  CX  SER A  49      -2.513   2.035  32.829  1.00  0.00           C  
+ATOM     18  OX  SER A  49      -2.837   1.442  36.569  1.00  0.00           O  
+ATOM     19  CX  SER A  49      -3.676   0.307  36.808  1.00  0.00           C  
+ATOM     20  OX  SER A  49      -1.715   1.636  31.711  1.00  0.00           O  
+ATOM     21  CX  SER A  49      -2.005   2.478  30.593  1.00  0.00           C  
+ATOM     22  H   SER A  49      -2.536  -2.632  35.528  1.00  0.00           H  
+ATOM     23  H   SER A  49      -0.312  -1.752  38.368  1.00  0.00           H  
+ATOM     24  H   SER A  49      -2.201  -1.338  34.541  1.00  0.00           H  
+TER      25      SER A  49
+CONECT    3    4
+CONECT    4    3    7    5    6
+CONECT    5    4   22
+CONECT   22    5
+CONECT    6    4   23
+CONECT   23    6
+CONECT    7    4    8    9
+CONECT    8    7
+CONECT    9    7   10   24
+CONECT   24    9
+CONECT   10    9   11   12
+CONECT   10   11
+CONECT   11   10
+CONECT   11   10
+CONECT   12   10   17   13
+CONECT   12   17
+CONECT   13   12   14   18
+CONECT   13   14
+CONECT   14   13   15
+CONECT   14   13
+CONECT   15   14   16
+CONECT   15   16
+CONECT   16   15   17
+CONECT   16   15
+CONECT   17   12   16   20
+CONECT   17   12
+CONECT   18   13   19
+CONECT   19   18
+CONECT   20   17   21
+CONECT   21   20
+END   

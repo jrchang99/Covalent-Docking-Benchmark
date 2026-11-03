@@ -1,0 +1,159 @@
+HEADER    HYDROLASE                               06-SEP-07   2R6N
+TITLE     CRYSTAL STRUCTURE OF A PYRROLOPYRIMIDINE INHIBITOR IN
+TITLE    2 COMPLEX WITH HUMAN CATHEPSIN K
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.95 ANGSTROMS
+REMARK   3  R VALUE : 0.156000
+REMARK   3  FREE R VALUE : 0.184000
+REMARK   4 2R6N COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 298.00
+REMARK 200  PH                             : NULL
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   62.400   62.400  121.800  90.00  90.00 120.00 P 61          6
+HETATM    1  C11 CKE A 300      33.807   5.806   4.493  1.00 13.14           C  
+HETATM    2  C12 CKE A 300      32.846   5.209   3.505  1.00 16.60           C  
+HETATM    3  C13 CKE A 300      31.419   5.699   3.692  1.00 17.34           C  
+HETATM    4  C14 CKE A 300      30.654   6.121   2.587  1.00 18.52           C  
+HETATM    5  C15 CKE A 300      29.317   6.526   2.762  1.00 19.53           C  
+HETATM    6  C16 CKE A 300      28.718   6.535   4.046  1.00 21.38           C  
+HETATM    7  C20 CKE A 300      26.619   6.429   5.397  1.00 26.43           C  
+HETATM    8  C21 CKE A 300      25.287   5.793   4.975  1.00 27.22           C  
+HETATM    9  C24 CKE A 300      26.647   7.743   3.272  1.00 25.13           C  
+HETATM   10  C27 CKE A 300      34.376   9.342   3.289  1.00 15.48           C  
+HETATM   11  C30 CKE A 300      35.236   9.682   0.924  1.00 15.82           C  
+HETATM   12  C31 CKE A 300      23.222   6.102   3.660  1.00 29.51           C  
+HETATM   13  N01 CKE A 300      36.654   7.198   7.740  1.00 13.37           N  
+HETATM   14  C02 CKE A 300      35.755   6.219   7.536  1.00 12.00           C  
+HETATM   15  C03 CKE A 300      35.072   6.162   6.308  1.00 12.37           C  
+HETATM   16  C04 CKE A 300      35.346   7.210   5.398  1.00 13.31           C  
+HETATM   17  N05 CKE A 300      36.250   8.207   5.603  1.00 10.50           N  
+HETATM   18  C06 CKE A 300      36.858   8.104   6.786  1.00 12.14           C  
+HETATM   19  C07 CKE A 300      34.122   5.283   5.717  1.00 13.40           C  
+HETATM   20  N08 CKE A 300      34.503   7.007   4.294  1.00 14.29           N  
+HETATM   21  N10 CKE A 300      38.642   9.906   7.416  1.00 13.49           N  
+HETATM   22  C17 CKE A 300      29.510   6.139   5.150  1.00 19.87           C  
+HETATM   23  C18 CKE A 300      30.835   5.710   4.973  1.00 18.11           C  
+HETATM   24  N19 CKE A 300      27.368   6.914   4.233  1.00 23.61           N  
+HETATM   25  N22 CKE A 300      24.546   6.653   4.018  1.00 27.87           N  
+HETATM   26  C23 CKE A 300      25.357   7.037   2.834  1.00 27.85           C  
+HETATM   27  C25 CKE A 300      34.379   7.816   3.073  1.00 14.88           C  
+HETATM   28  C26 CKE A 300      35.447   7.416   2.043  1.00 15.78           C  
+HETATM   29  C28 CKE A 300      35.267   8.162   0.710  1.00 16.75           C  
+HETATM   30  C29 CKE A 300      34.166  10.076   1.952  1.00 16.53           C  
+HETATM   31  C09 CKE A 300      37.857   9.102   7.111  1.00 11.61           C  
+HETATM   32 H121 CKE A 300      32.838   4.125   3.623  1.00  0.00           H  
+HETATM   33 H122 CKE A 300      33.181   5.379   2.482  1.00  0.00           H  
+HETATM   34 HC14 CKE A 300      31.081   6.118   1.594  1.00  0.00           H  
+HETATM   35 HC15 CKE A 300      28.775   6.804   1.873  1.00  0.00           H  
+HETATM   36 H201 CKE A 300      27.159   5.672   5.965  1.00  0.00           H  
+HETATM   37 H202 CKE A 300      26.442   7.259   6.079  1.00  0.00           H  
+HETATM   38 H211 CKE A 300      24.682   5.605   5.864  1.00  0.00           H  
+HETATM   39 H212 CKE A 300      25.482   4.823   4.515  1.00  0.00           H  
+HETATM   40 H241 CKE A 300      27.242   8.037   2.409  1.00  0.00           H  
+HETATM   41 H242 CKE A 300      26.388   8.676   3.765  1.00  0.00           H  
+HETATM   42 H271 CKE A 300      35.322   9.670   3.711  1.00  0.00           H  
+HETATM   43 H272 CKE A 300      33.601   9.631   3.999  1.00  0.00           H  
+HETATM   44 H301 CKE A 300      35.058  10.195  -0.022  1.00  0.00           H  
+HETATM   45 H302 CKE A 300      36.209  10.019   1.278  1.00  0.00           H  
+HETATM   46 H311 CKE A 300      22.667   6.807   3.039  1.00  0.00           H  
+HETATM   47 H312 CKE A 300      23.319   5.162   3.115  1.00  0.00           H  
+HETATM   48 H313 CKE A 300      22.627   5.919   4.557  1.00  0.00           H  
+HETATM   49 HC02 CKE A 300      35.595   5.489   8.316  1.00  0.00           H  
+HETATM   50 HC07 CKE A 300      33.716   4.394   6.182  1.00  0.00           H  
+HETATM   51 HC17 CKE A 300      29.142   6.163   6.165  1.00  0.00           H  
+HETATM   52 HC18 CKE A 300      31.396   5.396   5.843  1.00  0.00           H  
+HETATM   53 H231 CKE A 300      25.599   6.152   2.244  1.00  0.00           H  
+HETATM   54 H232 CKE A 300      24.782   7.706   2.192  1.00  0.00           H  
+HETATM   55 HC25 CKE A 300      33.403   7.599   2.640  1.00  0.00           H  
+HETATM   56 H261 CKE A 300      35.428   6.340   1.866  1.00  0.00           H  
+HETATM   57 H262 CKE A 300      36.421   7.649   2.466  1.00  0.00           H  
+HETATM   58 H281 CKE A 300      36.072   7.898   0.024  1.00  0.00           H  
+HETATM   59 H282 CKE A 300      34.340   7.840   0.235  1.00  0.00           H  
+HETATM   60 H291 CKE A 300      34.181  11.154   2.113  1.00  0.00           H  
+HETATM   61 H292 CKE A 300      33.179   9.842   1.552  1.00  0.00           H  
+CONECT    1    2   19   20
+CONECT    1   19
+CONECT    2    1    3   32   33
+CONECT    3    2    4   23
+CONECT    3   23
+CONECT    4    3    5   34
+CONECT    4    5
+CONECT    5    4    6   35
+CONECT    5    4
+CONECT    6    5   22   24
+CONECT    6   22
+CONECT    7    8   24   36   37
+CONECT    8    7   25   38   39
+CONECT    9   24   26   40   41
+CONECT   10   27   30   42   43
+CONECT   11   29   30   44   45
+CONECT   12   25   46   47   48
+CONECT   13   14   18
+CONECT   13   18
+CONECT   14   13   15   49
+CONECT   14   15
+CONECT   15   14   16   19
+CONECT   15   14
+CONECT   16   15   17   20
+CONECT   16   17
+CONECT   17   16   18
+CONECT   17   16
+CONECT   18   13   17   31
+CONECT   18   13
+CONECT   19    1   15   50
+CONECT   19    1
+CONECT   20    1   16   27
+CONECT   21   31
+CONECT   21   31
+CONECT   21   31
+CONECT   22    6   23   51
+CONECT   22    6
+CONECT   23    3   22   52
+CONECT   23    3
+CONECT   24    6    7    9
+CONECT   25    8   12   26
+CONECT   26    9   25   53   54
+CONECT   27   10   20   28   55
+CONECT   28   27   29   56   57
+CONECT   29   11   28   58   59
+CONECT   30   10   11   60   61
+CONECT   31   18   21
+CONECT   31   21
+CONECT   31   21
+CONECT   32    2
+CONECT   33    2
+CONECT   34    4
+CONECT   35    5
+CONECT   36    7
+CONECT   37    7
+CONECT   38    8
+CONECT   39    8
+CONECT   40    9
+CONECT   41    9
+CONECT   42   10
+CONECT   43   10
+CONECT   44   11
+CONECT   45   11
+CONECT   46   12
+CONECT   47   12
+CONECT   48   12
+CONECT   49   14
+CONECT   50   19
+CONECT   51   22
+CONECT   52   23
+CONECT   53   26
+CONECT   54   26
+CONECT   55   27
+CONECT   56   28
+CONECT   57   28
+CONECT   58   29
+CONECT   59   29
+CONECT   60   30
+CONECT   61   30
+END   

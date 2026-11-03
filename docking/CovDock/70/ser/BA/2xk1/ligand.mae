@@ -1,0 +1,259 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_st_Chirality_1
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ i_f3d_flags
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure16 
+  1
+  4_S_3_5_6_23 
+  0
+  17 
+  Structure16 
+  "CRYSTAL STRUCTURE OF A COMPLEX BETWEEN ACTINOMADURA R39 DD-PEPTIDASE AND A BORONATE INHIBITOR" 
+  2XK1 
+  154.898
+  92.348
+  143.829
+  90
+  92.25
+  90
+  "C 1 2 1" 
+  16
+  HYDROLASE 
+  07-JUL-10 
+  3.30 
+  0.217
+  0.264
+  2.8
+  "X-RAY DIFFRACTION" 
+  100
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\SER\\BA\\2xk1" 
+  2xk1.pdb 
+  1
+  2xk1_ligprep_9.maegz 
+  1
+  55137
+  0
+  W09IXUIoW09IXSlbQ0BASF0oW0NIM10pW05IXUMoPU8pYzFjKFtjSF1bY0hdW2NIXVtjSF0xKVtDSDJdYzJbY0hdW2NIXVtjSF1bY0hdW2NIXTI= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  "This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa" 
+  S-OPLS 
+  28.371375
+  1
+  Structure16-1 
+  2xk1_ligprep_9 
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  C 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  2xk1_ligprep_9-out1 
+  2xk1_ligprep_9-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[39] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  s_m_chain_name
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_residue_name
+  s_m_pdb_atom_name
+  i_m_atomic_number
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  r_m_pdb_occupancy
+  r_m_pdb_tfactor
+  i_m_pdb_convert_problem
+  i_pdb_PDB_serial
+  b_st_NoSrcChirality
+  :::
+  1 15 -0.556263 1.972359 1.164811 500 A 70 -0.51154 -0.51154 "EWB " " O6 " 8 3 FF2E2E  "O13391"   -2.387    0.900  1 39.41 1 13395 <>
+  2 2 -0.925103 1.048843 0.436983 500 A 10 0.57020 0.57020 "EWB " " C5 " 6 3 1EE11E  "C13392"  <> <> 1 39.27 1 13396 <>
+  3 25 -0.094949 0.140541 -0.113447 500 A 38 -0.42292 -0.42292 "EWB " " N4 " 7 3 2E2EFF  "N13393"  <> <> 1 37.16 1 13397 <>
+  4 3 1.369131 0.053213 -0.013828 500 A 10 -0.06176 -0.06176 "EWB " " C3 " 6 3 1EE11E  "C13394"  <> <> 1 34.46 1 13398 1
+  5 3 1.873189 -1.341334 -0.416151 500 A 10 -0.19970 -0.19970 "EWB " " C16" 6 3 1EE11E  "C13395"  <> <> 1 31.99 1 13399 <>
+  6 54 1.961167 0.494008 1.390789 500 A 117 0.28081 0.28081 "EWB " " B  " 5 3 2EFF2E  "B13396"  <> <> 1 33.72 1 13400 <>
+  7 16 2.965249 1.415105 1.435869 500 A 70 -0.51928 -0.51928 "EWB " " O1 " 8 3 FF2E2E  "O13397"  <> <> 1 30.9 1 13401 <>
+  8 16 1.532891 -0.117162 2.534407 500 A 70 -0.51928 -0.51928 "EWB " " O2 " 8 3 FF2E2E  "O13398"  <> <> 1 31.74 1 13402 <>
+  9 2 -2.396187 0.835162 0.165981 500 A 10 -0.15066 -0.15066 "EWB " " C7 " 6 3 1EE11E  "C13399"  <> <> 1 40.09 1 13403 <>
+  10 2 -2.927005 0.592450 -1.126710 500 A 10 -0.04182 -0.04182 "EWB " " C8 " 6 3 1EE11E  "C13400"  <> <> 1 40.89 1 13404 <>
+  11 2 -4.307580 0.403646 -1.275131 500 A 10 -0.13017 -0.13017 "EWB " " C11" 6 3 1EE11E  "C13401"  <> <> 1 39.91 1 13405 <>
+  12 2 -5.159864 0.444972 -0.175177 500 A 10 -0.11448 -0.11448 "EWB " " C12" 6 3 1EE11E  "C13402"  <> <> 1 39.56 1 13406 <>
+  13 2 -4.643526 0.692104 1.091986 500 A 10 -0.13470 -0.13470 "EWB " " C13" 6 3 1EE11E  "C13403"  <> <> 1 39.78 1 13407 <>
+  14 2 -3.275126 0.890616 1.258400 500 A 10 -0.09686 -0.09686 "EWB " " C14" 6 3 1EE11E  "C13404"  <> <> 1 39.85 1 13408 <>
+  15 3 -2.081514 0.612505 -2.408297 500 A 10 -0.03493 -0.03493 "EWB " " C9 " 6 3 1EE11E  "C13405"  <> <> 1 41.05 1 13409 <>
+  16 2 -1.431004 -0.705638 -2.832818 500 A 10 -0.08318 -0.08318 "EWB " " C17" 6 3 1EE11E  "C13406"  <> <> 1 40.8 1 13410 <>
+  17 2 -0.355968 -0.661396 -3.725801 500 A 10 -0.11513 -0.11513 "EWB " " C22" 6 3 1EE11E  "C13407"  <> <> 1 40.21 1 13411 <>
+  18 2 0.273520 -1.837200 -4.124954 500 A 10 -0.12907 -0.12907 "EWB " " C21" 6 3 1EE11E  "C13408"  <> <> 1 40.26 1 13412 <>
+  19 2 -0.170537 -3.059996 -3.627825 500 A 10 -0.12768 -0.12768 "EWB " " C20" 6 3 1EE11E  "C13409"  <> <> 1 40.78 1 13413 <>
+  20 2 -1.239636 -3.116825 -2.737253 500 A 10 -0.12907 -0.12907 "EWB " " C19" 6 3 1EE11E  "C13410"  <> <> 1 40.15 1 13414 <>
+  21 2 -1.871091 -1.941151 -2.340090 500 A 10 -0.11513 -0.11513 "EWB " " C18" 6 3 1EE11E  "C13411"  <> <> 1 41.06 1 13415 <>
+  22 43 -0.498120 -0.443183 -0.832216 500 A 21 0.29698 0.29698 "EWB " " HN4" 1 3 FFFFFF  ""   13.635    1.400  <> <> <> <> <>
+  23 41 1.771909 0.736194 -0.763921 500 A 21 0.11957 0.11957 "EWB " " HC3" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  24 41 2.962865 -1.383727 -0.408012 500 A 21 0.06974 0.06974 "EWB " "H161" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  25 41 1.544212 -1.609033 -1.420417 500 A 21 0.06974 0.06974 "EWB " "H162" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  26 41 1.506719 -2.108512 0.267143 500 A 21 0.06974 0.06974 "EWB " "H163" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  27 42 3.261037 1.578037 2.334000 500 A 21 0.40593 0.40593 "EWB " " HO1" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  28 42 1.987915 0.216575 3.310365 500 A 21 0.40593 0.40593 "EWB " " HO2" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  29 41 -4.729069 0.227758 -2.254390 500 A 21 0.13304 0.13304 "EWB " "HC11" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  30 41 -6.221363 0.295335 -0.307043 500 A 21 0.13308 0.13308 "EWB " "HC12" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  31 41 -5.303051 0.731649 1.946343 500 A 21 0.13507 0.13507 "EWB " "HC13" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  32 41 -2.900544 1.079497 2.255044 500 A 21 0.14003 0.14003 "EWB " "HC14" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  33 41 -2.702302 0.948909 -3.240522 500 A 21 0.07603 0.07603 "EWB " "H9_1" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  34 41 -1.313110 1.381474 -2.314558 500 A 21 0.07603 0.07603 "EWB " "H9_2" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  35 41 -0.004855 0.285397 -4.110355 500 A 21 0.13293 0.13293 "EWB " "HC22" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  36 41 1.104380 -1.800777 -4.814088 500 A 21 0.13059 0.13059 "EWB " "HC21" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  37 41 0.318984 -3.972429 -3.935298 500 A 21 0.12839 0.12839 "EWB " "HC20" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  38 41 -1.577449 -4.069231 -2.355668 500 A 21 0.13059 0.13059 "EWB " "HC19" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  39 41 -2.698214 -2.002631 -1.648426 500 A 21 0.13293 0.13293 "EWB " "HC18" 1 3 FFFFFF  ""  <> <> <> <> <> <> <>
+  :::
+ } 
+ m_bond[40] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 2 3 3
+  2 2 3 1 3 3
+  3 2 9 1 3 3
+  4 3 4 1 3 3
+  5 3 22 1 3 3
+  6 4 5 1 3 3
+  7 4 6 1 3 3
+  8 4 23 1 3 3
+  9 5 24 1 3 3
+  10 5 25 1 3 3
+  11 5 26 1 3 3
+  12 6 7 1 3 3
+  13 6 8 1 3 3
+  14 7 27 1 3 3
+  15 8 28 1 3 3
+  16 9 10 1 3 3
+  17 9 14 2 3 3
+  18 10 11 2 3 3
+  19 10 15 1 3 3
+  20 11 12 1 3 3
+  21 11 29 1 3 3
+  22 12 13 2 3 3
+  23 12 30 1 3 3
+  24 13 14 1 3 3
+  25 13 31 1 3 3
+  26 14 32 1 3 3
+  27 15 16 1 3 3
+  28 15 33 1 3 3
+  29 15 34 1 3 3
+  30 16 17 1 3 3
+  31 16 21 2 3 3
+  32 17 18 2 3 3
+  33 17 35 1 3 3
+  34 18 19 1 3 3
+  35 18 36 1 3 3
+  36 19 20 2 3 3
+  37 19 37 1 3 3
+  38 20 21 1 3 3
+  39 20 38 1 3 3
+  40 21 39 1 3 3
+  :::
+ } 
+} 
+

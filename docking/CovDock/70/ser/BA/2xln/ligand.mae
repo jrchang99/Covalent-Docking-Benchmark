@@ -1,0 +1,272 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ i_sd_PUBCHEM\_COMPOUND\_CANONICALIZED
+ i_sd_PUBCHEM\_CACTVS\_COMPLEXITY
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_ACCEPTOR
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_DONOR
+ i_sd_PUBCHEM\_CACTVS\_ROTATABLE\_BOND
+ s_sd_PUBCHEM\_CACTVS\_SUBSKEYS
+ s_sd_PUBCHEM\_IUPAC\_OPENEYE\_NAME
+ s_sd_PUBCHEM\_IUPAC\_CAS\_NAME
+ s_sd_PUBCHEM\_IUPAC\_NAME\_MARKUP
+ s_sd_PUBCHEM\_IUPAC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_SYSTEMATIC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_TRADITIONAL\_NAME
+ s_sd_PUBCHEM\_IUPAC\_INCHI
+ s_sd_PUBCHEM\_IUPAC\_INCHIKEY
+ r_sd_PUBCHEM\_EXACT\_MASS
+ s_sd_PUBCHEM\_MOLECULAR\_FORMULA
+ r_sd_PUBCHEM\_MOLECULAR\_WEIGHT
+ s_sd_PUBCHEM\_SMILES
+ s_sd_PUBCHEM\_OPENEYE\_CAN\_SMILES
+ s_sd_PUBCHEM\_OPENEYE\_ISO\_SMILES
+ i_sd_PUBCHEM\_CACTVS\_TPSA
+ r_sd_PUBCHEM\_MONOISOTOPIC\_WEIGHT
+ i_sd_PUBCHEM\_TOTAL\_CHARGE
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ s_sd_PUBCHEM\_BONDANNOTATIONS
+ b_sd_chiral_flag
+ i_sd_version
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ i_f3d_flags
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 52948893 
+  1
+  2
+  7_S_6_12_18_19 
+  23 
+  ligand.1 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\SER\\BA\\2xln" 
+  ligand.sdf 
+  1
+  52948893
+  1
+  264
+  5
+  3
+  5
+  AAADceJyOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAoHgAQCAAADATBmAYyBoLABACIAiFSEACCCAAkIAAIiIEODMgMJzaEtRuEMWhn9hWIqQeY6CyOAAAACAAIAAAAAAAQABAAAAAAAAAAAA== 
+  "[(1S)-1-[(2,6-dimethoxybenzoyl)amino]ethyl]boronic acid" 
+  "[(1S)-1-[[(2,6-dimethoxyphenyl)-oxomethyl]amino]ethyl]boronic acid" 
+  "[(1<I>S</I>)-1-[(2,6-dimethoxybenzoyl)amino]ethyl]boronic acid" 
+  "[(1S)-1-[(2,6-dimethoxybenzoyl)amino]ethyl]boronic acid" 
+  "[(1S)-1-[(2,6-dimethoxyphenyl)carbonylamino]ethyl]boronic acid" 
+  "[(1S)-1-[(2,6-dimethoxybenzoyl)amino]ethyl]boronic acid" 
+  InChI=1S/C11H16BNO5/c1-7(12(15)16)13-11(14)10-8(17-2)5-4-6-9(10)18-3/h4-7,15-16H,1-3H3,(H,13,14)/t7-/m1/s1 
+  DXKXQRZEPYKFAT-SSDOTTSWSA-N 
+  253.1121528
+  C11H16BNO5 
+  253.06
+  B([C@@H](C)NC(=O)C1=C(C=CC=C1OC)OC)(O)O 
+  B(C(C)NC(=O)C1=C(C=CC=C1OC)OC)(O)O 
+  B([C@@H](C)NC(=O)C1=C(C=CC=C1OC)OC)(O)O 
+  88
+  253.1121528
+  0
+  18
+  1
+  0
+  0
+  0
+  0
+  1
+  -1
+  "1
+5
+255" 
+  "10  13  8
+11  14  8
+13  15  8
+14  15  8
+7  6  6
+8  10  8
+8  11  8" 
+  1
+  0
+  2xln_ligprep_10.maegz 
+  1
+  55137
+  0
+  W0NIM11PYzFbY0hdW2NIXVtjSF1jKE9bQ0gzXSljMUMoPU8pW05IXVtDQEhdKFtDSDNdKUIoW09IXSlbT0hd 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  "This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa" 
+  S-OPLS 
+  25.106034
+  1
+  52948893-1 
+  2xln_ligprep_10 
+  2xln_ligprep_10-out1 
+  2xln_ligprep_10-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[34] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  i_sd_original_parity
+  b_st_SpecifiedChirality
+  :::
+  1 16 -2.589230 2.828636 -0.045231 900 70 -0.36050 -0.36050 8 3 FF2F2F  O1  <> <> <> <>
+  2 16 -2.026753 -1.919168 -0.585117 900 70 -0.36050 -0.36050 8 3 FF2F2F  O2  <> <> <> <>
+  3 15 -0.521637 1.399864 -1.542478 900 70 -0.51166 -0.51166 8 3 FF2F2F  O3   -2.387    0.900  <> <>
+  4 16 1.715760 -1.545604 2.066617 900 70 -0.52141 -0.52141 8 3 FF2F2F  O4  <> <> <> <>
+  5 16 2.983063 0.451777 2.157773 900 70 -0.52141 -0.52141 8 3 FF2F2F  O5  <> <> <> <>
+  6 25 -0.012903 0.043595 0.215394 900 43 -0.40683 -0.40683 7 3 5757FF  N6  <> <> <> <>
+  7 3 1.447650 0.125566 0.153053 900 2 -0.05902 -0.05902 6 3 A0A0A0  C7  <> <> 2 1
+  8 2 -2.332011 0.451589 -0.305303 900 2 -0.21441 -0.21441 6 3 A0A0A0  C8  <> <> <> <>
+  9 2 -0.869351 0.668826 -0.613472 900 2 0.59403 0.59403 6 3 A0A0A0  C9  <> <> <> <>
+  10 2 -3.159142 1.564015 -0.036910 900 2 0.21823 0.21823 6 3 A0A0A0  C10  <> <> <> <>
+  11 2 -2.869559 -0.855197 -0.298762 900 2 0.21823 0.21823 6 3 A0A0A0  C11  <> <> <> <>
+  12 3 2.059526 -0.663076 -1.019831 900 2 -0.19898 -0.19898 6 3 A0A0A0  C12  <> <> <> <>
+  13 2 -4.518718 1.348730 0.240968 900 2 -0.24280 -0.24280 6 3 A0A0A0  C13  <> <> <> <>
+  14 2 -4.233974 -1.026927 -0.014391 900 2 -0.24280 -0.24280 6 3 A0A0A0  C14  <> <> <> <>
+  15 2 -5.049370 0.065238 0.252408 900 2 -0.05014 -0.05014 6 3 A0A0A0  C15  <> <> <> <>
+  16 3 -3.395015 3.973480 0.213193 900 2 0.14160 0.14160 6 3 A0A0A0  C16  <> <> <> <>
+  17 3 -2.531769 -3.250071 -0.573124 900 2 0.14160 0.14160 6 3 A0A0A0  C17  <> <> <> <>
+  18 54 2.054412 -0.331922 1.538413 900 10 0.28024 0.28024 5 3 1EE11E  B18  <> <> <> <>
+  19 41 1.738424 1.172236 0.036043 900 21 0.11869 0.11869 1 3 FFFFFF  H19  <> <> <> <>
+  20 43 -0.395047 -0.456377 1.004741 900 21 0.29171 0.29171 1 3 FFFFFF  H20   13.957    1.400  <> <>
+  21 41 3.146156 -0.572562 -1.028841 900 21 0.06878 0.06878 1 3 FFFFFF  H21  <> <> <> <>
+  22 41 1.695058 -0.298091 -1.980455 900 21 0.06878 0.06878 1 3 FFFFFF  H22  <> <> <> <>
+  23 41 1.815309 -1.724089 -0.955249 900 21 0.06878 0.06878 1 3 FFFFFF  H23  <> <> <> <>
+  24 41 -5.185988 2.169559 0.454606 900 21 0.13665 0.13665 1 3 FFFFFF  H24  <> <> <> <>
+  25 41 -4.686770 -2.006364 0.000665 900 21 0.13665 0.13665 1 3 FFFFFF  H25  <> <> <> <>
+  26 41 -6.097127 -0.083466 0.468151 900 21 0.13637 0.13637 1 3 FFFFFF  H26  <> <> <> <>
+  27 41 -2.775247 4.868078 0.158429 900 21 0.04344 0.04344 1 3 FFFFFF  H27  <> <> <> <>
+  28 41 -3.833437 3.937434 1.211547 900 21 0.04344 0.04344 1 3 FFFFFF  H28  <> <> <> <>
+  29 41 -4.190477 4.078054 -0.526232 900 21 0.04344 0.04344 1 3 FFFFFF  H29  <> <> <> <>
+  30 41 -1.722926 -3.942635 -0.805538 900 21 0.04344 0.04344 1 3 FFFFFF  H30  <> <> <> <>
+  31 41 -3.310956 -3.388742 -1.324035 900 21 0.04344 0.04344 1 3 FFFFFF  H31  <> <> <> <>
+  32 41 -2.924802 -3.520646 0.408037 900 21 0.04344 0.04344 1 3 FFFFFF  H32  <> <> <> <>
+  33 42 2.177204 -1.719327 2.889850 900 21 0.40475 0.40475 1 3 FFFFFF  H33  <> <> <> <>
+  34 42 3.300853 0.055442 2.971693 900 21 0.40475 0.40475 1 3 FFFFFF  H34  <> <> <> <>
+  :::
+ } 
+ m_bond[35] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  i_sd_original_parity
+  :::
+  1 1 10 1 3 3 <>
+  2 1 16 1 3 3 <>
+  3 2 11 1 3 3 <>
+  4 2 17 1 3 3 <>
+  5 3 9 2 3 3 <>
+  6 4 18 1 3 3 <>
+  7 4 33 1 3 3 <>
+  8 5 18 1 3 3 <>
+  9 5 34 1 3 3 <>
+  10 6 7 1 3 3 3
+  11 6 9 1 3 3 <>
+  12 6 20 1 3 3 <>
+  13 7 6 1 3 3 3
+  14 7 12 1 3 3 <>
+  15 7 18 1 3 3 <>
+  16 7 19 1 3 3 <>
+  17 8 9 1 3 3 <>
+  18 8 10 2 3 3 <>
+  19 8 11 1 3 3 <>
+  20 10 13 1 3 3 <>
+  21 11 14 2 3 3 <>
+  22 12 21 1 3 3 <>
+  23 12 22 1 3 3 <>
+  24 12 23 1 3 3 <>
+  25 13 15 2 3 3 <>
+  26 13 24 1 3 3 <>
+  27 14 15 1 3 3 <>
+  28 14 25 1 3 3 <>
+  29 15 26 1 3 3 <>
+  30 16 27 1 3 3 <>
+  31 16 28 1 3 3 <>
+  32 16 29 1 3 3 <>
+  33 17 30 1 3 3 <>
+  34 17 31 1 3 3 <>
+  35 17 32 1 3 3 <>
+  :::
+ } 
+} 
+

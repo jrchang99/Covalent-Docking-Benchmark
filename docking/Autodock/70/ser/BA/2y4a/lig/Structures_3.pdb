@@ -1,0 +1,52 @@
+TITLE     Structures_3
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  SER A  49       0.632  -5.546  35.683  1.00  0.00           C  
+ATOM      2  CB  SER A  49       0.164  -4.977  37.019  1.00  0.00           C  
+ATOM      3  OG  SER A  49       0.288  -3.588  37.029  1.00  0.00           O  
+ATOM      4  BX  SER A  49      -1.110  -2.949  37.124  1.00  0.00           B1-
+ATOM      5  OX  SER A  49      -1.945  -3.356  35.895  1.00  0.00           O  
+ATOM      6  OX  SER A  49      -1.812  -3.436  38.405  1.00  0.00           O  
+ATOM      7  CX  SER A  49      -0.961  -1.306  37.168  1.00  0.00           C  
+ATOM      8  NX  SER A  49      -1.829  -0.708  36.144  1.00  0.00           N  
+ATOM      9  CX  SER A  49      -1.229   0.545  35.664  1.00  0.00           C  
+ATOM     10  OX  SER A  49      -0.512   1.235  36.435  1.00  0.00           O  
+ATOM     11  CX  SER A  49      -1.477   1.014  34.218  1.00  0.00           C  
+ATOM     12  CX  SER A  49      -1.129   0.086  33.038  1.00  0.00           C  
+ATOM     13 CX   SER A  49      -0.447  -1.508  33.343  1.00  0.00          Cl  
+ATOM     14  CX  SER A  49      -1.347   0.498  31.765  1.00  0.00           C  
+ATOM     15  CX  SER A  49      -1.943   1.892  31.499  1.00  0.00           C  
+ATOM     16  CX  SER A  49      -2.250   2.708  32.537  1.00  0.00           C  
+ATOM     17  CX  SER A  49      -2.001   2.241  33.983  1.00  0.00           C  
+ATOM     18  H   SER A  49      -2.585  -2.655  35.693  1.00  0.00           H  
+ATOM     19  H   SER A  49      -1.198  -3.983  38.921  1.00  0.00           H  
+ATOM     20  H   SER A  49      -2.680  -1.088  35.826  1.00  0.00           H  
+TER      21      SER A  49
+CONECT    3    4
+CONECT    4    3    5    7    6
+CONECT    5    4   18
+CONECT   18    5
+CONECT    6    4   19
+CONECT   19    6
+CONECT    7    4    8
+CONECT    8    7    9   20
+CONECT    9    8   11   10
+CONECT    9   10
+CONECT   10    9
+CONECT   10    9
+CONECT   20    8
+CONECT   11    9   12   17
+CONECT   11   12
+CONECT   12   11   14   13
+CONECT   12   11
+CONECT   13   12
+CONECT   14   12   15
+CONECT   14   15
+CONECT   15   14   16
+CONECT   15   14
+CONECT   16   15   17
+CONECT   16   17
+CONECT   17   11   16
+CONECT   17   16
+END   

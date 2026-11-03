@@ -1,0 +1,80 @@
+TITLE     structures_2
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  CYS A  25      -9.717   6.279  10.681  1.00  0.00           C  
+ATOM      2  CB  CYS A  25      -8.346   5.869  11.206  1.00  0.00           C  
+ATOM      3  SG  CYS A  25      -7.355   7.224  11.813  1.00  0.00           S  
+ATOM      4  CX  CYS A  25      -6.133   7.487  13.079  1.00  0.00           C  
+ATOM      5  NX  CYS A  25      -6.353   7.075  14.286  1.00  0.00           N  
+ATOM      6  CX  CYS A  25      -4.914   8.151  12.766  1.00  0.00           C  
+ATOM      7  NX  CYS A  25      -4.943   9.007  11.732  1.00  0.00           N  
+ATOM      8  CX  CYS A  25      -3.760   9.596  11.495  1.00  0.00           C  
+ATOM      9  NX  CYS A  25      -2.618   9.402  12.176  1.00  0.00           N  
+ATOM     10  CX  CYS A  25      -2.740   8.520  13.181  1.00  0.00           C  
+ATOM     11  NX  CYS A  25      -3.853   7.857  13.534  1.00  0.00           N  
+ATOM     12  NX  CYS A  25      -3.711  10.504  10.433  1.00  0.00           N  
+ATOM     13  CX  CYS A  25      -2.852  10.228   9.277  1.00  0.00           C  
+ATOM     14  CX  CYS A  25      -2.585  11.516   8.506  1.00  0.00           C  
+ATOM     15  OX  CYS A  25      -3.809  12.160   8.164  1.00  0.00           O  
+ATOM     16  CX  CYS A  25      -4.526  12.541   9.336  1.00  0.00           C  
+ATOM     17  CX  CYS A  25      -4.906  11.314  10.157  1.00  0.00           C  
+ATOM     18  NX  CYS A  25      -1.586   8.265  13.938  1.00  0.00           N  
+ATOM     19  CX  CYS A  25      -1.421   8.902  15.248  1.00  0.00           C  
+ATOM     20  CX  CYS A  25      -2.627   9.735  15.581  1.00  0.00           C  
+ATOM     21  CX  CYS A  25      -3.540   9.301  16.517  1.00  0.00           C  
+ATOM     22  NX  CYS A  25      -4.632  10.024  16.837  1.00  0.00           N  
+ATOM     23  CX  CYS A  25      -4.780  11.196  16.187  1.00  0.00           C  
+ATOM     24  CX  CYS A  25      -3.867  11.630  15.250  1.00  0.00           C  
+ATOM     25  NX  CYS A  25      -2.774  10.907  14.931  1.00  0.00           N  
+ATOM     26  CX  CYS A  25      -0.539   7.406  13.450  1.00  0.00           C  
+ATOM     27  CX  CYS A  25       0.506   8.181  12.664  1.00  0.00           C  
+ATOM     28  CX  CYS A  25       1.212   7.104  11.845  1.00  0.00           C  
+ATOM     29  CX  CYS A  25       0.197   5.972  11.672  1.00  0.00           C  
+ATOM     30  CX  CYS A  25      -1.059   6.412  12.422  1.00  0.00           C  
+ATOM     31  H   CYS A  25      -5.677   7.221  14.986  1.00  0.00           H  
+TER      32      CYS A  25
+CONECT    3    4
+CONECT    4    3    6    5
+CONECT    4    5
+CONECT    5    4   31
+CONECT    5    4
+CONECT   31    5
+CONECT    6    4    7   11
+CONECT    6    7
+CONECT    7    6    8
+CONECT    7    6
+CONECT    8    7   12    9
+CONECT    8    9
+CONECT    9    8   10
+CONECT    9    8
+CONECT   10    9   11   18
+CONECT   10   11
+CONECT   11    6   10
+CONECT   11   10
+CONECT   12    8   13   17
+CONECT   13   12   14
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   12   16
+CONECT   18   10   26   19
+CONECT   19   18   20
+CONECT   20   19   25   21
+CONECT   20   25
+CONECT   21   20   22
+CONECT   21   22
+CONECT   22   21   23
+CONECT   22   21
+CONECT   23   22   24
+CONECT   23   24
+CONECT   24   23   25
+CONECT   24   23
+CONECT   25   20   24
+CONECT   25   20
+CONECT   26   18   30   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   26   29
+END   

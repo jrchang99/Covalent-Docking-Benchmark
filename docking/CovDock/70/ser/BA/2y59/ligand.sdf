@@ -1,0 +1,250 @@
+66561495
+                    3D
+ Schrodinger Suite 2021-3.
+ 25 25  0  0  1  0            999 V2000
+   -0.4470    2.2037   -0.7140 O   0  0  0  0  0  0
+    2.7189   -1.5264   -1.1775 O   0  0  0  0  0  0
+    2.2276    0.4809   -2.3326 O   0  0  0  0  0  0
+   -3.5668    2.0152   -3.3298 O   0  5  0  0  0  0
+   -1.5932    1.1962   -3.0982 O   0  0  0  0  0  0
+    0.1292    0.1609    0.1036 N   0  0  0  0  0  0
+   -2.7218    1.4160   -2.6698 N   0  3  0  0  0  0
+   -2.2100    0.6521   -0.2669 C   0  0  0  0  0  0
+   -3.1209    0.8839   -1.3357 C   0  0  0  0  0  0
+   -0.7615    1.0823   -0.3105 C   0  0  0  0  0  0
+   -2.6863    0.0737    0.9220 C   0  0  0  0  0  0
+   -4.4762    0.5672   -1.1383 C   0  0  0  0  0  0
+    1.5798    0.3391    0.1199 C   0  0  0  0  0  0
+   -4.0296   -0.2526    1.0790 C   0  0  0  0  0  0
+   -4.9271    0.0027    0.0508 C   0  0  0  0  0  0
+    2.2189   -0.2594   -1.1884 B   0  0  0  0  0  0
+   -2.0196   -0.1060    1.7541 H   0  0  0  0  0  0
+   -0.2135   -0.7428    0.3958 H   0  0  0  0  0  0
+   -5.1961    0.7331   -1.9267 H   0  0  0  0  0  0
+    1.8680    1.3879    0.2153 H   0  0  0  0  0  0
+    1.9884   -0.1761    0.9897 H   0  0  0  0  0  0
+   -4.3762   -0.6900    2.0037 H   0  0  0  0  0  0
+   -5.9720   -0.2431    0.1709 H   0  0  0  0  0  0
+    3.0584   -1.7790   -2.0392 H   0  0  0  0  0  0
+    1.8226    1.3417   -2.2018 H   0  0  0  0  0  0
+  1 10  2  0  0  0
+  2 16  1  0  0  0
+  2 24  1  0  0  0
+  3 16  1  0  0  0
+  3 25  1  0  0  0
+  4  7  1  0  0  0
+  5  7  2  0  0  0
+  6 10  1  0  0  0
+  6 13  1  0  0  0
+  6 18  1  0  0  0
+  7  9  1  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  8 11  2  0  0  0
+  9 12  2  0  0  0
+ 11 14  1  0  0  0
+ 11 17  1  0  0  0
+ 12 15  1  0  0  0
+ 12 19  1  0  0  0
+ 13 16  1  0  0  0
+ 13 20  1  0  0  0
+ 13 21  1  0  0  0
+ 14 15  2  0  0  0
+ 14 22  1  0  0  0
+ 15 23  1  0  0  0
+M  CHG  2   4  -1   7   1
+M  END
+> <s_m_entry_id>
+33
+
+> <s_m_entry_name>
+ligand.1
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SER\BA\2y59
+
+> <s_m_Source_File>
+ligand.sdf
+
+> <i_m_Source_File_Index>
+1
+
+> <PUBCHEM_COMPOUND_CID>
+66561495
+
+> <PUBCHEM_COMPOUND_CANONICALIZED>
+1
+
+> <PUBCHEM_CACTVS_COMPLEXITY>
+268
+
+> <PUBCHEM_CACTVS_HBOND_ACCEPTOR>
+5
+
+> <PUBCHEM_CACTVS_HBOND_DONOR>
+3
+
+> <PUBCHEM_CACTVS_ROTATABLE_BOND>
+3
+
+> <PUBCHEM_CACTVS_SUBSKEYS>
+AAADccJzOAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAoHgAUCAAADAiBmAQwwILQQACJAiVSUwCCAAAkAgAoiIEIZMoIIDqA1ZGEIYhgggAIyccYiACOAAAAAAACAAAAAAAAAAQAAAAAAAAAAA==
+
+> <PUBCHEM_IUPAC_OPENEYE_NAME>
+[(2-nitrobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_CAS_NAME>
+[[(2-nitrophenyl)-oxomethyl]amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_NAME_MARKUP>
+[(2-nitrobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_NAME>
+[(2-nitrobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_SYSTEMATIC_NAME>
+[(2-nitrophenyl)carbonylamino]methylboronic acid
+
+> <PUBCHEM_IUPAC_TRADITIONAL_NAME>
+[(2-nitrobenzoyl)amino]methylboronic acid
+
+> <PUBCHEM_IUPAC_INCHI>
+InChI=1S/C8H9BN2O5/c12-8(10-5-9(13)14)6-3-1-2-4-7(6)11(15)16/h1-4,13-14H,5H2,(H,10,12)
+
+> <PUBCHEM_IUPAC_INCHIKEY>
+JVDXOQKTWCZCLC-UHFFFAOYSA-N
+
+> <PUBCHEM_EXACT_MASS>
+224.0604516
+
+> <PUBCHEM_MOLECULAR_FORMULA>
+C8H9BN2O5
+
+> <PUBCHEM_MOLECULAR_WEIGHT>
+223.98
+
+> <PUBCHEM_SMILES>
+B(CNC(=O)C1=CC=CC=C1[N+](=O)[O-])(O)O
+
+> <PUBCHEM_OPENEYE_CAN_SMILES>
+B(CNC(=O)C1=CC=CC=C1[N+](=O)[O-])(O)O
+
+> <PUBCHEM_OPENEYE_ISO_SMILES>
+B(CNC(=O)C1=CC=CC=C1[N+](=O)[O-])(O)O
+
+> <PUBCHEM_CACTVS_TPSA>
+115
+
+> <PUBCHEM_MONOISOTOPIC_WEIGHT>
+224.0604516
+
+> <PUBCHEM_TOTAL_CHARGE>
+0
+
+> <PUBCHEM_HEAVY_ATOM_COUNT>
+16
+
+> <PUBCHEM_ATOM_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ATOM_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_DEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_BOND_UDEF_STEREO_COUNT>
+0
+
+> <PUBCHEM_ISOTOPIC_ATOM_COUNT>
+0
+
+> <PUBCHEM_COMPONENT_COUNT>
+1
+
+> <PUBCHEM_CACTVS_TAUTO_COUNT>
+-1
+
+> <PUBCHEM_COORDINATE_TYPE>
+1
+5
+255
+
+> <PUBCHEM_BONDANNOTATIONS>
+11  14  8
+12  15  8
+14  15  8
+8  11  8
+8  9  8
+9  12  8
+
+> <s_m_source_file>
+2y59_ligprep_12.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+W09IXUIoW09IXSlbQ0gyXVtOSF1DKD1PKWMxYyhbTitdKFtPLV0pPU8pW2NIXVtjSF1bY0hdW2NIXTE=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+21.876025
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+66561495-1
+
+> <s_m_job_name>
+2y59_ligprep_12
+
+> <s_m_subgroup_title>
+2y59_ligprep_12-out1
+
+> <s_m_subgroupid>
+2y59_ligprep_12-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

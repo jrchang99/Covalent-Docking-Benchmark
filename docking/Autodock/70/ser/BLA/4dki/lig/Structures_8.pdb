@@ -1,0 +1,110 @@
+TITLE     structures_8
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  SER A 403      22.643  26.486  84.606  1.00  0.00           C  
+ATOM      2  CB  SER A 403      23.221  27.540  85.534  1.00  0.00           C  
+ATOM      3  OG  SER A 403      24.513  27.788  85.009  1.00  0.00           O  
+ATOM      4  CX  SER A 403      25.497  27.494  86.003  1.00  0.00           C  
+ATOM      5  OX  SER A 403      25.561  28.189  87.050  1.00  0.00           O  
+ATOM      6  CX  SER A 403      26.483  26.327  85.803  1.00  0.00           C  
+ATOM      7  NX  SER A 403      26.690  26.115  84.372  1.00  0.00           N  
+ATOM      8  CX  SER A 403      27.691  25.064  84.164  1.00  0.00           C  
+ATOM      9  OX  SER A 403      28.586  24.853  85.026  1.00  0.00           O  
+ATOM     10  SX  SER A 403      28.944  25.304  86.293  1.00  0.00           S  
+ATOM     11  CX  SER A 403      30.436  25.992  86.915  1.00  0.00           C  
+ATOM     12  CX  SER A 403      27.834  26.665  86.454  1.00  0.00           C  
+ATOM     13  CX  SER A 403      30.151  26.689  88.264  1.00  0.00           C  
+ATOM     14  CX  SER A 403      28.907  27.182  88.615  1.00  0.00           C  
+ATOM     15  NX  SER A 403      27.634  26.914  87.882  1.00  0.00           N  
+ATOM     16  CX  SER A 403      27.642  24.234  82.879  1.00  0.00           C  
+ATOM     17  NX  SER A 403      27.728  22.947  82.944  1.00  0.00           N  
+ATOM     18  OX  SER A 403      27.684  22.192  81.817  1.00  0.00           O  
+ATOM     19  CX  SER A 403      27.496  24.966  81.530  1.00  0.00           C  
+ATOM     20  NX  SER A 403      27.393  26.267  81.419  1.00  0.00           N  
+ATOM     21  SX  SER A 403      27.014  26.651  79.804  1.00  0.00           S  
+ATOM     22  CX  SER A 403      27.348  25.021  79.241  1.00  0.00           C  
+ATOM     23  NX  SER A 403      27.465  24.214  80.241  1.00  0.00           N  
+ATOM     24  NX  SER A 403      27.492  24.632  77.833  1.00  0.00           N  
+ATOM     25  CX  SER A 403      31.306  26.861  89.272  1.00  0.00           C  
+ATOM     26  CX  SER A 403      31.686  25.485  89.849  1.00  0.00           C  
+ATOM     27  CX  SER A 403      30.879  24.415  90.022  1.00  0.00           C  
+ATOM     28  CX  SER A 403      31.782  23.191  90.307  1.00  0.00           C  
+ATOM     29  NX  SER A 403      32.964  23.775  90.984  1.00  0.00           N  
+ATOM     30  CX  SER A 403      33.081  25.082  90.324  1.00  0.00           C  
+ATOM     31  OX  SER A 403      34.134  25.756  90.187  1.00  0.00           O  
+ATOM     32  CX  SER A 403      34.172  22.934  90.880  1.00  0.00           C  
+ATOM     33  CX  SER A 403      35.283  23.633  91.679  1.00  0.00           C  
+ATOM     34  CX  SER A 403      36.498  23.365  90.828  1.00  0.00           C  
+ATOM     35  NX  SER A 403      35.919  23.784  89.507  1.00  0.00           N  
+ATOM     36  CX  SER A 403      34.838  22.805  89.485  1.00  0.00           C  
+ATOM     37  CX  SER A 403      28.823  28.055  89.880  1.00  0.00           C  
+ATOM     38  OX  SER A 403      28.064  29.265  89.856  1.00  0.00           O  
+ATOM     39  OX  SER A 403      29.419  27.709  90.933  1.00  0.00           O  
+ATOM     40  H   SER A 403      26.228  26.605  83.655  1.00  0.00           H  
+ATOM     41  H   SER A 403      26.750  26.907  88.315  1.00  0.00           H  
+ATOM     42  H   SER A 403      28.241  22.399  81.092  1.00  0.00           H  
+ATOM     43  H   SER A 403      28.388  24.540  77.436  1.00  0.00           H  
+ATOM     44  H   SER A 403      26.692  24.460  77.285  1.00  0.00           H  
+ATOM     45  H   SER A 403      35.656  24.764  89.408  1.00  0.00           H  
+ATOM     46  H   SER A 403      36.574  23.661  88.735  1.00  0.00           H  
+TER      47      SER A 403
+CONECT    3    4
+CONECT    4    3    6    5
+CONECT    4    5
+CONECT    5    4
+CONECT    5    4
+CONECT    6    4    7   12
+CONECT    7    6   40    8
+CONECT   40    7
+CONECT    8    7   16    9
+CONECT    8    9
+CONECT    9    8   10
+CONECT    9    8
+CONECT   10    9   12   11
+CONECT   11   10   13
+CONECT   12    6   10   15
+CONECT   13   11   14   25
+CONECT   13   14
+CONECT   14   13   15   37
+CONECT   14   13
+CONECT   15   12   14   41
+CONECT   41   15
+CONECT   16    8   19   17
+CONECT   16   17
+CONECT   17   16   18
+CONECT   17   16
+CONECT   18   17   42
+CONECT   42   18
+CONECT   19   16   23   20
+CONECT   19   20
+CONECT   20   19   21
+CONECT   20   19
+CONECT   21   20   22
+CONECT   22   21   24   23
+CONECT   23   19   22
+CONECT   24   22   44   43
+CONECT   43   24
+CONECT   44   24
+CONECT   25   13   26
+CONECT   26   25   27   30
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   30   32
+CONECT   30   26   29   31
+CONECT   30   31
+CONECT   31   30
+CONECT   31   30
+CONECT   32   29   36   33
+CONECT   33   32   34
+CONECT   34   33   35
+CONECT   35   34   46   45   36
+CONECT   45   35
+CONECT   46   35
+CONECT   36   32   35
+CONECT   37   14   38   39
+CONECT   37   38
+CONECT   38   37
+CONECT   38   37
+CONECT   39   37
+END   

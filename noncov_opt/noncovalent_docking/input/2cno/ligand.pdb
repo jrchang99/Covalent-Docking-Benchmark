@@ -1,0 +1,183 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           22-MAY-06   2CNO
+TITLE     CRYSTAL STRUCTURES OF CASPASE-3 IN COMPLEX WITH AZA-PEPTIDE
+TITLE    2 EPOXIDE INHIBITORS.
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.95 ANGSTROMS
+REMARK   3  R VALUE : 0.168000
+REMARK   3  FREE R VALUE : 0.198000
+REMARK   4 2CNO COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 4.75
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, C
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, B, C
+REMARK 350   BIOMT1  2   -1.000000 0.000000 0.000000   69.170000
+REMARK 350   BIOMT2  2   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  2   0.000000 0.000000 -1.000000   95.760000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   69.170   83.530   95.760  90.00  90.00  90.00 I 2 2 2       8
+ATOM      1  N   GLU C   2      40.729  31.057  22.786  1.00 40.35           N  
+ATOM      2  CA  GLU C   2      39.637  31.888  23.286  1.00 39.20           C  
+ATOM      3  C   GLU C   2      39.313  31.470  24.737  1.00 37.46           C  
+ATOM      4  O   GLU C   2      39.592  30.335  25.136  1.00 34.34           O  
+ATOM      5  CB  GLU C   2      38.421  31.742  22.340  1.00 39.99           C  
+ATOM      6  CG  GLU C   2      38.792  31.945  20.849  1.00 42.36           C  
+ATOM      7  CD  GLU C   2      37.593  32.236  19.953  1.00 43.77           C  
+ATOM      8  OE1 GLU C   2      37.316  31.394  19.065  1.00 45.79           O  
+ATOM      9  OE2 GLU C   2      36.972  33.299  20.163  1.00 43.49           O1-
+ATOM     10  H   GLU C   2      40.479  30.260  22.225  1.00  0.00           H  
+ATOM     11  HA  GLU C   2      39.971  32.927  23.283  1.00  0.00           H  
+ATOM     12  HB3 GLU C   2      37.655  32.465  22.627  1.00  0.00           H  
+ATOM     13  HB2 GLU C   2      37.955  30.761  22.456  1.00  0.00           H  
+ATOM     14  HG3 GLU C   2      39.319  31.074  20.458  1.00  0.00           H  
+ATOM     15  HG2 GLU C   2      39.468  32.793  20.746  1.00  0.00           H  
+ATOM     16  N   VAL C   3      38.808  32.400  25.554  1.00 36.35           N  
+ATOM     17  CA  VAL C   3      38.758  32.290  27.012  1.00 34.85           C  
+ATOM     18  C   VAL C   3      37.392  32.692  27.585  1.00 35.01           C  
+ATOM     19  O   VAL C   3      36.624  33.408  26.943  1.00 34.04           O  
+ATOM     20  CB  VAL C   3      39.947  33.060  27.663  1.00 34.39           C  
+ATOM     21  CG1 VAL C   3      41.306  32.396  27.381  1.00 33.14           C  
+ATOM     22  CG2 VAL C   3      39.990  34.554  27.280  1.00 34.93           C  
+ATOM     23  H   VAL C   3      38.456  33.257  25.153  1.00  0.00           H  
+ATOM     24  HA  VAL C   3      38.861  31.238  27.286  1.00  0.00           H  
+ATOM     25  HB  VAL C   3      39.813  33.018  28.745  1.00  0.00           H  
+ATOM     26 HG11 VAL C   3      42.103  32.866  27.957  1.00  0.00           H  
+ATOM     27 HG12 VAL C   3      41.293  31.336  27.634  1.00  0.00           H  
+ATOM     28 HG13 VAL C   3      41.576  32.476  26.328  1.00  0.00           H  
+ATOM     29 HG21 VAL C   3      40.780  35.075  27.821  1.00  0.00           H  
+ATOM     30 HG22 VAL C   3      40.181  34.688  26.215  1.00  0.00           H  
+ATOM     31 HG23 VAL C   3      39.052  35.060  27.511  1.00  0.00           H  
+TER      32      VAL C   3
+HETATM   33  C1  PHQ C   1      42.029  31.097  23.235  1.00 43.84           C  
+HETATM   34  O1  PHQ C   1      42.533  31.958  23.957  1.00 46.28           O  
+HETATM   35  O2  PHQ C   1      42.662  30.011  22.785  1.00 45.56           O  
+HETATM   36  C2  PHQ C   1      43.969  29.725  23.251  1.00 45.00           C  
+HETATM   37  C3  PHQ C   1      44.270  28.237  23.218  1.00 45.32           C  
+HETATM   38  C4  PHQ C   1      45.499  27.770  22.707  1.00 45.90           C  
+HETATM   39  C5  PHQ C   1      45.784  26.390  22.700  1.00 45.69           C  
+HETATM   40  C6  PHQ C   1      44.843  25.473  23.208  1.00 45.69           C  
+HETATM   41  C7  PHQ C   1      43.617  25.936  23.725  1.00 46.43           C  
+HETATM   42  C8  PHQ C   1      43.333  27.316  23.732  1.00 45.53           C  
+HETATM   43 H2_1 PHQ C   1      44.098  30.061  24.282  1.00  0.00           H  
+HETATM   44 H2_2 PHQ C   1      44.691  30.268  22.641  1.00  0.00           H  
+HETATM   45  HC4 PHQ C   1      46.224  28.470  22.317  1.00  0.00           H  
+HETATM   46  HC5 PHQ C   1      46.724  26.034  22.303  1.00  0.00           H  
+HETATM   47  HC6 PHQ C   1      45.058  24.414  23.201  1.00  0.00           H  
+HETATM   48  HC7 PHQ C   1      42.892  25.237  24.115  1.00  0.00           H  
+HETATM   49  HC8 PHQ C   1      42.391  27.670  24.128  1.00  0.00           H  
+HETATM   50  N   MY0 C   4      37.169  32.294  28.851  1.00 33.45           N  
+HETATM   51  N5  MY0 C   4      35.952  32.512  29.557  1.00 31.42           N  
+HETATM   52  O   MY0 C   4      38.548  36.809  30.867  1.00 39.74           O  
+HETATM   53  O4  MY0 C   4      34.561  33.937  30.617  1.00 28.79           O  
+HETATM   54  O7  MY0 C   4      33.701  29.617  29.626  1.00 29.66           O1-
+HETATM   55  O8  MY0 C   4      33.526  31.603  28.717  1.00 29.07           O  
+HETATM   56  O2  MY0 C   4      35.919  36.141  29.445  1.00 34.28           O  
+HETATM   57  C3  MY0 C   4      36.559  34.912  29.846  1.00 29.50           C  
+HETATM   58  C5  MY0 C   4      35.353  31.305  30.179  1.00 29.98           C  
+HETATM   59  C   MY0 C   4      37.372  36.982  31.183  1.00 39.03           C  
+HETATM   60  C4  MY0 C   4      35.598  33.756  29.976  1.00 29.39           C  
+HETATM   61  C6  MY0 C   4      34.114  30.790  29.447  1.00 31.42           C  
+HETATM   62  C2  MY0 C   4      36.284  36.040  30.827  1.00 36.31           C  
+HETATM   63  HN  MY0 C   4      37.799  31.702  29.369  1.00  0.00           H  
+HETATM   64 H5_1 MY0 C   4      35.067  31.494  31.214  1.00  0.00           H  
+HETATM   65 H5_2 MY0 C   4      36.078  30.493  30.214  1.00  0.00           H  
+HETATM   66  HC2 MY0 C   4      35.425  36.015  31.497  1.00  0.00           H  
+HETATM   67  HC3 MY0 C   4      37.564  34.773  29.459  1.00  0.00           H  
+HETATM   68  C1' PEA C   5      37.977  41.079  33.969  1.00 53.27           C  
+HETATM   69  C6' PEA C   5      37.713  41.231  35.347  1.00 54.32           C  
+HETATM   70  C5' PEA C   5      38.523  42.070  36.135  1.00 55.17           C  
+HETATM   71  C4' PEA C   5      39.599  42.765  35.551  1.00 55.81           C  
+HETATM   72  C3' PEA C   5      39.862  42.623  34.174  1.00 55.40           C  
+HETATM   73  C2' PEA C   5      39.052  41.781  33.384  1.00 54.56           C  
+HETATM   74  C2  PEA C   5      37.097  40.172  33.127  1.00 51.06           C  
+HETATM   75  C1  PEA C   5      37.844  38.910  32.664  1.00 47.11           C  
+HETATM   76  N   PEA C   5      36.961  37.999  31.951  1.00 43.93           N  
+HETATM   77 HC6' PEA C   5      36.875  40.722  35.808  1.00  0.00           H  
+HETATM   78 HC5' PEA C   5      38.297  42.186  37.186  1.00  0.00           H  
+HETATM   79 HC4' PEA C   5      40.209  43.418  36.158  1.00  0.00           H  
+HETATM   80 HC3' PEA C   5      40.678  43.166  33.722  1.00  0.00           H  
+HETATM   81 HC2' PEA C   5      39.253  41.680  32.328  1.00  0.00           H  
+HETATM   82 H2_1 PEA C   5      36.734  40.737  32.269  1.00  0.00           H  
+HETATM   83 H2_2 PEA C   5      36.215  39.896  33.710  1.00  0.00           H  
+HETATM   84 H1_1 PEA C   5      38.228  38.378  33.534  1.00  0.00           H  
+HETATM   85 H1_2 PEA C   5      38.699  39.180  32.043  1.00  0.00           H  
+HETATM   86  HN  PEA C   5      35.974  38.071  32.153  1.00  0.00           H  
+CONECT   33    1   34   35
+CONECT   33   34
+CONECT   34   33
+CONECT   34   33
+CONECT   35   33   36
+CONECT   36   35   37   43   44
+CONECT   37   36   38   42
+CONECT   37   38
+CONECT   38   37   39   45
+CONECT   38   37
+CONECT   39   38   40   46
+CONECT   39   40
+CONECT   40   39   41   47
+CONECT   40   39
+CONECT   41   40   42   48
+CONECT   41   42
+CONECT   42   37   41   49
+CONECT   42   41
+CONECT   43   36
+CONECT   44   36
+CONECT   45   38
+CONECT   46   39
+CONECT   47   40
+CONECT   48   41
+CONECT   49   42
+CONECT   50   18   51   63
+CONECT   51   50   58   60
+CONECT   52   59
+CONECT   52   59
+CONECT   53   60
+CONECT   53   60
+CONECT   54   61
+CONECT   55   61
+CONECT   55   61
+CONECT   56   62   57
+CONECT   57   56   60   62   67
+CONECT   58   51   61   64   65
+CONECT   59   52   62   76
+CONECT   59   52
+CONECT   60   51   53   57
+CONECT   60   53
+CONECT   61   54   55   58
+CONECT   61   55
+CONECT   62   56   57   59   66
+CONECT   63   50
+CONECT   64   58
+CONECT   65   58
+CONECT   66   62
+CONECT   68   69   73   74
+CONECT   68   69
+CONECT   69   68   70   77
+CONECT   69   68
+CONECT   70   69   71   78
+CONECT   70   71
+CONECT   71   70   72   79
+CONECT   71   70
+CONECT   72   71   73   80
+CONECT   72   73
+CONECT   73   68   72   81
+CONECT   73   72
+CONECT   74   68   75   82   83
+CONECT   75   74   76   84   85
+CONECT   76   59   75   86
+CONECT   77   69
+CONECT   78   70
+CONECT   79   71
+CONECT   80   72
+CONECT   81   73
+CONECT   82   74
+CONECT   83   74
+CONECT   84   75
+CONECT   85   75
+CONECT   86   76
+CONECT   67   57
+END   

@@ -1,0 +1,261 @@
+Structure277
+                    3D
+ Schrodinger Suite 2021-3.
+ 55 58  0  0  1  0            999 V2000
+   -2.0489   -1.2628    0.0285 C   0  0  0  0  0  0
+   -0.6212   -1.2947    0.0502 C   0  0  0  0  0  0
+    0.0648   -0.0397    0.0901 C   0  0  0  0  0  0
+   -0.6047    1.1451    0.1094 N   0  0  0  0  0  0
+   -2.6538   -0.0274    0.0442 N   0  3  0  0  0  0
+   -7.7497    1.2443   -2.7580 C   0  0  0  0  0  0
+   -6.6870    2.1716   -2.1777 C   0  0  0  0  0  0
+   -5.5553    2.1548   -2.6607 O   0  0  0  0  0  0
+   -7.1001    3.0530   -1.0863 C   0  0  0  0  0  0
+   -6.2927    3.7123   -0.2222 C   0  0  0  0  0  0
+   -4.8224    3.6726   -0.0759 C   0  0  0  0  0  0
+   -4.1138    2.4652   -0.0461 C   0  0  0  0  0  0
+   -4.1212    4.8718    0.0578 C   0  0  0  0  0  0
+   -2.7358    4.8646    0.1928 C   0  0  0  0  0  0
+   -2.0418    3.6563    0.1991 C   0  0  0  0  0  0
+   -2.7141    2.4280    0.0816 C   0  0  0  0  0  0
+   -1.9620    1.1291    0.0827 C   0  0  0  0  0  0
+   -2.8115   -2.4496   -0.0097 C   0  0  0  0  0  0
+   -2.1526   -3.6771   -0.0285 C   0  0  0  0  0  0
+   -2.8945   -4.8556   -0.0665 N   0  0  0  0  0  0
+   -0.7591   -3.7351   -0.0098 C   0  0  0  0  0  0
+    0.0080   -2.5706    0.0290 C   0  0  0  0  0  0
+    1.4740   -0.0050    0.1012 N   0  0  0  0  0  0
+    2.2411    1.2386    0.0669 C   0  0  0  0  0  0
+    2.5869    1.6765   -1.3662 C   0  0  0  0  0  0
+    3.3057    3.0160   -1.4051 C   0  0  0  0  0  0
+    2.5648    4.2012   -1.4063 C   0  0  0  0  0  0
+    3.2193    5.4297   -1.4358 C   0  0  0  0  0  0
+    4.6120    5.4688   -1.4640 C   0  0  0  0  0  0
+    5.3562    4.2908   -1.4631 C   0  0  0  0  0  0
+    4.7024    3.0616   -1.4332 C   0  0  0  0  0  0
+   -8.1679    3.1882   -0.9901 H   0  0  0  0  0  0
+   -6.7889    4.3447    0.5004 H   0  0  0  0  0  0
+   -8.5693    1.8257   -3.1802 H   0  0  0  0  0  0
+   -8.1516    0.5950   -1.9803 H   0  0  0  0  0  0
+   -7.3312    0.6176   -3.5459 H   0  0  0  0  0  0
+   -4.6709    1.5437   -0.1318 H   0  0  0  0  0  0
+   -4.6467    5.8162    0.0488 H   0  0  0  0  0  0
+   -2.1978    5.7964    0.2894 H   0  0  0  0  0  0
+   -0.9666    3.6889    0.3001 H   0  0  0  0  0  0
+   -3.8909   -2.3935   -0.0250 H   0  0  0  0  0  0
+   -2.4158   -5.7448   -0.0782 H   0  0  0  0  0  0
+   -3.9031   -4.8083   -0.0791 H   0  0  0  0  0  0
+   -0.2571   -4.6921   -0.0249 H   0  0  0  0  0  0
+    1.0858   -2.6427    0.0437 H   0  0  0  0  0  0
+    1.9781   -0.8741    0.0008 H   0  0  0  0  0  0
+    1.6955    2.0293    0.5840 H   0  0  0  0  0  0
+    3.1513    1.0619    0.6410 H   0  0  0  0  0  0
+    3.1951    0.9168   -1.8603 H   0  0  0  0  0  0
+    1.6789    1.7489   -1.9680 H   0  0  0  0  0  0
+    1.4848    4.1711   -1.3822 H   0  0  0  0  0  0
+    2.6505    6.3478   -1.4361 H   0  0  0  0  0  0
+    5.1197    6.4218   -1.4862 H   0  0  0  0  0  0
+    6.4354    4.3312   -1.4848 H   0  0  0  0  0  0
+    5.2811    2.1493   -1.4307 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  5  1  0  0  0
+  1 18  1  0  0  0
+  2  3  1  0  0  0
+  2 22  1  0  0  0
+  3  4  2  0  0  0
+  3 23  1  0  0  0
+  4 17  1  0  0  0
+  5 17  2  0  0  0
+  6  7  1  0  0  0
+  6 34  1  0  0  0
+  6 35  1  0  0  0
+  6 36  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  9 10  2  0  0  0
+  9 32  1  0  0  0
+ 10 11  1  0  0  0
+ 10 33  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  2  0  0  0
+ 12 16  2  0  0  0
+ 12 37  1  0  0  0
+ 13 14  1  0  0  0
+ 13 38  1  0  0  0
+ 14 15  2  0  0  0
+ 14 39  1  0  0  0
+ 15 16  1  0  0  0
+ 15 40  1  0  0  0
+ 16 17  1  0  0  0
+ 18 19  2  0  0  0
+ 18 41  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  1  0  0  0
+ 20 42  1  0  0  0
+ 20 43  1  0  0  0
+ 21 22  2  0  0  0
+ 21 44  1  0  0  0
+ 22 45  1  0  0  0
+ 23 24  1  0  0  0
+ 23 46  1  0  0  0
+ 24 25  1  0  0  0
+ 24 47  1  0  0  0
+ 24 48  1  0  0  0
+ 25 26  1  0  0  0
+ 25 49  1  0  0  0
+ 25 50  1  0  0  0
+ 26 27  2  0  0  0
+ 26 31  1  0  0  0
+ 27 28  1  0  0  0
+ 27 51  1  0  0  0
+ 28 29  2  0  0  0
+ 28 52  1  0  0  0
+ 29 30  1  0  0  0
+ 29 53  1  0  0  0
+ 30 31  2  0  0  0
+ 30 54  1  0  0  0
+ 31 55  1  0  0  0
+M  CHG  1   5   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+278
+
+> <s_m_entry_name>
+Structure277
+
+> <s_pdb_PDB_TITLE>
+COVALENT INHIBITOR 4B BOUND TO THE LIPID POCKET OF P38ALPHA MUTANT S252C
+
+> <s_pdb_PDB_ID>
+5O8U
+
+> <r_pdb_PDB_CRYST1_a>
+67.58
+
+> <r_pdb_PDB_CRYST1_b>
+74.05
+
+> <r_pdb_PDB_CRYST1_c>
+76.71
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+14-JUN-17
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.203
+
+> <r_pdb_PDB_Rfree>
+0.252
+
+> <r_pdb_PDB_RESOLUTION>
+2
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+90
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\MA54\covdock\5o8u
+
+> <s_m_Source_File>
+5O8U.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5o8u_ligprep_42.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0gyXVtDSDJdW05IXWMoYyhjMjMpW2NIXVtjSF1jKFtjSF0zKVtOSDJdKW5jKG4yKS1jKFtjSF1bY0hdW2NIXTQpW2NIXWM0L1tDSF09W0NIXVxDKD1PKVtDSDNd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0594
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0594
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0514
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.110782381166985
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+42.00484
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure277-1
+
+> <s_m_job_name>
+5o8u_ligprep_42
+
+> <s_m_subgroup_title>
+5o8u_ligprep_42-out1
+
+> <s_m_subgroupid>
+5o8u_ligprep_42-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

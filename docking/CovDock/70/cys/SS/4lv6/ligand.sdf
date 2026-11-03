@@ -1,0 +1,293 @@
+Structure377
+                    3D
+ Schrodinger Suite 2021-3.
+ 63 64  0  0  1  0            999 V2000
+    2.2112   14.0472    2.3762 Cl  0  0  0  0  0  0
+    5.5067    9.9079    3.4084 Cl  0  0  0  0  0  0
+    2.4323   12.3721    2.7282 C   0  0  0  0  0  0
+    1.3280   11.5288    2.8340 C   0  0  0  0  0  0
+    1.5069   10.1753    3.1184 C   0  0  0  0  0  0
+    2.7967    9.6449    3.3007 C   0  0  0  0  0  0
+    3.0504    8.3154    3.5846 O   0  0  0  0  0  0
+    1.9603    7.4034    3.7243 C   0  0  0  0  0  0
+    2.4966    5.9925    4.0411 C   0  0  0  0  0  0
+    1.6022    5.0079    4.3293 N   0  0  0  0  0  0
+    0.1910    5.0734    3.9063 C   0  0  0  0  0  0
+    0.0817    4.3439    2.5449 C   0  0  0  0  0  0
+    0.6189    2.8909    2.6679 C   0  0  0  0  0  0
+    0.6464    2.2104    1.2854 C   0  0  0  0  0  0
+    0.0015    1.0344    1.1771 N   0  0  0  0  0  0
+   -0.0825    0.2117   -0.0313 C   0  0  0  0  0  0
+    0.9513   -0.9303   -0.0823 C   0  0  0  0  0  0
+    2.7002   -0.5193    0.2043 S   0  0  0  0  0  0
+    1.2469    2.7392    0.3485 O   0  0  0  0  0  0
+    2.0372    2.8425    3.2978 C   0  0  0  0  0  0
+    2.0647    3.6391    4.6261 C   0  0  0  0  0  0
+    3.7147    5.8254    4.1487 O   0  0  0  0  0  0
+    3.8985   10.5054    3.1919 C   0  0  0  0  0  0
+    3.7161   11.8599    2.9074 C   0  0  0  0  0  0
+   -0.3882    4.5420    4.6630 H   0  0  0  0  0  0
+    3.0176    3.6197    5.1576 H   0  0  0  0  0  0
+   -0.2283    6.0794    3.9295 H   0  0  0  0  0  0
+    1.3587    3.2107    5.3391 H   0  0  0  0  0  0
+   -0.9751    4.3500    2.2736 H   0  0  0  0  0  0
+    0.6626    4.9393    1.8368 H   0  0  0  0  0  0
+   -0.0644    2.3218    3.3024 H   0  0  0  0  0  0
+    0.3307   11.9204    2.6967 H   0  0  0  0  0  0
+    0.6290    9.5520    3.1928 H   0  0  0  0  0  0
+   -0.4859    0.6809    1.9875 H   0  0  0  0  0  0
+    4.5726   12.5133    2.8256 H   0  0  0  0  0  0
+   -1.0855   -0.2147   -0.0696 H   0  0  0  0  0  0
+   -0.0017    0.8265   -0.9268 H   0  0  0  0  0  0
+    0.6880   -1.6643    0.6801 H   0  0  0  0  0  0
+    0.8700   -1.4556   -1.0344 H   0  0  0  0  0  0
+    1.3023    7.7225    4.5348 H   0  0  0  0  0  0
+    1.3865    7.3607    2.7968 H   0  0  0  0  0  0
+    2.3232    1.8189    3.5442 H   0  0  0  0  0  0
+    2.7880    3.3045    2.6526 H   0  0  0  0  0  0
+    3.5390   -0.2913   -1.6459 S   0  0  0  0  0  0
+    3.4934    1.4856   -2.0042 C   0  0  0  0  0  0
+    3.5580    2.0290   -1.0608 H   0  0  0  0  0  0
+    4.4163    1.6966   -2.5406 H   0  0  0  0  0  0
+    2.2599    1.9430   -2.8139 C   0  0  0  0  0  0
+    2.4037    3.3539   -3.4591 N   0  3  0  0  0  0
+    2.0514    1.2654   -3.6438 H   0  0  0  0  0  0
+    1.3747    1.9971   -2.1839 H   0  0  0  0  0  0
+    1.0471    3.7223   -4.1086 C   0  0  0  0  0  0
+    2.7417    4.4319   -2.4013 C   0  0  0  0  0  0
+    1.1440    4.7077   -4.5674 H   0  0  0  0  0  0
+    0.2886    3.7354   -3.3238 H   0  0  0  0  0  0
+    0.8170    2.9653   -4.8605 H   0  0  0  0  0  0
+    2.7533    5.4018   -2.9013 H   0  0  0  0  0  0
+    3.7230    4.2078   -1.9820 H   0  0  0  0  0  0
+    1.9688    4.4003   -1.6325 H   0  0  0  0  0  0
+    3.4841    3.3654   -4.5685 C   0  0  0  0  0  0
+    3.4527    4.3405   -5.0574 H   0  0  0  0  0  0
+    3.2481    2.5691   -5.2758 H   0  0  0  0  0  0
+    4.4606    3.2089   -4.1117 H   0  0  0  0  0  0
+  1  3  1  0  0  0
+  2 23  1  0  0  0
+  3  4  2  0  0  0
+  3 24  1  0  0  0
+  4  5  1  0  0  0
+  4 32  1  0  0  0
+  5  6  2  0  0  0
+  5 33  1  0  0  0
+  6  7  1  0  0  0
+  6 23  1  0  0  0
+  7  8  1  0  0  0
+  8  9  1  0  0  0
+  8 40  1  0  0  0
+  8 41  1  0  0  0
+  9 10  1  0  0  0
+  9 22  2  0  0  0
+ 10 11  1  0  0  0
+ 10 21  1  0  0  0
+ 11 12  1  0  0  0
+ 11 25  1  0  0  0
+ 11 27  1  0  0  0
+ 12 13  1  0  0  0
+ 12 29  1  0  0  0
+ 12 30  1  0  0  0
+ 13 14  1  0  0  0
+ 13 20  1  0  0  0
+ 13 31  1  0  0  0
+ 14 15  1  0  0  0
+ 14 19  2  0  0  0
+ 15 16  1  0  0  0
+ 15 34  1  0  0  0
+ 16 17  1  0  0  0
+ 16 36  1  0  0  0
+ 16 37  1  0  0  0
+ 17 18  1  0  0  0
+ 17 38  1  0  0  0
+ 17 39  1  0  0  0
+ 18 44  1  0  0  0
+ 20 21  1  0  0  0
+ 20 42  1  0  0  0
+ 20 43  1  0  0  0
+ 21 26  1  0  0  0
+ 21 28  1  0  0  0
+ 23 24  2  0  0  0
+ 24 35  1  0  0  0
+ 44 45  1  0  0  0
+ 45 46  1  0  0  0
+ 45 47  1  0  0  0
+ 45 48  1  0  0  0
+ 48 49  1  0  0  0
+ 48 50  1  0  0  0
+ 48 51  1  0  0  0
+ 49 52  1  0  0  0
+ 49 53  1  0  0  0
+ 49 60  1  0  0  0
+ 52 54  1  0  0  0
+ 52 55  1  0  0  0
+ 52 56  1  0  0  0
+ 53 57  1  0  0  0
+ 53 58  1  0  0  0
+ 53 59  1  0  0  0
+ 60 61  1  0  0  0
+ 60 62  1  0  0  0
+ 60 63  1  0  0  0
+M  CHG  1  49   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+379
+
+> <s_m_entry_name>
+Structure377
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF SMALL MOLECULE DISULFIDE 4 COVALENTLY BOUND TO K- RAS G12C
+
+> <s_pdb_PDB_ID>
+4LV6
+
+> <r_pdb_PDB_CRYST1_a>
+33.14
+
+> <r_pdb_PDB_CRYST1_b>
+39.32
+
+> <r_pdb_PDB_CRYST1_c>
+62.79
+
+> <r_pdb_PDB_CRYST1_alpha>
+77.33
+
+> <r_pdb_PDB_CRYST1_beta>
+81.21
+
+> <r_pdb_PDB_CRYST1_gamma>
+77.35
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1
+
+> <i_pdb_PDB_CRYST1_z>
+2
+
+> <s_pdb_PDB_CLASSIFICATION>
+SIGNALING PROTEIN/INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+26-JUL-13
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.157
+
+> <r_pdb_PDB_Rfree>
+0.187
+
+> <r_pdb_PDB_RESOLUTION>
+1.5
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SS\4lv6
+
+> <s_m_Source_File>
+4lv6.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4lv6_ligprep_45.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Q2xjMVtjSF1bY0hdYyhjKENsKVtjSF0xKU9bQ0gyXUMoPU8pTjJbQ0gyXVtDSDJdW0NIXShbQ0gyXVtDSDJdMilDKD1PKVtOSF1bQ0gyXVtDSDJdU1NbQ0gyXVtDSDJdW04rXShbQ0gzXSkoW0NIM10pW0NIM10=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+27.915232
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure377-1
+
+> <s_m_job_name>
+4lv6_ligprep_45
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_subgroup_title>
+4lv6_ligprep_45-out1
+
+> <s_m_subgroupid>
+4lv6_ligprep_45-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

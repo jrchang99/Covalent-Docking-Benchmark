@@ -1,0 +1,271 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ i_sd_i\_f3d\_flags
+ s_epik_Chemistry_Notes
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure12 
+  0
+  8_R_14_7_9_41 
+  16_S_15_17_19_44 
+  19_S_16_20_21_45 
+  0
+  269 
+  ligand.1 
+  "CRYSTAL STRUCTURE OF HUMAN ADENOVIRUS 8 PROTEASE IN COMPLEX WITH A NITRILE INHIBITOR" 
+  4PIS 
+  42.061
+  42.061
+  193.238
+  90
+  90
+  120
+  "P 32 2 1" 
+  6
+  "HYDROLASE/HYDROLASE INHIBITOR" 
+  09-MAY-14 
+  3.30 
+  0.232
+  0.279
+  2.1
+  "X-RAY DIFFRACTION" 
+  100
+  "A, B" 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\244Set\Autodock\cys\NA\4pis 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  Q2xjMVtjSF1jKENsKVtjSF1jKFtjSF0xKVtDQEBIXShOKFtDSDNdKVtDSDNdKUMoPU8pW05IXVtDQEBIXShbQ0BASF0oW0NIM10pW0NIMl1bQ0gzXSlDKD1PKVtOSF1bQ0gyXWMyW2NIXVtjSF1uYyhuMilDI04= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.1626 
+    0.0000 
+    0.1626 
+    0.1519 
+  0.151888819576155
+  0
+  0
+  S-OPLS 
+  43.041477
+  1
+  Structure12-1 
+  4pis_ligprep_9 
+  0
+  "This compound contains an electron-poor aromatic ring that is susceptible to covalent hydrolysis at low pH, typically resulting in measured values for nitrogen ring protonation that are around two units higher than predicted values." 
+  4pis_ligprep_9-out1 
+  4pis_ligprep_9-out1 
+  0
+  2
+ m_depend[7] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  :::
+ } 
+ m_atom[58] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 2 -4.965800 3.029000 1.552700 900 2 6 A0A0A0  <>
+  2 2 -4.471800 3.115200 2.852600 900 2 6 A0A0A0  <>
+  3 2 -3.224600 2.574600 3.157900 900 2 6 A0A0A0  <>
+  4 2 -2.471200 1.952800 2.161600 900 2 6 A0A0A0  <>
+  5 3 -2.339600 2.718700 -2.254900 900 2 6 A0A0A0  <>
+  6 3 -2.043600 0.376400 -2.625900 900 2 6 A0A0A0  <>
+  7 2 -0.588500 1.385300 -0.110300 900 2 6 A0A0A0  <>
+  8 3 -2.127500 1.191700 -0.259300 900 2 6 A0A0A0  1
+  9 2 -2.946400 1.862900 0.840900 900 2 6 A0A0A0  <>
+  10 2 -4.210300 2.406200 0.558700 900 2 6 A0A0A0  <>
+  11 57 -6.513100 3.692000 1.172300 900 9 17 006400  <>
+  12 57 -2.612200 2.672500 4.768700 900 9 17 006400  <>
+  13 15 -0.104500 2.516200 -0.182100 900 70 8 FF2F2F  <>
+  14 26 -2.544500 1.383900 -1.689300 900 43 7 5757FF  <>
+  15 25 0.134300 0.271000 0.106100 900 43 7 5757FF  <>
+  16 3 1.595100 0.216800 0.210400 900 2 6 A0A0A0  1
+  17 2 2.246100 0.571600 -1.142500 900 2 6 A0A0A0  <>
+  18 15 1.857300 0.014500 -2.170500 900 70 8 FF2F2F  <>
+  19 3 2.076500 -1.196000 0.666700 900 2 6 A0A0A0  1
+  20 3 1.536700 -1.531200 2.078900 900 2 6 A0A0A0  <>
+  21 3 3.612400 -1.387200 0.631600 900 2 6 A0A0A0  <>
+  22 3 1.698100 -3.005500 2.479800 900 2 6 A0A0A0  <>
+  23 3 3.804800 2.099400 -2.305900 900 2 6 A0A0A0  <>
+  24 2 2.890800 3.041000 -3.092200 900 2 6 A0A0A0  <>
+  25 2 1.192000 4.606300 -3.094800 900 2 6 A0A0A0  <>
+  26 2 2.062300 3.969800 -5.128100 900 2 6 A0A0A0  <>
+  27 2 2.952800 3.100400 -4.490200 900 2 6 A0A0A0  <>
+  28 25 3.211500 1.504400 -1.107300 900 43 7 5757FF  <>
+  29 25 2.012000 3.799000 -2.375400 900 43 7 5757FF  <>
+  30 25 1.167500 4.733800 -4.446400 900 43 7 5757FF  <>
+  31 1 0.242400 5.407600 -2.341700 900 2 6 A0A0A0  <>
+  32 24 -0.514900 6.044700 -1.741500 900 43 7 5757FF  <>
+  33 41 -5.055500 3.598200 3.622800 900 21 1 FFFFFF  <>
+  34 41 -1.510600 1.536400 2.427400 900 21 1 FFFFFF  <>
+  35 41 -2.668100 3.495000 -1.563500 900 21 1 FFFFFF  <>
+  36 41 -2.913300 2.835200 -3.175000 900 21 1 FFFFFF  <>
+  37 41 -1.290200 2.897300 -2.490800 900 21 1 FFFFFF  <>
+  38 41 -2.248600 -0.629600 -2.258500 900 21 1 FFFFFF  <>
+  39 41 -0.967200 0.468500 -2.778900 900 21 1 FFFFFF  <>
+  40 41 -2.532300 0.474800 -3.596200 900 21 1 FFFFFF  <>
+  41 41 -2.330700 0.135000 -0.068800 900 21 1 FFFFFF  <>
+  42 41 -4.619800 2.348700 -0.439000 900 21 1 FFFFFF  <>
+  43 43 -0.340100 -0.618400 0.159200 900 21 1 FFFFFF  <>
+  44 41 1.905400 0.950300 0.957700 900 21 1 FFFFFF  <>
+  45 41 1.647600 -1.923800 -0.024400 900 21 1 FFFFFF  <>
+  46 41 2.036100 -0.900400 2.815400 900 21 1 FFFFFF  <>
+  47 41 0.477600 -1.284100 2.153400 900 21 1 FFFFFF  <>
+  48 41 4.114600 -0.649400 1.257900 900 21 1 FFFFFF  <>
+  49 41 4.021000 -1.304000 -0.375500 900 21 1 FFFFFF  <>
+  50 41 3.901100 -2.374300 0.991700 900 21 1 FFFFFF  <>
+  51 41 0.925800 -3.300400 3.190700 900 21 1 FFFFFF  <>
+  52 41 2.664100 -3.180900 2.953700 900 21 1 FFFFFF  <>
+  53 41 1.621800 -3.669800 1.618600 900 21 1 FFFFFF  <>
+  54 41 4.202500 1.320300 -2.959700 900 21 1 FFFFFF  <>
+  55 41 4.672500 2.680400 -1.992300 900 21 1 FFFFFF  <>
+  56 41 2.053600 4.060600 -6.204200 900 21 1 FFFFFF  <>
+  57 41 3.648100 2.497200 -5.055600 900 21 1 FFFFFF  <>
+  58 43 3.455000 1.924500 -0.221900 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[59] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 2
+  2 1 10 1
+  3 1 11 1
+  4 2 3 1
+  5 2 33 1
+  6 3 4 2
+  7 3 12 1
+  8 4 9 1
+  9 4 34 1
+  10 5 14 1
+  11 5 35 1
+  12 5 36 1
+  13 5 37 1
+  14 6 14 1
+  15 6 38 1
+  16 6 39 1
+  17 6 40 1
+  18 7 8 1
+  19 7 13 2
+  20 7 15 1
+  21 8 9 1
+  22 8 14 1
+  23 8 41 1
+  24 9 10 2
+  25 10 42 1
+  26 15 16 1
+  27 15 43 1
+  28 16 17 1
+  29 16 19 1
+  30 16 44 1
+  31 17 18 2
+  32 17 28 1
+  33 19 20 1
+  34 19 21 1
+  35 19 45 1
+  36 20 22 1
+  37 20 46 1
+  38 20 47 1
+  39 21 48 1
+  40 21 49 1
+  41 21 50 1
+  42 22 51 1
+  43 22 52 1
+  44 22 53 1
+  45 23 24 1
+  46 23 28 1
+  47 23 54 1
+  48 23 55 1
+  49 24 27 2
+  50 24 29 1
+  51 25 29 2
+  52 25 30 1
+  53 25 31 1
+  54 26 27 1
+  55 26 30 2
+  56 26 56 1
+  57 27 57 1
+  58 28 58 1
+  59 31 32 3
+  :::
+ } 
+} 
+

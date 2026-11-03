@@ -1,0 +1,78 @@
+REMARK  99                                                                      
+REMARK  99 MOE v2024.06 (Chemical Computing Group ULC) Wed Jun 10 15:29:07 2026 
+REMARK  99                                                                      
+HETATM    1  C     * A   0      20.722  11.399  12.727  1.00  0.00           C  
+HETATM    2  C     * A   0      20.755  12.113  11.388  1.00  0.00           C  
+HETATM    3  S     * A   0      20.984  13.864  11.722  1.00  0.00           S  
+HETATM    4  O     * A   0      23.828  12.343   9.569  1.00  0.00           O  
+HETATM    5  O     * A   0      23.982  13.497  11.411  1.00  0.00           O  
+HETATM    6  O     * A   0      23.641  17.931   7.597  1.00  0.00           O  
+HETATM    7  O     * A   0      21.773  18.983   7.214  1.00  0.00           O  
+HETATM    8  N     * A   0      23.398  15.805  10.000  1.00  0.00           N  
+HETATM    9  N     * A   0      21.437  17.906   4.884  1.00  0.00           N  
+HETATM   10  C     * A   0      22.770  14.558   9.625  1.00  0.00           C  
+HETATM   11  C     * A   0      21.281  14.496  10.081  1.00  0.00           C  
+HETATM   12  C     * A   0      22.816  14.657   8.091  1.00  0.00           C  
+HETATM   13  C     * A   0      21.631  15.523   7.589  1.00  0.00           C  
+HETATM   14  C     * A   0      23.578  13.422  10.274  1.00  0.00           C  
+HETATM   15  C     * A   0      21.671  15.855   6.112  1.00  0.00           C  
+HETATM   16  C     * A   0      22.310  17.203   5.771  1.00  0.00           C  
+HETATM   17  C     * A   0      22.547  18.122   6.922  1.00  0.00           C  
+HETATM   18  H1    * A   0      20.584  10.330  12.565  1.00  0.00           H  
+HETATM   19  H2    * A   0      19.897  11.786  13.325  1.00  0.00           H  
+HETATM   20  H3    * A   0      21.662  11.569  13.252  1.00  0.00           H  
+HETATM   21  H1    * A   0      19.816  11.954  10.858  1.00  0.00           H  
+HETATM   22  H2    * A   0      21.582  11.737  10.785  1.00  0.00           H  
+HETATM   23  H     * A   0      23.398  12.227   8.697  1.00  0.00           H  
+HETATM   24  H1    * A   0      22.902  16.569   9.529  1.00  0.00           H  
+HETATM   25  H2    * A   0      24.355  15.808   9.631  1.00  0.00           H  
+HETATM   26  H1    * A   0      20.733  13.818   9.452  1.00  0.00           H  
+HETATM   27  H2    * A   0      20.812  15.463  10.057  1.00  0.00           H  
+HETATM   28  H1    * A   0      23.752  15.073   7.757  1.00  0.00           H  
+HETATM   29  H2    * A   0      22.780  13.677   7.671  1.00  0.00           H  
+HETATM   30  H1    * A   0      20.707  15.001   7.720  1.00  0.00           H  
+HETATM   31  H2    * A   0      21.503  16.397   8.193  1.00  0.00           H  
+HETATM   32  H1    * A   0      20.653  15.864   5.778  1.00  0.00           H  
+HETATM   33  H2    * A   0      22.152  15.048   5.598  1.00  0.00           H  
+HETATM   34  H     * A   0      23.257  17.060   5.306  1.00  0.00           H  
+HETATM   35  H     * A   0      21.811  18.849   4.755  1.00  0.00           H  
+HETATM   36  H     * A   0      20.529  17.975   5.353  1.00  0.00           H  
+HETATM   37  H     * A   0      24.249  17.239   7.277  1.00  0.00           H  
+CONECT    1   18   19   20    2
+CONECT    2    1   21   22    3
+CONECT    3    2   11
+CONECT    4   23   14
+CONECT    5   14   14
+CONECT    6   17   37
+CONECT    7   17   17
+CONECT    8   24   25   10
+CONECT    9   16   35   36
+CONECT   10    8   11   12   14
+CONECT   11    3   10   26   27
+CONECT   12   10   28   29   13
+CONECT   13   12   30   31   15
+CONECT   14    4    5    5   10
+CONECT   15   13   32   33   16
+CONECT   16    9   15   34   17
+CONECT   17    6    7    7   16
+CONECT   18    1
+CONECT   19    1
+CONECT   20    1
+CONECT   21    2
+CONECT   22    2
+CONECT   23    4
+CONECT   24    8
+CONECT   25    8
+CONECT   26   11
+CONECT   27   11
+CONECT   28   12
+CONECT   29   12
+CONECT   30   13
+CONECT   31   13
+CONECT   32   15
+CONECT   33   15
+CONECT   34   16
+CONECT   35    9
+CONECT   36    9
+CONECT   37    6
+END

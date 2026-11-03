@@ -1,0 +1,317 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ i_sd_PUBCHEM\_COMPOUND\_CANONICALIZED
+ i_sd_PUBCHEM\_CACTVS\_COMPLEXITY
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_ACCEPTOR
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_DONOR
+ i_sd_PUBCHEM\_CACTVS\_ROTATABLE\_BOND
+ s_sd_PUBCHEM\_CACTVS\_SUBSKEYS
+ s_sd_PUBCHEM\_IUPAC\_OPENEYE\_NAME
+ s_sd_PUBCHEM\_IUPAC\_CAS\_NAME
+ s_sd_PUBCHEM\_IUPAC\_NAME\_MARKUP
+ s_sd_PUBCHEM\_IUPAC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_SYSTEMATIC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_TRADITIONAL\_NAME
+ s_sd_PUBCHEM\_IUPAC\_INCHI
+ s_sd_PUBCHEM\_IUPAC\_INCHIKEY
+ r_sd_PUBCHEM\_EXACT\_MASS
+ s_sd_PUBCHEM\_MOLECULAR\_FORMULA
+ r_sd_PUBCHEM\_MOLECULAR\_WEIGHT
+ s_sd_PUBCHEM\_SMILES
+ s_sd_PUBCHEM\_OPENEYE\_CAN\_SMILES
+ s_sd_PUBCHEM\_OPENEYE\_ISO\_SMILES
+ i_sd_PUBCHEM\_CACTVS\_TPSA
+ r_sd_PUBCHEM\_MONOISOTOPIC\_WEIGHT
+ i_sd_PUBCHEM\_TOTAL\_CHARGE
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ s_sd_PUBCHEM\_BONDANNOTATIONS
+ b_sd_chiral_flag
+ i_sd_version
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ i_f3d_flags
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_epik_Chemistry_Notes
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 6857688 
+  1
+  2
+  12_R_3_20_13_32 
+  10_R_1_11_15_29 
+  12 
+  ligand.1 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\SER\\BA\\1zlr" 
+  ligand.sdf 
+  1
+  6857688
+  1
+  540
+  7
+  3
+  8
+  AAADceJ7uAAAAAAAAAAAAAAAAAAAASAAAAA8QAAAAAAAAAABwAAoHgAQCAAADBThmgY9iJJIFgCoAjD3bACCgCE1AiAI2CE4bNgLNvrAtZmHcYhnwAHJ6ceY0aIOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA== 
+  "[(1R)-2-guanidino-1-[4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] pyridine-3-carboxylate" 
+  "3-pyridinecarboxylic acid [(1R)-2-(diaminomethylideneamino)-1-[4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] ester" 
+  "[(1<I>R</I>)-2-(diaminomethylideneamino)-1-[4-[(4<I>R</I>)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] pyridine-3-carboxylate" 
+  "[(1R)-2-(diaminomethylideneamino)-1-[4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] pyridine-3-carboxylate" 
+  "[(1R)-2-[bis(azanyl)methylideneamino]-1-[4-[(4R)-4-(hydroxymethyl)-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] pyridine-3-carboxylate" 
+  "nicotinic acid [(1R)-2-guanidino-1-[4-[(4R)-4-methylol-1,3,2-dioxaborolan-2-yl]phenyl]ethyl] ester" 
+  InChI=1S/C18H21BN4O5/c20-18(21)23-9-16(27-17(25)13-2-1-7-22-8-13)12-3-5-14(6-4-12)19-26-11-15(10-24)28-19/h1-8,15-16,24H,9-11H2,(H4,20,21,23)/t15-,16+/m1/s1 
+  HGLWHYRZHMOCMC-CVEARBPZSA-N 
+  384.1604999
+  C18H21BN4O5 
+  384.2
+  B1(OC[C@H](O1)CO)C2=CC=C(C=C2)[C@H](CN=C(N)N)OC(=O)C3=CN=CC=C3 
+  B1(OCC(O1)CO)C2=CC=C(C=C2)C(CN=C(N)N)OC(=O)C3=CN=CC=C3 
+  B1(OC[C@H](O1)CO)C2=CC=C(C=C2)[C@H](CN=C(N)N)OC(=O)C3=CN=CC=C3 
+  142
+  384.1604999
+  0
+  28
+  2
+  0
+  0
+  0
+  0
+  1
+  -1
+  "1
+5
+255" 
+  "10  15  6
+13  16  8
+13  17  8
+14  18  8
+14  19  8
+16  18  8
+17  19  8
+22  24  8
+22  25  8
+24  26  8
+26  27  8
+12  3  6
+9  25  8
+9  27  8" 
+  1
+  0
+  1zlr_ligprep_8.maegz 
+  1
+  55137
+  0
+  W09IXVtDSDJdW0NASF0xT0IoT1tDSDJdMSljKFtjSF1bY0hdMilbY0hdW2NIXWMyW0NASF0oW0NIMl1OPUMoW05IMl0pW05IMl0pT0MoPU8pYzNbY0hdW2NIXVtjSF1uW2NIXTM= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0002 
+    0.0001 
+    0.0001 
+    0.0000 
+  0.00011468457433456
+  1
+  1
+  "This compound has an ester and may undergo hydrolysis at high or low pH. This compound has an imine and may undergo hydrolysis." 
+  S-OPLS 
+  16.957223
+  1
+  6857688-1 
+  1zlr_ligprep_8 
+  1zlr_ligprep_8-out1 
+  1zlr_ligprep_8-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[50] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  i_sd_original_parity
+  b_st_SpecifiedChirality
+  :::
+  1 16 6.878520 0.369858 1.120847 900 70 -0.33096 -0.33096 8 0 3 FF2F2F  "O1"  <> <> <> <>
+  2 16 6.840912 0.651950 -1.135351 900 70 -0.32806 -0.32806 8 0 3 FF2F2F  "O2"  <> <> <> <>
+  3 16 -0.330595 -0.853388 1.076934 900 70 -0.35060 -0.35060 8 0 3 FF2F2F  "O3"  <> <> <> <>
+  4 16 10.419680 1.151890 1.370012 900 70 -0.65788 -0.65788 8 0 3 FF2F2F  "O4"   -0.886    0.950  <> <>
+  5 15 0.477900 -2.857236 0.318140 900 70 -0.39953 -0.39953 8 0 3 FF2F2F  "O5"  <> <> <> <>
+  6 25 -0.278127 2.170380 1.142087 900 43 -0.29735 -0.29735 7 0 3 5757FF  "N6"  <> <> <> <>
+  7 25 -0.029933 4.276551 0.117021 900 43 -0.63346 -0.63346 7 0 3 5757FF  "N7"  <> <> <> <>
+  8 31 0.158374 4.042185 2.371274 900 43 -0.63346 -0.63346 7 1 3 5757FF  "N8"  <> <> <> <>
+  9 25 -2.029897 -2.573619 4.446045 900 43 -0.23562 -0.23562 7 0 3 5757FF  "N9"    3.223    0.723  <> <>
+  10 3 8.232282 0.334841 0.709079 900 2 0.03101 0.03101 6 0 3 A0A0A0  "C10"  <> <> 1 1
+  11 3 8.168502 0.897208 -0.723900 900 2 0.01206 0.01206 6 0 3 A0A0A0  "C11"  <> <> <> <>
+  12 3 0.194624 -0.061642 0.000663 900 2 0.18957 0.18957 6 0 3 A0A0A0  "C12"  <> <> 2 1
+  13 2 1.728163 0.055227 0.025182 900 2 -0.14148 -0.14148 6 0 3 A0A0A0  "C13"  <> <> <> <>
+  14 2 4.517143 0.299887 0.006047 900 2 -0.06540 -0.06540 6 0 3 A0A0A0  "C14"  <> <> <> <>
+  15 3 9.049053 1.173121 1.711639 900 2 0.12314 0.12314 6 0 3 A0A0A0  "C15"  <> <> <> <>
+  16 2 2.408760 0.245198 -1.179179 900 2 -0.11649 -0.11649 6 0 3 A0A0A0  "C16"  <> <> <> <>
+  17 2 2.449045 -0.007865 1.223134 900 2 -0.11649 -0.11649 6 0 3 A0A0A0  "C17"  <> <> <> <>
+  18 2 3.795498 0.366337 -1.188336 900 2 -0.08759 -0.08759 6 0 3 A0A0A0  "C18"  <> <> <> <>
+  19 2 3.835613 0.111529 1.210872 900 2 -0.08759 -0.08759 6 0 3 A0A0A0  "C19"  <> <> <> <>
+  20 3 -0.524166 1.310601 -0.035788 900 2 0.06629 0.06629 6 0 3 A0A0A0  "C20"  <> <> <> <>
+  21 2 -0.138883 -2.201459 1.161712 900 2 0.41334 0.41334 6 0 3 A0A0A0  "C21"  <> <> <> <>
+  22 2 -0.744518 -2.802898 2.391999 900 2 -0.12237 -0.12237 6 0 3 A0A0A0  "C22"  <> <> <> <>
+  23 2 -0.053512 3.487839 1.187482 900 2 0.42369 0.42369 6 0 3 A0A0A0  "C23"  <> <> <> <>
+  24 2 -0.594434 -4.173952 2.655339 900 2 -0.04194 -0.04194 6 0 3 A0A0A0  "C24"  <> <> <> <>
+  25 2 -1.475690 -2.046600 3.324425 900 2 0.04712 0.04712 6 0 3 A0A0A0  "C25"  <> <> <> <>
+  26 2 -1.157969 -4.733084 3.803694 900 2 -0.19538 -0.19538 6 0 3 A0A0A0  "C26"  <> <> <> <>
+  27 2 -1.865373 -3.901008 4.670409 900 2 0.02299 0.02299 6 0 3 A0A0A0  "C27"  <> <> <> <>
+  28 54 6.094944 0.437486 -0.004622 900 10 0.30696 0.30696 5 0 3 1EE11E  "B28"  <> <> <> <>
+  29 41 8.555706 -0.708164 0.704425 900 21 0.12666 0.12666 1 0 3 FFFFFF  "H29"  <> <> <> <>
+  30 41 8.877967 0.398566 -1.384981 900 21 0.10340 0.10340 1 0 3 FFFFFF  "H30"  <> <> <> <>
+  31 41 8.384901 1.966429 -0.758140 900 21 0.10340 0.10340 1 0 3 FFFFFF  "H31"  <> <> <> <>
+  32 41 -0.069217 -0.584155 -0.921332 900 21 0.07143 0.07143 1 0 3 FFFFFF  "H32"  <> <> <> <>
+  33 41 8.942364 0.776496 2.722361 900 21 0.06263 0.06263 1 0 3 FFFFFF  "H33"  <> <> <> <>
+  34 41 8.705449 2.208475 1.737606 900 21 0.06263 0.06263 1 0 3 FFFFFF  "H34"  <> <> <> <>
+  35 41 1.864464 0.299276 -2.110862 900 21 0.13526 0.13526 1 0 3 FFFFFF  "H35"  <> <> <> <>
+  36 41 1.940501 -0.147188 2.165937 900 21 0.13526 0.13526 1 0 3 FFFFFF  "H36"  <> <> <> <>
+  37 41 4.308025 0.511622 -2.128165 900 21 0.15585 0.15585 1 0 3 FFFFFF  "H37"  <> <> <> <>
+  38 41 4.379422 0.058356 2.142848 900 21 0.15585 0.15585 1 0 3 FFFFFF  "H38"  <> <> <> <>
+  39 41 -1.604918 1.174194 -0.087370 900 21 0.07639 0.07639 1 0 3 FFFFFF  "H39"  <> <> <> <>
+  40 41 -0.226437 1.850383 -0.934035 900 21 0.07639 0.07639 1 0 3 FFFFFF  "H40"  <> <> <> <>
+  41 42 10.904139 1.670389 2.017001 900 21 0.43381 0.43381 1 0 3 FFFFFF  "H41"   13.870    0.530  <> <>
+  42 41 -0.043442 -4.813613 1.980232 900 21 0.13945 0.13945 1 0 3 FFFFFF  "H42"  <> <> <> <>
+  43 41 -1.638153 -0.986557 3.193720 900 21 0.18594 0.18594 1 0 3 FFFFFF  "H43"  <> <> <> <>
+  44 41 -1.047861 -5.786384 4.015745 900 21 0.15544 0.15544 1 0 3 FFFFFF  "H44"  <> <> <> <>
+  45 43 0.173132 5.260433 0.219337 900 21 0.38970 0.38970 1 0 3 FFFFFF  "H45"   11.021    2.220  <> <>
+  46 43 -0.189774 3.884030 -0.799466 900 21 0.38970 0.38970 1 0 3 FFFFFF  "H46"   11.021    2.220  <> <>
+  47 44 0.462020 3.471716 3.147359 900 21 0.38970 0.38970 1 0 3 FFFFFF  "H47"   11.021    2.220  <> <>
+  48 44 0.016333 5.034169 2.495886 900 21 0.38970 0.38970 1 0 3 FFFFFF  "H48"   11.021    2.220  <> <>
+  49 41 -2.315122 -4.297000 5.568992 900 21 0.17475 0.17475 1 0 3 FFFFFF  "H49"  <> <> <> <>
+  50 43 -0.307971 1.702475 2.036488 900 21 0.29210 0.29210 1 0 0 FFFFFF  ""   11.008    2.220  <> <>
+  :::
+ } 
+ m_bond[54] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  i_sd_original_parity
+  :::
+  1 1 10 1 3 3 <>
+  2 1 28 1 3 3 <>
+  3 2 11 1 3 3 <>
+  4 2 28 1 3 3 <>
+  5 3 12 1 3 3 3
+  6 3 21 1 3 3 <>
+  7 4 15 1 3 3 <>
+  8 4 41 1 3 3 <>
+  9 5 21 2 3 3 <>
+  10 6 20 1 3 3 <>
+  11 6 23 1 3 3 <>
+  12 6 50 1 1 1 <>
+  13 7 23 1 3 3 <>
+  14 7 45 1 3 3 <>
+  15 7 46 1 3 3 <>
+  16 8 23 2 3 3 <>
+  17 8 47 1 3 3 <>
+  18 8 48 1 3 3 <>
+  19 9 25 1 3 3 <>
+  20 9 27 2 3 3 <>
+  21 10 11 1 3 3 <>
+  22 10 15 1 3 3 3
+  23 10 29 1 3 3 <>
+  24 11 30 1 3 3 <>
+  25 11 31 1 3 3 <>
+  26 12 3 1 3 3 3
+  27 12 13 1 3 3 <>
+  28 12 20 1 3 3 <>
+  29 12 32 1 3 3 <>
+  30 13 16 2 3 3 <>
+  31 13 17 1 3 3 <>
+  32 14 18 2 3 3 <>
+  33 14 19 1 3 3 <>
+  34 14 28 1 3 3 <>
+  35 15 10 1 3 3 3
+  36 15 33 1 3 3 <>
+  37 15 34 1 3 3 <>
+  38 16 18 1 3 3 <>
+  39 16 35 1 3 3 <>
+  40 17 19 2 3 3 <>
+  41 17 36 1 3 3 <>
+  42 18 37 1 3 3 <>
+  43 19 38 1 3 3 <>
+  44 20 39 1 3 3 <>
+  45 20 40 1 3 3 <>
+  46 21 22 1 3 3 <>
+  47 22 24 1 3 3 <>
+  48 22 25 2 3 3 <>
+  49 24 26 2 3 3 <>
+  50 24 42 1 3 3 <>
+  51 25 43 1 3 3 <>
+  52 26 27 1 3 3 <>
+  53 26 44 1 3 3 <>
+  54 27 49 1 3 3 <>
+  :::
+ } 
+} 
+

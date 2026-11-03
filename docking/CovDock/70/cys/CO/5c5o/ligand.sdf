@@ -1,0 +1,303 @@
+Structure81
+                    3D
+ Schrodinger Suite 2021-3.
+ 67 70  0  0  1  0            999 V2000
+    3.2389   -3.2235   -2.6819 O   0  0  0  0  0  0
+    2.6327   -2.9172   -1.6513 C   0  0  0  0  0  0
+    3.0652   -1.9293   -0.8128 N   0  0  0  0  0  0
+    1.3478   -3.7020   -1.3001 C   0  0  0  0  0  0
+   -0.4350   -5.2595   -2.0739 N   0  0  0  0  0  0
+   -0.4183    2.9883    1.5915 O   0  0  0  0  0  0
+   -1.0382    1.9346    1.4581 C   0  0  0  0  0  0
+   -0.7584    0.9719    0.3312 C   0  0  2  0  0  0
+   -2.0757    0.2913   -0.1206 C   0  0  0  0  0  0
+   -1.9709   -0.5922   -1.3424 C   0  0  0  0  0  0
+   -1.4727   -0.1247   -2.5500 N   0  0  0  0  0  0
+   -1.3984   -1.1693   -3.3731 C   0  0  0  0  0  0
+   -1.7808   -2.2956   -2.7760 N   0  3  0  0  0  0
+   -2.1142   -1.9618   -1.4739 C   0  0  0  0  0  0
+    0.2519    0.0134    0.8259 N   0  0  1  0  0  0
+    1.2847   -0.2550   -0.1664 C   0  0  0  0  0  0
+    2.2042   -1.4114    0.2857 C   0  0  2  0  0  0
+    3.1058   -1.0615    1.4977 C   0  0  0  0  0  0
+    4.3234   -0.1871    1.1563 C   0  0  1  0  0  0
+    5.2166    0.0407    2.4008 C   0  0  0  0  0  0
+    6.4640    0.8823    2.0675 C   0  0  0  0  0  0
+    7.2683    0.2558    0.9085 C   0  0  0  0  0  0
+    6.3699   -0.0260   -0.3127 C   0  0  0  0  0  0
+    5.1431   -0.8961    0.0552 C   0  0  2  0  0  0
+    4.2703   -1.1501   -1.1962 C   0  0  0  0  0  0
+    0.8444   -4.6452   -2.4105 C   0  0  0  0  0  0
+   -1.1222   -6.0701   -2.9940 C   0  0  0  0  0  0
+   -2.2253   -6.7838   -2.5188 C   0  0  0  0  0  0
+   -2.9584   -7.5992   -3.3767 C   0  0  0  0  0  0
+   -2.5888   -7.7004   -4.7153 C   0  0  0  0  0  0
+   -1.4923   -6.9938   -5.2024 C   0  0  0  0  0  0
+   -0.7581   -6.1789   -4.3444 C   0  0  0  0  0  0
+    1.5348   -4.2815   -0.3948 H   0  0  0  0  0  0
+    0.5488   -2.9938   -1.0813 H   0  0  0  0  0  0
+   -0.5671   -5.5020   -1.1021 H   0  0  0  0  0  0
+   -1.8086    1.6248    2.1651 H   0  0  0  0  0  0
+   -0.3727    1.5656   -0.5003 H   0  0  0  0  0  0
+   -2.4879   -0.3133    0.6899 H   0  0  0  0  0  0
+   -2.8326    1.0451   -0.3468 H   0  0  0  0  0  0
+   -1.2144    0.8284   -2.7645 H   0  0  0  0  0  0
+   -1.0508   -1.1135   -4.3945 H   0  0  0  0  0  0
+   -2.4155   -2.7225   -0.7684 H   0  0  0  0  0  0
+    0.7170    0.4293    1.6214 H   0  0  0  0  0  0
+    0.8155   -0.5164   -1.1145 H   0  0  0  0  0  0
+    1.8694    0.6487   -0.3429 H   0  0  0  0  0  0
+    1.5612   -2.2138    0.6464 H   0  0  0  0  0  0
+    2.5286   -0.6273    2.3150 H   0  0  0  0  0  0
+    3.4721   -1.9999    1.9190 H   0  0  0  0  0  0
+    3.9851    0.7759    0.7685 H   0  0  0  0  0  0
+    4.6373    0.5023    3.2015 H   0  0  0  0  0  0
+    5.5304   -0.9220    2.8087 H   0  0  0  0  0  0
+    6.1597    1.8945    1.7969 H   0  0  0  0  0  0
+    7.0963    0.9788    2.9509 H   0  0  0  0  0  0
+    8.0889    0.9158    0.6249 H   0  0  0  0  0  0
+    7.7277   -0.6752    1.2445 H   0  0  0  0  0  0
+    6.0338    0.9186   -0.7443 H   0  0  0  0  0  0
+    6.9435   -0.5036   -1.1084 H   0  0  0  0  0  0
+    5.4963   -1.8539    0.4447 H   0  0  0  0  0  0
+    4.9031   -1.6882   -1.9040 H   0  0  0  0  0  0
+    3.9578   -0.1999   -1.6315 H   0  0  0  0  0  0
+    0.7252   -4.0891   -3.3415 H   0  0  0  0  0  0
+    1.5746   -5.4283   -2.6227 H   0  0  0  0  0  0
+   -2.5209   -6.7118   -1.4817 H   0  0  0  0  0  0
+   -3.8095   -8.1509   -3.0053 H   0  0  0  0  0  0
+   -3.1571   -8.3328   -5.3816 H   0  0  0  0  0  0
+   -1.2124   -7.0779   -6.2423 H   0  0  0  0  0  0
+    0.0883   -5.6430   -4.7465 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  3 17  1  0  0  0
+  3 25  1  0  0  0
+  4 26  1  0  0  0
+  4 33  1  0  0  0
+  4 34  1  0  0  0
+  5 26  1  0  0  0
+  5 27  1  0  0  0
+  5 35  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  7 36  1  0  0  0
+  8  9  1  0  0  0
+  8 15  1  0  0  0
+  8 37  1  0  0  0
+  9 10  1  0  0  0
+  9 38  1  0  0  0
+  9 39  1  0  0  0
+ 10 11  1  0  0  0
+ 10 14  2  0  0  0
+ 11 12  1  0  0  0
+ 11 40  1  0  0  0
+ 12 13  2  0  0  0
+ 12 41  1  0  0  0
+ 13 14  1  0  0  0
+ 14 42  1  0  0  0
+ 15 16  1  0  0  0
+ 15 43  1  0  0  0
+ 16 17  1  0  0  0
+ 16 44  1  0  0  0
+ 16 45  1  0  0  0
+ 17 18  1  0  0  0
+ 17 46  1  0  0  0
+ 18 19  1  0  0  0
+ 18 47  1  0  0  0
+ 18 48  1  0  0  0
+ 19 20  1  0  0  0
+ 19 24  1  0  0  0
+ 19 49  1  0  0  0
+ 20 21  1  0  0  0
+ 20 50  1  0  0  0
+ 20 51  1  0  0  0
+ 21 22  1  0  0  0
+ 21 52  1  0  0  0
+ 21 53  1  0  0  0
+ 22 23  1  0  0  0
+ 22 54  1  0  0  0
+ 22 55  1  0  0  0
+ 23 24  1  0  0  0
+ 23 56  1  0  0  0
+ 23 57  1  0  0  0
+ 24 25  1  0  0  0
+ 24 58  1  0  0  0
+ 25 59  1  0  0  0
+ 25 60  1  0  0  0
+ 26 61  1  0  0  0
+ 26 62  1  0  0  0
+ 27 28  1  0  0  0
+ 27 32  2  0  0  0
+ 28 29  2  0  0  0
+ 28 63  1  0  0  0
+ 29 30  1  0  0  0
+ 29 64  1  0  0  0
+ 30 31  2  0  0  0
+ 30 65  1  0  0  0
+ 31 32  1  0  0  0
+ 31 66  1  0  0  0
+ 32 67  1  0  0  0
+M  CHG  1  13   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+82
+
+> <s_m_entry_name>
+Structure81
+
+> <s_pdb_PDB_TITLE>
+STRUCTURE OF SARS-3CL PROTEASE COMPLEX WITH A PHENYL-BETA-ALANYL (S, R)-N-DECALIN TYPE INHIBITOR
+
+> <s_pdb_PDB_ID>
+5C5O
+
+> <r_pdb_PDB_CRYST1_a>
+54.663
+
+> <r_pdb_PDB_CRYST1_b>
+58.662
+
+> <r_pdb_PDB_CRYST1_c>
+68.098
+
+> <r_pdb_PDB_CRYST1_alpha>
+93.73
+
+> <r_pdb_PDB_CRYST1_beta>
+103.4
+
+> <r_pdb_PDB_CRYST1_gamma>
+106.51
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1
+
+> <i_pdb_PDB_CRYST1_z>
+2
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE/HYDROLASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+21-JUN-15
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.247
+
+> <r_pdb_PDB_Rfree>
+0.271
+
+> <r_pdb_PDB_RESOLUTION>
+1.5
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\CO\5c5o
+
+> <s_m_Source_File>
+5c5o.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5c5o_ligprep_14.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbTkhdW0NIMl1bQ0gyXUMoPU8pTihbQ0gyXVtDQEhdKFtDQEBIXTIzKVtDSDJdW0NIMl1bQ0gyXVtDSDJdMylbQ0BASF0oW0NIMl0yKVtDSDJdW05IXVtDQEhdKFtDSF09TylbQ0gyXWM0W25IXVtjSF1uW2NIXTQ=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.5342
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.5342
+
+> <r_epik_State_Penalty>
+  0.7797
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.779739679040608
+
+> <i_epik_Tot_Q>
+1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+44.266282
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure81-1
+
+> <s_m_job_name>
+5c5o_ligprep_14
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <r_lp_tautomer_probability>
+0.99990000499975
+
+> <r_pdb_PDB_EXPDTA_PH>
+6
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_subgroup_title>
+5c5o_ligprep_14-out1
+
+> <s_m_subgroupid>
+5c5o_ligprep_14-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

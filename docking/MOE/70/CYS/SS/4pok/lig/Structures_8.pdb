@@ -1,0 +1,44 @@
+REMARK  99                                                                      
+REMARK  99 MOE v2024.06 (Chemical Computing Group ULC) Wed Jun 10 15:33:47 2026 
+REMARK  99                                                                      
+HETATM    1  C     * A   0      33.901 -11.636   6.216  1.00  0.00           C  
+HETATM    2  C     * A   0      32.554 -11.366   5.539  1.00  0.00           C  
+HETATM    3  S     * A   0      32.819 -10.597   3.916  1.00  0.00           S  
+HETATM    4  S     * A   0      35.218  -8.087   1.652  1.00  0.00           S2+
+HETATM    5  O     * A   0      35.065  -6.749   2.188  1.00  0.00           O1-
+HETATM    6  O     * A   0      36.105  -8.300   0.523  1.00  0.00           O1-
+HETATM    7  O     * A   0      33.759  -8.621   1.221  1.00  0.00           O  
+HETATM    8  C     * A   0      35.694  -9.220   2.974  1.00  0.00           C  
+HETATM    9  C     * A   0      35.219  -8.809   4.377  1.00  0.00           C  
+HETATM   10  S     * A   0      33.411  -8.660   4.458  1.00  0.00           S  
+HETATM   11  H1    * A   0      33.733 -12.097   7.189  1.00  0.00           H  
+HETATM   12  H2    * A   0      34.437 -10.695   6.347  1.00  0.00           H  
+HETATM   13  H3    * A   0      34.493 -12.307   5.593  1.00  0.00           H  
+HETATM   14  H1    * A   0      31.964 -10.696   6.164  1.00  0.00           H  
+HETATM   15  H2    * A   0      32.020 -12.307   5.410  1.00  0.00           H  
+HETATM   16  H     * A   0      33.038  -8.404   1.839  1.00  0.00           H  
+HETATM   17  H1    * A   0      35.354 -10.215   2.753  1.00  0.00           H  
+HETATM   18  H2    * A   0      36.766  -9.268   3.018  1.00  0.00           H  
+HETATM   19  H1    * A   0      35.618  -7.849   4.652  1.00  0.00           H  
+HETATM   20  H2    * A   0      35.508  -9.539   5.110  1.00  0.00           H  
+CONECT    1   11   12   13    2
+CONECT    2    1   14   15    3
+CONECT    3    2   10
+CONECT    4    5    6    7    8
+CONECT    5    4
+CONECT    6    4
+CONECT    7    4   16
+CONECT    8    4   17   18    9
+CONECT    9    8   19   20   10
+CONECT   10    3    9
+CONECT   11    1
+CONECT   12    1
+CONECT   13    1
+CONECT   14    2
+CONECT   15    2
+CONECT   16    7
+CONECT   17    8
+CONECT   18    8
+CONECT   19    9
+CONECT   20    9
+END

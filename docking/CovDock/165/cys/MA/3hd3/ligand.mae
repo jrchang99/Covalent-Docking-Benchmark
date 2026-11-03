@@ -1,0 +1,295 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure209 
+  0
+  12_S_17_11_13_42 
+  20_R_18_25_21_53 
+  25_R_26_20_24_62 
+  0
+  195 
+  ligand.1 
+  "HIGH RESOLUTION CRYSTAL STRUCTURE OF CRUZAIN BOUND TO THE VINYL SULFONE INHIBITOR SMDC-256047" 
+  3HD3 
+  44.687
+  72.493
+  60.93
+  90
+  89.79
+  90
+  "P 1 21 1" 
+  4
+  HYDROLASE 
+  06-MAY-09 
+  3.30 
+  0.143
+  0.176
+  1.75
+  "X-RAY DIFFRACTION" 
+  100
+  7.5
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\244Set\Autodock\cys\MA\3hd3 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFTKD1PKSg9TykvW0NIXT1bQ0hdL1tDQEhdKFtDSDJdW0NIMl1bQ0gyXVtDSDNdKVtOSF1DKD1PKVtDQEBIXTJbQ0gyXVtDSDJdW0NIMl1bQ0gyXVtDQEhdMkMoPU8pYzNbY0hdW2NIXWMoQ2wpW2NIXVtjSF0z 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  S-OPLS 
+  33.0633
+  1
+  Structure209-1 
+  3hd3_ligprep_24 
+  1
+  0
+  3hd3_ligprep_24-out1 
+  3hd3_ligprep_24-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[66] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 15 -3.955500 -1.739800 0.804700 900 70 8 FF2F2F  <>
+  2 113 -2.636100 -2.078000 1.350400 900 13 16 E1E11E  <>
+  3 15 -2.192300 -3.476500 1.371600 900 70 8 FF2F2F  <>
+  4 2 -2.585900 -1.472600 3.040600 900 2 6 A0A0A0  <>
+  5 2 -1.748300 -2.086400 3.975700 900 2 6 A0A0A0  <>
+  6 2 -1.705200 -1.609200 5.282900 900 2 6 A0A0A0  <>
+  7 2 -2.498400 -0.523200 5.648200 900 2 6 A0A0A0  <>
+  8 2 -3.335300 0.091200 4.718600 900 2 6 A0A0A0  <>
+  9 2 -3.380400 -0.384400 3.410800 900 2 6 A0A0A0  <>
+  10 2 -1.408000 -1.135400 0.423900 900 2 6 A0A0A0  <>
+  11 2 -0.648100 -0.182000 0.996700 900 2 6 A0A0A0  <>
+  12 3 0.404600 0.648300 0.270400 900 2 6 A0A0A0  1
+  13 3 1.815600 0.488800 0.879000 900 2 6 A0A0A0  <>
+  14 3 2.387500 -0.939400 0.772200 900 2 6 A0A0A0  <>
+  15 3 3.810400 -1.060000 1.344300 900 2 6 A0A0A0  <>
+  16 3 4.382300 -2.478800 1.225700 900 2 6 A0A0A0  <>
+  17 25 0.035700 2.065600 0.229500 900 43 7 5757FF  <>
+  18 2 -0.898000 2.609000 -0.574000 900 2 6 A0A0A0  <>
+  19 15 -1.543300 1.952700 -1.394900 900 70 8 FF2F2F  <>
+  20 3 -1.117700 4.138200 -0.444500 900 2 6 A0A0A0  1
+  21 3 -2.611800 4.354700 -0.067600 900 2 6 A0A0A0  <>
+  22 3 -2.938600 5.858900 0.040800 900 2 6 A0A0A0  <>
+  23 3 -2.593900 6.616700 -1.256600 900 2 6 A0A0A0  <>
+  24 3 -1.131400 6.376900 -1.671900 900 2 6 A0A0A0  <>
+  25 3 -0.833000 4.861100 -1.809600 900 2 6 A0A0A0  1
+  26 2 0.638400 4.707800 -2.290200 900 2 6 A0A0A0  <>
+  27 15 1.543200 4.725500 -1.451700 900 70 8 FF2F2F  <>
+  28 2 0.894000 4.475300 -3.750300 900 2 6 A0A0A0  <>
+  29 2 -0.069500 4.768100 -4.727800 900 2 6 A0A0A0  <>
+  30 2 2.144300 3.984200 -4.153800 900 2 6 A0A0A0  <>
+  31 2 2.418700 3.769700 -5.501600 900 2 6 A0A0A0  <>
+  32 2 1.447900 4.052600 -6.458500 900 2 6 A0A0A0  <>
+  33 57 1.787500 3.786300 -8.129700 900 9 17 006400  <>
+  34 2 0.206200 4.553100 -6.075700 900 2 6 A0A0A0  <>
+  35 41 -1.322100 -1.385200 -0.623100 900 21 1 FFFFFF  <>
+  36 41 -0.759100 0.049100 2.044900 900 21 1 FFFFFF  <>
+  37 41 -1.129800 -2.926000 3.693700 900 21 1 FFFFFF  <>
+  38 41 -1.059100 -2.078700 6.010100 900 21 1 FFFFFF  <>
+  39 41 -2.463800 -0.153400 6.662500 900 21 1 FFFFFF  <>
+  40 41 -3.945500 0.933200 5.010500 900 21 1 FFFFFF  <>
+  41 41 -4.026200 0.095500 2.690000 900 21 1 FFFFFF  <>
+  42 41 0.485200 0.305700 -0.765500 900 21 1 FFFFFF  <>
+  43 41 2.501300 1.172300 0.374100 900 21 1 FFFFFF  <>
+  44 41 1.801700 0.798400 1.925500 900 21 1 FFFFFF  <>
+  45 41 1.732400 -1.637600 1.295300 900 21 1 FFFFFF  <>
+  46 41 2.391000 -1.249700 -0.274000 900 21 1 FFFFFF  <>
+  47 41 4.474000 -0.363900 0.829100 900 21 1 FFFFFF  <>
+  48 41 3.808800 -0.761600 2.393600 900 21 1 FFFFFF  <>
+  49 41 5.381400 -2.533100 1.658900 900 21 1 FFFFFF  <>
+  50 41 4.456400 -2.789100 0.182800 900 21 1 FFFFFF  <>
+  51 41 3.755900 -3.203500 1.746800 900 21 1 FFFFFF  <>
+  52 43 0.481000 2.659300 0.914000 900 21 1 FFFFFF  <>
+  53 41 -0.466900 4.506100 0.352700 900 21 1 FFFFFF  <>
+  54 41 -3.281800 3.967900 -0.839100 900 21 1 FFFFFF  <>
+  55 41 -2.840700 3.920400 0.907500 900 21 1 FFFFFF  <>
+  56 41 -3.995500 5.993300 0.275200 900 21 1 FFFFFF  <>
+  57 41 -2.386100 6.294300 0.875200 900 21 1 FFFFFF  <>
+  58 41 -3.260300 6.292600 -2.057700 900 21 1 FFFFFF  <>
+  59 41 -2.773700 7.684000 -1.122600 900 21 1 FFFFFF  <>
+  60 41 -0.972300 6.889000 -2.622800 900 21 1 FFFFFF  <>
+  61 41 -0.471500 6.840700 -0.935400 900 21 1 FFFFFF  <>
+  62 41 -1.494700 4.434300 -2.563200 900 21 1 FFFFFF  <>
+  63 41 -1.036600 5.173000 -4.470200 900 21 1 FFFFFF  <>
+  64 41 2.914000 3.757100 -3.429300 900 21 1 FFFFFF  <>
+  65 41 3.383400 3.385600 -5.799800 900 21 1 FFFFFF  <>
+  66 41 -0.542900 4.778900 -6.820500 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[68] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 2
+  2 2 3 2
+  3 2 4 1
+  4 2 10 1
+  5 4 5 2
+  6 4 9 1
+  7 5 6 1
+  8 5 37 1
+  9 6 7 2
+  10 6 38 1
+  11 7 8 1
+  12 7 39 1
+  13 8 9 2
+  14 8 40 1
+  15 9 41 1
+  16 10 11 2
+  17 10 35 1
+  18 11 12 1
+  19 11 36 1
+  20 12 13 1
+  21 12 17 1
+  22 12 42 1
+  23 13 14 1
+  24 13 43 1
+  25 13 44 1
+  26 14 15 1
+  27 14 45 1
+  28 14 46 1
+  29 15 16 1
+  30 15 47 1
+  31 15 48 1
+  32 16 49 1
+  33 16 50 1
+  34 16 51 1
+  35 17 18 1
+  36 17 52 1
+  37 18 19 2
+  38 18 20 1
+  39 20 21 1
+  40 20 25 1
+  41 20 53 1
+  42 21 22 1
+  43 21 54 1
+  44 21 55 1
+  45 22 23 1
+  46 22 56 1
+  47 22 57 1
+  48 23 24 1
+  49 23 58 1
+  50 23 59 1
+  51 24 25 1
+  52 24 60 1
+  53 24 61 1
+  54 25 26 1
+  55 25 62 1
+  56 26 27 2
+  57 26 28 1
+  58 28 29 1
+  59 28 30 2
+  60 29 34 2
+  61 29 63 1
+  62 30 31 1
+  63 30 64 1
+  64 31 32 2
+  65 31 65 1
+  66 32 33 1
+  67 32 34 1
+  68 34 66 1
+  :::
+ } 
+} 
+

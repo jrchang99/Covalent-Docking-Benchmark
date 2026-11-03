@@ -1,0 +1,281 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_lp_tautomer_probability
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_epik_Chemistry_Notes
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure310 
+  1
+  7_S_6_12_8_29 
+  23_R_25_1_24_27 
+  24_S_25_4_23_26 
+  0
+  311 
+  Structure310 
+  "CRYSTAL STRUCTURE OF PLANT CYSTEINE PROTEASE ERVATAMIN-C COMPLEXED WITH IRREVERSIBLE INHIBITOR E-64 AT 2.7 A RESOLUTION" 
+  2PRE 
+  43.37
+  81.46
+  131.95
+  90
+  90
+  90
+  "P 21 21 21" 
+  8
+  HYDROLASE 
+  04-MAY-07 
+  3.30 
+  0.197
+  0.234
+  2.7
+  "X-RAY DIFFRACTION" 
+  7.5
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "D:\\work\\2019 Systematic Studies\\Covdock\\OP\\2pre" 
+  2pre.pdb 
+  1
+  2pre_ligprep_40.maegz 
+  1
+  55137
+  Tz1DKFtPSF0pW0NASF0xW0NASF0oTzEpQyg9TylbTkhdW0NAQEhdKFtDSDJdW0NIXShbQ0gzXSlbQ0gzXSlDKD1PKVtOSF1bQ0gyXVtDSDJdW0NIMl1bQ0gyXVtOSF0vQyhbTkgyXSk9Ti9bSF0= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+  1
+    0.0001 
+    0.0001 
+    0.0000 
+    0.0000 
+  9.88687336001674e-05
+  0
+  2
+  0
+  S-OPLS 
+  5.513214
+  1
+  Structure310-1 
+  2pre_ligprep_40 
+  100
+  B 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "This compound has an imine and may undergo hydrolysis." 
+  2pre_ligprep_40-out1 
+  2pre_ligprep_40-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_lp_tautomer_probability 
+  2 10 r_epik_Ionization_Penalty 
+  3 10 r_epik_Ionization_Penalty_Charging 
+  4 10 r_epik_Ionization_Penalty_Neutral 
+  5 10 r_epik_State_Penalty 
+  6 10 r_epik_Charging_Adjusted_Penalty 
+  7 10 i_epik_Tot_Q 
+  8 30 s_m_job_name 
+  :::
+ } 
+ m_atom[51] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  s_m_chain_name
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_residue_name
+  s_m_pdb_atom_name
+  s_m_grow_name
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_m_pdb_occupancy
+  r_m_pdb_tfactor
+  i_pdb_PDB_serial
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  :::
+  1 2 -3.752473 -0.765403 -2.815913 302 A 118 0.71332 0.71332 "E64 " " C1 " "    " 6 0 3 00CC00  "C3250"  1 32.67 3252 <> <> <>
+  2 15 -4.293721 0.136591 -3.492460 302 A 70 -0.73584 -0.73584 "E64 " " O1 " "    " 8 0 3 FF2E2E  "O3251"  1 28.87 3253 <> <> <>
+  3 18 -4.012113 -1.011793 -1.615366 302 A 70 -0.73584 -0.73584 "E64 " " O2 " "    " 8 -1 3 FF2E2E  "O3252"  1 35.25 3254   3.212    2.220  <>
+  4 2 -0.677341 -0.539801 -2.257548 302 A 118 0.53507 0.53507 "E64 " " C4 " "    " 6 0 3 00CC00  "C3256"  1 38.98 3258 <> <> <>
+  5 15 -0.413273 0.611827 -2.603087 302 A 70 -0.52947 -0.52947 "E64 " " O4 " "    " 8 0 3 FF2E2E  "O3257"  1 39.94 3259  -2.044    0.900  <>
+  6 25 -0.512481 -0.995224 -1.002392 302 A 38 -0.41468 -0.41468 "E64 " " N1 " "    " 7 0 3 2E2EFF  "N3258"  1 42.84 3260 <> <> <>
+  7 3 -0.004326 -0.216653 0.129224 302 A 118 0.03387 0.03387 "E64 " " C6 " "    " 6 0 3 00CC00  "C3259"  1 47.87 3261 <> <> 1
+  8 3 -0.258950 -1.024785 1.425212 302 A 118 -0.13576 -0.13576 "E64 " " C7 " "    " 6 0 3 00CC00  "C3260"  1 48.54 3262 <> <> <>
+  9 3 0.162226 -0.343003 2.750402 302 A 118 -0.09490 -0.09490 "E64 " " C8 " "    " 6 0 3 00CC00  "C3261"  1 48.56 3263 <> <> <>
+  10 3 -0.559335 1.003524 2.976222 302 A 118 -0.16623 -0.16623 "E64 " " C9 " "    " 6 0 3 00CC00  "C3262"  1 50.93 3264 <> <> <>
+  11 3 -0.011942 -1.306292 3.944569 302 A 118 -0.16623 -0.16623 "E64 " " C10" "    " 6 0 3 00CC00  "C3263"  1 48.13 3265 <> <> <>
+  12 2 1.481395 0.145202 -0.051600 302 A 118 0.49122 0.49122 "E64 " " C11" "    " 6 0 3 00CC00  "C3264"  1 53.34 3266 <> <> <>
+  13 15 2.272352 -0.709922 -0.452487 302 A 70 -0.53199 -0.53199 "E64 " " O5 " "    " 8 0 3 FF2E2E  "O3265"  1 59.64 3267  -1.300    0.900  <>
+  14 25 1.821031 1.408090 0.257854 302 A 38 -0.58263 -0.58263 "E64 " " N2 " "    " 7 0 3 2E2EFF  "N3266"  1 55.91 3268 <> <> <>
+  15 3 3.166545 1.968064 0.128297 302 A 118 0.12666 0.12666 "E64 " " C12" "    " 6 0 3 00CC00  "C3267"  1 55.27 3269 <> <> <>
+  16 3 3.406502 2.701638 -1.209093 302 A 118 -0.15005 -0.15005 "E64 " " C13" "    " 6 0 3 00CC00  "C3268"  1 58.41 3270 <> <> <>
+  17 3 3.221808 1.830156 -2.467671 302 A 118 -0.12903 -0.12903 "E64 " " C14" "    " 6 0 3 00CC00  "C3269"  1 61.05 3271 <> <> <>
+  18 3 3.557385 2.576824 -3.770379 302 A 118 0.04767 0.04767 "E64 " " C15" "    " 6 0 3 00CC00  "C3270"  1 59.43 3272 <> <> <>
+  19 25 3.301642 1.763837 -4.970044 302 A 38 -0.28692 -0.28692 "E64 " " N3 " "    " 7 0 3 2E2EFF  "N3271"  1 60.84 3273 <> <> <>
+  20 2 3.527609 2.094483 -6.244993 302 A 118 0.42097 0.42097 "E64 " " C16" "    " 6 0 3 00CC00  "C3272"  1 61.49 3274 <> <> <>
+  21 25 4.056700 3.255022 -6.622575 302 A 38 -0.63873 -0.63873 "E64 " " N4 " "    " 7 0 3 2E2EFF  "N3273"  1 63.44 3275 <> <> <>
+  22 36 3.206788 1.218320 -7.184631 302 A 38 -0.63873 -0.63873 "E64 " " N5 " "    " 7 1 3 2E2EFF  "N3274"  1 63.66 3276 <> <> <>
+  23 3 -2.703840 -1.633093 -3.547154 302 A 118 -0.00370 -0.00370 "E64 " "    " "  c1" 6 0 3 00CC00  "C23"  <> <> <> <> <> 1
+  24 3 -1.210337 -1.535563 -3.299830 302 A 118 -0.10181 -0.10181 "E64 " "    " "  n1" 6 0 3 00CC00  "C30"  <> <> <> <> <> 1
+  25 16 -1.991368 -2.582764 -2.784018 302 A 70 -0.31040 -0.31040 "E64 " "    " "  f1" 8 0 3 FF2E2E  "O25"  <> <> <> <> <> <>
+  26 41 -0.514689 -1.805483 -4.094303 302 A 21 0.11547 0.11547 "E64 " "    " "  n3" 1 0 3 FFFFFF  "H34"  <> <> <> <> <> <>
+  27 41 -3.001458 -1.986936 -4.534998 302 A 21 0.09545 0.09545 "E64 " "    " "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  28 43 -0.758454 -1.953099 -0.798685 302 A 21 0.31059 0.31059 "E64 " " HN1" "    " 1 0 3 FFFFFF  ""  <> <> <>  14.039    0.950  <>
+  29 41 -0.586023 0.706014 0.167632 302 A 21 0.08141 0.08141 "E64 " " HC6" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  30 41 -1.320375 -1.271508 1.484062 302 A 21 0.06340 0.06340 "E64 " "H7_1" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  31 41 0.261549 -1.980597 1.342412 302 A 21 0.06340 0.06340 "E64 " "H7_2" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  32 41 1.230688 -0.131668 2.694594 302 A 21 0.12554 0.12554 "E64 " " HC8" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  33 41 -0.912224 1.127306 3.999877 302 A 21 0.05718 0.05718 "E64 " "H9_1" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  34 41 -1.426839 1.115734 2.325615 302 A 21 0.05718 0.05718 "E64 " "H9_2" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  35 41 0.111540 1.837869 2.770644 302 A 21 0.05718 0.05718 "E64 " "H9_3" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  36 41 -0.778547 -0.976497 4.645669 302 A 21 0.05718 0.05718 "E64 " "H101" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  37 41 0.919425 -1.400384 4.503911 302 A 21 0.05718 0.05718 "E64 " "H102" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  38 41 -0.293486 -2.309688 3.622736 302 A 21 0.05718 0.05718 "E64 " "H103" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  39 43 1.104343 2.032057 0.599661 302 A 21 0.31195 0.31195 "E64 " " HN2" "    " 1 0 3 FFFFFF  ""  <> <> <>  14.480    0.950  <>
+  40 41 3.319181 2.661854 0.955670 302 A 21 0.08337 0.08337 "E64 " "H121" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  41 41 3.914117 1.181280 0.252570 302 A 21 0.08337 0.08337 "E64 " "H122" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  42 41 2.752506 3.573372 -1.264042 302 A 21 0.08220 0.08220 "E64 " "H131" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  43 41 4.422786 3.098280 -1.201284 302 A 21 0.08220 0.08220 "E64 " "H132" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  44 41 3.843156 0.936661 -2.379683 302 A 21 0.08587 0.08587 "E64 " "H141" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  45 41 2.187814 1.484564 -2.509031 302 A 21 0.08587 0.08587 "E64 " "H142" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  46 41 2.951564 3.478123 -3.871515 302 A 21 0.06357 0.06357 "E64 " "H151" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  47 41 4.608915 2.865277 -3.795854 302 A 21 0.06357 0.06357 "E64 " "H152" "    " 1 0 3 FFFFFF  ""  <> <> <> <> <> <>
+  48 43 2.886656 0.856560 -4.812208 302 A 21 0.28752 0.28752 "E64 " " HN3" "    " 1 0 3 FFFFFF  ""  <> <> <>  12.427    0.860  <>
+  49 43 4.187394 3.455030 -7.603587 302 A 21 0.38907 0.38907 "E64 " "H4_1" "    " 1 0 3 FFFFFF  ""  <> <> <>  14.567    1.650  <>
+  50 43 4.315419 3.938304 -5.925489 302 A 21 0.38907 0.38907 "E64 " "H4_2" "    " 1 0 3 FFFFFF  ""  <> <> <>  14.567    1.650  <>
+  51 44 2.530411 0.494490 -6.987541 302 A 21 0.38907 0.38907 "E64 " " HN5" "    " 1 0 3 FFFFFF  ""  <> <> <>  11.713    0.860  <>
+  :::
+ } 
+ m_bond[51] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 2 3 3
+  2 1 3 1 3 3
+  3 1 23 1 3 3
+  4 4 5 2 3 3
+  5 4 6 1 3 3
+  6 4 24 1 3 3
+  7 6 7 1 3 3
+  8 6 28 1 3 3
+  9 7 8 1 3 3
+  10 7 12 1 3 3
+  11 7 29 1 3 3
+  12 8 9 1 3 3
+  13 8 30 1 3 3
+  14 8 31 1 3 3
+  15 9 10 1 3 3
+  16 9 11 1 3 3
+  17 9 32 1 3 3
+  18 10 33 1 3 3
+  19 10 34 1 3 3
+  20 10 35 1 3 3
+  21 11 36 1 3 3
+  22 11 37 1 3 3
+  23 11 38 1 3 3
+  24 12 13 2 3 3
+  25 12 14 1 3 3
+  26 14 15 1 3 3
+  27 14 39 1 3 3
+  28 15 16 1 3 3
+  29 15 40 1 3 3
+  30 15 41 1 3 3
+  31 16 17 1 3 3
+  32 16 42 1 3 3
+  33 16 43 1 3 3
+  34 17 18 1 3 3
+  35 17 44 1 3 3
+  36 17 45 1 3 3
+  37 18 19 1 3 3
+  38 18 46 1 3 3
+  39 18 47 1 3 3
+  40 19 20 1 3 3
+  41 19 48 1 3 3
+  42 20 21 1 3 3
+  43 20 22 2 3 3
+  44 21 49 1 3 3
+  45 21 50 1 3 3
+  46 22 51 1 3 3
+  47 23 24 1 3 3
+  48 23 25 1 3 3
+  49 23 27 1 3 3
+  50 24 25 1 3 3
+  51 24 26 1 3 3
+  :::
+ } 
+} 
+

@@ -1,0 +1,210 @@
+Structure37
+                    3D
+ Schrodinger Suite 2021-3.
+ 20 19  0  0  1  0            999 V2000
+   -0.1391    2.6800    0.6660 O   0  0  0  0  0  0
+   -0.6795    1.7230   -0.3053 S   0  0  0  0  0  0
+   -0.5510    1.9794   -1.7435 O   0  0  0  0  0  0
+   -2.5008    1.4410    0.0879 C   0  0  0  0  0  0
+    0.0457    0.1482    0.0101 N   0  0  2  0  0  0
+    1.5180    0.1039    0.1365 C   0  0  2  0  0  0
+    2.0086   -1.3324   -0.1005 C   0  0  0  0  0  0
+    2.0722    0.6826    1.4972 B   0  0  0  0  0  0
+    3.0085    1.6724    1.4750 O   0  0  0  0  0  0
+    1.6117    0.1959    2.6851 O   0  0  0  0  0  0
+   -3.0433    2.3729   -0.0682 H   0  0  0  0  0  0
+   -2.5938    1.1268    1.1270 H   0  0  0  0  0  0
+   -2.8921    0.6680   -0.5730 H   0  0  0  0  0  0
+   -0.2547   -0.5336   -0.6917 H   0  0  0  0  0  0
+    1.9209    0.7240   -0.6658 H   0  0  0  0  0  0
+    3.0977   -1.3826   -0.0738 H   0  0  0  0  0  0
+    1.6899   -1.7056   -1.0746 H   0  0  0  0  0  0
+    1.6278   -2.0162    0.6592 H   0  0  0  0  0  0
+    3.2355    1.9274    0.5780 H   0  0  0  0  0  0
+    2.0223    0.6391    3.4310 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  2  0  0  0
+  2  4  1  0  0  0
+  2  5  1  0  0  0
+  4 11  1  0  0  0
+  4 12  1  0  0  0
+  4 13  1  0  0  0
+  5  6  1  0  0  0
+  5 14  1  0  0  0
+  6  7  1  0  0  0
+  6  8  1  0  0  0
+  6 15  1  0  0  0
+  7 16  1  0  0  0
+  7 17  1  0  0  0
+  7 18  1  0  0  0
+  8  9  1  0  0  0
+  8 10  1  0  0  0
+  9 19  1  0  0  0
+ 10 20  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+38
+
+> <s_m_entry_name>
+Structure37
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF A COMPLEX BETWEEN ACTINOMADURA R39 DD-PEPTIDASE AND A SULFONAMIDE BORONATE INHIBITOR
+
+> <s_pdb_PDB_ID>
+4B4X
+
+> <r_pdb_PDB_CRYST1_a>
+102.332
+
+> <r_pdb_PDB_CRYST1_b>
+92.113
+
+> <r_pdb_PDB_CRYST1_c>
+105.957
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+95.9
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+01-AUG-12
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.217
+
+> <r_pdb_PDB_Rfree>
+0.268
+
+> <r_pdb_PDB_RESOLUTION>
+2.65
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SER\BA\4b4x
+
+> <s_m_Source_File>
+4b4x.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4b4x_ligprep_13.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+Tz1TKD1PKShbQ0gzXSlbTkhdW0NASF0oW0NIM10pQihbT0hdKVtPSF0=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+-5.366211
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure37-1
+
+> <s_m_job_name>
+4b4x_ligprep_13
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Chains>
+D
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_4_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_subgroup_title>
+4b4x_ligprep_13-out1
+
+> <s_m_subgroupid>
+4b4x_ligprep_13-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

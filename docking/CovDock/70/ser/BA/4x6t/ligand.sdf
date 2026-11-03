@@ -1,0 +1,283 @@
+Structure43
+                    3D
+ Schrodinger Suite 2021-3.
+ 62 64  0  0  1  0            999 V2000
+   -0.5782   -0.9761    1.0984 N   0  0  0  0  0  0
+    0.0853   -0.4471   -0.1071 C   0  0  1  0  0  0
+    1.6186   -0.3915    0.0839 C   0  0  0  0  0  0
+    2.2049   -1.3506    0.5901 O   0  0  0  0  0  0
+   -3.4305    0.0416    3.3644 O   0  0  0  0  0  0
+   -2.6284   -0.8201    3.7472 C   0  0  0  0  0  0
+   -3.0920   -1.7457    4.8906 C   0  0  0  0  0  0
+   -4.2321   -1.5711    5.3347 O   0  0  0  0  0  0
+   -2.2013   -2.7057    5.3324 N   0  0  0  0  0  0
+   -2.6500   -3.6041    6.4080 C   0  0  0  0  0  0
+   -2.5192   -2.9933    7.8134 C   0  0  0  0  0  0
+   -0.9718   -2.8361    4.7495 C   0  0  0  0  0  0
+   -0.5571   -2.0452    3.7502 C   0  0  0  0  0  0
+   -1.3579   -1.0415    3.2418 N   0  0  0  0  0  0
+   -0.8413   -0.2866    2.2321 C   0  0  0  0  0  0
+   -0.6881    0.9349    2.3205 O   0  0  0  0  0  0
+   -0.2944   -1.2242   -1.3582 C   0  0  0  0  0  0
+   -0.0608   -0.6348   -2.6087 C   0  0  0  0  0  0
+   -0.3895   -1.3051   -3.7833 C   0  0  0  0  0  0
+   -0.9590   -2.5739   -3.7177 C   0  0  0  0  0  0
+   -1.2826   -3.2342   -4.8729 O   0  0  0  0  0  0
+   -1.2003   -3.1759   -2.4853 C   0  0  0  0  0  0
+   -0.8701   -2.5049   -1.3108 C   0  0  0  0  0  0
+    2.2217    0.7121   -0.3948 N   0  0  0  0  0  0
+    3.6593    1.0187   -0.4409 C   0  0  2  0  0  0
+    4.4859    0.4763    0.8001 B   0  0  0  0  0  0
+    5.5808   -0.3072    0.5892 O   0  0  0  0  0  0
+    4.1463    0.8562    2.0658 O   0  0  0  0  0  0
+    3.9344    2.5202   -0.6870 C   0  0  0  0  0  0
+    3.1796    3.0999   -1.8791 C   0  0  0  0  0  0
+    3.5576    2.7568   -3.1808 C   0  0  0  0  0  0
+    2.8686    3.2526   -4.3064 C   0  0  0  0  0  0
+    3.2786    2.8695   -5.7141 C   0  0  0  0  0  0
+    2.6316    3.3392   -6.6806 O   0  0  0  0  0  0
+    4.2522    2.0943   -5.8707 O   0  5  0  0  0  0
+    1.7809    4.1171   -4.0679 C   0  0  0  0  0  0
+    1.4012    4.4659   -2.7727 C   0  0  0  0  0  0
+    2.0976    3.9584   -1.6803 C   0  0  0  0  0  0
+   -0.6691   -1.9811    1.1243 H   0  0  0  0  0  0
+   -0.2938    0.5700   -0.2425 H   0  0  0  0  0  0
+   -3.6875   -3.8994    6.2406 H   0  0  0  0  0  0
+   -2.0813   -4.5338    6.3625 H   0  0  0  0  0  0
+   -2.8503   -3.7043    8.5703 H   0  0  0  0  0  0
+   -3.1309   -2.0969    7.9216 H   0  0  0  0  0  0
+   -1.4840   -2.7345    8.0389 H   0  0  0  0  0  0
+   -0.3686   -3.6215    5.1831 H   0  0  0  0  0  0
+    0.4272   -2.1469    3.3066 H   0  0  0  0  0  0
+    0.3807    0.3496   -2.6735 H   0  0  0  0  0  0
+   -0.2009   -0.8381   -4.7392 H   0  0  0  0  0  0
+   -1.6682   -4.0987   -4.7147 H   0  0  0  0  0  0
+   -1.6410   -4.1611   -2.4341 H   0  0  0  0  0  0
+   -1.0603   -2.9985   -0.3697 H   0  0  0  0  0  0
+    1.6395    1.3576   -0.9092 H   0  0  0  0  0  0
+    4.0424    0.5062   -1.3256 H   0  0  0  0  0  0
+    5.7148   -0.4850   -0.3445 H   0  0  0  0  0  0
+    4.7402    0.4788    2.7183 H   0  0  0  0  0  0
+    3.6825    3.0895    0.2098 H   0  0  0  0  0  0
+    5.0022    2.6835   -0.8421 H   0  0  0  0  0  0
+    4.3980    2.0879   -3.3032 H   0  0  0  0  0  0
+    1.2107    4.5326   -4.8863 H   0  0  0  0  0  0
+    0.5631    5.1290   -2.6170 H   0  0  0  0  0  0
+    1.7901    4.2298   -0.6807 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 15  1  0  0  0
+  1 39  1  0  0  0
+  2  3  1  0  0  0
+  2 17  1  0  0  0
+  2 40  1  0  0  0
+  3  4  2  0  0  0
+  3 24  1  0  0  0
+  5  6  2  0  0  0
+  6  7  1  0  0  0
+  6 14  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  9 10  1  0  0  0
+  9 12  1  0  0  0
+ 10 11  1  0  0  0
+ 10 41  1  0  0  0
+ 10 42  1  0  0  0
+ 11 43  1  0  0  0
+ 11 44  1  0  0  0
+ 11 45  1  0  0  0
+ 12 13  2  0  0  0
+ 12 46  1  0  0  0
+ 13 14  1  0  0  0
+ 13 47  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  2  0  0  0
+ 17 18  1  0  0  0
+ 17 23  2  0  0  0
+ 18 19  2  0  0  0
+ 18 48  1  0  0  0
+ 19 20  1  0  0  0
+ 19 49  1  0  0  0
+ 20 21  1  0  0  0
+ 20 22  2  0  0  0
+ 21 50  1  0  0  0
+ 22 23  1  0  0  0
+ 22 51  1  0  0  0
+ 23 52  1  0  0  0
+ 24 25  1  0  0  0
+ 24 53  1  0  0  0
+ 25 26  1  0  0  0
+ 25 29  1  0  0  0
+ 25 54  1  0  0  0
+ 26 27  1  0  0  0
+ 26 28  1  0  0  0
+ 27 55  1  0  0  0
+ 28 56  1  0  0  0
+ 29 30  1  0  0  0
+ 29 57  1  0  0  0
+ 29 58  1  0  0  0
+ 30 31  1  0  0  0
+ 30 38  2  0  0  0
+ 31 32  2  0  0  0
+ 31 59  1  0  0  0
+ 32 33  1  0  0  0
+ 32 36  1  0  0  0
+ 33 34  2  0  0  0
+ 33 35  1  0  0  0
+ 36 37  2  0  0  0
+ 36 60  1  0  0  0
+ 37 38  1  0  0  0
+ 37 61  1  0  0  0
+ 38 62  1  0  0  0
+M  CHG  1  35  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+44
+
+> <s_m_entry_name>
+Structure43
+
+> <s_pdb_PDB_TITLE>
+M.TUBERCULOSIS BETALACTAMASE COMPLEXED WITH INHIBITOR EC19
+
+> <s_pdb_PDB_ID>
+4X6T
+
+> <r_pdb_PDB_CRYST1_a>
+43.264
+
+> <r_pdb_PDB_CRYST1_b>
+71.417
+
+> <r_pdb_PDB_CRYST1_c>
+84.683
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE/HYDROLASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+09-DEC-14
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.166
+
+> <r_pdb_PDB_Rfree>
+0.202
+
+> <r_pdb_PDB_RESOLUTION>
+1.4
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\SER\BA\4x6t
+
+> <s_m_Source_File>
+4x6t.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4x6t_ligprep_14.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <i_f3d_flags>
+0
+
+> <s_epik_input>
+Tz1jMWMoPU8pbihbQ0gyXVtDSDNdKVtjSF1bY0hdbjFDKD1PKVtOSF1bQ0BIXShjMltjSF1bY0hdYyhbT0hdKVtjSF1bY0hdMilDKD1PKVtOSF1bQ0BIXShCKFtPSF0pW09IXSlbQ0gyXWMzW2NIXWMoQyg9TylbT0hdKVtjSF1bY0hdW2NIXTM=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0021
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0009
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0012
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.000945557704575393
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound contains a Lewis acid (boronic acid) which adds nucleophiles to form tetrahedral complexes, lowering the experimental pKa
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+84.990423
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure43-1
+
+> <s_m_job_name>
+4x6t_ligprep_14
+
+> <s_m_subgroup_title>
+4x6t_ligprep_14-out1
+
+> <s_m_subgroupid>
+4x6t_ligprep_14-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

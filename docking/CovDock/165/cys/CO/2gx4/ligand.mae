@@ -1,0 +1,353 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ s_st_Chirality_4
+ s_st_Chirality_5
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_2
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ s_epik_Chemistry_Notes
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure35 
+  0
+  11_S_10_12_36_53 
+  14_S_13_15_28_55 
+  17_S_16_18_20_57 
+  21_S_25_20_22_60 
+  36_R_38_11_37_79 
+  0
+  160 
+  ligand.1 
+  "CRYSTAL STRUCTURE OF SARS CORONAVIRUS 3CL PROTEASE INHIBITOR COMPLEX" 
+  2GX4 
+  109.029
+  81.16
+  53.289
+  90
+  104.73
+  90
+  "C 1 2 1" 
+  4
+  HYDROLASE 
+  08-MAY-06 
+  3.30 
+  0.205
+  0.249
+  1.93
+  "X-RAY DIFFRACTION" 
+  200
+  6.5
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "-1.000000 0.000000 0.000000   -13.549490;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   51.537640" 
+  D:\work\244Set\Autodock\cys\CO\2gx4 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0gyXU9DKD1PKVtOSF1bQ0BASF0oW0NAQEhdKFtDSDNdKU9DKFtDSDNdKShbQ0gzXSlbQ0gzXSlDKD1PKVtOSF1bQ0BASF0oW0NIMl1bQ0hdMltDSDJdW0NIMl1bQ0gyXVtDSDJdW0NIMl0yKUMoPU8pW05IXVtDQEhdKFtDSF09TylbQ0gyXVtDQEBIXTNbQ0gyXVtDSDJdW05IXUMzPU8= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0004 
+    0.0000 
+    0.0004 
+    0.0003 
+  0.000268729212186585
+  0
+  0
+  S-OPLS 
+  32.621592
+  1
+  Structure35-1 
+  2gx4_ligprep_11 
+  0.99990000499975
+  0
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  2gx4_ligprep_11-out1 
+  2gx4_ligprep_11-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[91] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 2 -3.053600 -0.151100 -5.279700 900 2 6 A0A0A0  <>
+  2 2 -1.937000 0.530600 -4.790300 900 2 6 A0A0A0  <>
+  3 2 -0.829600 0.750800 -5.612900 900 2 6 A0A0A0  <>
+  4 2 -0.839400 0.289300 -6.926800 900 2 6 A0A0A0  <>
+  5 2 -1.955600 -0.390000 -7.411100 900 2 6 A0A0A0  <>
+  6 2 -3.062400 -0.612500 -6.593700 900 2 6 A0A0A0  <>
+  7 3 -1.922200 1.029500 -3.357900 900 2 6 A0A0A0  <>
+  8 16 -1.422300 0.004000 -2.509100 900 70 8 FF2F2F  <>
+  9 2 -1.030200 0.276100 -1.250700 900 2 6 A0A0A0  <>
+  10 25 -0.537600 -0.891300 -0.678700 900 43 7 5757FF  <>
+  11 3 0.065900 -0.913000 0.670600 900 2 6 A0A0A0  1
+  12 2 1.577600 -0.557400 0.730400 900 2 6 A0A0A0  <>
+  13 25 2.145600 -0.053600 -0.382400 900 43 7 5757FF  <>
+  14 3 3.542400 0.353400 -0.531900 900 2 6 A0A0A0  1
+  15 2 3.865400 1.590700 0.328300 900 2 6 A0A0A0  <>
+  16 25 4.973100 1.506200 1.089400 900 43 7 5757FF  <>
+  17 3 5.516900 2.551200 1.974000 900 2 6 A0A0A0  1
+  18 2 6.126800 3.676900 1.143600 900 2 6 A0A0A0  <>
+  19 15 6.490800 3.567300 -0.028300 900 70 8 FF2F2F  <>
+  20 3 6.569700 1.947200 2.945000 900 2 6 A0A0A0  <>
+  21 3 7.165300 2.883800 4.038200 900 2 6 A0A0A0  1
+  22 3 8.370400 2.287600 4.755300 900 2 6 A0A0A0  <>
+  23 3 8.282200 2.849000 6.160900 900 2 6 A0A0A0  <>
+  24 25 6.858000 3.102800 6.313800 900 43 7 5757FF  <>
+  25 2 6.163500 3.196800 5.165100 900 2 6 A0A0A0  <>
+  26 15 4.981600 3.508400 5.038400 900 70 8 FF2F2F  <>
+  27 15 3.129300 2.576500 0.277200 900 70 8 FF2F2F  <>
+  28 3 3.870900 0.576500 -2.029300 900 2 6 A0A0A0  <>
+  29 3 5.294800 1.083100 -2.377100 900 2 6 A0A0A0  <>
+  30 3 5.454400 1.294200 -3.900600 900 2 6 A0A0A0  <>
+  31 3 6.829400 1.903700 -4.242300 900 2 6 A0A0A0  <>
+  32 3 7.984900 1.040900 -3.690900 900 2 6 A0A0A0  <>
+  33 3 7.813700 0.713100 -2.191500 900 2 6 A0A0A0  <>
+  34 3 6.416800 0.132300 -1.891500 900 2 6 A0A0A0  <>
+  35 15 2.197500 -0.738700 1.779400 900 70 8 FF2F2F  <>
+  36 3 -0.353100 -2.181900 1.485600 900 2 6 A0A0A0  1
+  37 3 -1.738300 -1.996000 2.133000 900 2 6 A0A0A0  <>
+  38 16 -0.505100 -3.356400 0.671200 900 70 8 FF2F2F  <>
+  39 3 0.600100 -4.178100 0.257700 900 2 6 A0A0A0  <>
+  40 3 -0.060300 -5.545200 -0.010800 900 2 6 A0A0A0  <>
+  41 3 1.686800 -4.352100 1.344300 900 2 6 A0A0A0  <>
+  42 3 1.205500 -3.648800 -1.058600 900 2 6 A0A0A0  <>
+  43 15 -1.082500 1.388300 -0.720300 900 70 8 FF2F2F  <>
+  44 41 6.235500 4.619800 1.679700 900 21 1 FFFFFF  <>
+  45 41 -3.910300 -0.325100 -4.644500 900 21 1 FFFFFF  <>
+  46 41 0.036400 1.275700 -5.236100 900 21 1 FFFFFF  <>
+  47 41 0.014100 0.457100 -7.567200 900 21 1 FFFFFF  <>
+  48 41 -1.963000 -0.748300 -8.430100 900 21 1 FFFFFF  <>
+  49 41 -3.922700 -1.140900 -6.977400 900 21 1 FFFFFF  <>
+  50 41 -1.306800 1.929500 -3.297700 900 21 1 FFFFFF  <>
+  51 41 -2.930200 1.314700 -3.052600 900 21 1 FFFFFF  <>
+  52 43 -0.523100 -1.741600 -1.223200 900 21 1 FFFFFF  <>
+  53 41 -0.366700 -0.080200 1.230700 900 21 1 FFFFFF  <>
+  54 43 1.567800 0.082500 -1.199100 900 21 1 FFFFFF  <>
+  55 41 4.146700 -0.482700 -0.175100 900 21 1 FFFFFF  <>
+  56 43 5.515000 0.655300 1.051600 900 21 1 FFFFFF  <>
+  57 41 4.688200 2.947800 2.561400 900 21 1 FFFFFF  <>
+  58 41 6.134000 1.071700 3.431800 900 21 1 FFFFFF  <>
+  59 41 7.392500 1.541700 2.351900 900 21 1 FFFFFF  <>
+  60 41 7.452100 3.835700 3.589800 900 21 1 FFFFFF  <>
+  61 41 8.288900 1.199200 4.795800 900 21 1 FFFFFF  <>
+  62 41 9.321200 2.516800 4.272600 900 21 1 FFFFFF  <>
+  63 41 8.635200 2.133400 6.904400 900 21 1 FFFFFF  <>
+  64 41 8.842800 3.777500 6.280000 900 21 1 FFFFFF  <>
+  65 43 6.459400 3.345200 7.209500 900 21 1 FFFFFF  <>
+  66 41 3.689400 -0.356300 -2.565700 900 21 1 FFFFFF  <>
+  67 41 3.147000 1.291100 -2.425500 900 21 1 FFFFFF  <>
+  68 41 5.448400 2.053200 -1.904700 900 21 1 FFFFFF  <>
+  69 41 5.301900 0.353000 -4.431900 900 21 1 FFFFFF  <>
+  70 41 4.663600 1.950700 -4.266500 900 21 1 FFFFFF  <>
+  71 41 6.930800 2.014700 -5.322400 900 21 1 FFFFFF  <>
+  72 41 6.895400 2.909600 -3.824700 900 21 1 FFFFFF  <>
+  73 41 8.036100 0.109200 -4.256500 900 21 1 FFFFFF  <>
+  74 41 8.937100 1.546700 -3.854800 900 21 1 FFFFFF  <>
+  75 41 8.585400 0.010700 -1.874500 900 21 1 FFFFFF  <>
+  76 41 7.965100 1.618100 -1.601300 900 21 1 FFFFFF  <>
+  77 41 6.328300 -0.052600 -0.821700 900 21 1 FFFFFF  <>
+  78 41 6.298400 -0.850700 -2.350400 900 21 1 FFFFFF  <>
+  79 41 0.331900 -2.372300 2.311700 900 21 1 FFFFFF  <>
+  80 41 -1.741700 -1.157500 2.829900 900 21 1 FFFFFF  <>
+  81 41 -2.031900 -2.883900 2.694100 900 21 1 FFFFFF  <>
+  82 41 -2.508400 -1.809100 1.383700 900 21 1 FFFFFF  <>
+  83 41 0.664100 -6.285100 -0.353400 900 21 1 FFFFFF  <>
+  84 41 -0.837600 -5.469400 -0.772600 900 21 1 FFFFFF  <>
+  85 41 -0.534200 -5.940600 0.888800 900 21 1 FFFFFF  <>
+  86 41 1.252000 -4.670200 2.292400 900 21 1 FFFFFF  <>
+  87 41 2.232600 -3.427600 1.528000 900 21 1 FFFFFF  <>
+  88 41 2.422600 -5.102900 1.054100 900 21 1 FFFFFF  <>
+  89 41 1.893400 -4.372900 -1.497400 900 21 1 FFFFFF  <>
+  90 41 1.767300 -2.730400 -0.916700 900 21 1 FFFFFF  <>
+  91 41 0.430200 -3.447800 -1.798800 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[93] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 1
+  2 1 6 2
+  3 1 45 1
+  4 2 3 2
+  5 2 7 1
+  6 3 4 1
+  7 3 46 1
+  8 4 5 2
+  9 4 47 1
+  10 5 6 1
+  11 5 48 1
+  12 6 49 1
+  13 7 8 1
+  14 7 50 1
+  15 7 51 1
+  16 8 9 1
+  17 9 10 1
+  18 9 43 2
+  19 10 11 1
+  20 10 52 1
+  21 11 12 1
+  22 11 36 1
+  23 11 53 1
+  24 12 13 1
+  25 12 35 2
+  26 13 14 1
+  27 13 54 1
+  28 14 15 1
+  29 14 28 1
+  30 14 55 1
+  31 15 16 1
+  32 15 27 2
+  33 16 17 1
+  34 16 56 1
+  35 17 18 1
+  36 17 20 1
+  37 17 57 1
+  38 18 19 2
+  39 18 44 1
+  40 20 21 1
+  41 20 58 1
+  42 20 59 1
+  43 21 22 1
+  44 21 25 1
+  45 21 60 1
+  46 22 23 1
+  47 22 61 1
+  48 22 62 1
+  49 23 24 1
+  50 23 63 1
+  51 23 64 1
+  52 24 25 1
+  53 24 65 1
+  54 25 26 2
+  55 28 29 1
+  56 28 66 1
+  57 28 67 1
+  58 29 30 1
+  59 29 34 1
+  60 29 68 1
+  61 30 31 1
+  62 30 69 1
+  63 30 70 1
+  64 31 32 1
+  65 31 71 1
+  66 31 72 1
+  67 32 33 1
+  68 32 73 1
+  69 32 74 1
+  70 33 34 1
+  71 33 75 1
+  72 33 76 1
+  73 34 77 1
+  74 34 78 1
+  75 36 37 1
+  76 36 38 1
+  77 36 79 1
+  78 37 80 1
+  79 37 81 1
+  80 37 82 1
+  81 38 39 1
+  82 39 40 1
+  83 39 41 1
+  84 39 42 1
+  85 40 83 1
+  86 40 84 1
+  87 40 85 1
+  88 41 86 1
+  89 41 87 1
+  90 41 88 1
+  91 42 89 1
+  92 42 90 1
+  93 42 91 1
+  :::
+ } 
+} 
+

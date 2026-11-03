@@ -1,0 +1,39 @@
+TITLE     structures_8
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  SER A  49      -0.608  -5.819  34.877  1.00  0.00           C  
+ATOM      2  CB  SER A  49      -1.064  -5.010  36.078  1.00  0.00           C  
+ATOM      3  OG  SER A  49      -0.319  -3.808  36.096  1.00  0.00           O  
+ATOM      4  BX  SER A  49      -1.146  -2.681  35.450  1.00  0.00           B1-
+ATOM      5  OX  SER A  49      -2.614  -3.131  35.320  1.00  0.00           O  
+ATOM      6  OX  SER A  49      -1.073  -1.421  36.333  1.00  0.00           O  
+ATOM      7  CX  SER A  49      -0.540  -2.342  33.954  1.00  0.00           C  
+ATOM      8  CX  SER A  49      -1.614  -2.628  32.888  1.00  0.00           C  
+ATOM      9  NX  SER A  49      -0.155  -0.924  33.891  1.00  0.00           N  
+ATOM     10  SX  SER A  49      -1.555   0.052  34.005  1.00  0.00           S  
+ATOM     11  CX  SER A  49      -2.080   0.528  32.373  1.00  0.00           C  
+ATOM     12  OX  SER A  49      -1.251   1.255  34.793  1.00  0.00           O  
+ATOM     13  OX  SER A  49      -2.627  -0.706  34.664  1.00  0.00           O  
+ATOM     14  H   SER A  49      -3.117  -2.456  34.839  1.00  0.00           H  
+ATOM     15  H   SER A  49      -0.750  -0.674  35.804  1.00  0.00           H  
+ATOM     16  H   SER A  49       0.474  -0.708  34.665  1.00  0.00           H  
+TER      17      SER A  49
+CONECT    3    4
+CONECT    4    3    7    5    6
+CONECT    5    4   14
+CONECT   14    5
+CONECT    6    4   15
+CONECT   15    6
+CONECT    7    4    8    9
+CONECT    8    7
+CONECT    9    7   10   16
+CONECT   16    9
+CONECT   10    9   11   13   12
+CONECT   10   13   12
+CONECT   11   10
+CONECT   12   10
+CONECT   12   10
+CONECT   13   10
+CONECT   13   10
+END   

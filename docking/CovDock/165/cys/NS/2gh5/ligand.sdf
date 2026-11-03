@@ -1,0 +1,228 @@
+Structure61
+                    3D
+ Schrodinger Suite 2021-3.
+ 38 39  0  0  1  0            999 V2000
+   -6.4182    1.7219    2.4930 C   0  0  0  0  0  0
+   -5.0286    1.6459    2.4926 C   0  0  0  0  0  0
+   -4.3079    1.5617    1.2874 C   0  0  0  0  0  0
+   -5.0103    1.5528    0.0635 C   0  0  0  0  0  0
+   -6.4138    1.6318    0.0875 C   0  0  0  0  0  0
+   -7.1116    1.7155    1.2890 C   0  0  0  0  0  0
+   -2.2399    1.5131    2.5021 O   0  5  0  0  0  0
+   -2.8243    1.4847    1.2689 C   0  0  0  0  0  0
+   -4.3017    1.4625   -1.2662 C   0  0  0  0  0  0
+   -2.8130    1.3673   -1.1821 C   0  0  0  0  0  0
+   -2.1098    1.3885    0.1208 C   0  0  0  0  0  0
+   -4.9462    1.4658   -2.3205 O   0  0  0  0  0  0
+   -2.1583    1.2508   -2.3624 C   0  0  0  0  0  0
+   -0.5744    1.3517    0.1805 C   0  0  0  0  0  0
+    0.0166   -0.0653    0.0553 C   0  0  0  0  0  0
+    1.5572   -0.0745    0.0882 C   0  0  0  0  0  0
+    2.1863   -1.4715   -0.0823 C   0  0  0  0  0  0
+    1.8695   -2.4516    1.0799 C   0  0  0  0  0  0
+    2.6943   -3.7620    1.0713 C   0  0  0  0  0  0
+    2.6978   -4.4202    2.1361 O   0  0  0  0  0  0
+    3.2844   -4.1218    0.0258 O   0  0  0  0  0  0
+   -2.6684    1.2331   -3.3160 H   0  0  0  0  0  0
+   -1.0840    1.1663   -2.4169 H   0  0  0  0  0  0
+   -6.9567    1.7861    3.4270 H   0  0  0  0  0  0
+   -4.5244    1.6540    3.4476 H   0  0  0  0  0  0
+   -6.9860    1.6283   -0.8298 H   0  0  0  0  0  0
+   -8.1900    1.7750    1.2854 H   0  0  0  0  0  0
+   -0.1733    1.9943   -0.6036 H   0  0  0  0  0  0
+   -0.2130    1.8093    1.1024 H   0  0  0  0  0  0
+   -0.3716   -0.6805    0.8679 H   0  0  0  0  0  0
+   -0.3258   -0.5300   -0.8701 H   0  0  0  0  0  0
+    1.9318    0.5720   -0.7066 H   0  0  0  0  0  0
+    1.9073    0.3683    1.0220 H   0  0  0  0  0  0
+    1.8644   -1.9006   -1.0327 H   0  0  0  0  0  0
+    3.2668   -1.3358   -0.1594 H   0  0  0  0  0  0
+    2.0385   -1.9383    2.0291 H   0  0  0  0  0  0
+    0.8128   -2.7210    1.0558 H   0  0  0  0  0  0
+    3.7464   -4.9478    0.1866 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  6  2  0  0  0
+  1 24  1  0  0  0
+  2  3  2  0  0  0
+  2 25  1  0  0  0
+  3  4  1  0  0  0
+  3  8  1  0  0  0
+  4  5  2  0  0  0
+  4  9  1  0  0  0
+  5  6  1  0  0  0
+  5 26  1  0  0  0
+  6 27  1  0  0  0
+  7  8  1  0  0  0
+  8 11  2  0  0  0
+  9 10  1  0  0  0
+  9 12  2  0  0  0
+ 10 11  1  0  0  0
+ 10 13  2  0  0  0
+ 11 14  1  0  0  0
+ 13 22  1  0  0  0
+ 13 23  1  0  0  0
+ 14 15  1  0  0  0
+ 14 28  1  0  0  0
+ 14 29  1  0  0  0
+ 15 16  1  0  0  0
+ 15 30  1  0  0  0
+ 15 31  1  0  0  0
+ 16 17  1  0  0  0
+ 16 32  1  0  0  0
+ 16 33  1  0  0  0
+ 17 18  1  0  0  0
+ 17 34  1  0  0  0
+ 17 35  1  0  0  0
+ 18 19  1  0  0  0
+ 18 36  1  0  0  0
+ 18 37  1  0  0  0
+ 19 20  2  0  0  0
+ 19 21  1  0  0  0
+ 21 38  1  0  0  0
+M  CHG  1   7  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+62
+
+> <s_m_entry_name>
+Structure61
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF HUMAN GLUTATHIONE REDUCTASE COMPLEXED WITH A FLUORO-ANALOGUE OF THE MENADIONE DERIVATIVE M5
+
+> <s_pdb_PDB_ID>
+2GH5
+
+> <r_pdb_PDB_CRYST1_a>
+84.7
+
+> <r_pdb_PDB_CRYST1_b>
+63.6
+
+> <r_pdb_PDB_CRYST1_c>
+103.99
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+101.12
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+OXIDOREDUCTASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+25-MAR-06
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.224
+
+> <r_pdb_PDB_Rfree>
+0.256
+
+> <r_pdb_PDB_RESOLUTION>
+1.7
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+8
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NS\2gh5
+
+> <s_m_Source_File>
+2gh5.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+2gh5_ligprep_14.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFbY0hdW2NIXVtjSF1jKGMxMilDKD1PKUMoPVtDSDJdKUMoPUMyW09IXSlbQ0gyXVtDSDJdW0NIMl1bQ0gyXVtDSDJdQyg9TylbT0hd
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0427
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0043
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0385
+
+> <r_epik_State_Penalty>
+  0.0322
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.0365430680679158
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+29.496829
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure61-1
+
+> <s_m_job_name>
+2gh5_ligprep_14
+
+> <s_m_subgroup_title>
+2gh5_ligprep_14-out1
+
+> <s_m_subgroupid>
+2gh5_ligprep_14-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

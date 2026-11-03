@@ -1,0 +1,76 @@
+TITLE     44593548
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  N   CYS A 274      -2.667 -18.833 -14.619  1.00 21.56           N  
+ATOM      2  CA  CYS A 274      -1.691 -18.149 -15.454  1.00 21.73           C  
+ATOM      3  C   CYS A 274      -2.252 -16.798 -15.945  1.00 21.43           C  
+ATOM      4  O   CYS A 274      -1.471 -15.909 -16.276  1.00 20.26           O  
+ATOM      5  CB  CYS A 274      -1.125 -18.968 -16.651  1.00  0.00           C  
+ATOM      6  SG  CYS A 274      -0.811 -20.740 -16.318  1.00  0.00           S  
+ATOM      7  H   CYS A 274      -2.870 -19.790 -14.861  1.00  0.00           H  
+ATOM      8  HA  CYS A 274      -0.843 -18.002 -14.800  1.00  0.00           H  
+ATOM      9  HB2 CYS A 274      -1.843 -18.958 -17.473  1.00  0.00           H  
+ATOM     10  HB3 CYS A 274      -0.223 -18.489 -17.035  1.00  0.00           H  
+TER      11      CYS A 274
+HETATM   12  O1  UNK   900       5.023 -18.719 -20.227  1.00  0.00           O1-
+HETATM   13  O2  UNK   900       5.850 -18.798 -22.281  1.00  0.00           O  
+HETATM   14  N1  UNK   900       4.217 -21.239 -22.345  1.00  0.00           N  
+HETATM   15  N2  UNK   900       1.925 -20.398 -16.980  1.00  0.00           N  
+HETATM   16  N3  UNK   900       1.206 -22.461 -16.480  1.00  0.00           N1-
+HETATM   17  C1  UNK   900       2.598 -20.018 -20.761  1.00  0.00           C  
+HETATM   18  C2  UNK   900       2.803 -20.606 -19.333  1.00  0.00           C  
+HETATM   19  C3  UNK   900       3.768 -19.941 -21.809  1.00  0.00           C  
+HETATM   20  C4  UNK   900       1.641 -20.179 -18.406  1.00  0.00           C  
+HETATM   21  C5  UNK   900       4.976 -19.033 -21.421  1.00  0.00           C  
+HETATM   22  C6  UNK   900       0.973 -21.118 -16.138  1.00  0.00           C  
+HETATM   23  C7  UNK   900       1.422 -20.884 -14.685  1.00  0.00           C  
+HETATM   24  C8  UNK   900       0.754 -21.745 -13.585  1.00  0.00           C  
+HETATM   25  H1  UNK   900       1.724 -20.488 -21.203  1.00  0.00           H  
+HETATM   26  H2  UNK   900       2.295 -18.989 -20.608  1.00  0.00           H  
+HETATM   27  H3  UNK   900       2.892 -21.690 -19.380  1.00  0.00           H  
+HETATM   28  H4  UNK   900       3.731 -20.279 -18.884  1.00  0.00           H  
+HETATM   29  H5  UNK   900       3.335 -19.413 -22.662  1.00  0.00           H  
+HETATM   30  H6  UNK   900       0.724 -20.634 -18.763  1.00  0.00           H  
+HETATM   31  H7  UNK   900       1.472 -19.108 -18.529  1.00  0.00           H  
+HETATM   32  H8  UNK   900       4.584 -21.070 -23.275  1.00  0.00           H  
+HETATM   33  H9  UNK   900       3.355 -21.753 -22.531  1.00  0.00           H  
+HETATM   34  H10 UNK   900       2.488 -21.068 -14.617  1.00  0.00           H  
+HETATM   35  H11 UNK   900       1.284 -19.828 -14.451  1.00  0.00           H  
+HETATM   36  H12 UNK   900       1.021 -21.347 -12.611  1.00  0.00           H  
+HETATM   37  H13 UNK   900       1.078 -22.787 -13.626  1.00  0.00           H  
+HETATM   38  H14 UNK   900      -0.334 -21.736 -13.643  1.00  0.00           H  
+HETATM   39  H15 UNK   900       2.133 -19.506 -16.549  1.00  0.00           H  
+HETATM   40  HN3 UNK   900       1.515 -22.459 -17.465  1.00  0.00           H  
+CONECT   12   21
+CONECT   13   21
+CONECT   13   21
+CONECT   14   19   32   33
+CONECT   15   20   22   39
+CONECT   16   22   40
+CONECT   17   18   19   25   26
+CONECT   18   17   20   27   28
+CONECT   19   14   17   21   29
+CONECT   20   15   18   30   31
+CONECT   21   12   13   19
+CONECT   21   13
+CONECT   22    6   15   16   23
+CONECT   23   22   24   34   35
+CONECT   24   23   36   37   38
+CONECT   25   17
+CONECT   26   17
+CONECT   27   18
+CONECT   28   18
+CONECT   29   19
+CONECT   30   20
+CONECT   31   20
+CONECT   32   14
+CONECT   33   14
+CONECT   34   23
+CONECT   35   23
+CONECT   36   24
+CONECT   37   24
+CONECT   38   24
+CONECT   39   15
+CONECT   40   16
+END   

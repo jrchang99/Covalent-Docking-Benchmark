@@ -1,0 +1,261 @@
+Structure3
+                    3D
+ Schrodinger Suite 2021-3.
+ 52 53  0  0  1  0            999 V2000
+    4.4561    1.3162   -0.5724 C   0  0  0  0  0  0
+    5.0872    3.3167   -1.9550 C   0  0  2  0  0  0
+    4.8084    3.7952   -3.3897 C   0  0  0  0  0  0
+    6.5800    3.3484   -1.6429 C   0  0  0  0  0  0
+    7.5580    2.5436   -2.2565 C   0  0  0  0  0  0
+    8.8453    2.7633   -1.7873 C   0  0  0  0  0  0
+    3.7485   -0.0748   -0.5848 C   0  0  0  0  0  0
+    4.4507   -1.0866   -1.5263 C   0  0  0  0  0  0
+    2.2238    0.0581   -0.8357 C   0  0  0  0  0  0
+   -0.0713   -0.1220    0.1681 C   0  0  2  0  0  0
+   -0.6016    1.3242    0.0326 C   0  0  0  0  0  0
+   -0.4415    3.7663    0.8940 C   0  0  0  0  0  0
+    0.1422    4.3079   -0.3350 N   0  0  0  0  0  0
+    1.4533    4.5050   -0.5469 C   0  0  0  0  0  0
+    2.3401    4.2853    0.2761 O   0  0  0  0  0  0
+    4.9510    1.7575    0.4669 O   0  0  0  0  0  0
+    4.4961    1.9916   -1.7401 N   0  0  0  0  0  0
+    8.8886    3.9824   -0.5625 S   0  0  0  0  0  0
+    7.1723    4.1834   -0.6970 C   0  0  0  0  0  0
+    5.2745   -1.5754   -0.3179 C   0  0  0  0  0  0
+    4.1709   -1.0026    0.5929 C   0  0  0  0  0  0
+    1.8155    0.4306   -1.9375 O   0  0  0  0  0  0
+    1.3931   -0.2113    0.1905 N   0  0  0  0  0  0
+   -0.1192    2.2782    1.1479 C   0  0  0  0  0  0
+    1.7060    4.9688   -1.7703 N   0  0  0  0  0  0
+   -0.6621   -1.0213   -0.8417 C   0  0  0  0  0  0
+   -1.1260   -1.7270   -1.6329 N   0  0  0  0  0  0
+    4.5593    4.0067   -1.2944 H   0  0  0  0  0  0
+    5.1582    4.8175   -3.5383 H   0  0  0  0  0  0
+    3.7407    3.7814   -3.6119 H   0  0  0  0  0  0
+    5.3045    3.1643   -4.1287 H   0  0  0  0  0  0
+    7.3279    1.8167   -3.0214 H   0  0  0  0  0  0
+    9.7541    2.2707   -2.0996 H   0  0  0  0  0  0
+    3.7905   -1.8664   -1.9142 H   0  0  0  0  0  0
+    5.0121   -0.6749   -2.3669 H   0  0  0  0  0  0
+   -0.4097   -0.5166    1.1268 H   0  0  0  0  0  0
+   -0.3086    1.7157   -0.9422 H   0  0  0  0  0  0
+   -1.6924    1.3111    0.0211 H   0  0  0  0  0  0
+   -0.1551    4.3765    1.7526 H   0  0  0  0  0  0
+   -1.5205    3.8769    0.7807 H   0  0  0  0  0  0
+   -0.5057    4.5354   -1.0747 H   0  0  0  0  0  0
+    3.8801    1.6673   -2.4716 H   0  0  0  0  0  0
+    6.6716    4.9046   -0.0681 H   0  0  0  0  0  0
+    5.4260   -2.6535   -0.2554 H   0  0  0  0  0  0
+    6.2350   -1.0674   -0.2111 H   0  0  0  0  0  0
+    4.4945   -0.5237    1.5182 H   0  0  0  0  0  0
+    3.4358   -1.7668    0.8550 H   0  0  0  0  0  0
+    1.7995   -0.5572    1.0475 H   0  0  0  0  0  0
+   -0.5667    1.9729    2.0943 H   0  0  0  0  0  0
+    0.9563    2.1748    1.2939 H   0  0  0  0  0  0
+    0.9544    5.1250   -2.4253 H   0  0  0  0  0  0
+    2.6569    5.1601   -2.0499 H   0  0  0  0  0  0
+  1  7  1  0  0  0
+  1 16  2  0  0  0
+  1 17  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  2 17  1  0  0  0
+  2 28  1  0  0  0
+  3 29  1  0  0  0
+  3 30  1  0  0  0
+  3 31  1  0  0  0
+  4  5  1  0  0  0
+  4 19  2  0  0  0
+  5  6  2  0  0  0
+  5 32  1  0  0  0
+  6 18  1  0  0  0
+  6 33  1  0  0  0
+  7  8  1  0  0  0
+  7  9  1  0  0  0
+  7 21  1  0  0  0
+  8 20  1  0  0  0
+  8 34  1  0  0  0
+  8 35  1  0  0  0
+  9 22  2  0  0  0
+  9 23  1  0  0  0
+ 10 11  1  0  0  0
+ 10 23  1  0  0  0
+ 10 26  1  0  0  0
+ 10 36  1  0  0  0
+ 11 24  1  0  0  0
+ 11 37  1  0  0  0
+ 11 38  1  0  0  0
+ 12 13  1  0  0  0
+ 12 24  1  0  0  0
+ 12 39  1  0  0  0
+ 12 40  1  0  0  0
+ 13 14  1  0  0  0
+ 13 41  1  0  0  0
+ 14 15  2  0  0  0
+ 14 25  1  0  0  0
+ 17 42  1  0  0  0
+ 18 19  1  0  0  0
+ 19 43  1  0  0  0
+ 20 21  1  0  0  0
+ 20 44  1  0  0  0
+ 20 45  1  0  0  0
+ 21 46  1  0  0  0
+ 21 47  1  0  0  0
+ 23 48  1  0  0  0
+ 24 49  1  0  0  0
+ 24 50  1  0  0  0
+ 25 51  1  0  0  0
+ 25 52  1  0  0  0
+ 26 27  3  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+4
+
+> <s_m_entry_name>
+Structure3
+
+> <s_pdb_PDB_TITLE>
+STRUCTURE OF CATHB WITH COVALENTLY LINKED COMPOUND 28
+
+> <s_pdb_PDB_ID>
+6AY2
+
+> <r_pdb_PDB_CRYST1_a>
+31.317
+
+> <r_pdb_PDB_CRYST1_b>
+127.243
+
+> <r_pdb_PDB_CRYST1_c>
+70.034
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+102.9
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 1 21 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE/HYDROLASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+07-SEP-17
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.161
+
+> <r_pdb_PDB_Rfree>
+0.177
+
+> <r_pdb_PDB_RESOLUTION>
+1.6
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NA\6ay2
+
+> <s_m_Source_File>
+6ay2.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+6ay2_ligprep_7.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFzW2NIXVtjSF1jMVtDQEBIXShbQ0gzXSlbTkhdQyg9TylDMihbQ0gyXVtDSDJdW0NIMl0yKUMoPU8pW05IXVtDQEhdKEMjTilbQ0gyXVtDSDJdW0NIMl1bTkhdQyg9TylbTkgyXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+32.454677
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure3-1
+
+> <s_m_job_name>
+6ay2_ligprep_7
+
+> <s_m_subgroup_title>
+6ay2_ligprep_7-out1
+
+> <s_m_subgroupid>
+6ay2_ligprep_7-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

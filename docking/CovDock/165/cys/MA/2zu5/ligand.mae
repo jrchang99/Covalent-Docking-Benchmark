@@ -1,0 +1,391 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ s_st_Chirality_4
+ s_st_Chirality_5
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ i_sd_PUBCHEM\_COMPOUND\_CANONICALIZED
+ i_sd_PUBCHEM\_CACTVS\_COMPLEXITY
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_ACCEPTOR
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_DONOR
+ i_sd_PUBCHEM\_CACTVS\_ROTATABLE\_BOND
+ s_sd_PUBCHEM\_CACTVS\_SUBSKEYS
+ s_sd_PUBCHEM\_IUPAC\_OPENEYE\_NAME
+ s_sd_PUBCHEM\_IUPAC\_CAS\_NAME
+ s_sd_PUBCHEM\_IUPAC\_NAME\_MARKUP
+ s_sd_PUBCHEM\_IUPAC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_SYSTEMATIC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_TRADITIONAL\_NAME
+ s_sd_PUBCHEM\_IUPAC\_INCHI
+ s_sd_PUBCHEM\_IUPAC\_INCHIKEY
+ r_sd_PUBCHEM\_XLOGP3\_AA
+ r_sd_PUBCHEM\_EXACT\_MASS
+ s_sd_PUBCHEM\_MOLECULAR\_FORMULA
+ r_sd_PUBCHEM\_MOLECULAR\_WEIGHT
+ s_sd_PUBCHEM\_SMILES
+ s_sd_PUBCHEM\_CONNECTIVITY\_SMILES
+ r_sd_PUBCHEM\_MONOISOTOPIC\_WEIGHT
+ i_sd_PUBCHEM\_TOTAL\_CHARGE
+ s_sd_PUBCHEM\_BONDANNOTATIONS
+ s_epik_Chemistry_Notes
+ i_sd_PUBCHEM\_CACTVS\_TPSA
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 129662165 
+  0
+  16_S_23_17_19_51 
+  18_S_8_21_17_54 
+  24_S_10_25_26_63 
+  28_S_11_30_29_68 
+  29_R_3_28_34_69 
+  191 
+  ligand.1 
+  D:\work\244Set\Autodock\cys\MA\2zu5 
+  ligand.sdf 
+  1
+  129662165
+  45
+  5
+  0
+  1
+  0
+  0
+  1
+  -1
+  "1
+5
+255" 
+  1
+  0
+  55137
+  Tz1DMVtOSF1bQ0gyXVtDSDJdW0NASF0xW0NIMl1bQ0BASF0oXFtDSF09W0NIXVxDKD1PKVtDSF0yW0NIMl1bQ0gyXTIpW05IXUMoPU8pW0NASF0oW0NIMl1bQ0hdKFtDSDNdKVtDSDNdKVtOSF1DKD1PKVtDQEhdKFtDQEBIXShbQ0gzXSlPQyhbQ0gzXSkoW0NIM10pW0NIM10pW05IXUMoPU8pT1tDSDJdYzNbY0hdW2NIXVtjSF1bY0hdW2NIXTM= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  0
+  0
+  0
+  S-OPLS 
+  33.824331
+  1
+  129662165-1 
+  2zu5_ligprep_23 
+  1
+  0
+  1
+  1060
+  7
+  4
+  18
+  AAADcfB/uAAAAAAAAAAAAAAAGAAAAWAAAAAwAAAAAAAAAAABAAAAHgAQAAAADXzhmAYyCILABACIAqFSGACCAAAgAAAIiIGICMkKZjaAsTifMAAm9gGYqYecwCAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA== 
+  "benzyl N-[(1S,2R)-2-tert-butoxy-1-[[(1S)-1-[[(E,1S)-4-cyclopropyl-4-oxo-1-[[(3S)-2-oxopyrrolidin-3-yl]methyl]but-2-enyl]carbamoyl]-3-methyl-butyl]carbamoyl]propyl]carbamate" 
+  "N-[(2S,3R)-1-[[(2S)-1-[[(E,2S)-5-cyclopropyl-5-oxo-1-[(3S)-2-oxo-3-pyrrolidinyl]pent-3-en-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-[(2-methylpropan-2-yl)oxy]-1-oxobutan-2-yl]carbamic acid (phenylmethyl) ester" 
+  "benzyl <I>N</I>-[(2<I>S</I>,3<I>R</I>)-1-[[(2<I>S</I>)-1-[[(<I>E</I>,2<I>S</I>)-5-cyclopropyl-5-oxo-1-[(3<I>S</I>)-2-oxopyrrolidin-3-yl]pent-3-en-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-[(2-methylpropan-2-yl)oxy]-1-oxobutan-2-yl]carbamate" 
+  "benzyl N-[(2S,3R)-1-[[(2S)-1-[[(E,2S)-5-cyclopropyl-5-oxo-1-[(3S)-2-oxopyrrolidin-3-yl]pent-3-en-2-yl]amino]-4-methyl-1-oxopentan-2-yl]amino]-3-[(2-methylpropan-2-yl)oxy]-1-oxobutan-2-yl]carbamate" 
+  "(phenylmethyl) N-[(2S,3R)-1-[[(2S)-1-[[(E,2S)-5-cyclopropyl-5-oxidanylidene-1-[(3S)-2-oxidanylidenepyrrolidin-3-yl]pent-3-en-2-yl]amino]-4-methyl-1-oxidanylidene-pentan-2-yl]amino]-3-[(2-methylpropan-2-yl)oxy]-1-oxidanylidene-butan-2-yl]carbamate" 
+  "N-[(1S,2R)-2-tert-butoxy-1-[[(1S)-1-[[(E,1S)-4-cyclopropyl-4-keto-1-[[(3S)-2-ketopyrrolidin-3-yl]methyl]but-2-enyl]carbamoyl]-3-methyl-butyl]carbamoyl]propyl]carbamic acid benzyl ester" 
+  InChI=1S/C34H50N4O7/c1-21(2)18-27(31(41)36-26(14-15-28(39)24-12-13-24)19-25-16-17-35-30(25)40)37-32(42)29(22(3)45-34(4,5)6)38-33(43)44-20-23-10-8-7-9-11-23/h7-11,14-15,21-22,24-27,29H,12-13,16-20H2,1-6H3,(H,35,40)(H,36,41)(H,37,42)(H,38,43)/b15-14+/t22-,25+,26-,27+,29+/m1/s1 
+  NNXKOEYVHXVWMD-PQMSBYLUSA-N 
+  3.4
+  626.36794995
+  C34H50N4O7 
+  626.8
+  C[C@H]([C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](C[C@@H]1CCNC1=O)/C=C/C(=O)C2CC2)NC(=O)OCC3=CC=CC=C3)OC(C)(C)C 
+  CC(C)CC(C(=O)NC(CC1CCNC1=O)C=CC(=O)C2CC2)NC(=O)C(C(C)OC(C)(C)C)NC(=O)OCC3=CC=CC=C3 
+  626.36794995
+  0
+  "24  10  6
+28  11  5
+16  17  6
+29  3  5
+40  41  8
+40  42  8
+41  43  8
+42  44  8
+43  45  8
+44  45  8
+18  8  6" 
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  152
+  2zu5_ligprep_23-out1 
+  2zu5_ligprep_23-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[95] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 15 6.682700 2.801400 -3.496900 900 70 8 FF2F2F  <>
+  2 15 1.553600 2.120100 -6.042400 900 70 8 FF2F2F  <>
+  3 16 -1.652400 1.214200 -2.193200 900 70 8 FF2F2F  <>
+  4 15 2.665400 -0.485200 -1.882600 900 70 8 FF2F2F  <>
+  5 15 -0.126300 2.291300 0.695400 900 70 8 FF2F2F  <>
+  6 16 -3.766700 1.132900 3.372800 900 70 8 FF2F2F  <>
+  7 15 -2.613800 -0.678000 2.582200 900 70 8 FF2F2F  <>
+  8 25 2.057900 1.692500 -1.616400 900 43 7 5757FF  <>
+  9 25 0.619600 4.142000 -6.630100 900 43 7 5757FF  <>
+  10 25 0.302500 0.093800 0.274700 900 43 7 5757FF  <>
+  11 25 -2.811600 1.319000 1.371600 900 43 7 5757FF  <>
+  12 3 6.871900 1.214500 -5.254100 900 2 6 A0A0A0  <>
+  13 3 6.487300 -0.224700 -5.570100 900 2 6 A0A0A0  <>
+  14 3 6.204900 0.852200 -6.574500 900 2 6 A0A0A0  <>
+  15 2 6.068600 1.991500 -4.192900 900 2 6 A0A0A0  <>
+  16 3 1.763200 4.147700 -4.625500 900 2 6 A0A0A0  1
+  17 3 1.530700 3.446000 -3.256300 900 2 6 A0A0A0  <>
+  18 3 2.378600 2.185500 -2.954400 900 2 6 A0A0A0  1
+  19 3 1.002000 5.461500 -4.758800 900 2 6 A0A0A0  <>
+  20 2 4.630600 1.760400 -4.038200 900 2 6 A0A0A0  <>
+  21 2 3.874500 2.405400 -3.128100 900 2 6 A0A0A0  <>
+  22 3 0.637500 5.539600 -6.227800 900 2 6 A0A0A0  <>
+  23 2 1.299900 3.303500 -5.827700 900 2 6 A0A0A0  <>
+  24 3 1.763300 0.160600 0.258200 900 2 6 A0A0A0  1
+  25 2 2.226900 0.430900 -1.185900 900 2 6 A0A0A0  <>
+  26 3 2.323700 -1.145900 0.874400 900 2 6 A0A0A0  <>
+  27 3 3.860300 -1.192200 1.061100 900 2 6 A0A0A0  <>
+  28 3 -2.019500 0.885300 0.208400 900 2 6 A0A0A0  1
+  29 3 -2.564900 1.495200 -1.122800 900 2 6 A0A0A0  1
+  30 2 -0.513900 1.149800 0.438900 900 2 6 A0A0A0  <>
+  31 3 4.314700 -2.589800 1.534300 900 2 6 A0A0A0  <>
+  32 3 4.375800 -0.067600 1.985000 900 2 6 A0A0A0  <>
+  33 3 -1.953100 0.193100 -3.153700 900 2 6 A0A0A0  <>
+  34 3 -2.755500 3.025800 -1.113400 900 2 6 A0A0A0  <>
+  35 3 -0.690500 0.115300 -4.030600 900 2 6 A0A0A0  <>
+  36 3 -3.160000 0.624500 -4.016600 900 2 6 A0A0A0  <>
+  37 3 -2.200900 -1.178300 -2.485500 900 2 6 A0A0A0  <>
+  38 2 -3.027300 0.477900 2.457800 900 2 6 A0A0A0  <>
+  39 3 -4.137100 0.503600 4.593000 900 2 6 A0A0A0  <>
+  40 2 -4.929100 1.477500 5.444700 900 2 6 A0A0A0  <>
+  41 2 -6.320900 1.525500 5.335300 900 2 6 A0A0A0  <>
+  42 2 -4.262700 2.322600 6.335000 900 2 6 A0A0A0  <>
+  43 2 -7.047000 2.418800 6.119100 900 2 6 A0A0A0  <>
+  44 2 -4.989500 3.215500 7.118300 900 2 6 A0A0A0  <>
+  45 2 -6.378100 3.259200 7.007100 900 2 6 A0A0A0  <>
+  46 41 7.928600 1.484300 -5.262500 900 21 1 FFFFFF  <>
+  47 41 7.291100 -0.933600 -5.769700 900 21 1 FFFFFF  <>
+  48 41 5.657400 -0.695000 -5.041300 900 21 1 FFFFFF  <>
+  49 41 5.173500 1.151900 -6.763600 900 21 1 FFFFFF  <>
+  50 41 6.809900 0.897400 -7.480300 900 21 1 FFFFFF  <>
+  51 41 2.829200 4.337100 -4.760300 900 21 1 FFFFFF  <>
+  52 41 1.723000 4.180400 -2.471600 900 21 1 FFFFFF  <>
+  53 41 0.472200 3.194900 -3.153600 900 21 1 FFFFFF  <>
+  54 41 2.059700 1.418700 -3.662300 900 21 1 FFFFFF  <>
+  55 41 0.087000 5.433400 -4.162900 900 21 1 FFFFFF  <>
+  56 41 1.572100 6.328700 -4.423100 900 21 1 FFFFFF  <>
+  57 41 4.169900 1.037000 -4.693600 900 21 1 FFFFFF  <>
+  58 41 4.317000 3.133400 -2.461900 900 21 1 FFFFFF  <>
+  59 41 1.374800 6.089300 -6.815100 900 21 1 FFFFFF  <>
+  60 41 -0.338000 6.003700 -6.378500 900 21 1 FFFFFF  <>
+  61 43 1.706800 2.377400 -0.962400 900 21 1 FFFFFF  <>
+  62 43 0.271400 3.860300 -7.535000 900 21 1 FFFFFF  <>
+  63 41 2.089300 0.998600 0.876300 900 21 1 FFFFFF  <>
+  64 41 1.855300 -1.305300 1.847000 900 21 1 FFFFFF  <>
+  65 41 2.009900 -1.990100 0.257700 900 21 1 FFFFFF  <>
+  66 41 4.325200 -1.041100 0.086700 900 21 1 FFFFFF  <>
+  67 43 -0.096100 -0.808700 0.059900 900 21 1 FFFFFF  <>
+  68 41 -2.163800 -0.191800 0.097500 900 21 1 FFFFFF  <>
+  69 41 -3.544700 1.055800 -1.313800 900 21 1 FFFFFF  <>
+  70 41 4.758400 -2.575600 2.529500 900 21 1 FFFFFF  <>
+  71 41 5.058900 -3.004400 0.854000 900 21 1 FFFFFF  <>
+  72 41 3.486900 -3.298600 1.571900 900 21 1 FFFFFF  <>
+  73 41 3.575800 0.369800 2.582700 900 21 1 FFFFFF  <>
+  74 41 4.820900 0.736100 1.397600 900 21 1 FFFFFF  <>
+  75 41 5.141200 -0.410300 2.681300 900 21 1 FFFFFF  <>
+  76 41 -3.453300 3.341600 -0.337800 900 21 1 FFFFFF  <>
+  77 41 -3.156400 3.369000 -2.067600 900 21 1 FFFFFF  <>
+  78 41 -1.813800 3.550400 -0.951200 900 21 1 FFFFFF  <>
+  79 43 -3.158800 2.266700 1.397400 900 21 1 FFFFFF  <>
+  80 41 -0.798300 -0.615300 -4.833000 900 21 1 FFFFFF  <>
+  81 41 0.183200 -0.167800 -3.442800 900 21 1 FFFFFF  <>
+  82 41 -0.469300 1.079300 -4.488900 900 21 1 FFFFFF  <>
+  83 41 -3.006600 1.619600 -4.435800 900 21 1 FFFFFF  <>
+  84 41 -4.087500 0.655600 -3.445500 900 21 1 FFFFFF  <>
+  85 41 -3.317000 -0.061100 -4.850000 900 21 1 FFFFFF  <>
+  86 41 -2.312300 -1.967400 -3.230300 900 21 1 FFFFFF  <>
+  87 41 -3.105700 -1.181100 -1.877900 900 21 1 FFFFFF  <>
+  88 41 -1.369800 -1.457600 -1.836900 900 21 1 FFFFFF  <>
+  89 41 -4.737800 -0.386800 4.399200 900 21 1 FFFFFF  <>
+  90 41 -3.252600 0.175500 5.142000 900 21 1 FFFFFF  <>
+  91 41 -6.838500 0.874100 4.645800 900 21 1 FFFFFF  <>
+  92 41 -3.186100 2.289000 6.419700 900 21 1 FFFFFF  <>
+  93 41 -8.123300 2.460000 6.039200 900 21 1 FFFFFF  <>
+  94 41 -4.479000 3.870800 7.808800 900 21 1 FFFFFF  <>
+  95 41 -6.941300 3.951700 7.615200 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[97] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 15 2
+  2 2 23 2
+  3 3 29 1
+  4 3 33 1
+  5 4 25 2
+  6 5 30 2
+  7 6 38 1
+  8 6 39 1
+  9 7 38 2
+  10 8 18 1
+  11 8 25 1
+  12 8 61 1
+  13 9 22 1
+  14 9 23 1
+  15 9 62 1
+  16 10 24 1
+  17 10 30 1
+  18 10 67 1
+  19 11 28 1
+  20 11 38 1
+  21 11 79 1
+  22 12 13 1
+  23 12 14 1
+  24 12 15 1
+  25 12 46 1
+  26 13 14 1
+  27 13 47 1
+  28 13 48 1
+  29 14 49 1
+  30 14 50 1
+  31 15 20 1
+  32 16 17 1
+  33 16 19 1
+  34 16 23 1
+  35 16 51 1
+  36 17 18 1
+  37 17 52 1
+  38 17 53 1
+  39 18 21 1
+  40 18 54 1
+  41 19 22 1
+  42 19 55 1
+  43 19 56 1
+  44 20 21 2
+  45 20 57 1
+  46 21 58 1
+  47 22 59 1
+  48 22 60 1
+  49 24 25 1
+  50 24 26 1
+  51 24 63 1
+  52 26 27 1
+  53 26 64 1
+  54 26 65 1
+  55 27 31 1
+  56 27 32 1
+  57 27 66 1
+  58 28 29 1
+  59 28 30 1
+  60 28 68 1
+  61 29 34 1
+  62 29 69 1
+  63 31 70 1
+  64 31 71 1
+  65 31 72 1
+  66 32 73 1
+  67 32 74 1
+  68 32 75 1
+  69 33 35 1
+  70 33 36 1
+  71 33 37 1
+  72 34 76 1
+  73 34 77 1
+  74 34 78 1
+  75 35 80 1
+  76 35 81 1
+  77 35 82 1
+  78 36 83 1
+  79 36 84 1
+  80 36 85 1
+  81 37 86 1
+  82 37 87 1
+  83 37 88 1
+  84 39 40 1
+  85 39 89 1
+  86 39 90 1
+  87 40 41 2
+  88 40 42 1
+  89 41 43 1
+  90 41 91 1
+  91 42 44 2
+  92 42 92 1
+  93 43 45 2
+  94 43 93 1
+  95 44 45 1
+  96 44 94 1
+  97 45 95 1
+  :::
+ } 
+} 
+

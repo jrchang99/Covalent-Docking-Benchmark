@@ -1,0 +1,11 @@
+minimization of solvent
+ &cntrl
+  imin = 1, maxcyc = 50000,   
+  ncyc = 25000, ntx = 1,                     
+  ntwe = 0, ntwr = 500, ntpr = 50,
+  ntc = 2, ntf = 2, ntb = 1, ntp = 0,
+  cut = 10.0,   
+  ntr=0, 
+  ioutfm=1, ntxo=2,
+ /
+

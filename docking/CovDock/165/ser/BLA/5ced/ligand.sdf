@@ -1,0 +1,239 @@
+Structure3
+                    3D
+ Schrodinger Suite 2021-3.
+ 40 42  0  0  1  0            999 V2000
+   -2.5984    1.5858    1.8181 C   0  0  1  0  0  0
+   -3.5689    2.1979    0.7618 C   0  0  0  0  0  0
+   -3.8498    1.5419   -0.2693 O   0  5  0  0  0  0
+   -4.0354    3.3292    1.0235 O   0  0  0  0  0  0
+   -3.1351    0.2992    2.5613 C   0  0  0  0  0  0
+   -2.7506    0.4010    4.0571 C   0  0  0  0  0  0
+   -4.6488   -0.0261    2.4840 C   0  0  0  0  0  0
+   -2.2138   -1.1075    1.8492 S   0  0  0  0  0  0
+   -1.2775    1.2030    1.2790 N   0  0  0  0  0  0
+   -0.7237   -0.1365    1.5545 C   0  0  2  0  0  0
+   -0.0662   -0.0928    0.1543 C   0  0  1  0  0  0
+   -0.6202    1.3573    0.0549 C   0  0  0  0  0  0
+    1.3970   -0.1653    0.1118 N   0  0  0  0  0  0
+   -0.4571   -0.8003   -0.5803 H   0  0  0  0  0  0
+   -0.4657    2.3089   -0.7088 O   0  0  0  0  0  0
+    2.1474   -0.1594   -1.0051 C   0  0  0  0  0  0
+    1.8649   -0.2005    1.0054 H   0  0  0  0  0  0
+    1.6739   -0.1095   -2.1413 O   0  0  0  0  0  0
+    3.6689   -0.2153   -0.8080 C   0  0  0  0  0  0
+    3.9206   -0.2851    0.2521 H   0  0  0  0  0  0
+    4.0392   -1.1303   -1.2729 H   0  0  0  0  0  0
+    5.5783    3.2433   -2.5225 C   0  0  0  0  0  0
+    5.0109    3.3263   -1.2528 C   0  0  0  0  0  0
+    4.3993    2.2061   -0.6965 C   0  0  0  0  0  0
+    4.3617    1.0033   -1.4094 C   0  0  0  0  0  0
+    4.9252    0.9305   -2.6873 C   0  0  0  0  0  0
+    5.5367    2.0515   -3.2429 C   0  0  0  0  0  0
+    6.0514    4.1130   -2.9544 H   0  0  0  0  0  0
+    5.0423    4.2561   -0.7042 H   0  0  0  0  0  0
+    3.9527    2.2731    0.2851 H   0  0  0  0  0  0
+    4.8870    0.0093   -3.2507 H   0  0  0  0  0  0
+    5.9736    1.9980   -4.2292 H   0  0  0  0  0  0
+   -2.3763    2.3582    2.5567 H   0  0  0  0  0  0
+   -3.2740    1.2260    4.5421 H   0  0  0  0  0  0
+   -1.6826    0.5741    4.1953 H   0  0  0  0  0  0
+   -3.0026   -0.5089    4.6035 H   0  0  0  0  0  0
+   -5.2509    0.8000    2.8640 H   0  0  0  0  0  0
+   -4.9002   -0.9095    3.0727 H   0  0  0  0  0  0
+   -4.9758   -0.2294    1.4643 H   0  0  0  0  0  0
+   -0.0665   -0.1841    2.4248 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1  9  1  0  0  0
+  1 33  1  0  0  0
+  2  3  1  0  0  0
+  2  4  2  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  5  8  1  0  0  0
+  6 34  1  0  0  0
+  6 35  1  0  0  0
+  6 36  1  0  0  0
+  7 37  1  0  0  0
+  7 38  1  0  0  0
+  7 39  1  0  0  0
+  8 10  1  0  0  0
+  9 10  1  0  0  0
+  9 12  1  0  0  0
+ 10 11  1  0  0  0
+ 10 40  1  0  0  0
+ 11 12  1  0  0  0
+ 11 13  1  0  0  0
+ 11 14  1  0  0  0
+ 12 15  2  0  0  0
+ 13 16  1  0  0  0
+ 13 17  1  0  0  0
+ 16 18  2  0  0  0
+ 16 19  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  1  0  0  0
+ 19 25  1  0  0  0
+ 22 23  2  0  0  0
+ 22 27  1  0  0  0
+ 22 28  1  0  0  0
+ 23 24  1  0  0  0
+ 23 29  1  0  0  0
+ 24 25  2  0  0  0
+ 24 30  1  0  0  0
+ 25 26  1  0  0  0
+ 26 27  2  0  0  0
+ 26 31  1  0  0  0
+ 27 32  1  0  0  0
+M  CHG  1   3  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+4
+
+> <s_m_entry_name>
+Structure3
+
+> <s_pdb_PDB_TITLE>
+PENICILLIN G ACYLATED BD3459 PREDATORY ENDOPEPTIDASE FROM BDELLOVIBRIO BACTERIOVORUS IN COMPLEX WITH IMMUNITY PROTEIN BD3460
+
+> <s_pdb_PDB_ID>
+5CED
+
+> <r_pdb_PDB_CRYST1_a>
+51.54
+
+> <r_pdb_PDB_CRYST1_b>
+59.16
+
+> <r_pdb_PDB_CRYST1_c>
+192.04
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+06-JUL-15
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.172
+
+> <r_pdb_PDB_Rfree>
+0.207
+
+> <r_pdb_PDB_RESOLUTION>
+2.02
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\ser\BLA\5ced
+
+> <s_m_Source_File>
+5ced.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5ced_ligprep_7.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W09IXUMoPU8pW0NASF0xQyhbQ0gzXSkoW0NIM10pU1tDQEhdKE4xMilbQ0BASF0oQzI9TylbTkhdQyg9TylbQ0gyXWMzW2NIXVtjSF1bY0hdW2NIXVtjSF0z
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+2.9273356920064e-05
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <s_epik_Chemistry_Notes>
+This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde.
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+32.88259
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure3-1
+
+> <s_m_job_name>
+5ced_ligprep_7
+
+> <s_m_subgroup_title>
+5ced_ligprep_7-out1
+
+> <s_m_subgroupid>
+5ced_ligprep_7-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

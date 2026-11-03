@@ -1,0 +1,227 @@
+Structure138
+                    3D
+ Schrodinger Suite 2021-3.
+ 32 33  0  0  1  0            999 V2000
+   -0.7566   -1.9413    1.0178 O   0  0  0  0  0  0
+   -1.0321   -0.8783    0.4556 C   0  0  0  0  0  0
+   -2.5091   -0.5525    0.1596 C   0  0  0  0  0  0
+   -0.0738    0.0148    0.0891 N   0  0  0  0  0  0
+   -0.3447    1.2396   -0.6732 C   0  0  0  0  0  0
+    1.3580   -0.2703    0.2726 C   0  0  0  0  0  0
+    1.9826   -0.8717   -0.9695 C   0  0  0  0  0  0
+    2.1631   -2.2091   -1.2802 C   0  0  0  0  0  0
+    2.7789   -2.2770   -2.5097 N   0  0  0  0  0  0
+    3.0262   -1.0412   -2.9788 N   0  0  0  0  0  0
+    2.5618   -0.2211   -2.0656 C   0  0  0  0  0  0
+    3.1592   -3.4352   -3.2383 C   0  0  0  0  0  0
+    2.5418   -4.6645   -2.9660 C   0  0  0  0  0  0
+    2.9080   -5.8050   -3.6757 C   0  0  0  0  0  0
+    3.8904   -5.7226   -4.6587 C   0  0  0  0  0  0
+    4.5108   -4.5086   -4.9407 C   0  0  0  0  0  0
+    4.1476   -3.3659   -4.2331 C   0  0  0  0  0  0
+   -2.7982    0.3681    0.6672 H   0  0  0  0  0  0
+   -3.6551   -1.8208    0.6854 Cl  0  0  0  0  0  0
+   -2.6565   -0.4165   -0.9121 H   0  0  0  0  0  0
+   -1.3999    1.5033   -0.7303 H   0  0  0  0  0  0
+    0.0272    1.1394   -1.6930 H   0  0  0  0  0  0
+    0.1699    2.0834   -0.2124 H   0  0  0  0  0  0
+    1.8673    0.6478    0.5685 H   0  0  0  0  0  0
+    1.5015   -0.9448    1.1186 H   0  0  0  0  0  0
+    1.9017   -3.1019   -0.7321 H   0  0  0  0  0  0
+    2.6345    0.8492   -2.1906 H   0  0  0  0  0  0
+    1.7711   -4.7508   -2.2145 H   0  0  0  0  0  0
+    2.4295   -6.7504   -3.4659 H   0  0  0  0  0  0
+    4.1731   -6.6082   -5.2084 H   0  0  0  0  0  0
+    5.2716   -4.4535   -5.7053 H   0  0  0  0  0  0
+    4.6429   -2.4337   -4.4644 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  3 18  1  0  0  0
+  3 19  1  0  0  0
+  3 20  1  0  0  0
+  4  5  1  0  0  0
+  4  6  1  0  0  0
+  5 21  1  0  0  0
+  5 22  1  0  0  0
+  5 23  1  0  0  0
+  6  7  1  0  0  0
+  6 24  1  0  0  0
+  6 25  1  0  0  0
+  7  8  2  0  0  0
+  7 11  1  0  0  0
+  8  9  1  0  0  0
+  8 26  1  0  0  0
+  9 10  1  0  0  0
+  9 12  1  0  0  0
+ 10 11  2  0  0  0
+ 11 27  1  0  0  0
+ 12 13  1  0  0  0
+ 12 17  2  0  0  0
+ 13 14  2  0  0  0
+ 13 28  1  0  0  0
+ 14 15  1  0  0  0
+ 14 29  1  0  0  0
+ 15 16  2  0  0  0
+ 15 30  1  0  0  0
+ 16 17  1  0  0  0
+ 16 31  1  0  0  0
+ 17 32  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+141
+
+> <s_m_entry_name>
+Structure138
+
+> <s_pdb_PDB_TITLE>
+GLUTATHIONE S-TRANSFERASE OMEGA 1 BOUND TO COVALENT INHIBITOR C4-10
+
+> <s_pdb_PDB_ID>
+4YQV
+
+> <r_pdb_PDB_CRYST1_a>
+186.32
+
+> <r_pdb_PDB_CRYST1_b>
+71.373
+
+> <r_pdb_PDB_CRYST1_c>
+61.968
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+105.16
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+12
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE/TRANSFERASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+13-MAR-15
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.195
+
+> <r_pdb_PDB_Rfree>
+0.22
+
+> <r_pdb_PDB_RESOLUTION>
+2.06
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\NS\4yqv
+
+> <s_m_Source_File>
+4yqv.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4yqv_ligprep_27.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Q2xbQ0gyXUMoPU8pTihbQ0gzXSlbQ0gyXWMxW2NIXW4obltjSF0xKS1jMltjSF1bY0hdW2NIXVtjSF1bY0hdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+22.382986
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure138-1
+
+> <s_m_job_name>
+4yqv_ligprep_27
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B, C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_2>
+-1.000000 0.000000 0.000000   -16.205590;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   59.811470
+
+> <s_m_subgroup_title>
+4yqv_ligprep_27-out1
+
+> <s_m_subgroupid>
+4yqv_ligprep_27-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

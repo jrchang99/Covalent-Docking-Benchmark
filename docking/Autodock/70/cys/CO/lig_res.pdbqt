@@ -1,0 +1,119 @@
+BEGIN_RES CYS A  25
+REMARK  17 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: NX   and  CX  
+REMARK    2  A    between atoms: CX   and  CX  
+REMARK    3  A    between atoms: CX   and  OX  
+REMARK    4  A    between atoms: OX   and  CX  
+REMARK    5  A    between atoms: CX   and  CX  
+REMARK       I    between atoms: CX   and  NX  
+REMARK    6  A    between atoms: NX   and  CX  
+REMARK    7  A    between atoms: CX   and  CX  
+REMARK    8  A    between atoms: CX   and  CX  
+REMARK    9  A    between atoms: CX   and  CX  
+REMARK       I    between atoms: CX   and  NX  
+REMARK   10  A    between atoms: NX   and  CX  
+REMARK       I    between atoms: NX   and  CX  
+REMARK   11  A    between atoms: CX   and  CX  
+REMARK   12  A    between atoms: CX   and  CX  
+REMARK   13  A    between atoms: CX   and  CX  
+REMARK   14  A    between atoms: CX   and  SG  
+REMARK   15  A    between atoms: CX   and  OX  
+REMARK   16  A    between atoms: CA   and  CB  
+REMARK   17  A    between atoms: CB   and  SG  
+ROOT
+HETATM    1  CA  CYS A  25     -25.760  -2.873  29.083  1.00  0.00     0.216 C 
+ENDROOT
+BRANCH   1   2
+HETATM    2  CB  CYS A  25     -24.409  -3.585  29.005  1.00  0.00     0.112 C 
+BRANCH   2   3
+HETATM    3  SG  CYS A  25     -23.707  -3.949  30.619  1.00  0.00    -0.126 SA
+BRANCH   3   4
+HETATM    4  CX  CYS A  25     -24.112  -4.452  32.278  1.00  0.00     0.142 C 
+HETATM    5  CX  CYS A  25     -22.780  -4.571  33.065  1.00  0.00     0.131 C 
+HETATM    6  CX  CYS A  25     -22.998  -4.570  34.598  1.00  0.00     0.030 C 
+HETATM    7  CX  CYS A  25     -23.575  -5.870  35.194  1.00  0.00     0.022 C 
+HETATM    8  CX  CYS A  25     -24.914  -6.326  34.579  1.00  0.00     0.126 C 
+HETATM    9  NX  CYS A  25     -24.835  -6.755  33.170  1.00  0.00    -0.348 N 
+HETATM   10  CX  CYS A  25     -24.188  -7.900  32.805  1.00  0.00     0.224 C 
+HETATM   11  CX  CYS A  25     -25.037  -5.682  32.173  1.00  0.00     0.177 C 
+HETATM   12  OX  CYS A  25     -23.658  -8.032  31.698  1.00  0.00    -0.273 OA
+BRANCH   5  13
+HETATM   13  NX  CYS A  25     -21.891  -3.473  32.666  1.00  0.00    -0.351 N 
+HETATM   14  CX  CYS A  25     -21.807  -2.273  33.266  1.00  0.00     0.240 C 
+HETATM   15  OX  CYS A  25     -22.490  -1.931  34.233  1.00  0.00    -0.271 OA
+HETATM   16  H   CYS A  25     -21.303  -3.630  31.892  1.00  0.00     0.163 HD
+BRANCH  14  17
+HETATM   17  CX  CYS A  25     -20.736  -1.316  32.695  1.00  0.00     0.177 C 
+BRANCH  17  18
+HETATM   18  NX  CYS A  25     -19.373  -1.845  32.841  1.00  0.00    -0.342 N 
+HETATM   19  CX  CYS A  25     -18.785  -2.736  32.020  1.00  0.00     0.276 C 
+HETATM   20  OX  CYS A  25     -19.329  -3.229  31.030  1.00  0.00    -0.265 OA
+HETATM   21  H   CYS A  25     -18.844  -1.519  33.604  1.00  0.00     0.163 HD
+BRANCH  19  22
+HETATM   22  CX  CYS A  25     -17.444  -3.107  32.396  1.00  0.00     0.144 A 
+HETATM   23  OX  CYS A  25     -16.951  -2.713  33.612  1.00  0.00    -0.304 OA
+HETATM   24  CX  CYS A  25     -15.685  -3.216  33.700  1.00  0.00     0.086 A 
+HETATM   25  CX  CYS A  25     -15.343  -3.940  32.537  1.00  0.00     0.003 A 
+HETATM   26  CX  CYS A  25     -14.813  -3.061  34.780  1.00  0.00     0.041 A 
+HETATM   27  CX  CYS A  25     -14.075  -4.536  32.462  1.00  0.00     0.051 A 
+HETATM   28  CX  CYS A  25     -16.496  -3.851  31.697  1.00  0.00     0.057 A 
+HETATM   29  CX  CYS A  25     -13.187  -4.406  33.536  1.00  0.00     0.069 A 
+HETATM   30  CX  CYS A  25     -13.561  -3.669  34.675  1.00  0.00     0.039 A 
+BRANCH  29  31
+HETATM   31  OX  CYS A  25     -11.964  -5.035  33.390  1.00  0.00    -0.349 OA
+BRANCH  31  32
+HETATM   32  CX  CYS A  25     -11.410  -5.202  32.087  1.00  0.00     0.203 C 
+BRANCH  32  33
+HETATM   33  CX  CYS A  25     -10.493  -4.001  31.789  1.00  0.00     0.261 C 
+BRANCH  33  34
+HETATM   34  NX  CYS A  25     -11.076  -2.710  32.176  1.00  0.00    -0.065 N 
+HETATM   35  CX  CYS A  25     -11.348  -1.898  30.982  1.00  0.00     0.261 C 
+HETATM   36  CX  CYS A  25     -11.904  -0.506  31.350  1.00  0.00     0.195 C 
+HETATM   37  OX  CYS A  25     -11.019   0.147  32.253  1.00  0.00    -0.388 OA
+HETATM   38  CX  CYS A  25     -10.846  -0.583  33.462  1.00  0.00     0.195 C 
+HETATM   39  CX  CYS A  25     -10.263  -1.981  33.162  1.00  0.00     0.261 C 
+HETATM   40  H   CYS A  25     -11.959  -2.906  32.646  1.00  0.00     0.280 HD
+ENDBRANCH  33  34
+ENDBRANCH  32  33
+ENDBRANCH  31  32
+ENDBRANCH  29  31
+ENDBRANCH  19  22
+ENDBRANCH  17  18
+BRANCH  17  41
+HETATM   41  CX  CYS A  25     -21.018  -1.015  31.198  1.00  0.00     0.038 C 
+BRANCH  41  42
+HETATM   42  CX  CYS A  25     -20.360   0.275  30.648  1.00  0.00    -0.020 C 
+HETATM   43  CX  CYS A  25     -19.625   1.042  31.769  1.00  0.00     0.009 C 
+HETATM   44  CX  CYS A  25     -19.449  -0.003  29.433  1.00  0.00     0.009 C 
+ENDBRANCH  41  42
+ENDBRANCH  17  41
+ENDBRANCH  14  17
+ENDBRANCH   5  13
+BRANCH  10  45
+HETATM   45  CX  CYS A  25     -24.125  -9.075  33.810  1.00  0.00     0.141 C 
+BRANCH  45  46
+HETATM   46  CX  CYS A  25     -23.152  -8.838  34.963  1.00  0.00    -0.049 A 
+HETATM   47  CX  CYS A  25     -23.435  -9.327  36.240  1.00  0.00     0.007 A 
+HETATM   48  CX  CYS A  25     -22.560  -9.074  37.293  1.00  0.00     0.001 A 
+HETATM   49  CX  CYS A  25     -21.403  -8.328  37.076  1.00  0.00     0.014 A 
+HETATM   50  CX  CYS A  25     -21.093  -7.818  35.804  1.00  0.00    -0.007 A 
+HETATM   51  CX  CYS A  25     -21.991  -8.082  34.758  1.00  0.00     0.021 A 
+BRANCH  50  52
+HETATM   52  CX  CYS A  25     -19.852  -7.012  35.565  1.00  0.00     0.066 A 
+HETATM   53  NX  CYS A  25     -20.000  -5.860  34.849  1.00  0.00    -0.260 NA
+HETATM   54  CX  CYS A  25     -18.906  -5.092  34.610  1.00  0.00     0.117 A 
+HETATM   55  CX  CYS A  25     -17.634  -5.425  35.072  1.00  0.00     0.019 A 
+HETATM   56  CX  CYS A  25     -17.484  -6.596  35.813  1.00  0.00     0.004 A 
+HETATM   57  CX  CYS A  25     -18.598  -7.398  36.066  1.00  0.00     0.032 A 
+ENDBRANCH  50  52
+ENDBRANCH  45  46
+ENDBRANCH  10  45
+BRANCH   4  58
+HETATM   58  OX  CYS A  25     -24.870  -3.398  32.879  1.00  0.00    -0.375 OA
+HETATM   59  H   CYS A  25     -24.302  -2.894  33.482  1.00  0.00     0.211 HD
+ENDBRANCH   4  58
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+ENDBRANCH   1   2
+END_RES CYS A  25

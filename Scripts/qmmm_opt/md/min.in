@@ -1,0 +1,12 @@
+# min_rs.in
+&cntrl
+  imin = 1,
+  maxcyc = 5000,
+  ncyc = 2500,
+  ntx = 1,
+  ntb = 1,
+  cut = 10.0,
+  ntr = 1,
+  restraintmask = ':1-215&@CA',
+  restraint_wt = 1.0,
+/

@@ -1,0 +1,199 @@
+Structure110
+                    3D
+ Schrodinger Suite 2021-3.
+ 24 24  0  0  1  0            999 V2000
+    1.4121    3.5459    0.1341 O   0  5  0  0  0  0
+   -0.3121    5.0296    1.3196 O   0  5  0  0  0  0
+    0.7982    3.0940    2.5826 O   0  0  0  0  0  0
+    0.3227    3.6298    1.2190 P   0  0  0  0  0  0
+   -0.9687    2.5589    0.7148 O   0  0  0  0  0  0
+   -0.5505    1.6919   -1.7351 O   0  5  0  0  0  0
+   -2.7375    0.9924   -0.4013 O   0  0  0  0  0  0
+   -1.2632    1.3322   -0.4485 P   0  0  0  0  0  0
+   -0.4131    0.0392    0.3244 O   0  0  0  0  0  0
+    0.9976    0.1395    0.4354 C   0  0  0  0  0  0
+    1.6311   -1.2521    0.2760 C   0  0  0  0  0  0
+    1.8365   -1.2127   -2.3259 C   0  0  0  0  0  0
+    1.3312   -1.9444   -1.0709 C   0  0  1  0  0  0
+    1.2824   -3.4384   -1.1039 C   0  0  0  0  0  0
+    0.1212   -2.6440   -1.1838 O   0  0  0  0  0  0
+    1.5518   -3.9829   -2.0093 H   0  0  0  0  0  0
+    1.4015   -4.0180   -0.1882 H   0  0  0  0  0  0
+    1.4236    0.8208   -0.3012 H   0  0  0  0  0  0
+    1.2402    0.5503    1.4156 H   0  0  0  0  0  0
+    2.7107   -1.1766    0.4091 H   0  0  0  0  0  0
+    1.2788   -1.8785    1.0966 H   0  0  0  0  0  0
+    2.9139   -1.0541   -2.2796 H   0  0  0  0  0  0
+    1.3597   -0.2388   -2.4337 H   0  0  0  0  0  0
+    1.6229   -1.7757   -3.2351 H   0  0  0  0  0  0
+  1  4  1  0  0  0
+  2  4  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  5  8  1  0  0  0
+  6  8  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 10 18  1  0  0  0
+ 10 19  1  0  0  0
+ 11 13  1  0  0  0
+ 11 20  1  0  0  0
+ 11 21  1  0  0  0
+ 12 13  1  0  0  0
+ 12 22  1  0  0  0
+ 12 23  1  0  0  0
+ 12 24  1  0  0  0
+ 13 14  1  0  0  0
+ 13 15  1  0  0  0
+ 14 15  1  0  0  0
+ 14 16  1  0  0  0
+ 14 17  1  0  0  0
+M  CHG  3   1  -1   2  -1   6  -1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+111
+
+> <s_m_entry_name>
+Structure110
+
+> <s_pdb_PDB_TITLE>
+STRUCTURE AND MECHANISM OF ACTION OF ISOPENTENYLPYROPHOSPHATE- DIMETHYLALLYLPYROPHOSPHATE ISOMERASE: COMPLEX WITH EIPP
+
+> <s_pdb_PDB_ID>
+1NFZ
+
+> <r_pdb_PDB_CRYST1_a>
+69.1
+
+> <r_pdb_PDB_CRYST1_b>
+72.11
+
+> <r_pdb_PDB_CRYST1_c>
+91.52
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+ISOMERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+16-DEC-02
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.181
+
+> <r_pdb_PDB_Rfree>
+0.237
+
+> <r_pdb_PDB_RESOLUTION>
+1.97
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+5.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\OP\1nfz
+
+> <s_m_Source_File>
+1nfz.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+1nfz_ligprep_21.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W09IXVAoPU8pKFtPSF0pT1tQQEBdKD1PKShbT0hdKU9bQ0gyXVtDSDJdW0NAQF0xKFtDSDNdKVtDSDJdTzE=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.0869
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0869
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0760
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.162905453503963
+
+> <i_epik_Tot_Q>
+-3
+
+> <i_epik_Tot_abs_Q>
+3
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+1.514708
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure110-1
+
+> <s_m_job_name>
+1nfz_ligprep_21
+
+> <s_m_subgroup_title>
+1nfz_ligprep_21-out1
+
+> <s_m_subgroupid>
+1nfz_ligprep_21-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

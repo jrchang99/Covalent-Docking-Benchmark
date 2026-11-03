@@ -1,0 +1,125 @@
+HEADER    HYDROLASE                               30-NOV-05   2F7D
+TITLE     A MUTANT RABBIT CATHEPSIN K WITH A NITRILE INHIBITOR
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    1.90 ANGSTROMS
+REMARK   3  R VALUE : 0.174000
+REMARK   3  FREE R VALUE : 0.205000
+REMARK   4 2F7D COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 298.00
+REMARK 200  PH                             : 3.90
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   38.125   51.150  104.245  90.00  90.00  90.00 P 21 21 21    4
+HETATM    1  C2  NOQ A 600      -4.320  24.072   6.594  1.00 21.89           C  
+HETATM    2  C3  NOQ A 600      -4.256  25.314   7.247  1.00 22.50           C  
+HETATM    3  C4  NOQ A 600      -3.379  26.308   6.775  1.00 23.18           C  
+HETATM    4  C5  NOQ A 600      -2.579  26.064   5.675  1.00 21.99           C  
+HETATM    5  C6  NOQ A 600      -3.518  23.824   5.491  1.00 22.11           C  
+HETATM    6  C7  NOQ A 600      -2.649  24.821   5.029  1.00 22.21           C  
+HETATM    7  O1  NOQ A 600      -5.091  25.579   8.218  1.00 24.61           O  
+HETATM    8  C11 NOQ A 600       1.634  19.607   5.867  1.00 16.80           C  
+HETATM    9  N10 NOQ A 600       1.819  20.948   5.313  1.00 17.27           N  
+HETATM   10  C18 NOQ A 600       1.370  22.063   5.883  1.00 18.35           C  
+HETATM   11  O19 NOQ A 600       0.583  22.063   6.826  1.00 16.95           O  
+HETATM   12  C12 NOQ A 600       1.915  23.396   5.262  1.00 18.98           C  
+HETATM   13  C16 NOQ A 600       2.843  24.086   6.293  1.00 20.24           C  
+HETATM   14  C17 NOQ A 600       3.340  25.416   5.786  1.00 22.10           C  
+HETATM   15  C15 NOQ A 600       2.210  26.343   5.398  1.00 21.45           C  
+HETATM   16  C14 NOQ A 600       1.240  25.687   4.449  1.00 20.06           C  
+HETATM   17  C13 NOQ A 600       0.708  24.319   4.963  1.00 20.38           C  
+HETATM   18  C30 NOQ A 600      -0.189  23.707   3.860  1.00 22.81           C  
+HETATM   19  S8  NOQ A 600      -1.758  24.571   3.536  1.00 24.60           S  
+HETATM   20  O9  NOQ A 600      -2.614  23.675   2.550  1.00 26.06           O  
+HETATM   21  O41 NOQ A 600      -1.449  25.975   2.866  1.00 25.59           O  
+HETATM   22  C44 NOQ A 600      -5.197  26.692   8.901  1.00 25.57           C  
+HETATM   23  C20 NOQ A 600       2.830  19.140   6.654  1.00 16.10           C  
+HETATM   24  N21 NOQ A 600       3.060  17.893   6.772  1.00 16.40           N  
+HETATM   25  HC2 NOQ A 600      -4.995  23.308   6.951  1.00  0.00           H  
+HETATM   26  HC4 NOQ A 600      -3.330  27.265   7.273  1.00  0.00           H  
+HETATM   27  HC5 NOQ A 600      -1.905  26.828   5.317  1.00  0.00           H  
+HETATM   28  HC6 NOQ A 600      -3.565  22.867   4.993  1.00  0.00           H  
+HETATM   29 H111 NOQ A 600       1.436  18.905   5.057  1.00  0.00           H  
+HETATM   30 H112 NOQ A 600       0.752  19.598   6.508  1.00  0.00           H  
+HETATM   31 HN10 NOQ A 600       2.325  20.995   4.440  1.00  0.00           H  
+HETATM   32 HC12 NOQ A 600       2.464  23.186   4.344  1.00  0.00           H  
+HETATM   33 H161 NOQ A 600       3.693  23.438   6.506  1.00  0.00           H  
+HETATM   34 H162 NOQ A 600       2.301  24.233   7.227  1.00  0.00           H  
+HETATM   35 H171 NOQ A 600       3.989  25.256   4.925  1.00  0.00           H  
+HETATM   36 H172 NOQ A 600       3.951  25.891   6.553  1.00  0.00           H  
+HETATM   37 H151 NOQ A 600       2.620  27.240   4.934  1.00  0.00           H  
+HETATM   38 H152 NOQ A 600       1.679  26.663   6.295  1.00  0.00           H  
+HETATM   39 H141 NOQ A 600       1.720  25.548   3.480  1.00  0.00           H  
+HETATM   40 H142 NOQ A 600       0.400  26.358   4.269  1.00  0.00           H  
+HETATM   41 HC13 NOQ A 600       0.125  24.468   5.872  1.00  0.00           H  
+HETATM   42 H301 NOQ A 600      -0.396  22.665   4.102  1.00  0.00           H  
+HETATM   43 H302 NOQ A 600       0.380  23.635   2.933  1.00  0.00           H  
+HETATM   44 H441 NOQ A 600      -5.991  26.591   9.641  1.00  0.00           H  
+HETATM   45 H442 NOQ A 600      -4.254  26.900   9.407  1.00  0.00           H  
+HETATM   46 H443 NOQ A 600      -5.434  27.513   8.224  1.00  0.00           H  
+CONECT    1    2    5   25
+CONECT    1    2
+CONECT    2    1    3    7
+CONECT    2    1
+CONECT    3    2    4   26
+CONECT    3    4
+CONECT    4    3    6   27
+CONECT    4    3
+CONECT    5    1    6   28
+CONECT    5    6
+CONECT    6    4    5   19
+CONECT    6    5
+CONECT    7    2   22
+CONECT    8    9   23   29   30
+CONECT    9    8   10   31
+CONECT   10    9   11   12
+CONECT   10   11
+CONECT   11   10
+CONECT   11   10
+CONECT   12   10   13   17   32
+CONECT   13   12   14   33   34
+CONECT   14   13   15   35   36
+CONECT   15   14   16   37   38
+CONECT   16   15   17   39   40
+CONECT   17   12   16   18   41
+CONECT   18   17   19   42   43
+CONECT   19    6   18   20   21
+CONECT   19   20   21
+CONECT   20   19
+CONECT   20   19
+CONECT   21   19
+CONECT   21   19
+CONECT   22    7   44   45   46
+CONECT   23    8   24
+CONECT   23   24
+CONECT   23   24
+CONECT   24   23
+CONECT   24   23
+CONECT   24   23
+CONECT   25    1
+CONECT   26    3
+CONECT   27    4
+CONECT   28    5
+CONECT   29    8
+CONECT   30    8
+CONECT   31    9
+CONECT   32   12
+CONECT   33   13
+CONECT   34   13
+CONECT   35   14
+CONECT   36   14
+CONECT   37   15
+CONECT   38   15
+CONECT   39   16
+CONECT   40   16
+CONECT   41   17
+CONECT   42   18
+CONECT   43   18
+CONECT   44   22
+CONECT   45   22
+CONECT   46   22
+END   

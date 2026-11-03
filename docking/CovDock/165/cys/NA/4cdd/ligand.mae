@@ -1,0 +1,255 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ i_sd_i\_f3d\_flags
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure30 
+  0
+  4_S_1_7_5_33 
+  10_S_9_11_12_39 
+  0
+  264 
+  ligand.1 
+  "HUMAN DPP1 IN COMPLEX WITH (2S)-N-((1S)-1-CYANO-2-(4-(4-CYANOPHENYL) PHENYL)ETHYL)PIPERIDINE-2-CARBOXAMIDE" 
+  4CDD 
+  84.291
+  84.291
+  221.114
+  90
+  90
+  120
+  "P 31 2 1" 
+  12
+  HYDROLASE 
+  31-OCT-13 
+  3.30 
+  0.187
+  0.223
+  2.35
+  "X-RAY DIFFRACTION" 
+  100
+  "D, E, F" 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "A, B, C, G" 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\244Set\Autodock\cys\NA\4cdd 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  W0NIMl0xW0NIMl1bQ0gyXVtDSDJdW05IXVtDQEBIXTFDKD1PKVtOSF1bQ0BIXShDI04pW0NIMl1jMltjSF1bY0hdYyhbY0hdW2NIXTIpLWMzW2NIXVtjSF1jKEMjTilbY0hdW2NIXTM= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.2215 
+    0.2215 
+    0.0001 
+    0.2118 
+  0.43328525531029
+  1
+  1
+  S-OPLS 
+  39.305041
+  1
+  Structure30-1 
+  4cdd_ligprep_10 
+  0
+  4cdd_ligprep_10-out1 
+  4cdd_ligprep_10-out1 
+  0
+  2
+ m_depend[7] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  :::
+ } 
+ m_atom[49] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  i_m_formal_charge
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 33 -3.765700 3.508500 -0.871900 900 43 7 1 5757FF  <>
+  2 3 -3.830400 5.656800 0.448000 900 2 6 0 A0A0A0  <>
+  3 3 -4.173700 4.994200 -0.901600 900 2 6 0 A0A0A0  <>
+  4 3 -2.263700 3.316600 -0.543400 900 2 6 0 A0A0A0  1
+  5 3 -1.946400 3.990800 0.817800 900 2 6 0 A0A0A0  <>
+  6 3 -2.349800 5.477400 0.834900 900 2 6 0 A0A0A0  <>
+  7 2 -2.003400 1.788600 -0.488200 900 2 6 0 A0A0A0  <>
+  8 15 -2.914300 0.956100 -0.447900 900 70 8 0 FF2F2F  <>
+  9 25 -0.705400 1.434000 -0.485800 900 43 7 0 5757FF  <>
+  10 3 -0.177400 0.065200 -0.444000 900 2 6 0 A0A0A0  1
+  11 1 -0.769100 -0.738600 0.644200 900 2 6 0 A0A0A0  <>
+  12 3 1.363600 0.047200 -0.365400 900 2 6 0 A0A0A0  <>
+  13 2 2.044800 0.733900 -1.543100 900 2 6 0 A0A0A0  <>
+  14 2 2.519800 2.039800 -1.415700 900 2 6 0 A0A0A0  <>
+  15 2 3.133600 2.664200 -2.497900 900 2 6 0 A0A0A0  <>
+  16 2 3.282300 1.995700 -3.719700 900 2 6 0 A0A0A0  <>
+  17 2 2.800400 0.685500 -3.834300 900 2 6 0 A0A0A0  <>
+  18 2 2.185300 0.057300 -2.754800 900 2 6 0 A0A0A0  <>
+  19 2 3.941500 2.666800 -4.876700 900 2 6 0 A0A0A0  <>
+  20 2 3.424200 2.528500 -6.171300 900 2 6 0 A0A0A0  <>
+  21 2 5.089600 3.447300 -4.688800 900 2 6 0 A0A0A0  <>
+  22 2 4.037100 3.154900 -7.253400 900 2 6 0 A0A0A0  <>
+  23 2 5.707000 4.076500 -5.766600 900 2 6 0 A0A0A0  <>
+  24 2 5.179100 3.930000 -7.049800 900 2 6 0 A0A0A0  <>
+  25 1 5.820900 4.588000 -8.178300 900 2 6 0 A0A0A0  <>
+  26 24 6.331100 5.111300 -9.075400 900 43 7 0 5757FF  <>
+  27 24 -1.232000 -1.368500 1.497600 900 43 7 0 5757FF  <>
+  28 44 -4.319700 3.019900 -0.182200 900 21 1 0 FFFFFF  <>
+  29 41 -4.069300 6.720100 0.401200 900 21 1 0 FFFFFF  <>
+  30 41 -4.467900 5.240400 1.229700 900 21 1 0 FFFFFF  <>
+  31 41 -3.633200 5.439600 -1.738000 900 21 1 0 FFFFFF  <>
+  32 41 -5.242700 5.009200 -1.115400 900 21 1 0 FFFFFF  <>
+  33 41 -1.709300 3.736000 -1.385300 900 21 1 0 FFFFFF  <>
+  34 41 -2.478000 3.482200 1.625600 900 21 1 0 FFFFFF  <>
+  35 41 -0.883900 3.899800 1.049700 900 21 1 0 FFFFFF  <>
+  36 41 -1.719200 6.036100 0.141600 900 21 1 0 FFFFFF  <>
+  37 41 -2.168000 5.902800 1.822900 900 21 1 0 FFFFFF  <>
+  38 43 -0.020400 2.156000 -0.656600 900 21 1 0 FFFFFF  <>
+  39 41 -0.476000 -0.426300 -1.372000 900 21 1 0 FFFFFF  <>
+  40 41 1.696400 0.508400 0.566500 900 21 1 0 FFFFFF  <>
+  41 41 1.720800 -0.982800 -0.310800 900 21 1 0 FFFFFF  <>
+  42 41 2.413200 2.573600 -0.482400 900 21 1 0 FFFFFF  <>
+  43 41 3.490300 3.677600 -2.382800 900 21 1 0 FFFFFF  <>
+  44 41 2.906200 0.143000 -4.762700 900 21 1 0 FFFFFF  <>
+  45 41 1.819500 -0.953700 -2.862400 900 21 1 0 FFFFFF  <>
+  46 41 2.537000 1.937000 -6.345200 900 21 1 0 FFFFFF  <>
+  47 41 5.515000 3.566000 -3.702700 900 21 1 0 FFFFFF  <>
+  48 41 3.616900 3.032800 -8.242100 900 21 1 0 FFFFFF  <>
+  49 41 6.592500 4.672400 -5.593900 900 21 1 0 FFFFFF  <>
+  :::
+ } 
+ m_bond[51] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 3 1
+  2 1 4 1
+  3 1 28 1
+  4 2 3 1
+  5 2 6 1
+  6 2 29 1
+  7 2 30 1
+  8 3 31 1
+  9 3 32 1
+  10 4 5 1
+  11 4 7 1
+  12 4 33 1
+  13 5 6 1
+  14 5 34 1
+  15 5 35 1
+  16 6 36 1
+  17 6 37 1
+  18 7 8 2
+  19 7 9 1
+  20 9 10 1
+  21 9 38 1
+  22 10 11 1
+  23 10 12 1
+  24 10 39 1
+  25 11 27 3
+  26 12 13 1
+  27 12 40 1
+  28 12 41 1
+  29 13 14 1
+  30 13 18 2
+  31 14 15 2
+  32 14 42 1
+  33 15 16 1
+  34 15 43 1
+  35 16 17 2
+  36 16 19 1
+  37 17 18 1
+  38 17 44 1
+  39 18 45 1
+  40 19 20 1
+  41 19 21 2
+  42 20 22 2
+  43 20 46 1
+  44 21 23 1
+  45 21 47 1
+  46 22 24 1
+  47 22 48 1
+  48 23 24 2
+  49 23 49 1
+  50 24 25 1
+  51 25 26 3
+  :::
+ } 
+} 
+

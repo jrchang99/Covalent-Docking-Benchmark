@@ -1,0 +1,117 @@
+HEADER                                                        structur
+REMARK  99                                                                      
+REMARK  99 MOE v2024.06 (Chemical Computing Group ULC) Mon Jun 09 16:25:54 2025 
+REMARK  99                                                                      
+HETATM    1  CA  CYS A 163      34.705  32.513  35.657  1.00  0.00           C  
+HETATM    2  CB  CYS A 163      35.245  33.806  35.030  1.00  0.00           C  
+HETATM    3  SG  CYS A 163      36.240  33.568  33.537  1.00  0.00           S  
+HETATM    4  CX  CYS A 163      35.312  34.099  32.114  1.00  0.00           C  
+HETATM    5  CX  CYS A 163      34.854  35.568  32.359  1.00  0.00           C  
+HETATM    6  CX  CYS A 163      34.143  36.192  31.182  1.00  0.00           C  
+HETATM    7  OX  CYS A 163      34.537  36.039  30.024  1.00  0.00           O  
+HETATM    8  OX  CYS A 163      33.058  36.916  31.537  1.00  0.00           O  
+HETATM    9  CX  CYS A 163      32.956  37.263  32.938  1.00  0.00           C  
+HETATM   10  CX  CYS A 163      32.612  38.764  33.030  1.00  0.00           C  
+HETATM   11  CX  CYS A 163      34.206  33.071  31.859  1.00  0.00           C  
+HETATM   12  OX  CYS A 163      33.080  33.512  31.633  1.00  0.00           O  
+HETATM   13  NX  CYS A 163      34.458  31.716  31.891  1.00  0.00           N  
+HETATM   14  CX  CYS A 163      33.341  30.772  31.667  1.00  0.00           C  
+HETATM   15  CX  CYS A 163      32.858  30.663  30.239  1.00  0.00           C  
+HETATM   16  OX  CYS A 163      32.829  29.530  29.699  1.00  0.00           O  
+HETATM   17  OX  CYS A 163      32.548  31.733  29.637  1.00  0.00           O1-
+HETATM   18  NX  CYS A 163      35.791  31.180  32.153  1.00  0.00           N  
+HETATM   19  CX  CYS A 163      36.343  30.158  32.747  1.00  0.00           C  
+HETATM   20  OX  CYS A 163      35.676  29.611  33.626  1.00  0.00           O  
+HETATM   21  CX  CYS A 163      37.824  29.856  32.585  1.00  0.00           C  
+HETATM   22  CX  CYS A 163      38.604  30.696  33.621  1.00  0.00           C  
+HETATM   23  CX  CYS A 163      37.763  30.883  34.873  1.00  0.00           C  
+HETATM   24  CX  CYS A 163      38.987  32.038  33.022  1.00  0.00           C  
+HETATM   25  NX  CYS A 163      38.299  30.101  31.224  1.00  0.00           N  
+HETATM   26  CX  CYS A 163      39.468  29.617  30.811  1.00  0.00           C  
+HETATM   27  OX  CYS A 163      40.209  28.958  31.541  1.00  0.00           O  
+HETATM   28  CX  CYS A 163      39.886  29.924  29.376  1.00  0.00           C  
+HETATM   29  CX  CYS A 163      41.408  29.801  29.225  1.00  0.00           C  
+HETATM   30  CX  CYS A 163      41.865  29.280  27.865  1.00  0.00           C  
+HETATM   31  CX  CYS A 163      41.130  28.018  27.431  1.00  0.00           C  
+HETATM   32  OX  CYS A 163      41.711  26.920  27.557  1.00  0.00           O  
+HETATM   33  OX  CYS A 163      39.972  28.116  26.974  1.00  0.00           O1-
+HETATM   34  NX  CYS A 163      39.450  31.294  29.148  1.00  0.00           N  
+HETATM   35  CX  CYS A 163      39.538  31.891  27.965  1.00  0.00           C  
+HETATM   36  OX  CYS A 163      40.038  31.359  26.972  1.00  0.00           O  
+HETATM   37  CX  CYS A 163      38.991  33.311  27.909  1.00  0.00           C  
+HETATM   38  NX  CYS A 163      37.594  33.410  28.310  1.00  0.00           N  
+HETATM   39  CX  CYS A 163      37.149  32.939  29.467  1.00  0.00           C  
+HETATM   40  OX  CYS A 163      37.774  32.801  30.512  1.00  0.00           O  
+HETATM   41  OX  CYS A 163      35.834  33.305  29.344  1.00  0.00           O  
+HETATM   42  CX  CYS A 163      35.023  32.568  28.387  1.00  0.00           C  
+HETATM   43  CX  CYS A 163      35.563  31.156  28.089  1.00  0.00           C  
+HETATM   44  CX  CYS A 163      35.793  30.803  26.702  1.00  0.00           C  
+HETATM   45  CX  CYS A 163      36.304  29.494  26.349  1.00  0.00           C  
+HETATM   46  CX  CYS A 163      36.588  28.526  27.387  1.00  0.00           C  
+HETATM   47  CX  CYS A 163      36.363  28.864  28.776  1.00  0.00           C  
+HETATM   48  CX  CYS A 163      35.852  30.173  29.129  1.00  0.00           C  
+HETATM   49  CX  CYS A 163      39.866  34.217  28.782  1.00  0.00           C  
+HETATM   50  CX  CYS A 163      40.824  33.435  29.655  1.00  0.00           C  
+HETATM   51  OX  CYS A 163      41.924  33.080  29.178  1.00  0.00           O  
+HETATM   52  OX  CYS A 163      40.481  33.188  30.828  1.00  0.00           O1-
+HETATM   53  H   CYS A 163      36.481  31.765  31.763  1.00  0.00           H  
+HETATM   54  H   CYS A 163      37.747  30.631  30.606  1.00  0.00           H  
+HETATM   55  H   CYS A 163      39.073  31.800  29.904  1.00  0.00           H  
+HETATM   56  H   CYS A 163      36.956  33.844  27.698  1.00  0.00           H  
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5   11
+CONECT    5    4    6
+CONECT    6    5    7    7    8
+CONECT    7    6    6
+CONECT    8    6    9
+CONECT    9    8   10
+CONECT   10    9
+CONECT   11    4   12   12   13
+CONECT   12   11   11
+CONECT   13   11   14   18
+CONECT   14   13   15
+CONECT   15   14   16   16   17
+CONECT   16   15   15
+CONECT   17   15
+CONECT   18   13   19   53
+CONECT   19   18   20   20   21
+CONECT   20   19   19
+CONECT   21   19   22   25
+CONECT   22   21   23   24
+CONECT   23   22
+CONECT   24   22
+CONECT   25   21   26   54
+CONECT   26   25   27   27   28
+CONECT   27   26   26
+CONECT   28   26   29   34
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   30   32   32   33
+CONECT   32   31   31
+CONECT   33   31
+CONECT   34   28   55   35
+CONECT   35   34   36   36   37
+CONECT   36   35   35
+CONECT   37   35   38   49
+CONECT   38   37   56   39
+CONECT   39   38   40   40   41
+CONECT   40   39   39
+CONECT   41   39   42
+CONECT   42   41   43
+CONECT   43   42   44   48   48
+CONECT   44   43   45   45
+CONECT   45   44   44   46
+CONECT   46   45   47   47
+CONECT   47   46   46   48
+CONECT   48   43   43   47
+CONECT   49   37   50
+CONECT   50   49   51   51   52
+CONECT   51   50   50
+CONECT   52   50
+CONECT   53   18
+CONECT   54   25
+CONECT   55   34
+CONECT   56   38
+END

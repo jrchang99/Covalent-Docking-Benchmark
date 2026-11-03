@@ -1,0 +1,306 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ s_st_Chirality_4
+ s_st_Chirality_5
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_2
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure85 
+  0
+  9_S_16_8_10_40 
+  16_S_9_17_46 
+  18_S_27_17_19_49 
+  20_R_25_19_21_52 
+  25_S_26_20_24_61 
+  0
+  166 
+  ligand.1 
+  "STRUCTURE OF SARS-3CL PROTEASE COMPLEX WITH A PHENYLBENZOYL (S,R)-N- DECALIN TYPE INHIBITOR" 
+  4TWY 
+  107.834
+  82.128
+  53.271
+  90
+  104.98
+  90
+  "C 1 2 1" 
+  4
+  "HYDROLASE/HYDROLASE INHIBITOR" 
+  02-JUL-14 
+  3.30 
+  0.29
+  0.319
+  1.6
+  "X-RAY DIFFRACTION" 
+  100
+  6
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\244Set\Autodock\cys\CO\4twy 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzEtYyhbY0hdW2NIXTIpW2NIXVtjSF1jMkMoPU8pTihbQ0gyXVtDQEhdKFtDQEBIXTM0KVtDSDJdW0NIMl1bQ0gyXVtDSDJdNClbQ0BASF0oW0NIMl0zKVtDSDJdW05IXVtDQEhdKFtDSF09TylbQ0gyXWM1W25IXVtjSF1uW2NIXTU= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.5492 
+    0.0000 
+    0.5492 
+    0.8053 
+  0.805265759260992
+  1
+  1
+  S-OPLS 
+  62.238403
+  1
+  Structure85-1 
+  4twy_ligprep_15 
+  0.99990000499975
+  0
+  "-1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   0.000000" 
+  4twy_ligprep_15-out1 
+  4twy_ligprep_15-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[69] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  i_m_formal_charge
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 2 4.741400 -2.781800 3.617900 900 2 6 0 A0A0A0  <>
+  2 15 -1.076400 -1.482000 -2.608200 900 70 8 0 FF2F2F  <>
+  3 2 5.721000 -3.729200 3.298600 900 2 6 0 A0A0A0  <>
+  4 2 6.316800 -4.489500 4.300900 900 2 6 0 A0A0A0  <>
+  5 2 5.963600 -4.313400 5.645700 900 2 6 0 A0A0A0  <>
+  6 2 6.606600 -5.129800 6.723000 900 2 6 0 A0A0A0  <>
+  7 2 5.893100 -5.484400 7.878200 900 2 6 0 A0A0A0  <>
+  8 2 -0.565700 -0.427200 -2.235700 900 2 6 0 A0A0A0  <>
+  9 3 -0.165000 -0.187600 -0.799400 900 2 6 0 A0A0A0  1
+  10 3 -0.558800 1.238400 -0.345800 900 2 6 0 A0A0A0  <>
+  11 2 -2.045800 1.494500 -0.243100 900 2 6 0 A0A0A0  <>
+  12 25 -2.658400 2.540600 -0.917100 900 43 7 0 5757FF  <>
+  13 2 -3.932200 2.562700 -0.528400 900 2 6 0 A0A0A0  <>
+  14 36 -4.183400 1.633200 0.391300 900 43 7 1 5757FF  <>
+  15 2 -2.990500 0.966700 0.618500 900 2 6 0 A0A0A0  <>
+  16 26 1.295400 -0.385100 -0.719500 900 43 7 0 5757FF  1
+  17 3 1.661800 -1.389300 0.270400 900 2 6 0 A0A0A0  <>
+  18 3 3.189100 -1.624700 0.279500 900 2 6 0 A0A0A0  1
+  19 3 3.759400 -2.218000 -1.038900 900 2 6 0 A0A0A0  <>
+  20 3 3.490500 -3.723300 -1.230900 900 2 6 0 A0A0A0  1
+  21 3 4.184900 -4.268300 -2.502600 900 2 6 0 A0A0A0  <>
+  22 3 3.929400 -5.777000 -2.692500 900 2 6 0 A0A0A0  <>
+  23 3 4.336000 -6.580800 -1.438000 900 2 6 0 A0A0A0  <>
+  24 3 3.692800 -5.999800 -0.162400 900 2 6 0 A0A0A0  <>
+  25 3 4.006900 -4.494400 0.008100 900 2 6 0 A0A0A0  1
+  26 3 3.342300 -3.939100 1.288200 900 2 6 0 A0A0A0  <>
+  27 25 3.654800 -2.492900 1.393100 900 43 7 0 5757FF  <>
+  28 2 4.105600 -1.920700 2.549000 900 2 6 0 A0A0A0  <>
+  29 15 4.047600 -0.705000 2.754000 900 70 8 0 FF2F2F  <>
+  30 2 4.398300 -2.585000 4.958600 900 2 6 0 A0A0A0  <>
+  31 2 4.997400 -3.347300 5.957300 900 2 6 0 A0A0A0  <>
+  32 2 7.937500 -5.558400 6.603000 900 2 6 0 A0A0A0  <>
+  33 2 8.537600 -6.316100 7.605400 900 2 6 0 A0A0A0  <>
+  34 2 7.810700 -6.654300 8.742500 900 2 6 0 A0A0A0  <>
+  35 2 6.489600 -6.241500 8.883000 900 2 6 0 A0A0A0  <>
+  36 41 6.030300 -3.881800 2.274600 900 21 1 0 FFFFFF  <>
+  37 41 7.056300 -5.223800 4.017900 900 21 1 0 FFFFFF  <>
+  38 41 4.863200 -5.183800 8.003100 900 21 1 0 FFFFFF  <>
+  39 41 -0.363400 0.393600 -2.924800 900 21 1 0 FFFFFF  <>
+  40 41 -0.699100 -0.894700 -0.160700 900 21 1 0 FFFFFF  <>
+  41 41 -0.141600 1.425900 0.644900 900 21 1 0 FFFFFF  <>
+  42 41 -0.110400 1.991800 -0.997400 900 21 1 0 FFFFFF  <>
+  43 43 -2.222100 3.162600 -1.583200 900 21 1 0 FFFFFF  <>
+  44 41 -4.666500 3.263800 -0.898100 900 21 1 0 FFFFFF  <>
+  45 41 -2.924100 0.184600 1.360900 900 21 1 0 FFFFFF  <>
+  46 43 1.733500 0.484300 -0.449300 900 21 1 0 FFFFFF  <>
+  47 41 1.345300 -1.039600 1.254400 900 21 1 0 FFFFFF  <>
+  48 41 1.132800 -2.322300 0.070200 900 21 1 0 FFFFFF  <>
+  49 41 3.658500 -0.643900 0.379600 900 21 1 0 FFFFFF  <>
+  50 41 3.441200 -1.646900 -1.911800 900 21 1 0 FFFFFF  <>
+  51 41 4.841000 -2.070100 -1.021800 900 21 1 0 FFFFFF  <>
+  52 41 2.413200 -3.884600 -1.307800 900 21 1 0 FFFFFF  <>
+  53 41 3.856400 -3.707400 -3.378700 900 21 1 0 FFFFFF  <>
+  54 41 5.259000 -4.083400 -2.443700 900 21 1 0 FFFFFF  <>
+  55 41 2.871900 -5.942400 -2.904100 900 21 1 0 FFFFFF  <>
+  56 41 4.476000 -6.142100 -3.562700 900 21 1 0 FFFFFF  <>
+  57 41 4.050900 -7.626700 -1.557100 900 21 1 0 FFFFFF  <>
+  58 41 5.422200 -6.570600 -1.334400 900 21 1 0 FFFFFF  <>
+  59 41 2.612000 -6.148800 -0.196700 900 21 1 0 FFFFFF  <>
+  60 41 4.019100 -6.552800 0.719500 900 21 1 0 FFFFFF  <>
+  61 41 5.089300 -4.364600 0.076900 900 21 1 0 FFFFFF  <>
+  62 41 2.260100 -4.050200 1.208900 900 21 1 0 FFFFFF  <>
+  63 41 3.640800 -4.524800 2.155700 900 21 1 0 FFFFFF  <>
+  64 41 3.662400 -1.843400 5.236200 900 21 1 0 FFFFFF  <>
+  65 41 4.710200 -3.167500 6.982600 900 21 1 0 FFFFFF  <>
+  66 41 8.524100 -5.297900 5.734400 900 21 1 0 FFFFFF  <>
+  67 41 9.563500 -6.637800 7.502000 900 21 1 0 FFFFFF  <>
+  68 41 8.275300 -7.241300 9.521000 900 21 1 0 FFFFFF  <>
+  69 41 5.928700 -6.508900 9.766600 900 21 1 0 FFFFFF  <>
+  :::
+ } 
+ m_bond[73] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 3 1
+  2 1 28 1
+  3 1 30 2
+  4 2 8 2
+  5 3 4 2
+  6 3 36 1
+  7 4 5 1
+  8 4 37 1
+  9 5 6 1
+  10 5 31 2
+  11 6 7 1
+  12 6 32 2
+  13 7 35 2
+  14 7 38 1
+  15 8 9 1
+  16 8 39 1
+  17 9 10 1
+  18 9 16 1
+  19 9 40 1
+  20 10 11 1
+  21 10 41 1
+  22 10 42 1
+  23 11 12 1
+  24 11 15 2
+  25 12 13 1
+  26 12 43 1
+  27 13 14 2
+  28 13 44 1
+  29 14 15 1
+  30 15 45 1
+  31 16 17 1
+  32 16 46 1
+  33 17 18 1
+  34 17 47 1
+  35 17 48 1
+  36 18 19 1
+  37 18 27 1
+  38 18 49 1
+  39 19 20 1
+  40 19 50 1
+  41 19 51 1
+  42 20 21 1
+  43 20 25 1
+  44 20 52 1
+  45 21 22 1
+  46 21 53 1
+  47 21 54 1
+  48 22 23 1
+  49 22 55 1
+  50 22 56 1
+  51 23 24 1
+  52 23 57 1
+  53 23 58 1
+  54 24 25 1
+  55 24 59 1
+  56 24 60 1
+  57 25 26 1
+  58 25 61 1
+  59 26 27 1
+  60 26 62 1
+  61 26 63 1
+  62 27 28 1
+  63 28 29 2
+  64 30 31 1
+  65 30 64 1
+  66 31 65 1
+  67 32 33 1
+  68 32 66 1
+  69 33 34 2
+  70 33 67 1
+  71 34 35 1
+  72 34 68 1
+  73 35 69 1
+  :::
+ } 
+} 
+

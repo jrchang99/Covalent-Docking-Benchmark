@@ -1,0 +1,276 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ s_epik_Chemistry_Notes
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ Structure75 
+  0
+  12_S_11_13_15_39 
+  20_S_19_21_23_50 
+  24_S_28_23_25_53 
+  0
+  165 
+  ligand.1 
+  "1.6A RESOLUTION STRUCTURE OF POLIOVIRUS 3C PROTEASE CONTAINING A COVALENTLY BOUND DIPEPTIDYL INHIBITOR" 
+  4DCD 
+  56.083
+  58.607
+  107.991
+  90
+  90
+  90
+  "I 2 2 2" 
+  8
+  "HYDROLASE/HYDROLASE INHIBITOR" 
+  17-JAN-12 
+  3.30 
+  0.166
+  0.189
+  1.69
+  "X-RAY DIFFRACTION" 
+  100
+  6.5
+  A 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  D:\work\244Set\Autodock\cys\CO\4dcd 
+  ligand.sdf 
+  1
+  1
+  0
+  55137
+  W2NIXTFbY0hdW2NIXVtjSF1bY0hdYzFbQ0gyXU9DKD1PKVtOSF1bQ0BASF0oW0NIMl1bQ0hdKFtDSDNdKVtDSDNdKUMoPU8pW05IXVtDQEhdKFtDSF09TylbQ0gyXVtDQEBIXTJbQ0gyXVtDSDJdW05IXUMyPU8= 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0004 
+    0.0000 
+    0.0004 
+    0.0003 
+  0.00027214428293542
+  0
+  0
+  S-OPLS 
+  24.339074
+  1
+  Structure75-1 
+  4dcd_ligprep_14 
+  0.99990000499975
+  0
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  4dcd_ligprep_14-out1 
+  4dcd_ligprep_14-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[58] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 3 -1.130900 -0.589800 -4.546800 900 2 6 A0A0A0  <>
+  2 16 -1.085500 -0.964400 -3.172100 900 70 8 FF2F2F  <>
+  3 2 -0.559800 -0.136600 -2.248900 900 2 6 A0A0A0  <>
+  4 15 -0.075800 0.972800 -2.490800 900 70 8 FF2F2F  <>
+  5 2 -1.868200 -1.624500 -5.390300 900 2 6 A0A0A0  <>
+  6 2 -1.554700 -1.728200 -6.748100 900 2 6 A0A0A0  <>
+  7 2 -2.219500 -2.651500 -7.551100 900 2 6 A0A0A0  <>
+  8 2 -3.201000 -3.468900 -6.995200 900 2 6 A0A0A0  <>
+  9 2 -3.524800 -3.369800 -5.644100 900 2 6 A0A0A0  <>
+  10 2 -2.860800 -2.445900 -4.841000 900 2 6 A0A0A0  <>
+  11 25 -0.654900 -0.740100 -0.998600 900 43 7 5757FF  <>
+  12 3 -0.121200 -0.086000 0.210500 900 2 6 A0A0A0  1
+  13 2 1.425400 -0.045500 0.241900 900 2 6 A0A0A0  <>
+  14 15 2.077300 -0.984400 -0.219500 900 70 8 FF2F2F  <>
+  15 3 -0.665700 -0.812200 1.470700 900 2 6 A0A0A0  <>
+  16 3 -2.203100 -0.769600 1.648300 900 2 6 A0A0A0  <>
+  17 3 -2.651200 -1.678800 2.813300 900 2 6 A0A0A0  <>
+  18 3 -2.741300 0.671200 1.789300 900 2 6 A0A0A0  <>
+  19 25 1.970300 1.050000 0.799800 900 43 7 5757FF  <>
+  20 3 3.405400 1.372800 0.815000 900 2 6 A0A0A0  1
+  21 2 3.838400 1.541900 2.263200 900 2 6 A0A0A0  <>
+  22 15 3.110200 1.389700 3.246500 900 70 8 FF2F2F  <>
+  23 3 3.734900 2.647000 -0.005700 900 2 6 A0A0A0  <>
+  24 3 3.217800 2.617400 -1.471500 900 2 6 A0A0A0  1
+  25 3 3.754400 1.482300 -2.334200 900 2 6 A0A0A0  <>
+  26 3 3.808000 2.078800 -3.727400 900 2 6 A0A0A0  <>
+  27 25 3.964400 3.501600 -3.462200 900 43 7 5757FF  <>
+  28 2 3.605800 3.898200 -2.227300 900 2 6 A0A0A0  <>
+  29 15 3.566700 5.048500 -1.794700 900 70 8 FF2F2F  <>
+  30 41 4.887400 1.813100 2.383400 900 21 1 FFFFFF  <>
+  31 41 -1.629600 0.373900 -4.661800 900 21 1 FFFFFF  <>
+  32 41 -0.109600 -0.484200 -4.917000 900 21 1 FFFFFF  <>
+  33 41 -0.796700 -1.093600 -7.184200 900 21 1 FFFFFF  <>
+  34 41 -1.976900 -2.732400 -8.600500 900 21 1 FFFFFF  <>
+  35 41 -3.717700 -4.184000 -7.618400 900 21 1 FFFFFF  <>
+  36 41 -4.290200 -4.004400 -5.221700 900 21 1 FFFFFF  <>
+  37 41 -3.125700 -2.371300 -3.796400 900 21 1 FFFFFF  <>
+  38 43 -0.971700 -1.696300 -0.932300 900 21 1 FFFFFF  <>
+  39 41 -0.485200 0.944000 0.229600 900 21 1 FFFFFF  <>
+  40 41 -0.338100 -1.853800 1.446500 900 21 1 FFFFFF  <>
+  41 41 -0.211500 -0.386400 2.368000 900 21 1 FFFFFF  <>
+  42 41 -2.650400 -1.191900 0.747700 900 21 1 FFFFFF  <>
+  43 41 -3.097600 -1.122500 3.637300 900 21 1 FFFFFF  <>
+  44 41 -1.820000 -2.245200 3.234400 900 21 1 FFFFFF  <>
+  45 41 -3.391500 -2.403800 2.474600 900 21 1 FFFFFF  <>
+  46 41 -1.946700 1.386100 2.003700 900 21 1 FFFFFF  <>
+  47 41 -3.480000 0.770700 2.584400 900 21 1 FFFFFF  <>
+  48 41 -3.225700 0.991100 0.866300 900 21 1 FFFFFF  <>
+  49 43 1.358000 1.780100 1.134300 900 21 1 FFFFFF  <>
+  50 41 3.989700 0.547600 0.402500 900 21 1 FFFFFF  <>
+  51 41 3.293300 3.514900 0.491000 900 21 1 FFFFFF  <>
+  52 41 4.815400 2.810000 -0.003800 900 21 1 FFFFFF  <>
+  53 41 2.126600 2.592000 -1.457500 900 21 1 FFFFFF  <>
+  54 41 4.760900 1.204300 -2.014600 900 21 1 FFFFFF  <>
+  55 41 3.144300 0.579400 -2.294900 900 21 1 FFFFFF  <>
+  56 41 4.651400 1.690400 -4.299500 900 21 1 FFFFFF  <>
+  57 41 2.892300 1.902700 -4.294800 900 21 1 FFFFFF  <>
+  58 43 4.182500 4.155300 -4.200300 900 21 1 FFFFFF  <>
+  :::
+ } 
+ m_bond[59] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 2 1
+  2 1 5 1
+  3 1 31 1
+  4 1 32 1
+  5 2 3 1
+  6 3 4 2
+  7 3 11 1
+  8 5 6 1
+  9 5 10 2
+  10 6 7 2
+  11 6 33 1
+  12 7 8 1
+  13 7 34 1
+  14 8 9 2
+  15 8 35 1
+  16 9 10 1
+  17 9 36 1
+  18 10 37 1
+  19 11 12 1
+  20 11 38 1
+  21 12 13 1
+  22 12 15 1
+  23 12 39 1
+  24 13 14 2
+  25 13 19 1
+  26 15 16 1
+  27 15 40 1
+  28 15 41 1
+  29 16 17 1
+  30 16 18 1
+  31 16 42 1
+  32 17 43 1
+  33 17 44 1
+  34 17 45 1
+  35 18 46 1
+  36 18 47 1
+  37 18 48 1
+  38 19 20 1
+  39 19 49 1
+  40 20 21 1
+  41 20 23 1
+  42 20 50 1
+  43 21 22 2
+  44 21 30 1
+  45 23 24 1
+  46 23 51 1
+  47 23 52 1
+  48 24 25 1
+  49 24 28 1
+  50 24 53 1
+  51 25 26 1
+  52 25 54 1
+  53 25 55 1
+  54 26 27 1
+  55 26 56 1
+  56 26 57 1
+  57 27 28 1
+  58 27 58 1
+  59 28 29 2
+  :::
+ } 
+} 
+

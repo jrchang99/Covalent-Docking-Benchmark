@@ -1,0 +1,61 @@
+TITLE     structures_1
+REMARK   4      COMPLIES WITH FORMAT V. 3.0, 1-DEC-2006
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+ATOM      1  CA  LYS A  43       7.649  30.596 259.515  1.00  0.00           C  
+ATOM      2  CB  LYS A  43       6.282  30.279 258.899  1.00  0.00           C  
+ATOM      3  CG  LYS A  43       6.272  30.453 257.386  1.00  0.00           C  
+ATOM      4  CD  LYS A  43       6.549  29.150 256.677  1.00  0.00           C  
+ATOM      5  CE  LYS A  43       7.373  29.404 255.409  1.00  0.00           C  
+ATOM      6  NZ  LYS A  43       7.326  28.268 254.465  1.00  0.00           N  
+ATOM      7  CX  LYS A  43       6.212  27.375 254.478  1.00  0.00           C  
+ATOM      8  CX  LYS A  43       4.885  27.752 254.032  1.00  0.00           C  
+ATOM      9  CX  LYS A  43       3.973  26.824 253.610  1.00  0.00           C  
+ATOM     10  NX  LYS A  43       2.741  27.182 253.199  1.00  0.00           N  
+ATOM     11  CX  LYS A  43       2.412  28.479 253.208  1.00  0.00           C  
+ATOM     12  NX  LYS A  43       1.194  28.858 252.803  1.00  0.00           N  
+ATOM     13  CX  LYS A  43       3.353  29.415 253.642  1.00  0.00           C  
+ATOM     14  CX  LYS A  43       0.913  30.175 252.832  1.00  0.00           C  
+ATOM     15  NX  LYS A  43       1.731  31.157 253.226  1.00  0.00           N  
+ATOM     16  CX  LYS A  43       2.945  30.736 253.625  1.00  0.00           C  
+ATOM     17  NX  LYS A  43       4.585  29.060 254.053  1.00  0.00           N  
+ATOM     18  NX  LYS A  43      -0.376  30.556 252.402  1.00  0.00           N  
+ATOM     19  NX  LYS A  43       3.870  31.723 254.058  1.00  0.00           N  
+ATOM     20  H   LYS A  43      -1.171  30.121 252.786  1.00  0.00           H  
+ATOM     21  H   LYS A  43      -0.479  31.258 251.719  1.00  0.00           H  
+ATOM     22  H   LYS A  43       4.761  31.454 254.379  1.00  0.00           H  
+ATOM     23  H   LYS A  43       3.620  32.675 254.036  1.00  0.00           H  
+ATOM     24  HE2 LYS A  43       7.947  30.286 255.165  1.00  0.00           H  
+ATOM     25  HE3 LYS A  43       8.248  28.968 255.890  1.00  0.00           H  
+ATOM     26  HX  LYS A  43       6.336  26.362 254.833  1.00  0.00           H  
+TER      27      LYS A  43
+CONECT    6    7
+CONECT    6    7
+CONECT    7    6    8   26
+CONECT    7    6
+CONECT    8    7    9   17
+CONECT    8   17
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   10   11
+CONECT   11   10   12   13
+CONECT   11   10
+CONECT   12   11   14
+CONECT   12   14
+CONECT   13   11   16   17
+CONECT   14   12   18   15
+CONECT   14   12
+CONECT   15   14   16
+CONECT   15   16
+CONECT   16   13   15   19
+CONECT   16   15
+CONECT   17    8   13
+CONECT   17    8
+CONECT   18   14   21   20
+CONECT   20   18
+CONECT   21   18
+CONECT   19   16   23   22
+CONECT   22   19
+CONECT   23   19
+CONECT   26    7
+END   

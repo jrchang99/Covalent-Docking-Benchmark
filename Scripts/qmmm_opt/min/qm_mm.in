@@ -1,0 +1,27 @@
+
+&cntrl
+  imin        = 1,          
+  maxcyc      = 50000,      
+  ncyc        = 25000,      
+  ntx = 1, ntwe = 0, ntwr = 500, ntpr = 500,
+  ntc = 2, ntf = 2, ntb = 1, ntp = 0,
+  cut = 10.0,
+  ifqnt       = 1,          
+/
+
+&qmmm
+  qmmask      = ':25',     
+  qmcharge   = 0,          
+  qm_theory   = 'XTB',      
+  qmmm_int = 2
+/
+
+&xtb
+   qm_level = 'GFN2-xTB',
+   accuracy = 1.0d-5,
+   tfermi = 100.
+   maxiter = 250
+   mmhardness = 0.
+   debug = F
+/
+

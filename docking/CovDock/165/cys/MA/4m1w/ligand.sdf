@@ -1,0 +1,261 @@
+4M1W
+                    3D
+ Schrodinger Suite 2021-3.
+ 49 50  0  0  1  0            999 V2000
+    0.4720    3.1067    3.2974 C   0  0  0  0  0  0
+    1.1353    4.3322    3.2024 C   0  0  0  0  0  0
+    1.9809    4.5774    2.1222 C   0  0  0  0  0  0
+    3.8042    5.2745   -0.1097 C   0  0  0  0  0  0
+   -2.0472   -1.8757   -0.1640 C   0  0  0  0  0  0
+   -2.2973   -5.4718   -5.1533 C   0  0  0  0  0  0
+   -3.2998   -5.4568   -2.7249 O   0  0  0  0  0  0
+   -2.0010   -5.6306   -3.3848 S   0  0  0  0  0  0
+   -0.9719   -4.2714   -2.9317 N   0  0  1  0  0  0
+   -1.0948   -3.7849   -1.5423 C   0  0  0  0  0  0
+    0.3174   -3.3952   -1.0562 C   0  0  0  0  0  0
+    0.2396   -2.7175    0.3319 C   0  0  0  0  0  0
+   -0.6492   -1.5457    0.1862 N   0  0  0  0  0  0
+   -0.1922   -0.2668    0.0896 C   0  0  0  0  0  0
+    1.3177    0.0103    0.3221 C   0  0  0  0  0  0
+    1.7024    1.4008    0.2171 N   0  0  0  0  0  0
+    1.5094    2.3769    1.2178 C   0  0  0  0  0  0
+    0.6616    2.1417    2.3108 C   0  0  0  0  0  0
+   -0.5860    2.7538    4.6198 Cl  0  0  0  0  0  0
+    0.9322    5.5618    4.4023 Cl  0  0  0  0  0  0
+    2.1819    3.6138    1.1217 C   0  0  0  0  0  0
+    3.1175    3.8969   -0.0671 C   0  0  0  0  0  0
+   -0.9471    0.6736   -0.1775 O   0  0  0  0  0  0
+   -2.0133   -2.5427   -1.5594 C   0  0  0  0  0  0
+   -2.1059   -4.3066   -5.7943 C   0  0  0  0  0  0
+   -1.2229   -6.8543   -3.1662 O   0  0  0  0  0  0
+    2.4782    5.5342    2.0781 H   0  0  0  0  0  0
+    4.4406    5.3596   -0.9908 H   0  0  0  0  0  0
+    4.4368    5.4336    0.7644 H   0  0  0  0  0  0
+    3.0743    6.0834   -0.1570 H   0  0  0  0  0  0
+   -2.4046   -2.5863    0.5826 H   0  0  0  0  0  0
+   -2.7295   -1.0284   -0.0801 H   0  0  0  0  0  0
+    0.0091   -4.4870   -3.1281 H   0  0  0  0  0  0
+   -1.5221   -4.5467   -0.8875 H   0  0  0  0  0  0
+    0.9512   -4.2813   -1.0019 H   0  0  0  0  0  0
+    0.8094   -2.7214   -1.7612 H   0  0  0  0  0  0
+   -0.2422   -3.3885    1.0445 H   0  0  0  0  0  0
+    1.2027   -2.5017    0.7924 H   0  0  0  0  0  0
+    1.6554   -0.4356    1.2585 H   0  0  0  0  0  0
+    1.8188   -0.5435   -0.4724 H   0  0  0  0  0  0
+    2.5673    1.5666   -0.2771 H   0  0  0  0  0  0
+    0.1390    1.2028    2.4132 H   0  0  0  0  0  0
+    2.5439    3.7700   -0.9865 H   0  0  0  0  0  0
+    3.8886    3.1253   -0.0821 H   0  0  0  0  0  0
+   -3.0233   -2.8244   -1.8594 H   0  0  0  0  0  0
+   -1.6793   -1.8129   -2.3001 H   0  0  0  0  0  0
+   -1.7701   -3.4165   -5.2829 H   0  0  0  0  0  0
+   -2.2888   -4.2286   -6.8560 H   0  0  0  0  0  0
+   -2.6410   -6.3617   -5.6595 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 18  1  0  0  0
+  1 19  1  0  0  0
+  2  3  1  0  0  0
+  2 20  1  0  0  0
+  3 21  2  0  0  0
+  3 27  1  0  0  0
+  4 22  1  0  0  0
+  4 28  1  0  0  0
+  4 29  1  0  0  0
+  4 30  1  0  0  0
+  5 13  1  0  0  0
+  5 24  1  0  0  0
+  5 31  1  0  0  0
+  5 32  1  0  0  0
+  6  8  1  0  0  0
+  6 25  2  0  0  0
+  6 49  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  8 26  2  0  0  0
+  9 10  1  0  0  0
+  9 33  1  0  0  0
+ 10 11  1  0  0  0
+ 10 24  1  0  0  0
+ 10 34  1  0  0  0
+ 11 12  1  0  0  0
+ 11 35  1  0  0  0
+ 11 36  1  0  0  0
+ 12 13  1  0  0  0
+ 12 37  1  0  0  0
+ 12 38  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  1  0  0  0
+ 14 23  2  0  0  0
+ 15 16  1  0  0  0
+ 15 39  1  0  0  0
+ 15 40  1  0  0  0
+ 16 17  1  0  0  0
+ 16 41  1  0  0  0
+ 17 18  2  0  0  0
+ 17 21  1  0  0  0
+ 18 42  1  0  0  0
+ 21 22  1  0  0  0
+ 22 43  1  0  0  0
+ 22 44  1  0  0  0
+ 24 45  1  0  0  0
+ 24 46  1  0  0  0
+ 25 47  1  0  0  0
+ 25 48  1  0  0  0
+M  END
+> <s_m_entry_id>
+51
+
+> <s_m_entry_name>
+4M1W.1
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF SMALL MOLECULE VINYLSULFONAMIDE COVALENTLY BOUND TO K-RAS G12C
+
+> <s_pdb_PDB_ID>
+4M1W
+
+> <r_pdb_PDB_CRYST1_a>
+68.095
+
+> <r_pdb_PDB_CRYST1_b>
+83.817
+
+> <r_pdb_PDB_CRYST1_c>
+87.238
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+111.06
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+C 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+12
+
+> <s_pdb_PDB_CLASSIFICATION>
+SIGNALING PROTEIN/INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+04-AUG-13
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.169
+
+> <r_pdb_PDB_Rfree>
+0.19
+
+> <r_pdb_PDB_RESOLUTION>
+1.58
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+5.6
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\207set\MA\4m1w
+
+> <s_m_Source_File>
+4M1W.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_source_file>
+4m1w_ligprep_19.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Q2xjMWMoQ2wpW2NIXWMoW0NIMl1bQ0gzXSljKFtjSF0xKVtOSF1bQ0gyXUMoPU8pTihbQ0gyXVtDSDJdMilbQ0gyXVtDSDJdW0NIXTJbTkhdUyg9TykoPU8pW0NIXT1bQ0gyXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+15.664711
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+4M1W-1
+
+> <s_m_job_name>
+4m1w_ligprep_19
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Chains>
+C
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_3_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_subgroup_title>
+4m1w_ligprep_19-out1
+
+> <s_m_subgroupid>
+4m1w_ligprep_19-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

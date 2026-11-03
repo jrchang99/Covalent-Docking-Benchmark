@@ -1,0 +1,265 @@
+Structure310
+                    3D
+ Schrodinger Suite 2021-3.
+ 51 51  0  0  1  0            999 V2000
+   -3.7525   -0.7654   -2.8159 C   0  0  0  0  0  0
+   -4.2937    0.1366   -3.4925 O   0  0  0  0  0  0
+   -4.0121   -1.0118   -1.6154 O   0  5  0  0  0  0
+   -0.6773   -0.5398   -2.2575 C   0  0  0  0  0  0
+   -0.4133    0.6118   -2.6031 O   0  0  0  0  0  0
+   -0.5125   -0.9952   -1.0024 N   0  0  0  0  0  0
+   -0.0043   -0.2167    0.1292 C   0  0  1  0  0  0
+   -0.2590   -1.0248    1.4252 C   0  0  0  0  0  0
+    0.1622   -0.3430    2.7504 C   0  0  0  0  0  0
+   -0.5593    1.0035    2.9762 C   0  0  0  0  0  0
+   -0.0119   -1.3063    3.9446 C   0  0  0  0  0  0
+    1.4814    0.1452   -0.0516 C   0  0  0  0  0  0
+    2.2724   -0.7099   -0.4525 O   0  0  0  0  0  0
+    1.8210    1.4081    0.2579 N   0  0  0  0  0  0
+    3.1665    1.9681    0.1283 C   0  0  0  0  0  0
+    3.4065    2.7016   -1.2091 C   0  0  0  0  0  0
+    3.2218    1.8302   -2.4677 C   0  0  0  0  0  0
+    3.5574    2.5768   -3.7704 C   0  0  0  0  0  0
+    3.3016    1.7638   -4.9700 N   0  0  0  0  0  0
+    3.5276    2.0945   -6.2450 C   0  0  0  0  0  0
+    4.0567    3.2550   -6.6226 N   0  0  0  0  0  0
+    3.2068    1.2183   -7.1846 N   0  3  0  0  0  0
+   -2.7038   -1.6331   -3.5472 C   0  0  1  0  0  0
+   -1.2103   -1.5356   -3.2998 C   0  0  2  0  0  0
+   -1.9914   -2.5828   -2.7840 O   0  0  0  0  0  0
+   -0.5147   -1.8055   -4.0943 H   0  0  0  0  0  0
+   -3.0015   -1.9869   -4.5350 H   0  0  0  0  0  0
+   -0.7585   -1.9531   -0.7987 H   0  0  0  0  0  0
+   -0.5860    0.7060    0.1676 H   0  0  0  0  0  0
+   -1.3204   -1.2715    1.4841 H   0  0  0  0  0  0
+    0.2615   -1.9806    1.3424 H   0  0  0  0  0  0
+    1.2307   -0.1317    2.6946 H   0  0  0  0  0  0
+   -0.9122    1.1273    3.9999 H   0  0  0  0  0  0
+   -1.4268    1.1157    2.3256 H   0  0  0  0  0  0
+    0.1115    1.8379    2.7706 H   0  0  0  0  0  0
+   -0.7785   -0.9765    4.6457 H   0  0  0  0  0  0
+    0.9194   -1.4004    4.5039 H   0  0  0  0  0  0
+   -0.2935   -2.3097    3.6227 H   0  0  0  0  0  0
+    1.1043    2.0321    0.5997 H   0  0  0  0  0  0
+    3.3192    2.6619    0.9557 H   0  0  0  0  0  0
+    3.9141    1.1813    0.2526 H   0  0  0  0  0  0
+    2.7525    3.5734   -1.2640 H   0  0  0  0  0  0
+    4.4228    3.0983   -1.2013 H   0  0  0  0  0  0
+    3.8432    0.9367   -2.3797 H   0  0  0  0  0  0
+    2.1878    1.4846   -2.5090 H   0  0  0  0  0  0
+    2.9516    3.4781   -3.8715 H   0  0  0  0  0  0
+    4.6089    2.8653   -3.7959 H   0  0  0  0  0  0
+    2.8867    0.8566   -4.8122 H   0  0  0  0  0  0
+    4.1874    3.4550   -7.6036 H   0  0  0  0  0  0
+    4.3154    3.9383   -5.9255 H   0  0  0  0  0  0
+    2.5304    0.4945   -6.9875 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  3  1  0  0  0
+  1 23  1  0  0  0
+  4  5  2  0  0  0
+  4  6  1  0  0  0
+  4 24  1  0  0  0
+  6  7  1  0  0  0
+  6 28  1  0  0  0
+  7  8  1  0  0  0
+  7 12  1  0  0  0
+  7 29  1  0  0  0
+  8  9  1  0  0  0
+  8 30  1  0  0  0
+  8 31  1  0  0  0
+  9 10  1  0  0  0
+  9 11  1  0  0  0
+  9 32  1  0  0  0
+ 10 33  1  0  0  0
+ 10 34  1  0  0  0
+ 10 35  1  0  0  0
+ 11 36  1  0  0  0
+ 11 37  1  0  0  0
+ 11 38  1  0  0  0
+ 12 13  2  0  0  0
+ 12 14  1  0  0  0
+ 14 15  1  0  0  0
+ 14 39  1  0  0  0
+ 15 16  1  0  0  0
+ 15 40  1  0  0  0
+ 15 41  1  0  0  0
+ 16 17  1  0  0  0
+ 16 42  1  0  0  0
+ 16 43  1  0  0  0
+ 17 18  1  0  0  0
+ 17 44  1  0  0  0
+ 17 45  1  0  0  0
+ 18 19  1  0  0  0
+ 18 46  1  0  0  0
+ 18 47  1  0  0  0
+ 19 20  1  0  0  0
+ 19 48  1  0  0  0
+ 20 21  1  0  0  0
+ 20 22  2  0  0  0
+ 21 49  1  0  0  0
+ 21 50  1  0  0  0
+ 22 51  1  0  0  0
+ 23 24  1  0  0  0
+ 23 25  1  0  0  0
+ 23 27  1  0  0  0
+ 24 25  1  0  0  0
+ 24 26  1  0  0  0
+M  CHG  2   3  -1  22   1
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+311
+
+> <s_m_entry_name>
+Structure310
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF PLANT CYSTEINE PROTEASE ERVATAMIN-C COMPLEXED WITH IRREVERSIBLE INHIBITOR E-64 AT 2.7 A RESOLUTION
+
+> <s_pdb_PDB_ID>
+2PRE
+
+> <r_pdb_PDB_CRYST1_a>
+43.37
+
+> <r_pdb_PDB_CRYST1_b>
+81.46
+
+> <r_pdb_PDB_CRYST1_c>
+131.95
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+04-MAY-07
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.197
+
+> <r_pdb_PDB_Rfree>
+0.234
+
+> <r_pdb_PDB_RESOLUTION>
+2.7
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_PH>
+7.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\2019 Systematic Studies\Covdock\OP\2pre
+
+> <s_m_Source_File>
+2pre.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+2pre_ligprep_40.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Tz1DKFtPSF0pW0NASF0xW0NASF0oTzEpQyg9TylbTkhdW0NAQEhdKFtDSDJdW0NIXShbQ0gzXSlbQ0gzXSlDKD1PKVtOSF1bQ0gyXVtDSDJdW0NIMl1bQ0gyXVtOSF0vQyhbTkgyXSk9Ti9bSF0=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+9.88687336001674e-05
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+2
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+5.513214
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure310-1
+
+> <s_m_job_name>
+2pre_ligprep_40
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_epik_Chemistry_Notes>
+This compound has an imine and may undergo hydrolysis.
+
+> <s_m_subgroup_title>
+2pre_ligprep_40-out1
+
+> <s_m_subgroupid>
+2pre_ligprep_40-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,234 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ s_st_EZ_1
+ i_m_stars
+ s_m_entry_id
+ s_m_entry_name
+ s_pdb_PDB_TITLE
+ s_pdb_PDB_ID
+ r_pdb_PDB_CRYST1_a
+ r_pdb_PDB_CRYST1_b
+ r_pdb_PDB_CRYST1_c
+ r_pdb_PDB_CRYST1_alpha
+ r_pdb_PDB_CRYST1_beta
+ r_pdb_PDB_CRYST1_gamma
+ s_pdb_PDB_CRYST1_Space_Group
+ i_pdb_PDB_CRYST1_z
+ s_pdb_PDB_CLASSIFICATION
+ s_pdb_PDB_DEPOSITION_DATE
+ s_pdb_PDB_format_version
+ r_pdb_PDB_R
+ r_pdb_PDB_Rfree
+ r_pdb_PDB_RESOLUTION
+ s_pdb_PDB_EXPDTA
+ r_pdb_PDB_EXPDTA_TEMPERATURE
+ r_pdb_PDB_EXPDTA_PH
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1
+ s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_2
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ r_lp_tautomer_probability
+ i_m_ct_format
+ :::
+ Structure37 
+  1
+  11_8_9_10_E 
+  0
+  832 
+  Structure37 
+  "CRYSTAL STRUCTURE OF CASPASE-8 IN COMPLEX WITH AZA-PEPTIDE MICHAEL ACCEPTOR INHIBITOR" 
+  2C2Z 
+  62.52
+  62.52
+  129.94
+  90
+  90
+  120
+  "P 31 2 1" 
+  6
+  "HYDROLASE/HYDROLASE INHIBITOR" 
+  02-OCT-05 
+  3.30 
+  0.171
+  0.187
+  1.95
+  "X-RAY DIFFRACTION" 
+  100
+  8
+  "A, B, C" 
+  "1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000" 
+  "-0.500000 -0.866025 0.000000   0.000000;-0.866025 0.500000 0.000000   0.000000;0.000000 0.000000 -1.000000   43.313330" 
+  C:\Users\Chang\Documents\Schrodinger\2c2z_ligprep_12 
+  2c2z_ligprep_12-out.maegz 
+  1
+  55137
+  W2NIXTFbY0hdW2NIXVtjSF1jKGMxMilOKFtDSDJdW0NIMl1bQ0gyXTIpQyg9TykvW0NIXT1bQ0hdL0MoPU8pTihbTkgyXSlbQ0gyXUMoPU8pW09IXQ== 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0002 
+    0.0002 
+    0.0000 
+    0.0000 
+  0.00016008568323118
+  -1
+  1
+  0
+  S-OPLS 
+  42.470146
+  1
+  Structure37-1 
+  1
+  2
+ m_depend[7] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[38] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  s_m_chain_name
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  s_m_pdb_residue_name
+  s_m_pdb_atom_name
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_m_pdb_occupancy
+  r_m_pdb_tfactor
+  i_m_minimize_atom_index
+  i_pdb_PDB_serial
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  :::
+  1 2 -4.505221 3.836413 0.736475 5 C 10 -0.10914 -0.10914 "MX5 " " C1 " 6 0 3 1EE11E  C4825  1 35.05 1 4828 <> <>
+  2 3 -3.485426 4.652284 1.509043 5 C 10 -0.07369 -0.07369 "MX5 " " C2 " 6 0 3 1EE11E  C4826  1 34.84 2 4829 <> <>
+  3 26 1.160088 -2.373400 0.933966 5 C 38 -0.76593 -0.76593 "MX5 " " N20" 7 0 3 2E2EFF  N4827  1 11.85 3 4830   1.995    2.220 
+  4 2 -6.337046 2.449096 -0.865219 5 C 10 -0.10463 -0.10463 "MX5 " " C4 " 6 0 3 1EE11E  C4828  1 36.19 4 4831 <> <>
+  5 2 -6.786404 3.432017 0.009355 5 C 10 -0.14860 -0.14860 "MX5 " " C5 " 6 0 3 1EE11E  C4829  1 35.55 5 4832 <> <>
+  6 2 -5.872197 4.129223 0.793810 5 C 10 -0.11901 -0.11901 "MX5 " " C6 " 6 0 3 1EE11E  C4830  1 36.16 6 4833 <> <>
+  7 2 -4.047098 2.789137 -0.090997 5 C 10 0.03960 0.03960 "MX5 " " C7 " 6 0 3 1EE11E  C4831  1 34.1 7 4834 <> <>
+  8 2 -0.746848 1.035219 -0.477069 5 C 2 -0.21235 -0.21235 "MX5 " " C9 " 6 0 3 A0A0A0  C4832  1 20.86 8 4835 <> <>
+  9 2 -0.116362 -0.103753 -0.105153 5 C 10 -0.06188 -0.06188 "MX5 " " C10" 6 0 3 1EE11E  C4833  1 16.53 9 4836 <> <>
+  10 2 1.311722 -0.315800 -0.320358 5 C 10 0.40438 0.40438 "MX5 " " C11" 6 0 3 1EE11E  C4834  1 12.1 10 4837 <> <>
+  11 2 -2.172215 1.244877 -0.266341 5 C 10 0.47737 0.47737 "MX5 " " C15" 6 0 3 1EE11E  C4835  1 28.14 11 4838 <> <>
+  12 3 3.350005 -1.741816 0.043329 5 C 10 -0.19773 -0.19773 "MX5 " " C12" 6 0 3 1EE11E  C4836  1 11.31 12 4839 <> <>
+  13 2 4.223001 -1.347065 1.265847 5 C 10 0.68986 0.68986 "MX5 " " C13" 6 0 3 1EE11E  C4837  1 12.06 13 4840 <> <>
+  14 3 -1.655952 3.638512 0.035161 5 C 10 -0.00160 -0.00160 "MX5 " " C14" 6 0 3 1EE11E  C4838  1 31.87 14 4841 <> <>
+  15 25 1.905488 -1.441086 0.188985 5 C 38 0.10644 0.10644 "MX5 " " N2 " 7 0 3 2E2EFF  N4839  1 12.73 15 4842 <> <>
+  16 25 -2.641349 2.541420 -0.219364 5 C 38 -0.21747 -0.21747 "MX5 " " N3 " 7 0 3 2E2EFF  N4840  1 31.38 16 4843 <> <>
+  17 15 -2.915283 0.261663 -0.167854 5 C 70 -0.53592 -0.53592 "MX5 " " O4 " 8 0 3 FF2E2E  O4841  1 26.23 17 4844   1.746    2.220 
+  18 15 1.972725 0.514841 -0.952522 5 C 70 -0.54506 -0.54506 "MX5 " " O6 " 8 0 3 FF2E2E  O4842  1 9.93 18 4845  -2.304    0.900 
+  19 15 3.717794 -0.749365 2.245907 5 C 70 -0.74992 -0.74992 "MX5 " " O7 " 8 0 3 FF2E2E  O4843  1 12.29 19 4846 <> <>
+  20 3 -2.318153 4.935976 0.555408 5 C 10 -0.15705 -0.15705 "MX5 " " C19" 6 0 3 1EE11E  C4844  1 35.09 20 4847 <> <>
+  21 18 5.431597 -1.663509 1.194021 5 C 70 -0.74992 -0.74992 "MX5 " " O8 " 8 -1 3 FF2E2E  O4845  1 13.82 21 4848   3.432    0.945 
+  22 2 -4.978879 2.148044 -0.931286 5 C 10 -0.12998 -0.12998 "MX5 " " C24" 6 0 3 1EE11E  C4846  1 35.45 22 4849 <> <>
+  23 41 -3.915519 5.584552 1.877818 5 C 21 0.07025 0.07025 "MX5 " "H2_1" 1 0 3 FFFFFF  H4847  1 <> 23 4850 <> <>
+  24 41 -3.138804 4.091341 2.378223 5 C 21 0.07025 0.07025 "MX5 " "H2_2" 1 0 3 FFFFFF  H4848  1 <> 24 4851 <> <>
+  25 43 1.285281 -3.272430 0.491396 5 C 21 0.34182 0.34182 "MX5 " "HN20" 1 0 3 FFFFFF  H4849  1 <> 25 4852 <> <>
+  26 41 -7.038286 1.928462 -1.500632 5 C 21 0.14048 0.14048 "MX5 " " HC4" 1 0 3 FFFFFF  H4850  1 <> 26 4853 <> <>
+  27 41 -7.838078 3.672583 0.060111 5 C 21 0.12600 0.12600 "MX5 " " HC5" 1 0 3 FFFFFF  H4851  1 <> 27 4854 <> <>
+  28 41 -6.227759 4.919409 1.438900 5 C 21 0.12171 0.12171 "MX5 " " HC6" 1 0 3 FFFFFF  H4852  1 <> 28 4855 <> <>
+  29 41 -0.678567 -0.894125 0.370816 5 C 21 0.16647 0.16647 "MX5 " "HC10" 1 0 3 FFFFFF  H4855  1 <> 29 4858 <> <>
+  30 41 3.754186 -1.242947 -0.840478 5 C 21 0.07100 0.07100 "MX5 " "H121" 1 0 3 FFFFFF  H4856  1 <> 30 4859 <> <>
+  31 41 3.453197 -2.814409 -0.136728 5 C 21 0.07100 0.07100 "MX5 " "H122" 1 0 3 FFFFFF  H4857  1 <> 31 4860 <> <>
+  32 41 -0.951860 3.289869 0.793193 5 C 21 0.09140 0.09140 "MX5 " "H141" 1 0 3 FFFFFF  H4858  1 <> 32 4861 <> <>
+  33 41 -1.043718 3.810695 -0.850760 5 C 21 0.09140 0.09140 "MX5 " "H142" 1 0 3 FFFFFF  H4859  1 <> 33 4862 <> <>
+  34 41 -2.681755 5.515653 -0.295021 5 C 21 0.07281 0.07281 "MX5 " "H191" 1 0 3 FFFFFF  H4860  1 <> 34 4863 <> <>
+  35 41 -1.568082 5.565292 1.035251 5 C 21 0.07281 0.07281 "MX5 " "H192" 1 0 3 FFFFFF  H4861  1 <> 35 4864 <> <>
+  36 41 -4.656446 1.403076 -1.644010 5 C 21 0.15403 0.15403 "MX5 " "HC24" 1 0 3 FFFFFF  H4862  1 <> 36 4865 <> <>
+  37 41 -0.198784 1.832913 -0.957198 5 C 21 0.15897 0.15897 "MX5 " " HC9" 1 0 3 FFFFFF  H37  <> <> 37 <> <> <>
+  38 43 1.592713 -2.429022 1.845586 5 C 21 0.34182 0.34182 "MX5 " "HN20" 1 0 3 FFFFFF  H38  <> <> <> <> <> <>
+  :::
+ } 
+ m_bond[39] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 2 1 3 3
+  2 1 6 2 3 3
+  3 1 7 1 3 3
+  4 2 20 1 3 3
+  5 2 23 1 3 3
+  6 2 24 1 3 3
+  7 3 15 1 3 3
+  8 3 25 1 3 3
+  9 3 38 1 3 3
+  10 4 5 2 3 3
+  11 4 22 1 3 3
+  12 4 26 1 3 3
+  13 5 6 1 3 3
+  14 5 27 1 3 3
+  15 6 28 1 3 3
+  16 7 16 1 3 3
+  17 7 22 2 3 3
+  18 8 9 2 3 3
+  19 8 11 1 3 3
+  20 8 37 1 3 3
+  21 9 10 1 3 3
+  22 9 29 1 3 3
+  23 10 15 1 3 3
+  24 10 18 2 3 3
+  25 11 16 1 3 3
+  26 11 17 2 3 3
+  27 12 13 1 3 3
+  28 12 15 1 3 3
+  29 12 30 1 3 3
+  30 12 31 1 3 3
+  31 13 19 2 3 3
+  32 13 21 1 3 3
+  33 14 16 1 3 3
+  34 14 20 1 3 3
+  35 14 32 1 3 3
+  36 14 33 1 3 3
+  37 20 34 1 3 3
+  38 20 35 1 3 3
+  39 22 36 1 3 3
+  :::
+ } 
+} 
+

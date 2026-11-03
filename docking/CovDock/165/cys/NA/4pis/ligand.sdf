@@ -1,0 +1,267 @@
+Structure12
+                    3D
+ Schrodinger Suite 2021-3.
+ 58 59  0  0  1  0            999 V2000
+   -4.9658    3.0290    1.5527 C   0  0  0  0  0  0
+   -4.4718    3.1152    2.8526 C   0  0  0  0  0  0
+   -3.2246    2.5746    3.1579 C   0  0  0  0  0  0
+   -2.4712    1.9528    2.1616 C   0  0  0  0  0  0
+   -2.3396    2.7187   -2.2549 C   0  0  0  0  0  0
+   -2.0436    0.3764   -2.6259 C   0  0  0  0  0  0
+   -0.5885    1.3853   -0.1103 C   0  0  0  0  0  0
+   -2.1275    1.1917   -0.2593 C   0  0  1  0  0  0
+   -2.9464    1.8629    0.8409 C   0  0  0  0  0  0
+   -4.2103    2.4062    0.5587 C   0  0  0  0  0  0
+   -6.5131    3.6920    1.1723 Cl  0  0  0  0  0  0
+   -2.6122    2.6725    4.7687 Cl  0  0  0  0  0  0
+   -0.1045    2.5162   -0.1821 O   0  0  0  0  0  0
+   -2.5445    1.3839   -1.6893 N   0  0  0  0  0  0
+    0.1343    0.2710    0.1061 N   0  0  0  0  0  0
+    1.5951    0.2168    0.2104 C   0  0  2  0  0  0
+    2.2461    0.5716   -1.1425 C   0  0  0  0  0  0
+    1.8573    0.0145   -2.1705 O   0  0  0  0  0  0
+    2.0765   -1.1960    0.6667 C   0  0  2  0  0  0
+    1.5367   -1.5312    2.0789 C   0  0  0  0  0  0
+    3.6124   -1.3872    0.6316 C   0  0  0  0  0  0
+    1.6981   -3.0055    2.4798 C   0  0  0  0  0  0
+    3.8048    2.0994   -2.3059 C   0  0  0  0  0  0
+    2.8908    3.0410   -3.0922 C   0  0  0  0  0  0
+    1.1920    4.6063   -3.0948 C   0  0  0  0  0  0
+    2.0623    3.9698   -5.1281 C   0  0  0  0  0  0
+    2.9528    3.1004   -4.4902 C   0  0  0  0  0  0
+    3.2115    1.5044   -1.1073 N   0  0  0  0  0  0
+    2.0120    3.7990   -2.3754 N   0  0  0  0  0  0
+    1.1675    4.7338   -4.4464 N   0  0  0  0  0  0
+    0.2424    5.4076   -2.3417 C   0  0  0  0  0  0
+   -0.5149    6.0447   -1.7415 N   0  0  0  0  0  0
+   -5.0555    3.5982    3.6228 H   0  0  0  0  0  0
+   -1.5106    1.5364    2.4274 H   0  0  0  0  0  0
+   -2.6681    3.4950   -1.5635 H   0  0  0  0  0  0
+   -2.9133    2.8352   -3.1750 H   0  0  0  0  0  0
+   -1.2902    2.8973   -2.4908 H   0  0  0  0  0  0
+   -2.2486   -0.6296   -2.2585 H   0  0  0  0  0  0
+   -0.9672    0.4685   -2.7789 H   0  0  0  0  0  0
+   -2.5323    0.4748   -3.5962 H   0  0  0  0  0  0
+   -2.3307    0.1350   -0.0688 H   0  0  0  0  0  0
+   -4.6198    2.3487   -0.4390 H   0  0  0  0  0  0
+   -0.3401   -0.6184    0.1592 H   0  0  0  0  0  0
+    1.9054    0.9503    0.9577 H   0  0  0  0  0  0
+    1.6476   -1.9238   -0.0244 H   0  0  0  0  0  0
+    2.0361   -0.9004    2.8154 H   0  0  0  0  0  0
+    0.4776   -1.2841    2.1534 H   0  0  0  0  0  0
+    4.1146   -0.6494    1.2579 H   0  0  0  0  0  0
+    4.0210   -1.3040   -0.3755 H   0  0  0  0  0  0
+    3.9011   -2.3743    0.9917 H   0  0  0  0  0  0
+    0.9258   -3.3004    3.1907 H   0  0  0  0  0  0
+    2.6641   -3.1809    2.9537 H   0  0  0  0  0  0
+    1.6218   -3.6698    1.6186 H   0  0  0  0  0  0
+    4.2025    1.3203   -2.9597 H   0  0  0  0  0  0
+    4.6725    2.6804   -1.9923 H   0  0  0  0  0  0
+    2.0536    4.0606   -6.2042 H   0  0  0  0  0  0
+    3.6481    2.4972   -5.0556 H   0  0  0  0  0  0
+    3.4550    1.9245   -0.2219 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1 10  1  0  0  0
+  1 11  1  0  0  0
+  2  3  1  0  0  0
+  2 33  1  0  0  0
+  3  4  2  0  0  0
+  3 12  1  0  0  0
+  4  9  1  0  0  0
+  4 34  1  0  0  0
+  5 14  1  0  0  0
+  5 35  1  0  0  0
+  5 36  1  0  0  0
+  5 37  1  0  0  0
+  6 14  1  0  0  0
+  6 38  1  0  0  0
+  6 39  1  0  0  0
+  6 40  1  0  0  0
+  7  8  1  0  0  0
+  7 13  2  0  0  0
+  7 15  1  0  0  0
+  8  9  1  0  0  0
+  8 14  1  0  0  0
+  8 41  1  0  0  0
+  9 10  2  0  0  0
+ 10 42  1  0  0  0
+ 15 16  1  0  0  0
+ 15 43  1  0  0  0
+ 16 17  1  0  0  0
+ 16 19  1  0  0  0
+ 16 44  1  0  0  0
+ 17 18  2  0  0  0
+ 17 28  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  1  0  0  0
+ 19 45  1  0  0  0
+ 20 22  1  0  0  0
+ 20 46  1  0  0  0
+ 20 47  1  0  0  0
+ 21 48  1  0  0  0
+ 21 49  1  0  0  0
+ 21 50  1  0  0  0
+ 22 51  1  0  0  0
+ 22 52  1  0  0  0
+ 22 53  1  0  0  0
+ 23 24  1  0  0  0
+ 23 28  1  0  0  0
+ 23 54  1  0  0  0
+ 23 55  1  0  0  0
+ 24 27  2  0  0  0
+ 24 29  1  0  0  0
+ 25 29  2  0  0  0
+ 25 30  1  0  0  0
+ 25 31  1  0  0  0
+ 26 27  1  0  0  0
+ 26 30  2  0  0  0
+ 26 56  1  0  0  0
+ 27 57  1  0  0  0
+ 28 58  1  0  0  0
+ 31 32  3  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+13
+
+> <s_m_entry_name>
+Structure12
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF HUMAN ADENOVIRUS 8 PROTEASE IN COMPLEX WITH A NITRILE INHIBITOR
+
+> <s_pdb_PDB_ID>
+4PIS
+
+> <r_pdb_PDB_CRYST1_a>
+42.061
+
+> <r_pdb_PDB_CRYST1_b>
+42.061
+
+> <r_pdb_PDB_CRYST1_c>
+193.238
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+120
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 32 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+6
+
+> <s_pdb_PDB_CLASSIFICATION>
+HYDROLASE/HYDROLASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+09-MAY-14
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.232
+
+> <r_pdb_PDB_Rfree>
+0.279
+
+> <r_pdb_PDB_RESOLUTION>
+2.1
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NA\4pis
+
+> <s_m_Source_File>
+4pis.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4pis_ligprep_9.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+Q2xjMVtjSF1jKENsKVtjSF1jKFtjSF0xKVtDQEBIXShOKFtDSDNdKVtDSDNdKUMoPU8pW05IXVtDQEBIXShbQ0BASF0oW0NIM10pW0NIMl1bQ0gzXSlDKD1PKVtOSF1bQ0gyXWMyW2NIXVtjSF1uYyhuMilDI04=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1626
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.1626
+
+> <r_epik_State_Penalty>
+  0.1519
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.151888819576155
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+43.041477
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure12-1
+
+> <s_m_job_name>
+4pis_ligprep_9
+
+> <s_epik_Chemistry_Notes>
+This compound contains an electron-poor aromatic ring that is susceptible to covalent hydrolysis at low pH, typically resulting in measured values for nitrogen ring protonation that are around two units higher than predicted values.
+
+> <s_m_subgroup_title>
+4pis_ligprep_9-out1
+
+> <s_m_subgroupid>
+4pis_ligprep_9-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

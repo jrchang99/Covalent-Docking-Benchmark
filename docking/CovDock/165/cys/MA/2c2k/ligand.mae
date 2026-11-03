@@ -1,0 +1,364 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ i_sd_i\_f3d\_flags
+ i_sd_PUBCHEM\_COMPOUND\_CANONICALIZED
+ i_sd_PUBCHEM\_CACTVS\_COMPLEXITY
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_ACCEPTOR
+ i_sd_PUBCHEM\_CACTVS\_HBOND\_DONOR
+ i_sd_PUBCHEM\_CACTVS\_ROTATABLE\_BOND
+ s_sd_PUBCHEM\_CACTVS\_SUBSKEYS
+ s_sd_PUBCHEM\_IUPAC\_OPENEYE\_NAME
+ s_sd_PUBCHEM\_IUPAC\_CAS\_NAME
+ s_sd_PUBCHEM\_IUPAC\_NAME\_MARKUP
+ s_sd_PUBCHEM\_IUPAC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_SYSTEMATIC\_NAME
+ s_sd_PUBCHEM\_IUPAC\_TRADITIONAL\_NAME
+ s_sd_PUBCHEM\_IUPAC\_INCHI
+ s_sd_PUBCHEM\_IUPAC\_INCHIKEY
+ r_sd_PUBCHEM\_EXACT\_MASS
+ s_sd_PUBCHEM\_MOLECULAR\_FORMULA
+ r_sd_PUBCHEM\_MOLECULAR\_WEIGHT
+ s_sd_PUBCHEM\_SMILES
+ s_sd_PUBCHEM\_CONNECTIVITY\_SMILES
+ r_sd_PUBCHEM\_MONOISOTOPIC\_WEIGHT
+ i_sd_PUBCHEM\_TOTAL\_CHARGE
+ s_sd_PUBCHEM\_BONDANNOTATIONS
+ s_epik_Chemistry_Notes
+ i_sd_PUBCHEM\_XLOGP3\_AA
+ i_sd_PUBCHEM\_CACTVS\_TPSA
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 11411389 
+  0
+  20_S_15_27_21_50 
+  22_S_16_24_23_52 
+  29_S_19_30_31_65 
+  186 
+  ligand.1 
+  D:\work\244Set\Autodock\cys\MA\2c2k 
+  ligand.sdf 
+  1
+  11411389
+  49
+  3
+  0
+  1
+  0
+  0
+  1
+  -1
+  "1
+5
+255" 
+  1
+  0
+  55137
+  W0NIM11bQ0gyXU9DKD1PKVxbQ0hdPVtDSF1cQyg9TylOKFtDSDJdQyg9TylbT0hdKVtOSF1DKD1PKVtDQEhdKFtDSF0oW0NIM10pW0NIM10pW05IXUMoPU8pW0NASF0oW0NIMl1bQ0gyXUMoPU8pW09IXSlbTkhdQyg9TylbQ0BIXShbQ0gyXUMoPU8pW09IXSlbTkhdQyg9TylPW0NIMl1jMVtjSF1bY0hdW2NIXVtjSF1bY0hdMQ== 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0039 
+    0.0034 
+    0.0005 
+    0.0000 
+  0.0033739902077115
+  -3
+  3
+  S-OPLS 
+  42.097261
+  1
+  11411389-1 
+  2c2k_ligprep_20 
+  1
+  0
+  1
+  1250
+  14
+  7
+  21
+  AAADcfB7vAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAABAAAAHgAYCAAADSjhmAYyCILiBgCIAiHSGACCAAAgAAAaqIGICMkKZjqAsTiecAAm1gGYqYe/1yIOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA== 
+  "(4S)-4-[[(2S)-2-(benzyloxycarbonylamino)-3-carboxy-propanoyl]amino]-5-[[(1S)-1-[[carboxymethyl-[(E)-4-ethoxy-4-oxo-but-2-enoyl]amino]carbamoyl]-2-methyl-propyl]amino]-5-oxo-pentanoic acid" 
+  "(4S)-5-[[(2S)-1-[2-(carboxymethyl)-2-[(E)-4-ethoxy-1,4-dioxobut-2-enyl]hydrazinyl]-3-methyl-1-oxobutan-2-yl]amino]-4-[[(2S)-3-carboxy-1-oxo-2-(phenylmethoxycarbonylamino)propyl]amino]-5-oxopentanoic acid" 
+  "(4<I>S</I>)-5-[[(2<I>S</I>)-1-[2-(carboxymethyl)-2-[(<I>E</I>)-4-ethoxy-4-oxobut-2-enoyl]hydrazinyl]-3-methyl-1-oxobutan-2-yl]amino]-4-[[(2<I>S</I>)-3-carboxy-2-(phenylmethoxycarbonylamino)propanoyl]amino]-5-oxopentanoic acid" 
+  "(4S)-5-[[(2S)-1-[2-(carboxymethyl)-2-[(E)-4-ethoxy-4-oxobut-2-enoyl]hydrazinyl]-3-methyl-1-oxobutan-2-yl]amino]-4-[[(2S)-3-carboxy-2-(phenylmethoxycarbonylamino)propanoyl]amino]-5-oxopentanoic acid" 
+  "(4S)-5-[[(2S)-1-[2-[(E)-4-ethoxy-4-oxidanylidene-but-2-enoyl]-2-(2-hydroxy-2-oxoethyl)hydrazinyl]-3-methyl-1-oxidanylidene-butan-2-yl]amino]-5-oxidanylidene-4-[[(2S)-4-oxidanyl-4-oxidanylidene-2-(phenylmethoxycarbonylamino)butanoyl]amino]pentanoic acid" 
+  "(4S)-4-[[(2S)-2-(benzyloxycarbonylamino)-3-carboxy-propanoyl]amino]-5-[[(1S)-1-[[carboxymethyl-[(E)-4-ethoxy-4-keto-but-2-enoyl]amino]carbamoyl]-2-methyl-propyl]amino]-5-keto-valeric acid" 
+  InChI=1S/C30H39N5O14/c1-4-48-25(43)13-11-21(36)35(15-24(41)42)34-29(46)26(17(2)3)33-27(44)19(10-12-22(37)38)31-28(45)20(14-23(39)40)32-30(47)49-16-18-8-6-5-7-9-18/h5-9,11,13,17,19-20,26H,4,10,12,14-16H2,1-3H3,(H,31,45)(H,32,47)(H,33,44)(H,34,46)(H,37,38)(H,39,40)(H,41,42)/b13-11+/t19-,20-,26-/m0/s1 
+  HDJVXQIATZPDQB-YIUKZFMJSA-N 
+  693.24935093
+  C30H39N5O14 
+  693.7
+  CCOC(=O)/C=C/C(=O)N(CC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)OCC1=CC=CC=C1 
+  CCOC(=O)C=CC(=O)N(CC(=O)O)NC(=O)C(C(C)C)NC(=O)C(CCC(=O)O)NC(=O)C(CC(=O)O)NC(=O)OCC1=CC=CC=C1 
+  693.24935093
+  0
+  "20  15  6
+22  16  5
+29  19  5
+40  42  8
+40  43  8
+42  45  8
+43  46  8
+45  47  8
+46  47  8" 
+  "This compound has an ester and may undergo hydrolysis at high or low pH." 
+  0
+  284
+  2c2k_ligprep_20-out1 
+  2c2k_ligprep_20-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[85] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  i_m_atomic_number
+  i_m_formal_charge
+  s_m_color_rgb
+  b_st_NoSrcChirality
+  :::
+  1 15 -0.735600 0.764100 0.961400 900 70 8 0 FF2F2F  <>
+  2 15 2.534100 1.001500 -0.688100 900 70 8 0 FF2F2F  <>
+  3 15 -1.826000 0.259100 4.621900 900 70 8 0 FF2F2F  <>
+  4 18 -2.792900 -4.015700 -0.944200 900 70 8 -1 FF2F2F  <>
+  5 15 -0.788900 -4.958700 -0.950100 900 70 8 0 FF2F2F  <>
+  6 16 -6.263300 1.488100 1.313600 900 70 8 0 FF2F2F  <>
+  7 18 -5.694600 3.079800 5.527700 900 70 8 -1 FF2F2F  <>
+  8 15 -6.035100 1.725000 7.245000 900 70 8 0 FF2F2F  <>
+  9 15 -0.439700 -0.883800 -1.919600 900 70 8 0 FF2F2F  <>
+  10 15 -4.339700 2.677900 1.653500 900 70 8 0 FF2F2F  <>
+  11 18 3.658000 -3.432100 -2.401600 900 70 8 -1 FF2F2F  <>
+  12 15 4.892900 -2.267300 -3.814400 900 70 8 0 FF2F2F  <>
+  13 16 -0.107700 -4.348600 -5.520100 900 70 8 0 FF2F2F  <>
+  14 15 -2.320600 -3.766600 -5.624700 900 70 8 0 FF2F2F  <>
+  15 25 0.790200 -0.651500 1.887200 900 43 7 0 5757FF  <>
+  16 25 -2.710000 -0.332900 2.621700 900 43 7 0 5757FF  <>
+  17 25 1.999700 -1.234700 -0.686800 900 43 7 0 5757FF  <>
+  18 25 1.791900 -1.334800 -2.073600 900 43 7 0 5757FF  <>
+  19 25 -5.099200 1.046600 3.157000 900 43 7 0 5757FF  <>
+  20 3 2.016000 0.021600 1.437100 900 2 6 0 A0A0A0  1
+  21 3 3.268300 -0.588800 2.140500 900 2 6 0 A0A0A0  <>
+  22 3 -1.594200 -1.145300 2.138100 900 2 6 0 A0A0A0  1
+  23 3 -2.133000 -2.105200 1.054000 900 2 6 0 A0A0A0  <>
+  24 2 -0.460400 -0.246700 1.609800 900 2 6 0 A0A0A0  <>
+  25 3 3.220700 -0.344900 3.660300 900 2 6 0 A0A0A0  <>
+  26 3 4.630600 -0.109400 1.591000 900 2 6 0 A0A0A0  <>
+  27 2 2.207700 -0.032300 -0.099900 900 2 6 0 A0A0A0  <>
+  28 3 -1.113400 -3.163700 0.567800 900 2 6 0 A0A0A0  <>
+  29 3 -3.993100 1.182600 4.129800 900 2 6 0 A0A0A0  1
+  30 2 -2.743900 0.316500 3.801400 900 2 6 0 A0A0A0  <>
+  31 3 -4.490400 0.984500 5.597000 900 2 6 0 A0A0A0  <>
+  32 2 -1.615400 -4.118900 -0.530800 900 2 6 0 A0A0A0  <>
+  33 3 2.960300 -1.163300 -2.976500 900 2 6 0 A0A0A0  <>
+  34 2 -5.509900 2.006400 6.145100 900 2 6 0 A0A0A0  <>
+  35 2 0.495400 -1.484800 -2.460300 900 2 6 0 A0A0A0  <>
+  36 2 -5.158300 1.824600 2.005700 900 2 6 0 A0A0A0  <>
+  37 2 3.902700 -2.393500 -3.059800 900 2 6 0 A0A0A0  <>
+  38 2 0.282300 -2.429100 -3.539700 900 2 6 0 A0A0A0  <>
+  39 3 -6.575600 2.131000 0.084400 900 2 6 0 A0A0A0  <>
+  40 2 -7.858800 1.549300 -0.478600 900 2 6 0 A0A0A0  <>
+  41 2 -0.944000 -2.687300 -4.051000 900 2 6 0 A0A0A0  <>
+  42 2 -7.802600 0.575000 -1.478000 900 2 6 0 A0A0A0  <>
+  43 2 -9.092200 1.991000 0.006100 900 2 6 0 A0A0A0  <>
+  44 2 -1.198600 -3.640700 -5.129900 900 2 6 0 A0A0A0  <>
+  45 2 -8.981700 0.042900 -1.993800 900 2 6 0 A0A0A0  <>
+  46 2 -10.270700 1.458100 -0.509800 900 2 6 0 A0A0A0  <>
+  47 2 -10.210100 0.487100 -1.507800 900 2 6 0 A0A0A0  <>
+  48 3 -0.194900 -5.318600 -6.555000 900 2 6 0 A0A0A0  <>
+  49 3 1.180700 -5.960000 -6.762800 900 2 6 0 A0A0A0  <>
+  50 41 1.936200 1.070300 1.731800 900 21 1 0 FFFFFF  <>
+  51 41 3.237800 -1.670300 1.997100 900 21 1 0 FFFFFF  <>
+  52 41 -1.217700 -1.743400 2.970400 900 21 1 0 FFFFFF  <>
+  53 43 0.925400 -1.495600 2.423900 900 21 1 0 FFFFFF  <>
+  54 41 -3.016600 -2.614500 1.442400 900 21 1 0 FFFFFF  <>
+  55 41 -2.477100 -1.517700 0.200500 900 21 1 0 FFFFFF  <>
+  56 41 3.228600 0.721500 3.888900 900 21 1 0 FFFFFF  <>
+  57 41 4.078200 -0.797200 4.159600 900 21 1 0 FFFFFF  <>
+  58 41 2.325300 -0.774200 4.110200 900 21 1 0 FFFFFF  <>
+  59 41 4.697200 0.979000 1.596800 900 21 1 0 FFFFFF  <>
+  60 41 4.809700 -0.453200 0.571900 900 21 1 0 FFFFFF  <>
+  61 41 5.453700 -0.492800 2.194600 900 21 1 0 FFFFFF  <>
+  62 43 -3.487000 -0.234900 1.984600 900 21 1 0 FFFFFF  <>
+  63 41 -0.216500 -2.674700 0.192500 900 21 1 0 FFFFFF  <>
+  64 41 -0.794300 -3.764700 1.420300 900 21 1 0 FFFFFF  <>
+  65 41 -3.617300 2.207900 4.079700 900 21 1 0 FFFFFF  <>
+  66 43 1.633800 -2.032000 -0.186900 900 21 1 0 FFFFFF  <>
+  67 41 -4.919600 -0.014500 5.697700 900 21 1 0 FFFFFF  <>
+  68 41 -3.643500 1.012800 6.285200 900 21 1 0 FFFFFF  <>
+  69 43 -5.822700 0.366000 3.336900 900 21 1 0 FFFFFF  <>
+  70 41 2.604400 -0.935700 -3.984000 900 21 1 0 FFFFFF  <>
+  71 41 3.541300 -0.299900 -2.650600 900 21 1 0 FFFFFF  <>
+  72 41 1.160500 -2.933900 -3.917800 900 21 1 0 FFFFFF  <>
+  73 41 -6.699900 3.204900 0.233900 900 21 1 0 FFFFFF  <>
+  74 41 -5.763900 2.001900 -0.633900 900 21 1 0 FFFFFF  <>
+  75 41 -1.821600 -2.183500 -3.668700 900 21 1 0 FFFFFF  <>
+  76 41 -6.850000 0.229600 -1.853700 900 21 1 0 FFFFFF  <>
+  77 41 -9.137500 2.742700 0.781200 900 21 1 0 FFFFFF  <>
+  78 41 -8.943900 -0.710700 -2.766500 900 21 1 0 FFFFFF  <>
+  79 41 -11.227000 1.795700 -0.138000 900 21 1 0 FFFFFF  <>
+  80 41 -11.124400 0.074000 -1.907900 900 21 1 0 FFFFFF  <>
+  81 41 -0.926200 -6.083900 -6.288900 900 21 1 0 FFFFFF  <>
+  82 41 -0.531000 -4.847900 -7.480400 900 21 1 0 FFFFFF  <>
+  83 41 1.143200 -6.709100 -7.553700 900 21 1 0 FFFFFF  <>
+  84 41 1.526500 -6.453200 -5.853400 900 21 1 0 FFFFFF  <>
+  85 41 1.925200 -5.214700 -7.044600 900 21 1 0 FFFFFF  <>
+  :::
+ } 
+ m_bond[85] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  :::
+  1 1 24 2
+  2 2 27 2
+  3 3 30 2
+  4 4 32 1
+  5 5 32 2
+  6 6 36 1
+  7 6 39 1
+  8 7 34 1
+  9 8 34 2
+  10 9 35 2
+  11 10 36 2
+  12 11 37 1
+  13 12 37 2
+  14 13 44 1
+  15 13 48 1
+  16 14 44 2
+  17 15 20 1
+  18 15 24 1
+  19 15 53 1
+  20 16 22 1
+  21 16 30 1
+  22 16 62 1
+  23 17 18 1
+  24 17 27 1
+  25 17 66 1
+  26 18 33 1
+  27 18 35 1
+  28 19 29 1
+  29 19 36 1
+  30 19 69 1
+  31 20 21 1
+  32 20 27 1
+  33 20 50 1
+  34 21 25 1
+  35 21 26 1
+  36 21 51 1
+  37 22 23 1
+  38 22 24 1
+  39 22 52 1
+  40 23 28 1
+  41 23 54 1
+  42 23 55 1
+  43 25 56 1
+  44 25 57 1
+  45 25 58 1
+  46 26 59 1
+  47 26 60 1
+  48 26 61 1
+  49 28 32 1
+  50 28 63 1
+  51 28 64 1
+  52 29 30 1
+  53 29 31 1
+  54 29 65 1
+  55 31 34 1
+  56 31 67 1
+  57 31 68 1
+  58 33 37 1
+  59 33 70 1
+  60 33 71 1
+  61 35 38 1
+  62 38 41 2
+  63 38 72 1
+  64 39 40 1
+  65 39 73 1
+  66 39 74 1
+  67 40 42 2
+  68 40 43 1
+  69 41 44 1
+  70 41 75 1
+  71 42 45 1
+  72 42 76 1
+  73 43 46 2
+  74 43 77 1
+  75 45 47 2
+  76 45 78 1
+  77 46 47 1
+  78 46 79 1
+  79 47 80 1
+  80 48 49 1
+  81 48 81 1
+  82 48 82 1
+  83 49 83 1
+  84 49 84 1
+  85 49 85 1
+  :::
+ } 
+} 
+

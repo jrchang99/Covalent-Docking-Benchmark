@@ -1,0 +1,243 @@
+Structure117
+                    3D
+ Schrodinger Suite 2021-3.
+ 45 48  0  0  1  0            999 V2000
+   -1.1456   -1.2991   -0.5379 C   0  0  0  0  0  0
+   -2.4316   -0.8352   -0.9272 C   0  0  0  0  0  0
+   -2.1191   -2.8662   -1.8374 C   0  0  0  0  0  0
+    2.9145    2.0387    1.7544 C   0  0  0  0  0  0
+    2.9624    0.3269    3.4714 C   0  0  0  0  0  0
+    4.0943   -1.2256    6.6291 C   0  0  0  0  0  0
+    4.2851   -2.3296    7.3757 C   0  0  0  0  0  0
+   -2.2216    4.7269    1.0333 C   0  0  0  0  0  0
+   -1.1969    6.7713    2.1327 C   0  0  0  0  0  0
+   -2.1761    1.1071    0.2132 C   0  0  0  0  0  0
+   -0.9311    0.7807    0.6585 N   0  0  0  0  0  0
+   -0.4172   -0.4218    0.2781 C   0  0  0  0  0  0
+   -2.9735    0.3388   -0.5800 N   0  0  0  0  0  0
+   -2.9958   -1.8123   -1.7183 N   0  0  0  0  0  0
+   -0.9645   -2.5942   -1.1248 C   0  0  0  0  0  0
+    0.8404   -0.8241    0.6911 O   0  0  0  0  0  0
+    1.6598   -0.0088    1.4429 C   0  0  0  0  0  0
+    2.0832    1.2394    0.9726 C   0  0  0  0  0  0
+    3.3470    1.5859    3.0000 C   0  0  0  0  0  0
+    2.1064   -0.4645    2.6853 C   0  0  0  0  0  0
+    3.4577   -0.0432    4.7360 N   0  0  0  0  0  0
+    3.5251   -1.2684    5.3008 C   0  0  0  0  0  0
+    3.1592   -2.3166    4.7643 O   0  0  0  0  0  0
+   -2.7225    2.3517    0.5657 N   0  0  0  0  0  0
+   -2.1091    3.3659    1.2641 C   0  0  0  0  0  0
+   -1.4375    5.3488    1.9690 N   0  0  0  0  0  0
+   -0.8336    4.4824    2.7880 N   0  0  0  0  0  0
+   -1.2439    3.3053    2.3732 C   0  0  0  0  0  0
+    4.3737   -0.2570    7.0221 H   0  0  0  0  0  0
+    4.0233   -3.3190    7.0262 H   0  0  0  0  0  0
+    4.7143   -2.2542    8.3640 H   0  0  0  0  0  0
+   -2.3960   -3.7287   -2.4262 H   0  0  0  0  0  0
+    3.2257    3.0078    1.3936 H   0  0  0  0  0  0
+   -2.7713    5.2949    0.2972 H   0  0  0  0  0  0
+   -1.8133    7.3372    1.4331 H   0  0  0  0  0  0
+   -0.1455    6.9862    1.9375 H   0  0  0  0  0  0
+   -1.4473    7.0701    3.1513 H   0  0  0  0  0  0
+   -3.9033   -1.8010   -2.1609 H   0  0  0  0  0  0
+   -0.1073   -3.2463   -1.0427 H   0  0  0  0  0  0
+    1.7561    1.5938    0.0061 H   0  0  0  0  0  0
+    3.9942    2.2184    3.5911 H   0  0  0  0  0  0
+    1.7602   -1.4293    3.0205 H   0  0  0  0  0  0
+    3.8657    0.7151    5.2627 H   0  0  0  0  0  0
+   -3.6266    2.5095    0.1453 H   0  0  0  0  0  0
+   -0.9137    2.4013    2.8638 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 12  2  0  0  0
+  1 15  1  0  0  0
+  2 13  2  0  0  0
+  2 14  1  0  0  0
+  3 14  1  0  0  0
+  3 15  2  0  0  0
+  3 32  1  0  0  0
+  4 18  2  0  0  0
+  4 19  1  0  0  0
+  4 33  1  0  0  0
+  5 19  2  0  0  0
+  5 20  1  0  0  0
+  5 21  1  0  0  0
+  6  7  2  0  0  0
+  6 22  1  0  0  0
+  6 29  1  0  0  0
+  7 30  1  0  0  0
+  7 31  1  0  0  0
+  8 25  2  0  0  0
+  8 26  1  0  0  0
+  8 34  1  0  0  0
+  9 26  1  0  0  0
+  9 35  1  0  0  0
+  9 36  1  0  0  0
+  9 37  1  0  0  0
+ 10 11  2  0  0  0
+ 10 13  1  0  0  0
+ 10 24  1  0  0  0
+ 11 12  1  0  0  0
+ 12 16  1  0  0  0
+ 14 38  1  0  0  0
+ 15 39  1  0  0  0
+ 16 17  1  0  0  0
+ 17 18  1  0  0  0
+ 17 20  2  0  0  0
+ 18 40  1  0  0  0
+ 19 41  1  0  0  0
+ 20 42  1  0  0  0
+ 21 22  1  0  0  0
+ 21 43  1  0  0  0
+ 22 23  2  0  0  0
+ 24 25  1  0  0  0
+ 24 44  1  0  0  0
+ 25 28  1  0  0  0
+ 26 27  1  0  0  0
+ 27 28  2  0  0  0
+ 28 45  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+118
+
+> <s_m_entry_name>
+Structure117
+
+> <s_pdb_PDB_TITLE>
+EGFR (L858R, T790M, V948R) IN COMPLEX WITH N-[3-({2-[(1-METHYL-1H- PYRAZOL-4-YL)AMINO]-7H-PYRROLO[2,3-D]PYRIMIDIN-4-YL}OXY)PHENYL]PROP- 2-ENAMIDE
+
+> <s_pdb_PDB_ID>
+5HG8
+
+> <r_pdb_PDB_CRYST1_a>
+39.932
+
+> <r_pdb_PDB_CRYST1_b>
+69.73
+
+> <r_pdb_PDB_CRYST1_c>
+110.61
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE/TRANSFERASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+08-JAN-16
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.208
+
+> <r_pdb_PDB_Rfree>
+0.213
+
+> <r_pdb_PDB_RESOLUTION>
+1.42
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+98
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+C:\Users\Chang\Documents\Schrodinger
+
+> <s_m_Source_File>
+5hg8.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5hg8_ligprep_33.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W2NIXTFubihbQ0gzXSlbY0hdYzFbTkhdYyhuYyhjMjMpW25IXVtjSF1bY0hdMyluYzJPYyhbY0hdNClbY0hdW2NIXVtjSF1jNFtOSF1DKD1PKVtDSF09W0NIMl0=
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0099
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0099
+
+> <r_epik_State_Penalty>
+  0.0061
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.00609910601581937
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+35.191211
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure117-1
+
+> <s_m_job_name>
+5hg8_ligprep_33
+
+> <s_m_subgroup_title>
+5hg8_ligprep_33-out1
+
+> <s_m_subgroupid>
+5hg8_ligprep_33-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

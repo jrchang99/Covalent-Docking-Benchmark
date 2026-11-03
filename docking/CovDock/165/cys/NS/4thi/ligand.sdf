@@ -1,0 +1,189 @@
+Structure102
+                    3D
+ Schrodinger Suite 2021-3.
+ 18 18  0  0  1  0            999 V2000
+   -0.6165    1.1950    0.0000 N   0  0  0  0  0  0
+   -0.0142   -0.0193   -0.0000 C   0  0  0  0  0  0
+    1.5028   -0.0256   -0.0000 C   0  0  0  0  0  0
+   -0.6401   -1.2223   -0.0000 N   0  0  0  0  0  0
+   -1.9973   -1.1955   -0.0000 C   0  0  0  0  0  0
+   -2.6326   -2.4380   -0.0000 N   0  0  0  0  0  0
+   -2.7291    0.0083   -0.0000 C   0  0  0  0  0  0
+   -1.9759    1.2003    0.0000 C   0  0  0  0  0  0
+   -4.2575    0.0025    0.0000 C   0  0  0  0  0  0
+   -2.7355    2.7546    0.0000 Cl  0  0  0  0  0  0
+    1.9101   -1.0379   -0.0000 H   0  0  0  0  0  0
+    1.8829    0.4920    0.8815 H   0  0  0  0  0  0
+    1.8829    0.4920   -0.8815 H   0  0  0  0  0  0
+   -3.6412   -2.4818   -0.0000 H   0  0  0  0  0  0
+   -2.0725   -3.2782   -0.0000 H   0  0  0  0  0  0
+   -4.7041    0.9956    0.0000 H   0  0  0  0  0  0
+   -4.6277   -0.5282    0.8777 H   0  0  0  0  0  0
+   -4.6277   -0.5282   -0.8777 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  1  8  1  0  0  0
+  2  3  1  0  0  0
+  2  4  1  0  0  0
+  3 11  1  0  0  0
+  3 12  1  0  0  0
+  3 13  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  6 14  1  0  0  0
+  6 15  1  0  0  0
+  7  8  2  0  0  0
+  7  9  1  0  0  0
+  8 10  1  0  0  0
+  9 16  1  0  0  0
+  9 17  1  0  0  0
+  9 18  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+103
+
+> <s_m_entry_name>
+Structure102
+
+> <s_pdb_PDB_TITLE>
+THIAMINASE I FROM BACILLUS THIAMINOLYTICUS WITH COVALENTLY BOUND 4- AMINO-2,5-DIMETHYLPYRIMIDINE
+
+> <s_pdb_PDB_ID>
+4THI
+
+> <r_pdb_PDB_CRYST1_a>
+86.7
+
+> <r_pdb_PDB_CRYST1_b>
+119.3
+
+> <r_pdb_PDB_CRYST1_c>
+37.3
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 2
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+05-OCT-98
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.211
+
+> <r_pdb_PDB_Rfree>
+0.258
+
+> <r_pdb_PDB_RESOLUTION>
+2
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+4.6
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\cys\NS\4thi
+
+> <s_m_Source_File>
+4thi.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4thi_ligprep_19.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W0NIM11jMW5jKENsKWMoW0NIM10pYyhuMSlbTkgyXQ==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0001
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0001
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+8.339746
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure102-1
+
+> <s_m_job_name>
+4thi_ligprep_19
+
+> <s_m_subgroup_title>
+4thi_ligprep_19-out1
+
+> <s_m_subgroupid>
+4thi_ligprep_19-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

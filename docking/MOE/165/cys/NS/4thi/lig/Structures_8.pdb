@@ -1,0 +1,54 @@
+REMARK  99                                                                      
+REMARK  99 MOE v2024.06 (Chemical Computing Group ULC) Fri Jun 12 14:16:14 2026 
+REMARK  99                                                                      
+HETATM    1  C     * A   0      14.049  26.478   9.469  1.00  0.00           C  
+HETATM    2  C     * A   0      15.339  26.283   8.664  1.00  0.00           C  
+HETATM    3  S     * A   0      15.363  27.483   7.243  1.00  0.00           S  
+HETATM    4  N     * A   0      16.882  26.896   5.150  1.00  0.00           N  
+HETATM    5  C     * A   0      17.422  26.029   4.319  1.00  0.00           C  
+HETATM    6  C     * A   0      18.585  26.524   3.481  1.00  0.00           C  
+HETATM    7  N     * A   0      17.082  24.769   4.157  1.00  0.00           N  
+HETATM    8  C     * A   0      16.044  24.344   4.854  1.00  0.00           C  
+HETATM    9  N     * A   0      15.778  23.012   4.721  1.00  0.00           N  
+HETATM   10  C     * A   0      15.319  25.211   5.675  1.00  0.00           C  
+HETATM   11  C     * A   0      15.887  26.440   5.877  1.00  0.00           C  
+HETATM   12  C     * A   0      13.945  24.896   6.258  1.00  0.00           C  
+HETATM   13  H1    * A   0      14.031  25.776  10.303  1.00  0.00           H  
+HETATM   14  H2    * A   0      13.188  26.300   8.825  1.00  0.00           H  
+HETATM   15  H3    * A   0      14.011  27.498   9.852  1.00  0.00           H  
+HETATM   16  H1    * A   0      15.377  25.263   8.280  1.00  0.00           H  
+HETATM   17  H2    * A   0      16.200  26.462   9.307  1.00  0.00           H  
+HETATM   18  H1    * A   0      18.355  27.486   3.060  1.00  0.00           H  
+HETATM   19  H2    * A   0      18.796  25.841   2.678  1.00  0.00           H  
+HETATM   20  H3    * A   0      19.461  26.612   4.099  1.00  0.00           H  
+HETATM   21  H1    * A   0      16.216  22.502   3.950  1.00  0.00           H  
+HETATM   22  H2    * A   0      14.849  22.662   4.979  1.00  0.00           H  
+HETATM   23  H1    * A   0      13.565  25.617   6.944  1.00  0.00           H  
+HETATM   24  H2    * A   0      13.236  24.924   5.454  1.00  0.00           H  
+HETATM   25  H3    * A   0      13.940  23.946   6.744  1.00  0.00           H  
+CONECT    1   13   14   15    2
+CONECT    2    1   16   17    3
+CONECT    3    2   11
+CONECT    4    5   11   11
+CONECT    5    4    6    7    7
+CONECT    6    5   18   19   20
+CONECT    7    5    5    8
+CONECT    8    7    9   10   10
+CONECT    9    8   21   22
+CONECT   10    8    8   11   12
+CONECT   11    3    4    4   10
+CONECT   12   10   23   24   25
+CONECT   13    1
+CONECT   14    1
+CONECT   15    1
+CONECT   16    2
+CONECT   17    2
+CONECT   18    6
+CONECT   19    6
+CONECT   20    6
+CONECT   21    9
+CONECT   22    9
+CONECT   23   12
+CONECT   24   12
+CONECT   25   12
+END

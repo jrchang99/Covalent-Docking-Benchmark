@@ -1,0 +1,197 @@
+5E93
+                    3D
+ Schrodinger Suite 2021-3.
+ 24 25  0  0  1  0            999 V2000
+    5.8115   -2.2050    0.0000 C   0  0  0  0  0  0
+    4.3575   -2.4783    0.0000 C   0  0  0  0  0  0
+    3.9095   -3.9001    0.0000 C   0  0  0  0  0  0
+    4.8384   -4.8520    0.0000 N   0  5  0  0  0  0
+    6.5784   -3.3266    0.0000 N   0  0  0  0  0  0
+   -1.1026   -0.8750    0.0000 C   0  0  0  0  0  0
+   -2.2795   -0.1257   -0.0000 C   0  0  0  0  0  0
+   -1.8890    1.2002   -0.0000 C   0  0  0  0  0  0
+   -0.5343    1.2864   -0.0000 O   0  0  0  0  0  0
+   -0.0367    0.0196   -0.0000 C   0  0  0  0  0  0
+    1.4020   -0.1486    0.0000 C   0  0  0  0  0  0
+    2.0662   -1.3187    0.0000 C   0  0  0  0  0  0
+    3.5249   -1.3918    0.0000 C   0  0  0  0  0  0
+    6.3495   -1.0961    0.0000 O   0  0  0  0  0  0
+    6.1461   -4.6175    0.0000 C   0  0  0  0  0  0
+    7.0460   -5.4539    0.0000 O   0  0  0  0  0  0
+    2.7079   -4.1580    0.0000 O   0  0  0  0  0  0
+    7.5777   -3.1896    0.0000 H   0  0  0  0  0  0
+   -1.0326   -1.9529    0.0000 H   0  0  0  0  0  0
+   -3.2912   -0.5038   -0.0000 H   0  0  0  0  0  0
+   -2.4293    2.1354   -0.0000 H   0  0  0  0  0  0
+    1.9541    0.7809    0.0000 H   0  0  0  0  0  0
+    1.4627   -2.2102   -0.0000 H   0  0  0  0  0  0
+    3.9906   -0.4143   -0.0000 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1  5  1  0  0  0
+  1 14  2  0  0  0
+  2  3  1  0  0  0
+  2 13  2  0  0  0
+  3  4  1  0  0  0
+  3 17  2  0  0  0
+  4 15  1  0  0  0
+  5 15  1  0  0  0
+  5 18  1  0  0  0
+  6  7  1  0  0  0
+  6 10  2  0  0  0
+  6 19  1  0  0  0
+  7  8  2  0  0  0
+  7 20  1  0  0  0
+  8  9  1  0  0  0
+  8 21  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  2  0  0  0
+ 11 22  1  0  0  0
+ 12 13  1  0  0  0
+ 12 23  1  0  0  0
+ 13 24  1  0  0  0
+ 15 16  2  0  0  0
+M  CHG  1   4  -1
+M  END
+> <s_m_entry_id>
+74
+
+> <s_m_entry_name>
+5E93.1
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF TRYPANOSOMA CRUZI DIHYDROOROTATE DEHYDROGENASE IN COMPLEX WITH NEQ0071
+
+> <s_pdb_PDB_ID>
+5E93
+
+> <r_pdb_PDB_CRYST1_a>
+68.325
+
+> <r_pdb_PDB_CRYST1_b>
+71.789
+
+> <r_pdb_PDB_CRYST1_c>
+124.343
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 21
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+OXIDOREDUCTASE/OXIDOREDUCTASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+14-OCT-15
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.145
+
+> <r_pdb_PDB_Rfree>
+0.168
+
+> <r_pdb_PDB_RESOLUTION>
+1.41
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A, B
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+D:\work\244Set\MA54\covdock\5e93
+
+> <s_m_Source_File>
+5E93.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+5e93_ligprep_25.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W05IXTFDKD1PKVtOSF1DKD1PKUMoQzE9Tyk9W0NIXVxbQ0hdPVtDSF1cYzJbY0hdW2NIXVtjSF1vMg==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_epik_Ionization_Penalty>
+  0.1196
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.1196
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0000
+
+> <r_epik_State_Penalty>
+  0.1092
+
+> <r_epik_Charging_Adjusted_Penalty>
+0.228770286548298
+
+> <i_epik_Tot_Q>
+-1
+
+> <i_epik_Tot_abs_Q>
+1
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+24.629144
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+5E93-1
+
+> <s_m_job_name>
+5e93_ligprep_25
+
+> <s_m_subgroup_title>
+5e93_ligprep_25-out1
+
+> <s_m_subgroupid>
+5e93_ligprep_25-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

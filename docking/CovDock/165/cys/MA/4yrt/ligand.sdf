@@ -1,0 +1,211 @@
+Structure264
+                    3D
+ Schrodinger Suite 2021-3.
+ 27 28  0  0  1  0            999 V2000
+   -0.5857    2.2804    0.4716 O   0  0  0  0  0  0
+   -0.8563    1.1306    0.1196 C   0  0  0  0  0  0
+   -2.2132    0.6750   -0.0851 C   0  0  0  0  0  0
+   -3.2838    1.4742    0.0817 C   0  0  0  0  0  0
+    0.0463    0.1542   -0.1209 N   0  0  0  0  0  0
+    1.4532    0.1786   -0.0451 C   0  0  0  0  0  0
+    2.2208    1.2931    0.3247 C   0  0  0  0  0  0
+    3.6360    1.2175    0.3645 C   0  0  0  0  0  0
+    4.4216    2.3367    0.7356 C   0  0  0  0  0  0
+    5.8090    2.2455    0.7654 C   0  0  0  0  0  0
+    6.4457    1.0561    0.4319 C   0  0  0  0  0  0
+    5.7108   -0.0689    0.0626 C   0  0  0  0  0  0
+    6.3869   -1.2191   -0.2592 O   0  0  0  0  0  0
+    4.2863   -0.0090    0.0231 C   0  0  0  0  0  0
+    3.4822   -1.1199   -0.3432 C   0  0  0  0  0  0
+    2.0953   -1.0145   -0.3718 C   0  0  0  0  0  0
+   -2.3545   -0.3549   -0.3852 H   0  0  0  0  0  0
+   -3.1942    2.5100    0.3796 H   0  0  0  0  0  0
+   -4.2810    1.0931   -0.0814 H   0  0  0  0  0  0
+   -0.3340   -0.7370   -0.4030 H   0  0  0  0  0  0
+    1.7710    2.2366    0.5877 H   0  0  0  0  0  0
+    3.9364    3.2666    0.9961 H   0  0  0  0  0  0
+    6.3966    3.1062    1.0493 H   0  0  0  0  0  0
+    7.5248    1.0109    0.4618 H   0  0  0  0  0  0
+    7.3397   -1.1200   -0.1994 H   0  0  0  0  0  0
+    3.9500   -2.0582   -0.6042 H   0  0  0  0  0  0
+    1.5176   -1.8829   -0.6562 H   0  0  0  0  0  0
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  2  5  1  0  0  0
+  3  4  2  0  0  0
+  3 17  1  0  0  0
+  4 18  1  0  0  0
+  4 19  1  0  0  0
+  5  6  1  0  0  0
+  5 20  1  0  0  0
+  6  7  1  0  0  0
+  6 16  2  0  0  0
+  7  8  2  0  0  0
+  7 21  1  0  0  0
+  8  9  1  0  0  0
+  8 14  1  0  0  0
+  9 10  2  0  0  0
+  9 22  1  0  0  0
+ 10 11  1  0  0  0
+ 10 23  1  0  0  0
+ 11 12  2  0  0  0
+ 11 24  1  0  0  0
+ 12 13  1  0  0  0
+ 12 14  1  0  0  0
+ 13 25  1  0  0  0
+ 14 15  2  0  0  0
+ 15 16  1  0  0  0
+ 15 26  1  0  0  0
+ 16 27  1  0  0  0
+M  END
+> <i_m_stars>
+0
+
+> <s_m_entry_id>
+265
+
+> <s_m_entry_name>
+Structure264
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF T. CRUZI HISTIDYL-TRNA SYNTHETASE IN COMPLEX WITH N-(5-HYDROXYNAPHTHALEN-2-YL)PROPANAMIDE (CHEM 1781)
+
+> <s_pdb_PDB_ID>
+4YRT
+
+> <r_pdb_PDB_CRYST1_a>
+65.432
+
+> <r_pdb_PDB_CRYST1_b>
+119.34
+
+> <r_pdb_PDB_CRYST1_c>
+66.302
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+93.39
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+I 1 2 1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <s_pdb_PDB_CLASSIFICATION>
+LIGASE/LIGASE INHIBITOR
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+15-MAR-15
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.185
+
+> <r_pdb_PDB_Rfree>
+0.226
+
+> <r_pdb_PDB_RESOLUTION>
+2.05
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+4.8
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_2>
+-1.000000 0.000000 0.000000   126.943420;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 -1.000000   66.185980
+
+> <s_m_Source_Path>
+C:\Users\Chang\Documents\Schrodinger
+
+> <s_m_Source_File>
+4yrt.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_m_source_file>
+4yrt_ligprep_41.maegz
+
+> <i_m_source_file_index>
+1
+
+> <i_lp_mmshare_version>
+55137
+
+> <s_epik_input>
+W0NIMl09W0NIXUMoPU8pW05IXWMoW2NIXTEpW2NIXVtjSF1jKGMxMiljKFtPSF0pW2NIXVtjSF1bY0hdMg==
+
+> <s_epik_cmdline>
+J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
+
+> <r_lp_tautomer_probability>
+1
+
+> <r_epik_Ionization_Penalty>
+  0.0073
+
+> <r_epik_Ionization_Penalty_Charging>
+  0.0000
+
+> <r_epik_Ionization_Penalty_Neutral>
+  0.0073
+
+> <r_epik_State_Penalty>
+  0.0000
+
+> <r_epik_Charging_Adjusted_Penalty>
+0
+
+> <i_epik_Tot_Q>
+0
+
+> <i_epik_Tot_abs_Q>
+0
+
+> <i_f3d_flags>
+0
+
+> <s_lp_Force_Field>
+S-OPLS
+
+> <r_lp_Energy>
+26.163708
+
+> <b_lp_Chiralities_Consistent>
+1
+
+> <s_lp_Variant>
+Structure264-1
+
+> <s_m_job_name>
+4yrt_ligprep_41
+
+> <s_m_subgroup_title>
+4yrt_ligprep_41-out1
+
+> <s_m_subgroupid>
+4yrt_ligprep_41-out1
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

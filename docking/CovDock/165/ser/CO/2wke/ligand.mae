@@ -1,0 +1,284 @@
+{ 
+ s_m_m2io_version
+ :::
+ 2.0.0 
+} 
+
+f_m_ct { 
+ s_m_title
+ i_m_ct_stereo_status
+ i_m_ct_enhanced_stereo_status
+ s_st_Chirality_1
+ s_st_Chirality_2
+ s_st_Chirality_3
+ s_m_entry_id
+ s_m_entry_name
+ s_m_Source_Path
+ s_m_Source_File
+ i_m_Source_File_Index
+ i_sd_PUBCHEM\_COMPOUND\_CID
+ r_sd_PUBCHEM\_CONFORMER\_RMSD
+ s_sd_PUBCHEM\_CONFORMER\_DIVERSEORDER
+ s_sd_PUBCHEM\_MMFF94\_PARTIAL\_CHARGES
+ r_sd_PUBCHEM\_EFFECTIVE\_ROTOR\_COUNT
+ s_sd_PUBCHEM\_PHARMACOPHORE\_FEATURES
+ i_sd_PUBCHEM\_HEAVY\_ATOM\_COUNT
+ i_sd_PUBCHEM\_ATOM\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ATOM\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_DEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_BOND\_UDEF\_STEREO\_COUNT
+ i_sd_PUBCHEM\_ISOTOPIC\_ATOM\_COUNT
+ i_sd_PUBCHEM\_COMPONENT\_COUNT
+ i_sd_PUBCHEM\_CACTVS\_TAUTO\_COUNT
+ s_sd_PUBCHEM\_CONFORMER\_ID
+ r_sd_PUBCHEM\_MMFF94\_ENERGY
+ r_sd_PUBCHEM\_FEATURE\_SELFOVERLAP
+ s_sd_PUBCHEM\_SHAPE\_FINGERPRINT
+ s_sd_PUBCHEM\_SHAPE\_MULTIPOLES
+ r_sd_PUBCHEM\_SHAPE\_SELFOVERLAP
+ r_sd_PUBCHEM\_SHAPE\_VOLUME
+ s_sd_PUBCHEM\_COORDINATE\_TYPE
+ b_sd_chiral_flag
+ i_sd_version
+ s_m_source_file
+ i_m_source_file_index
+ i_lp_mmshare_version
+ s_epik_input
+ s_epik_cmdline
+ r_epik_Ionization_Penalty
+ r_epik_Ionization_Penalty_Charging
+ r_epik_Ionization_Penalty_Neutral
+ r_epik_State_Penalty
+ r_epik_Charging_Adjusted_Penalty
+ i_epik_Tot_Q
+ i_epik_Tot_abs_Q
+ i_f3d_flags
+ s_lp_Force_Field
+ r_lp_Energy
+ b_lp_Chiralities_Consistent
+ s_lp_Variant
+ s_m_job_name
+ r_lp_tautomer_probability
+ s_epik_Chemistry_Notes
+ s_m_subgroup_title
+ s_m_subgroupid
+ b_m_subgroup_collapsed
+ i_m_ct_format
+ :::
+ 121940 
+  1
+  2
+  7_R_2_6_10_15 
+  9_S_6_8_14_16 
+  10_R_1_7_11_17 
+  99 
+  ligand.1 
+  D:\work\244Set\Autodock\ser\CO\2wke 
+  ligand.sdf 
+  1
+  121940
+  0.6
+  "2
+1" 
+  "13
+1 -0.19
+10 0.24
+11 0.58
+14 0.66
+2 -0.45
+24 0.5
+3 -0.57
+4 -0.65
+5 -0.57
+6 -0.59
+7 0.44
+8 0.23
+9 0.36" 
+  1.8
+  "7
+1 1 hydrophobe
+1 3 acceptor
+1 4 acceptor
+1 5 acceptor
+3 4 5 14 anion
+3 8 12 13 hydrophobe
+7 2 6 7 8 9 10 11 rings" 
+  14
+  3
+  0
+  0
+  0
+  0
+  1
+  1
+  0001DC5400000002 
+  40.7998
+  35.577
+  "11132069 177 18409451427119866960
+11206711 2 18410849992803813708
+12138202 97 18191009136699059324
+12423570 1 10967351019478278677
+12524768 44 18126840491456527536
+13299463 15 18412543223651999660
+13380535 21 18270976630504185664
+13380535 239 18411144614828209948
+14614273 12 18335135384516324932
+15490181 7 17759516677778409601
+15852999 172 17835760202724892024
+16945 1 18271245035647559843
+20082192 1 18190733150875390104
+20201158 50 18339909502664212399
+20525323 117 18411984654491230816
+21501502 16 18341614755009770082
+22721475 48 18412543240631389315
+22802520 49 18058741186918833548
+2334 1 18340482270759839642
+23419403 2 14466756815819119570
+23552423 10 18264768753510153498
+23559900 14 17838607869881854818
+241688 4 18196361529401851729
+2748010 2 18270955731072231334
+353137 74 18187929529447512716
+5084963 1 17481685482349294481
+81228 2 18408319965293335305" 
+  "281.31
+4.66
+2.36
+1.18
+3.31
+0.01
+-0.03
+0.13
+-1.13
+-0.74
+-0.24
+-0.08
+0.3
+0.03" 
+  549.673
+  175.7
+  "2
+5
+10" 
+  1
+  0
+  2wkeligprep_9.maegz 
+  1
+  55137
+  Tz1DMVtDQEBIXShJKVtDQEhdKE4xMilTQyhbQ0gzXSkoW0NIM10pW0NAQEhdMkMoPU8pW09IXQ== 
+  J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic= 
+    0.0000 
+    0.0000 
+    0.0000 
+    0.0000 
+  2.50001905783566e-05
+  -1
+  1
+  0
+  S-OPLS 
+  10.047466
+  1
+  121940-1 
+  2wkeligprep_9 
+  1
+  "This compound contains an acetal/aminal-like group ( X-CH(R)-Y where X, Y are N, S, or O) that may be acid/base labile, releasing an aldehyde." 
+  2wkeligprep_9-out1 
+  2wkeligprep_9-out1 
+  0
+  2
+ m_depend[8] { 
+  # First column is dependency index #
+  i_m_depend_dependency
+  s_m_depend_property
+  :::
+  1 10 r_epik_Ionization_Penalty 
+  2 10 r_epik_Ionization_Penalty_Charging 
+  3 10 r_epik_Ionization_Penalty_Neutral 
+  4 10 r_epik_State_Penalty 
+  5 10 r_epik_Charging_Adjusted_Penalty 
+  6 10 i_epik_Tot_Q 
+  7 30 s_m_job_name 
+  8 10 r_lp_tautomer_probability 
+  :::
+ } 
+ m_atom[23] { 
+  # First column is atom index #
+  i_m_mmod_type
+  r_m_x_coord
+  r_m_y_coord
+  r_m_z_coord
+  i_m_residue_number
+  i_m_color
+  r_m_charge1
+  r_m_charge2
+  i_m_atomic_number
+  i_m_formal_charge
+  i_m_representation
+  s_m_color_rgb
+  s_m_atom_name
+  r_epik_H2O_pKa
+  r_epik_H2O_pKa_uncertainty
+  b_st_NoSrcChirality
+  b_st_SpecifiedChirality
+  :::
+  1 59 -4.000916 1.469624 1.177214 900 19 -0.14793 -0.14793 53 0 3 E11EE1  I1  <> <> <> <>
+  2 49 -0.607509 1.730298 -0.126096 900 13 -0.29592 -0.29592 16 0 3 E1E11E  S2  <> <> <> <>
+  3 15 -3.685643 -1.413546 -1.133861 900 70 -0.47198 -0.47198 8 0 3 FF2F2F  O3  <> <> <> <>
+  4 18 0.584530 0.334381 -3.236511 900 70 -0.73663 -0.73663 8 -1 3 FF2F2F  O4    2.625    0.700  <> <>
+  5 15 0.960574 -1.806385 -2.823612 900 70 -0.73663 -0.73663 8 0 3 FF2F2F  O5  <> <> <> <>
+  6 25 -1.807585 0.002306 -1.664630 900 43 -0.08309 -0.08309 7 0 3 5757FF  N6  <> <> <> <>
+  7 3 -1.947647 1.431435 -1.313853 900 2 0.00362 0.00362 6 0 3 A0A0A0  C7  <> <> 1 1
+  8 3 0.016965 0.015427 -0.065210 900 2 0.08607 0.08607 6 0 3 A0A0A0  C8  <> <> <> <>
+  9 3 -0.557196 -0.698681 -1.348475 900 2 -0.08270 -0.08270 6 0 3 A0A0A0  C9  <> <> 1 1
+  10 3 -3.413657 1.132021 -0.904897 900 2 -0.28888 -0.28888 6 0 3 A0A0A0  C10  <> <> 1 1
+  11 2 -3.085207 -0.344486 -1.225641 900 2 0.56798 0.56798 6 0 3 A0A0A0  C11  <> <> <> <>
+  12 3 1.557294 0.065895 0.094038 900 2 -0.15087 -0.15087 6 0 3 A0A0A0  C12  <> <> <> <>
+  13 3 -0.573646 -0.662475 1.194289 900 2 -0.15087 -0.15087 6 0 3 A0A0A0  C13  <> <> <> <>
+  14 2 0.399225 -0.715729 -2.575686 900 2 0.72287 0.72287 6 0 3 A0A0A0  C14  <> <> <> <>
+  15 41 -1.805574 2.089950 -2.172404 900 21 0.13230 0.13230 1 0 3 FFFFFF  H15  <> <> <> <>
+  16 41 -0.820814 -1.731780 -1.110518 900 21 0.08894 0.08894 1 0 3 FFFFFF  H16  <> <> <> <>
+  17 41 -4.174253 1.562113 -1.556947 900 21 0.13079 0.13079 1 0 3 FFFFFF  H17  <> <> <> <>
+  18 41 1.985673 -0.937028 0.097161 900 21 0.06882 0.06882 1 0 3 FFFFFF  H18  <> <> <> <>
+  19 41 1.850053 0.548363 1.027606 900 21 0.06882 0.06882 1 0 3 FFFFFF  H19  <> <> <> <>
+  20 41 2.035176 0.623799 -0.711888 900 21 0.06882 0.06882 1 0 3 FFFFFF  H20  <> <> <> <>
+  21 41 -0.238568 -1.696948 1.277302 900 21 0.06882 0.06882 1 0 3 FFFFFF  H21  <> <> <> <>
+  22 41 -1.662626 -0.678422 1.189778 900 21 0.06882 0.06882 1 0 3 FFFFFF  H22  <> <> <> <>
+  23 41 -0.269088 -0.148955 2.107294 900 21 0.06882 0.06882 1 0 3 FFFFFF  H23  <> <> <> <>
+  :::
+ } 
+ m_bond[24] { 
+  # First column is bond index #
+  i_m_from
+  i_m_to
+  i_m_order
+  i_m_from_rep
+  i_m_to_rep
+  :::
+  1 1 10 1 3 3
+  2 2 7 1 3 3
+  3 2 8 1 3 3
+  4 3 11 2 3 3
+  5 4 14 1 3 3
+  6 5 14 2 3 3
+  7 6 7 1 3 3
+  8 6 9 1 3 3
+  9 6 11 1 3 3
+  10 7 10 1 3 3
+  11 7 15 1 3 3
+  12 8 9 1 3 3
+  13 8 12 1 3 3
+  14 8 13 1 3 3
+  15 9 14 1 3 3
+  16 9 16 1 3 3
+  17 10 11 1 3 3
+  18 10 17 1 3 3
+  19 12 18 1 3 3
+  20 12 19 1 3 3
+  21 12 20 1 3 3
+  22 13 21 1 3 3
+  23 13 22 1 3 3
+  24 13 23 1 3 3
+  :::
+ } 
+} 
+

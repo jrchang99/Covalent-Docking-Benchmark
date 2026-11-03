@@ -1,0 +1,203 @@
+HEADER    HYDROLASE/HYDROLASE INHIBITOR           23-SEP-10   3OYP
+TITLE     HCV NS3/4A IN COMPLEX WITH LIGAND 3
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION.    2.76 ANGSTROMS
+REMARK   3  R VALUE : 0.215000
+REMARK   3  FREE R VALUE : 0.274000
+REMARK   4 3OYP COMPLIES WITH FORMAT V. 3.30,
+REMARK 200  TEMPERATURE           (KELVIN) : 100.00
+REMARK 200  PH                             : 5.20
+REMARK 350 BIOMOLECULE: 1
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: A, C, E
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 350 BIOMOLECULE: 2
+REMARK 350 APPLY THE FOLLOWING TO CHAINS: B, D, F
+REMARK 350   BIOMT1  1   1.000000 0.000000 0.000000   0.000000
+REMARK 350   BIOMT2  1   0.000000 1.000000 0.000000   0.000000
+REMARK 350   BIOMT3  1   0.000000 0.000000 1.000000   0.000000
+REMARK 888
+REMARK 888 WRITTEN BY MAESTRO (A PRODUCT OF SCHRODINGER, LLC)
+CRYST1   94.401   94.401   83.129  90.00  90.00 120.00 P 61         12
+HETATM    1  N   DAL E   2      12.096 -35.214 -11.221  1.00 35.16           N  
+HETATM    2  CA  DAL E   2      12.783 -35.099  -9.942  1.00 37.23           C  
+HETATM    3  CB  DAL E   2      13.156 -36.502  -9.436  1.00 34.89           C  
+HETATM    4  C   DAL E   2      11.768 -34.464  -8.968  1.00 38.92           C  
+HETATM    5  O   DAL E   2      10.616 -34.917  -8.942  1.00 40.83           O  
+HETATM    6  H   DAL E   2      11.465 -36.001 -11.313  1.00  0.00           H  
+HETATM    7  HA  DAL E   2      13.686 -34.506 -10.079  1.00  0.00           H  
+HETATM    8  HB1 DAL E   2      13.694 -36.445  -8.489  1.00  0.00           H  
+HETATM    9  HB2 DAL E   2      12.278 -37.127  -9.269  1.00  0.00           H  
+HETATM   10  HB3 DAL E   2      13.801 -37.020 -10.146  1.00  0.00           H  
+TER      11      DAL E   2
+HETATM   12  C1  PPI E   1      11.901 -34.171 -12.042  1.00 39.68           C  
+HETATM   13  C2  PPI E   1      10.790 -34.367 -12.946  1.00 38.96           C  
+HETATM   14  C3  PPI E   1       9.692 -35.015 -12.505  1.00 40.34           C  
+HETATM   15  O1  PPI E   1      12.536 -33.122 -11.964  1.00 42.48           O  
+HETATM   16  HC2 PPI E   1      10.898 -33.967 -13.948  1.00  0.00           H  
+HETATM   17 H3_1 PPI E   1       8.853 -35.169 -13.167  1.00  0.00           H  
+HETATM   18 H3_2 PPI E   1       9.652 -35.379 -11.489  1.00  0.00           H  
+HETATM   19  C1  0Y8 E   3      15.338 -30.818  -3.388  1.00 42.16           C  
+HETATM   20  N2  0Y8 E   3      14.794 -31.247  -4.541  1.00 41.46           N  
+HETATM   21  C3  0Y8 E   3      15.568 -31.652  -2.286  1.00 41.84           C  
+HETATM   22  C4  0Y8 E   3      14.411 -32.541  -4.625  1.00 40.97           C  
+HETATM   23  C5  0Y8 E   3      15.170 -32.991  -2.374  1.00 40.93           C  
+HETATM   24  C6  0Y8 E   3      14.583 -33.455  -3.570  1.00 40.61           C  
+HETATM   25  C7  0Y8 E   3      14.362 -35.681  -2.602  1.00 41.19           C  
+HETATM   26  C8  0Y8 E   3      14.175 -34.801  -3.683  1.00 40.77           C  
+HETATM   27  C9  0Y8 E   3      14.972 -35.224  -1.417  1.00 40.48           C  
+HETATM   28  C10 0Y8 E   3      15.383 -33.880  -1.303  1.00 41.61           C  
+HETATM   29 BR1  0Y8 E   3      13.786 -37.485  -2.744  0.60 45.58          Br  
+HETATM   30  O12 0Y8 E   3      13.882 -32.998  -5.820  1.00 40.28           O  
+HETATM   31  C13 0Y8 E   3      13.521 -32.069  -6.839  1.00 37.79           C  
+HETATM   32  C14 0Y8 E   3      12.081 -31.620  -6.638  1.00 38.51           C  
+HETATM   33  CA  0Y8 E   3      11.209 -32.688  -7.317  1.00 37.78           C  
+HETATM   34  N   0Y8 E   3      12.117 -33.380  -8.246  1.00 37.64           N  
+HETATM   35  C17 0Y8 E   3      13.476 -32.851  -8.142  1.00 38.42           C  
+HETATM   36  C   0Y8 E   3       9.911 -32.079  -7.949  1.00 36.15           C  
+HETATM   37  O   0Y8 E   3       9.725 -32.343  -9.328  1.00 34.13           O  
+HETATM   38  HC1 0Y8 E   3      15.606 -29.772  -3.345  1.00  0.00           H  
+HETATM   39  HC3 0Y8 E   3      15.986 -31.257  -1.374  1.00  0.00           H  
+HETATM   40  HC8 0Y8 E   3      13.705 -35.158  -4.586  1.00  0.00           H  
+HETATM   41  HC9 0Y8 E   3      15.110 -35.903  -0.589  1.00  0.00           H  
+HETATM   42 HC10 0Y8 E   3      15.817 -33.530  -0.379  1.00  0.00           H  
+HETATM   43 HC13 0Y8 E   3      14.218 -31.236  -6.934  1.00  0.00           H  
+HETATM   44 H141 0Y8 E   3      11.954 -30.644  -7.107  1.00  0.00           H  
+HETATM   45 H142 0Y8 E   3      11.838 -31.506  -5.583  1.00  0.00           H  
+HETATM   46  HA  0Y8 E   3      10.946 -33.428  -6.557  1.00  0.00           H  
+HETATM   47 H171 0Y8 E   3      14.246 -33.624  -8.138  1.00  0.00           H  
+HETATM   48 H172 0Y8 E   3      13.660 -32.192  -8.993  1.00  0.00           H  
+HETATM   49  HXT 0Y8 E   3      10.008 -30.995  -7.915  1.00  0.00           H  
+HETATM   50  HO  0Y8 E   3       9.881 -33.281  -9.421  1.00  0.00           H  
+HETATM   51  N   0Y9 E   4       8.739 -32.442  -7.154  1.00 32.93           N  
+HETATM   52  CA  0Y9 E   4       7.401 -32.466  -7.762  1.00 35.73           C  
+HETATM   53  C22 0Y9 E   4       6.993 -33.690  -8.575  1.00 37.06           C  
+HETATM   54  C23 0Y9 E   4       6.423 -33.483  -7.197  1.00 37.95           C  
+HETATM   55  C24 0Y9 E   4       6.079 -33.588  -9.744  1.00 37.49           C  
+HETATM   56  C25 0Y9 E   4       6.403 -33.860 -11.014  1.00 39.64           C  
+HETATM   57  C   0Y9 E   4       6.979 -31.098  -8.293  1.00 32.40           C  
+HETATM   58  O   0Y9 E   4       5.598 -30.897  -8.124  1.00 28.48           O  
+HETATM   59  HN  0Y9 E   4       8.891 -33.203  -6.486  1.00  0.00           H  
+HETATM   60 HC22 0Y9 E   4       7.744 -34.468  -8.695  1.00  0.00           H  
+HETATM   61 H231 0Y9 E   4       5.373 -33.213  -7.115  1.00  0.00           H  
+HETATM   62 H232 0Y9 E   4       6.763 -34.161  -6.420  1.00  0.00           H  
+HETATM   63 HC24 0Y9 E   4       5.075 -33.251  -9.525  1.00  0.00           H  
+HETATM   64 H251 0Y9 E   4       5.677 -33.755 -11.809  1.00  0.00           H  
+HETATM   65 H252 0Y9 E   4       7.395 -34.190 -11.267  1.00  0.00           H  
+HETATM   66  HXT 0Y9 E   4       7.278 -31.070  -9.332  1.00  0.00           H  
+HETATM   67  HO  0Y9 E   4       5.424 -31.271  -7.262  1.00  0.00           H  
+HETATM   68  N28 0YA E   5       7.607 -30.003  -7.587  1.00 33.28           N  
+HETATM   69  S29 0YA E   5       7.942 -28.533  -8.381  1.00 30.32           S  
+HETATM   70  O30 0YA E   5       9.126 -28.768  -9.232  1.00 31.09           O  
+HETATM   71  O31 0YA E   5       6.691 -28.106  -9.024  1.00 29.53           O  
+HETATM   72  C32 0YA E   5       8.334 -27.427  -6.951  1.00 30.03           C  
+HETATM   73  C33 0YA E   5       7.352 -27.592  -5.806  1.00 33.41           C  
+HETATM   74  C34 0YA E   5       7.308 -26.354  -6.657  1.00 31.30           C  
+HETATM   75 HN28 0YA E   5       8.411 -30.354  -7.056  1.00  0.00           H  
+HETATM   76 HC32 0YA E   5       9.394 -27.268  -6.774  1.00  0.00           H  
+HETATM   77 H331 0YA E   5       7.746 -27.502  -4.796  1.00  0.00           H  
+HETATM   78 H332 0YA E   5       6.518 -28.280  -5.921  1.00  0.00           H  
+HETATM   79 H341 0YA E   5       6.457 -26.233  -7.325  1.00  0.00           H  
+HETATM   80 H342 0YA E   5       7.647 -25.451  -6.164  1.00  0.00           H  
+CONECT    1    2    6   12
+CONECT    2    1    3    4    7
+CONECT    3    2    8    9   10
+CONECT    4    2    5   34
+CONECT    4    5
+CONECT    5    4
+CONECT    5    4
+CONECT    6    1
+CONECT    7    2
+CONECT    8    3
+CONECT    9    3
+CONECT   10    3
+CONECT   12    1   13   15
+CONECT   12   15
+CONECT   13   12   14   16
+CONECT   13   14
+CONECT   14   13   17   18
+CONECT   14   13
+CONECT   15   12
+CONECT   15   12
+CONECT   19   20   21   38
+CONECT   19   21
+CONECT   20   19   22
+CONECT   20   22
+CONECT   21   19   23   39
+CONECT   21   19
+CONECT   22   20   24   30
+CONECT   22   20
+CONECT   23   21   24   28
+CONECT   23   28
+CONECT   24   22   23   26
+CONECT   24   26
+CONECT   25   26   27   29
+CONECT   25   27
+CONECT   26   24   25   40
+CONECT   26   24
+CONECT   27   25   28   41
+CONECT   27   25
+CONECT   28   23   27   42
+CONECT   28   23
+CONECT   29   25
+CONECT   30   22   31
+CONECT   31   30   32   35   43
+CONECT   32   31   33   44   45
+CONECT   33   32   34   36   46
+CONECT   34    4   33   35
+CONECT   35   31   34   47   48
+CONECT   36   33   51   37   49
+CONECT   37   36   50
+CONECT   38   19
+CONECT   39   21
+CONECT   40   26
+CONECT   41   27
+CONECT   42   28
+CONECT   43   31
+CONECT   44   32
+CONECT   45   32
+CONECT   46   33
+CONECT   47   35
+CONECT   48   35
+CONECT   49   36
+CONECT   50   37
+CONECT   51   36   52   59
+CONECT   52   51   53   54   57
+CONECT   53   52   54   55   60
+CONECT   54   52   53   61   62
+CONECT   55   53   56   63
+CONECT   55   56
+CONECT   56   55   64   65
+CONECT   56   55
+CONECT   57   52   58   68   66
+CONECT   58   57   67
+CONECT   59   51
+CONECT   60   53
+CONECT   61   54
+CONECT   62   54
+CONECT   63   55
+CONECT   64   56
+CONECT   65   56
+CONECT   66   57
+CONECT   67   58
+CONECT   68   57   69   75
+CONECT   69   68   70   71   72
+CONECT   69   70   71
+CONECT   70   69
+CONECT   70   69
+CONECT   71   69
+CONECT   71   69
+CONECT   72   69   73   74   76
+CONECT   73   72   74   77   78
+CONECT   74   72   73   79   80
+CONECT   75   68
+CONECT   76   72
+CONECT   77   73
+CONECT   78   73
+CONECT   79   74
+CONECT   80   74
+CONECT   16   13
+CONECT   17   14
+CONECT   18   14
+END   
